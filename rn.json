@@ -1,0 +1,5 @@
+[
+  { "id": "rn-001", "scope": ["RN"], "name": { "generic": "Morphine Sulfate", "brand": [] }, "class": "Opioid Analgesic", "mechanism": "Binds opioid receptors for pain relief.", "indications": ["Severe pain"], "contraindications": ["Respiratory depression"], "adultDose": "2–4 mg IV", "pediatricDose": "0.1 mg/kg IV", "routes": ["IV"] },
+  { "id": "rn-002", "scope": ["RN"], "name": { "generic": "Furosemide", "brand": ["Lasix"] }, "class": "Loop diuretic", "mechanism": "Inhibits sodium and water reabsorption in the kidneys.", "indications": ["Edema","CHF","HTN"], "contraindications": ["Hypovolemia","Anuria"], "adultDose": "20–80 mg IV/PO", "pediatricDose": "1 mg/kg IV/PO", "routes": ["IV","PO"] },
+  { "id": "rn-003", "scope": ["RN"], "name": { "generic": "Insulin Regular", "brand": ["Humulin R"] }, "class": "Hormone", "mechanism": "Lowers blood glucose by facilitating cellular uptake of glucose.", "indications": ["Hyperglycemia","Diabetes management"], "contraindications": ["Hypoglycemia"], "adultDose": "0.1 U/kg IV", "pediatricDose": "0.1–0.2 U/kg IV", "routes": ["IV","SC"] }
+]
