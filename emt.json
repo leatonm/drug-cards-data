@@ -1,6 +1,5 @@
 
 [
- 
   { "id":"emt-asa-001","scope":["EMT"],"name":{"generic":"Acetylsalicylic Acid","brand":["Aspirin","ASA"]},"class":"NSAID","mechanism":"COX inhibition reduces pain, fever, inflammation.","indications":["Pain","Fever","Inflammation","Cardiac protection"],"contraindications":["NSAID allergy","Ulcer","Bleeding disorders","Renal failure"],"adultDose":"325–650 mg","pediatricDose":"Avoid (Reye’s risk)","routes":["PO","PR"] },
   { "id":"emt-o2-001","scope":["EMT"],"name":{"generic":"Oxygen","brand":["O2"]},"class":"Medical Gas","mechanism":"Increases oxygen concentration for respiration.","indications":["Hypoxia","Respiratory distress","Cardiac arrest"],"contraindications":["None absolute; caution in COPD CO2 retainers"],"adultDose":"1–15 L/min","pediatricDose":"1–10 L/min","routes":["NC","Mask","NRB"] },  
   { "id":"emt-ntg-001","scope":["EMT"],"name":{"generic":"Nitroglycerin","brand":["Nitrostat","Nitro-Dur"]},"class":"Vasodilator","mechanism":"Converts to nitric oxide causing venous dilation.","indications":["Chest pain","CHF exacerbation"],"contraindications":["BP < 100","PDE-5 inhibitors","Hypersensitivity","HOCM"],"adultDose":"0.4 mg q5 min ×3 max","pediatricDose":"N/A","routes":["SL","Transdermal","Spray"] },
@@ -18,7 +17,4 @@
   { "id":"emt-ibu-001","scope":["EMT"],"name":{"generic":"Ibuprofen","brand":["Advil","Motrin"]},"class":"NSAID","mechanism":"COX inhibition reduces pain, fever, inflammation.","indications":["Pain","Fever"],"contraindications":["NSAID allergy","Ulcer","Renal disease"],"adultDose":"200–800 mg","pediatricDose":"10 mg/kg","routes":["PO"] },
   { "id":"emt-hemo-001","scope":["EMT"],"name":{"generic":"Hemostatic Agents","brand":["Gelfoam","Surgicel","Tisseel"]},"class":"Topical Hemostat","mechanism":"Promotes clot formation at wound site.","indications":["Bleeding control"],"contraindications":["Agent-specific allergy"],"adultDose":"As needed","pediatricDose":"As needed","routes":["Topical"] },
   { "id":"emt-n2o-001","scope":["EMT"],"name":{"generic":"Nitrous Oxide","brand":["NOS","Laughing Gas"]},"class":"Inhaled Analgesic","mechanism":"CNS depression causing analgesia/sedation.","indications":["Pain control","Procedural sedation"],"contraindications":["Bowel obstruction","Ear/sinus disease","B12 deficiency"],"adultDose":"Fixed premix 50/50","pediatricDose":"Same","routes":["Inhalation"] }
-  
-    
-  
 ]
