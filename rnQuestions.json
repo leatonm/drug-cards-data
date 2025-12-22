@@ -110,6 +110,180 @@
     ],
     "rationale": "Amiodarone affects thyroid, eyes, and has major CYP interactions with grapefruit.",
     "clinicalPearl": "Amiodarone affects multiple organ systems—ongoing monitoring is essential."
+  },
+  {
+    "id": "rn-q-009",
+    "scope": ["RN"],
+    "medicationId": "rn-009",
+    "medication": "Atenolol",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment finding would require holding atenolol and notifying the provider?",
+    "choices": [
+      "Blood pressure 138/84 mmHg",
+      "Heart rate 52 bpm",
+      "Mild fatigue",
+      "Occasional headache"
+    ],
+    "correctAnswer": "Heart rate 52 bpm",
+    "rationale": "Atenolol can cause bradycardia; heart rates below 60 bpm warrant provider notification.",
+    "clinicalPearl": "Always assess apical pulse before administering beta blockers."
+  },
+  {
+    "id": "rn-q-010",
+    "scope": ["RN"],
+    "medicationId": "rn-010",
+    "medication": "Propranolol",
+    "questionType": "multiple-choice",
+    "stem": "Why should propranolol be used cautiously in patients with asthma?",
+    "choices": [
+      "It increases mucus production",
+      "It blocks beta-2 receptors causing bronchoconstriction",
+      "It prolongs the QT interval",
+      "It causes excessive sedation"
+    ],
+    "correctAnswer": "It blocks beta-2 receptors causing bronchoconstriction",
+    "rationale": "Propranolol is nonselective and may worsen bronchospasm by blocking beta-2 receptors.",
+    "clinicalPearl": "Nonselective beta blockers increase respiratory risk in asthma and COPD."
+  },
+  {
+    "id": "rn-q-011",
+    "scope": ["RN"],
+    "medicationId": "rn-011",
+    "medication": "Bisoprolol",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is most important for someone prescribed bisoprolol?",
+    "choices": [
+      "Limit potassium-rich foods",
+      "Do not abruptly stop the medication",
+      "Take the medication at bedtime only",
+      "Expect increased appetite"
+    ],
+    "correctAnswer": "Do not abruptly stop the medication",
+    "rationale": "Abrupt discontinuation of beta blockers may cause rebound tachycardia and hypertension.",
+    "clinicalPearl": "Beta blockers should always be tapered, not stopped suddenly."
+  },
+  {
+    "id": "rn-q-012",
+    "scope": ["RN"],
+    "medicationId": "rn-012",
+    "medication": "Amiodarone",
+    "questionType": "select-all-that-apply",
+    "stem": "Which findings should be reported immediately in a patient taking amiodarone? (Select all that apply.)",
+    "choices": [
+      "Blurred vision",
+      "Weight gain",
+      "Shortness of breath",
+      "Photosensitivity",
+      "Dry skin"
+    ],
+    "correctAnswer": [
+      "Blurred vision",
+      "Shortness of breath"
+    ],
+    "rationale": "Amiodarone can cause pulmonary toxicity and ocular changes.",
+    "clinicalPearl": "Amiodarone affects multiple organs—lungs, thyroid, liver, and eyes."
+  },
+  {
+    "id": "rn-q-013",
+    "scope": ["RN"],
+    "medicationId": "rn-013",
+    "medication": "Dronedarone",
+    "questionType": "multiple-choice",
+    "stem": "Which medication interaction is most concerning when administering dronedarone?",
+    "choices": [
+      "Acetaminophen",
+      "Digoxin",
+      "Ibuprofen",
+      "Aspirin"
+    ],
+    "correctAnswer": "Digoxin",
+    "rationale": "Dronedarone increases digoxin levels, raising the risk of toxicity.",
+    "clinicalPearl": "Always review cardiac drug combinations for additive effects."
+  },
+  {
+    "id": "rn-q-014",
+    "scope": ["RN"],
+    "medicationId": "rn-014",
+    "medication": "Dofetilide",
+    "questionType": "multiple-choice",
+    "stem": "Why must dofetilide initiation occur in a monitored setting?",
+    "choices": [
+      "Risk of hypotension",
+      "Risk of renal failure",
+      "Risk of torsades de pointes",
+      "Risk of severe bradycardia"
+    ],
+    "correctAnswer": "Risk of torsades de pointes",
+    "rationale": "Dofetilide prolongs QT interval and may precipitate torsades de pointes.",
+    "clinicalPearl": "QT monitoring is mandatory with Class III antiarrhythmics."
+  },
+  {
+    "id": "rn-q-015",
+    "scope": ["RN"],
+    "medicationId": "rn-015",
+    "medication": "Ibutilide",
+    "questionType": "multiple-choice",
+    "stem": "Which electrolyte abnormality increases the risk of ibutilide-induced dysrhythmias?",
+    "choices": [
+      "Hypernatremia",
+      "Hypokalemia",
+      "Hypercalcemia",
+      "Hypermagnesemia"
+    ],
+    "correctAnswer": "Hypokalemia",
+    "rationale": "Low potassium increases QT prolongation and torsades risk.",
+    "clinicalPearl": "Correct electrolytes before administering QT-prolonging drugs."
+  },
+  {
+    "id": "rn-q-016",
+    "scope": ["RN"],
+    "medicationId": "rn-016",
+    "medication": "Sotalol",
+    "questionType": "multiple-choice",
+    "stem": "Which finding would contraindicate giving sotalol?",
+    "choices": [
+      "QTc interval of 480 ms",
+      "Heart rate 72 bpm",
+      "Blood pressure 130/80 mmHg",
+      "Mild fatigue"
+    ],
+    "correctAnswer": "QTc interval of 480 ms",
+    "rationale": "Sotalol prolongs QT and increases risk of torsades de pointes.",
+    "clinicalPearl": "QTc > 440 ms significantly raises dysrhythmia risk."
+  },
+  {
+    "id": "rn-q-017",
+    "scope": ["RN"],
+    "medicationId": "rn-017",
+    "medication": "Diltiazem",
+    "questionType": "multiple-choice",
+    "stem": "Which condition would make diltiazem unsafe to administer?",
+    "choices": [
+      "Atrial fibrillation with RVR",
+      "Sick sinus syndrome without pacemaker",
+      "Hypertension",
+      "Stable angina"
+    ],
+    "correctAnswer": "Sick sinus syndrome without pacemaker",
+    "rationale": "Diltiazem suppresses AV node conduction and may cause severe bradycardia.",
+    "clinicalPearl": "AV-node blockers require rhythm awareness."
+  },
+  {
+    "id": "rn-q-018",
+    "scope": ["RN"],
+    "medicationId": "rn-018",
+    "medication": "Verapamil",
+    "questionType": "multiple-choice",
+    "stem": "Which concurrent medication increases the risk of heart block when given with verapamil?",
+    "choices": [
+      "Acetaminophen",
+      "Metoprolol",
+      "Furosemide",
+      "Potassium chloride"
+    ],
+    "correctAnswer": "Metoprolol",
+    "rationale": "Combined beta blockers and calcium channel blockers can cause severe bradycardia and heart block.",
+    "clinicalPearl": "Avoid stacking AV-node blocking agents unless closely monitored."
   }
 ]
 
