@@ -1,1 +1,115 @@
+[
+  {
+    "id": "rn-q-001",
+    "scope": ["RN"],
+    "medicationId": "rn-001",
+    "medication": "Quinidine",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment finding in a patient taking quinidine requires immediate notification of the provider?",
+    "choices": [
+      "Mild nausea",
+      "Excessive diarrhea",
+      "Occasional dizziness",
+      "Dry mouth"
+    ],
+    "correctAnswer": "Excessive diarrhea",
+    "rationale": "Excessive diarrhea is a sign of quinidine toxicity and may precede serious cardiac dysrhythmias.",
+    "clinicalPearl": "GI symptoms are often the earliest warning sign of quinidine toxicity."
+  },
+  {
+    "id": "rn-q-002",
+    "scope": ["RN"],
+    "medicationId": "rn-002",
+    "medication": "Procainamide",
+    "questionType": "select-all-that-apply",
+    "stem": "Which findings suggest a potential adverse reaction to procainamide? (Select all that apply.)",
+    "choices": [
+      "Joint pain",
+      "Butterfly-shaped facial rash",
+      "Hypotension",
+      "Bradycardia",
+      "Dry cough"
+    ],
+    "correctAnswer": [
+      "Joint pain",
+      "Butterfly-shaped facial rash",
+      "Hypotension"
+    ],
+    "rationale": "Procainamide can cause a lupus-like syndrome and hypotension.",
+    "clinicalPearl": "Drug-induced lupus is a well-known complication of procainamide therapy."
+  },
+  {
+    "id": "rn-q-003",
+    "scope": ["RN"],
+    "medicationId": "rn-003",
+    "medication": "Lidocaine",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment finding is most concerning in a patient receiving IV lidocaine?",
+    "choices": [
+      "Metallic taste",
+      "Mild nausea",
+      "Confusion and tremors",
+      "Injection site discomfort"
+    ],
+    "correctAnswer": "Confusion and tremors",
+    "rationale": "Neurologic symptoms indicate lidocaine toxicity and may precede seizures.",
+    "clinicalPearl": "CNS toxicity occurs before cardiovascular collapse with lidocaine."
+  },
+  {
+    "id": "rn-q-004",
+    "scope": ["RN"],
+    "medicationId": "rn-005",
+    "medication": "Flecainide",
+    "questionType": "multiple-choice",
+    "stem": "Flecainide is contraindicated in patients with which condition?",
+    "choices": [
+      "Atrial fibrillation",
+      "Structural heart disease",
+      "Hypertension",
+      "Sinus tachycardia"
+    ],
+    "correctAnswer": "Structural heart disease",
+    "rationale": "Class IC agents increase mortality in patients with structural heart disease.",
+    "clinicalPearl": "Class IC antidysrhythmics are powerful but dangerous in damaged myocardium."
+  },
+  {
+    "id": "rn-q-005",
+    "scope": ["RN"],
+    "medicationId": "rn-007",
+    "medication": "Esmolol",
+    "questionType": "multiple-choice",
+    "stem": "Why is esmolol preferred for short-term rate control in acute settings?",
+    "choices": [
+      "It has oral availability",
+      "It has a long half-life",
+      "It has a very short half-life",
+      "It causes less hypotension than other beta-blockers"
+    ],
+    "correctAnswer": "It has a very short half-life",
+    "rationale": "Esmolol’s rapid onset and short duration allow quick titration and discontinuation.",
+    "clinicalPearl": "Esmolol is ideal when rapid beta-blockade reversal may be needed."
+  },
+  {
+    "id": "rn-q-006",
+    "scope": ["RN"],
+    "medicationId": "rn-012",
+    "medication": "Amiodarone",
+    "questionType": "select-all-that-apply",
+    "stem": "Which teaching points should be included for a patient starting amiodarone? (Select all that apply.)",
+    "choices": [
+      "Avoid grapefruit products",
+      "Report vision changes",
+      "Monitor for thyroid dysfunction",
+      "Take medication with high-fat meals",
+      "Expect urine discoloration"
+    ],
+    "correctAnswer": [
+      "Avoid grapefruit products",
+      "Report vision changes",
+      "Monitor for thyroid dysfunction"
+    ],
+    "rationale": "Amiodarone affects thyroid, eyes, and has major CYP interactions with grapefruit.",
+    "clinicalPearl": "Amiodarone affects multiple organ systems—ongoing monitoring is essential."
+  }
+]
 
