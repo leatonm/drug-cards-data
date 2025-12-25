@@ -284,6 +284,593 @@
     "correctAnswer": "Metoprolol",
     "rationale": "Combined beta blockers and calcium channel blockers can cause severe bradycardia and heart block.",
     "clinicalPearl": "Avoid stacking AV-node blocking agents unless closely monitored."
+  },
+  {
+    "id": "rn-q-019",
+    "scope": ["RN"],
+    "medicationId": "rn-008",
+    "medication": "Metoprolol",
+    "questionType": "multiple-choice",
+    "stem": "Which vital sign indicates the need to hold metoprolol and notify the provider?",
+    "choices": [
+      "Blood pressure 148/92 mmHg",
+      "Respiratory rate 20 breaths/min",
+      "Heart rate 56 bpm",
+      "Temperature 99.2°F (37.3°C)"
+    ],
+    "correctAnswer": "Heart rate 56 bpm",
+    "rationale": "Metoprolol decreases heart rate; a pulse under 60 bpm requires evaluation before administration.",
+    "clinicalPearl": "Always check apical pulse for one full minute before beta blockers."
+  },
+  {
+    "id": "rn-q-020",
+    "scope": ["RN"],
+    "medicationId": "rn-008",
+    "medication": "Metoprolol",
+    "questionType": "multiple-choice",
+    "stem": "A patient taking metoprolol reports new onset of cold fingers and toes. What is the best response?",
+    "choices": [
+      "Continue medication; this is expected",
+      "Hold the dose and notify the provider",
+      "Apply warm compresses daily",
+      "Increase fluid intake"
+    ],
+    "correctAnswer": "Hold the dose and notify the provider",
+    "rationale": "Cold extremities may indicate decreased peripheral perfusion from excessive beta blockade.",
+    "clinicalPearl": "Peripheral vasoconstriction can occur, especially in patients with vascular disease."
+  },
+  {
+    "id": "rn-q-021",
+    "scope": ["RN"],
+    "medicationId": "rn-008",
+    "medication": "Metoprolol",
+    "questionType": "select-all-that-apply",
+    "stem": "What are priority assessments before administering metoprolol? (Select all that apply.)",
+    "choices": [
+      "Apical pulse",
+      "Blood pressure",
+      "Glucose level",
+      "Respiratory status",
+      "Urine output"
+    ],
+    "correctAnswer": [
+      "Apical pulse",
+      "Blood pressure",
+      "Respiratory status"
+    ],
+    "rationale": "Metoprolol depresses cardiac output and may cause bronchospasm; baseline assessment is essential.",
+    "clinicalPearl": "Nonselective effects increase respiratory risk in patients with asthma and COPD."
+  },
+  {
+    "id": "rn-q-022",
+    "scope": ["RN"],
+    "medicationId": "rn-019",
+    "medication": "Atropine",
+    "questionType": "multiple-choice",
+    "stem": "Which symptom indicates effective response to atropine in symptomatic bradycardia?",
+    "choices": [
+      "Heart rate increases to 70 bpm",
+      "Blood pressure decreases to 90/60 mmHg",
+      "Respiratory rate decreases",
+      "Temperature increases"
+    ],
+    "correctAnswer": "Heart rate increases to 70 bpm",
+    "rationale": "Atropine blocks vagal influence, increasing heart rate.",
+    "clinicalPearl": "Atropine does NOT work in third-degree heart block with a ventricular escape rhythm."
+  },
+  {
+    "id": "rn-q-023",
+    "scope": ["RN"],
+    "medicationId": "rn-019",
+    "medication": "Atropine",
+    "questionType": "multiple-choice",
+    "stem": "Which is the most concerning adverse effect to report for a patient receiving atropine?",
+    "choices": [
+      "Dry mouth",
+      "Blurred vision",
+      "Urinary retention",
+      "Heart rate 160 bpm"
+    ],
+    "correctAnswer": "Heart rate 160 bpm",
+    "rationale": "Excessive tachycardia increases myocardial oxygen demand and risk for ischemia.",
+    "clinicalPearl": "Atropine’s anticholinergic effects impact multiple body systems."
+  },
+  {
+    "id": "rn-q-024",
+    "scope": ["RN"],
+    "medicationId": "rn-020",
+    "medication": "Digoxin",
+    "questionType": "multiple-choice",
+    "stem": "Which finding suggests digoxin toxicity?",
+    "choices": [
+      "Weight gain",
+      "Yellow halos in vision",
+      "Dry mucous membranes",
+      "Headache"
+    ],
+    "correctAnswer": "Yellow halos in vision",
+    "rationale": "Visual disturbances, including halos, are classic early signs of toxicity.",
+    "clinicalPearl": "Electrolyte imbalance, especially hypokalemia, increases toxicity risk."
+  },
+  {
+    "id": "rn-q-025",
+    "scope": ["RN"],
+    "medicationId": "rn-020",
+    "medication": "Digoxin",
+    "questionType": "multiple-choice",
+    "stem": "A patient’s digoxin level is 2.4 ng/mL. What action should the nurse take?",
+    "choices": [
+      "Administer the next dose",
+      "Notify the provider immediately",
+      "Give the dose early",
+      "Encourage fluids and reassess"
+    ],
+    "correctAnswer": "Notify the provider immediately",
+    "rationale": "Therapeutic range is 0.5–2.0 ng/mL; 2.4 may indicate toxicity.",
+    "clinicalPearl": "Monitor potassium closely — low potassium increases sensitivity to digoxin."
+  },
+  {
+    "id": "rn-q-026",
+    "scope": ["RN"],
+    "medicationId": "rn-021",
+    "medication": "Adenosine",
+    "questionType": "multiple-choice",
+    "stem": "What should the nurse anticipate immediately after administering adenosine for SVT?",
+    "choices": [
+      "Transient asystole",
+      "Seizure activity",
+      "Severe hypertension",
+      "Respiratory distress"
+    ],
+    "correctAnswer": "Transient asystole",
+    "rationale": "Adenosine briefly blocks conduction through the AV node, causing a short asystole.",
+    "clinicalPearl": "Warn patients they may feel a sudden 'flush' or sense of doom — this is expected."
+  },
+  {
+    "id": "rn-q-027",
+    "scope": ["RN"],
+    "medicationId": "rn-021",
+    "medication": "Adenosine",
+    "questionType": "multiple-choice",
+    "stem": "Which condition is a contraindication for adenosine?",
+    "choices": [
+      "SVT",
+      "Second-degree heart block",
+      "Stable atrial flutter",
+      "Hypertension"
+    ],
+    "correctAnswer": "Second-degree heart block",
+    "rationale": "Adenosine further suppresses AV conduction, worsening heart blocks.",
+    "clinicalPearl": "Only use for narrow-complex tachycardia caused by AV node reentry."
+  },
+   {
+    "id": "rn-q-028",
+    "scope": ["RN"],
+    "medicationId": "rn-022",
+    "medication": "Lactated Ringer's (LR)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient would most likely benefit from Lactated Ringer’s?",
+    "choices": [
+      "Client with severe liver failure",
+      "Client with blood loss from trauma",
+      "Client with increased intracranial pressure",
+      "Client with end-stage kidney disease"
+    ],
+    "correctAnswer": "Client with blood loss from trauma",
+    "rationale": "LR is an isotonic fluid used for volume replacement, common in trauma and OR settings.",
+    "clinicalPearl": "Avoid LR in liver failure because lactate must be metabolized in the liver."
+  },
+  {
+    "id": "rn-q-029",
+    "scope": ["RN"],
+    "medicationId": "rn-023",
+    "medication": "Normal Saline (NS)",
+    "questionType": "multiple-choice",
+    "stem": "Which situation warrants cautious use or avoidance of normal saline?",
+    "choices": [
+      "Hypotension",
+      "Hyponatremia",
+      "Fluid overload and heart failure",
+      "Vomiting and dehydration"
+    ],
+    "correctAnswer": "Fluid overload and heart failure",
+    "rationale": "NS expands extracellular volume and may worsen pulmonary edema in CHF patients.",
+    "clinicalPearl": "Isotonic fluids stay in the vascular space — monitor for crackles and dyspnea."
+  },
+  {
+    "id": "rn-q-030",
+    "scope": ["RN"],
+    "medicationId": "rn-024",
+    "medication": "D5W (5% Dextrose in Water)",
+    "questionType": "multiple-choice",
+    "stem": "Which statement is correct about D5W administration?",
+    "choices": [
+      "It remains entirely in the vascular space",
+      "It is contraindicated in increased intracranial pressure",
+      "It is ideal for rapid resuscitation in hypovolemic shock",
+      "It is a replacement for electrolyte loss"
+    ],
+    "correctAnswer": "It is contraindicated in increased intracranial pressure",
+    "rationale": "D5W becomes hypotonic in the body and increases cerebral edema.",
+    "clinicalPearl": "D5W is considered isotonic in the bag, hypotonic in the body."
+  },
+  {
+    "id": "rn-q-031",
+    "scope": ["RN"],
+    "medicationId": "rn-025",
+    "medication": "0.45% Normal Saline (1/2 NS)",
+    "questionType": "multiple-choice",
+    "stem": "A provider orders 1/2 NS for a patient. Which condition would make the nurse question the order?",
+    "choices": [
+      "Dehydration",
+      "Diabetic ketoacidosis",
+      "Increased intracranial pressure",
+      "Hypernatremia"
+    ],
+    "correctAnswer": "Increased intracranial pressure",
+    "rationale": "Hypotonic fluids move water into cells and can worsen cerebral swelling.",
+    "clinicalPearl": "1/2 NS is used for intracellular dehydration — NOT when brain swelling is present."
+  },
+  {
+    "id": "rn-q-032",
+    "scope": ["RN"],
+    "medicationId": "rn-026",
+    "medication": "D10W (10% Dextrose in Water)",
+    "questionType": "multiple-choice",
+    "stem": "Which situation is the most appropriate indication for D10W?",
+    "choices": [
+      "Severe hyponatremia",
+      "Cerebral edema",
+      "Hypoglycemia unresponsive to D50",
+      "Maintenance IV fluid for NPO clients"
+    ],
+    "correctAnswer": "Hypoglycemia unresponsive to D50",
+    "rationale": "D10W is used when immediate glucose replacement is needed but D50 is unsafe or unavailable.",
+    "clinicalPearl": "Hypertonic fluids pull fluid into the vascular space — monitor for fluid overload."
+  },
+  {
+    "id": "rn-q-033",
+    "scope": ["RN"],
+    "medicationId": "rn-027",
+    "medication": "Albumin",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment is most important before administering IV albumin?",
+    "choices": [
+      "Blood glucose level",
+      "Liver function tests",
+      "Lung sounds and signs of fluid overload",
+      "Deep tendon reflexes"
+    ],
+    "correctAnswer": "Lung sounds and signs of fluid overload",
+    "rationale": "Albumin rapidly expands plasma volume; assess for pulmonary edema risk.",
+    "clinicalPearl": "Albumin pulls fluid into the vascular space — watch for crackles and dyspnea."
+  },
+  {
+    "id": "rn-q-034",
+    "scope": ["RN"],
+    "medicationId": "rn-028",
+    "medication": "Pyridostigmine",
+    "questionType": "multiple-choice",
+    "stem": "A patient taking pyridostigmine reports increased muscle weakness, drooling, and diarrhea. What is the priority action?",
+    "choices": [
+      "Administer an additional dose",
+      "Hold the dose and notify the provider",
+      "Encourage oral fluids",
+      "Administer acetaminophen"
+    ],
+    "correctAnswer": "Hold the dose and notify the provider",
+    "rationale": "These symptoms suggest cholinergic crisis due to excessive dosing.",
+    "clinicalPearl": "Myasthenic crisis = too little med; cholinergic crisis = too much med."
+  },
+  {
+    "id": "rn-q-035",
+    "scope": ["RN"],
+    "medicationId": "rn-028",
+    "medication": "Pyridostigmine",
+    "questionType": "select-all-that-apply",
+    "stem": "What should the nurse include in teaching for pyridostigmine? (Select all that apply.)",
+    "choices": [
+      "Take medication at the same time every day",
+      "Report difficulty swallowing",
+      "Expect blurred vision as normal",
+      "Rise slowly to avoid dizziness",
+      "Maintain a medication journal"
+    ],
+    "correctAnswer": [
+      "Take medication at the same time every day",
+      "Report difficulty swallowing",
+      "Rise slowly to avoid dizziness"
+    ],
+    "rationale": "Consistent dosing maintains symptom control; dysphagia signals crisis; dizziness relates to autonomic effects.",
+    "clinicalPearl": "Timing doses around meals helps reduce aspiration risk in MG."
+  },
+  {
+    "id": "rn-q-036",
+    "scope": ["RN"],
+    "medicationId": "rn-029",
+    "medication": "Neostigmine",
+    "questionType": "multiple-choice",
+    "stem": "What finding indicates a therapeutic response to neostigmine?",
+    "choices": [
+      "Improved swallowing and muscle strength",
+      "Decreased heart rate to 50 bpm",
+      "New onset of diarrhea",
+      "Severe abdominal pain"
+    ],
+    "correctAnswer": "Improved swallowing and muscle strength",
+    "rationale": "Neostigmine increases neuromuscular function by improving acetylcholine availability.",
+    "clinicalPearl": "Assess respiratory function — improving ventilation is a primary goal."
+  },
+  {
+    "id": "rn-q-037",
+    "scope": ["RN"],
+    "medicationId": "rn-030",
+    "medication": "Donepezil",
+    "questionType": "multiple-choice",
+    "stem": "Which symptom would require immediate reporting in a patient taking donepezil?",
+    "choices": [
+      "Mild headache",
+      "Increased urination",
+      "Dark, tarry stools",
+      "Dry mouth"
+    ],
+    "correctAnswer": "Dark, tarry stools",
+    "rationale": "Donepezil increases gastric acid and can lead to GI bleeding.",
+    "clinicalPearl": "Monitor for GI upset and bleeding — aspirin/NSAIDs increase risk."
+  },
+  {
+    "id": "rn-q-038",
+    "scope": ["RN"],
+    "medicationId": "rn-030",
+    "medication": "Donepezil",
+    "questionType": "multiple-choice",
+    "stem": "How long does it typically take for donepezil to reach steady-state therapeutic effect?",
+    "choices": [
+      "48 hours",
+      "7 days",
+      "15 days",
+      "3 months"
+    ],
+    "correctAnswer": "15 days",
+    "rationale": "Donepezil requires time to reach steady state due to long half-life.",
+    "clinicalPearl": "Caregiver education is critical — expectations must be realistic."
+  },
+  {
+    "id": "rn-q-039",
+    "scope": ["RN"],
+    "medicationId": "rn-031",
+    "medication": "Donepezil (transdermal)",
+    "questionType": "select-all-that-apply",
+    "stem": "Which instructions should be included for donepezil transdermal patch use? (Select all that apply.)",
+    "choices": [
+      "Apply to clean, dry, hairless skin",
+      "Rotate sites to prevent irritation",
+      "Fold used patches with sticky sides together",
+      "Cut patches for dose adjustment",
+      "Remove old patch before applying new one"
+    ],
+    "correctAnswer": [
+      "Apply to clean, dry, hairless skin",
+      "Rotate sites to prevent irritation",
+      "Fold used patches with sticky sides together",
+      "Remove old patch before applying new one"
+    ],
+    "rationale": "Patch use requires skin care, disposal safety, and removal of previous dose to prevent toxicity.",
+    "clinicalPearl": "Never cut transdermal patches — dosing becomes unpredictable."
+  },
+  {
+    "id": "rn-q-040",
+    "scope": ["RN"],
+    "medicationId": "rn-032",
+    "medication": "Galantamine",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect would be most concerning in a patient taking galantamine?",
+    "choices": [
+      "Constipation",
+      "Severe skin rash",
+      "Dry mouth",
+      "Mild tremors"
+    ],
+    "correctAnswer": "Severe skin rash",
+    "rationale": "Galantamine has rare hypersensitivity risk; rash may indicate Stevens-Johnson Syndrome.",
+    "clinicalPearl": "Stop medication and notify provider immediately if rash occurs."
+  },
+  {
+    "id": "rn-q-041",
+    "scope": ["RN"],
+    "medicationId": "rn-033",
+    "medication": "Rivastigmine",
+    "questionType": "multiple-choice",
+    "stem": "What teaching is most important for a patient taking rivastigmine?",
+    "choices": [
+      "Take with antacids to reduce GI upset",
+      "Report urinary retention immediately",
+      "Monitor for cholinergic side effects like bradycardia",
+      "Avoid potassium-rich foods"
+    ],
+    "correctAnswer": "Monitor for cholinergic side effects like bradycardia",
+    "rationale": "As a cholinergic enhancer, rivastigmine may cause bradycardia and syncope.",
+    "clinicalPearl": "Cholinergic symptoms = SLUDGE: salivation, lacrimation, urination, diarrhea, GI upset, emesis."
+  },
+   {
+    "id": "rn-q-042",
+    "scope": ["RN"],
+    "medicationId": "rn-034",
+    "medication": "Memantine",
+    "questionType": "multiple-choice",
+    "stem": "A patient taking memantine reports severe nausea, vomiting, and weight loss. What is the nurse’s priority action?",
+    "choices": [
+      "Offer small frequent meals",
+      "Hold the dose and notify the provider",
+      "Encourage fluid intake",
+      "Administer an antiemetic"
+    ],
+    "correctAnswer": "Hold the dose and notify the provider",
+    "rationale": "These symptoms can indicate GI complications, including possible upper GI bleeding or intolerance.",
+    "clinicalPearl": "Memantine may worsen GI symptoms in susceptible patients — monitor closely early in therapy."
+  },
+  {
+    "id": "rn-q-043",
+    "scope": ["RN"],
+    "medicationId": "rn-034",
+    "medication": "Memantine",
+    "questionType": "select-all-that-apply",
+    "stem": "Which assessments are most important when monitoring memantine therapy? (Select all that apply.)",
+    "choices": [
+      "Cognitive status",
+      "Weight and appetite",
+      "Liver function",
+      "Renal function",
+      "Blood glucose levels"
+    ],
+    "correctAnswer": [
+      "Cognitive status",
+      "Weight and appetite",
+      "Renal function"
+    ],
+    "rationale": "Memantine is eliminated renally and affects cognitive function and appetite.",
+    "clinicalPearl": "Baseline and ongoing cognitive assessments help determine therapeutic effectiveness."
+  },
+  {
+    "id": "rn-q-044",
+    "scope": ["RN"],
+    "medicationId": "rn-035",
+    "medication": "Benztropine",
+    "questionType": "multiple-choice",
+    "stem": "Which teaching point is most important for a patient taking benztropine?",
+    "choices": [
+      "Avoid high-protein meals",
+      "Report heat intolerance or fever",
+      "Expect watery diarrhea",
+      "Take with grapefruit juice"
+    ],
+    "correctAnswer": "Report heat intolerance or fever",
+    "rationale": "Anticholinergic medications decrease sweating and can cause life-threatening hyperthermia.",
+    "clinicalPearl": "Avoid strenuous activity in hot environments — heat stroke risk."
+  },
+  {
+    "id": "rn-q-045",
+    "scope": ["RN"],
+    "medicationId": "rn-036",
+    "medication": "Trihexyphenidyl",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect requires priority intervention with trihexyphenidyl?",
+    "choices": [
+      "Constipation",
+      "Dry mouth",
+      "Acute urinary retention",
+      "Blurred vision"
+    ],
+    "correctAnswer": "Acute urinary retention",
+    "rationale": "Anticholinergic medications can cause retention requiring urgent intervention.",
+    "clinicalPearl": "Increased fall risk due to blurred vision and dizziness — safety precautions needed."
+  },
+  {
+    "id": "rn-q-046",
+    "scope": ["RN"],
+    "medicationId": "rn-037",
+    "medication": "Carbidopa/Levodopa",
+    "questionType": "multiple-choice",
+    "stem": "A patient taking carbidopa/levodopa develops involuntary facial grimacing and lip smacking. What is the best action?",
+    "choices": [
+      "Encourage fluid intake",
+      "Expect the symptom; this is normal",
+      "Notify the provider immediately",
+      "Hold all future doses permanently"
+    ],
+    "correctAnswer": "Notify the provider immediately",
+    "rationale": "These symptoms indicate dyskinesias, which may require dose adjustment.",
+    "clinicalPearl": "Most common long-term complication of levodopa therapy is motor fluctuation and dyskinesia."
+  },
+  {
+    "id": "rn-q-047",
+    "scope": ["RN"],
+    "medicationId": "rn-037",
+    "medication": "Carbidopa/Levodopa",
+    "questionType": "select-all-that-apply",
+    "stem": "What should be included in patient teaching for carbidopa/levodopa? (Select all that apply.)",
+    "choices": [
+      "Avoid high-protein meals",
+      "Change positions slowly",
+      "Report dark urine as a medical emergency",
+      "Expect improvement immediately within 24 hours",
+      "Monitor for involuntary movements"
+    ],
+    "correctAnswer": [
+      "Avoid high-protein meals",
+      "Change positions slowly",
+      "Monitor for involuntary movements"
+    ],
+    "rationale": "Protein competes with levodopa absorption; orthostatic hypotension is common; dyskinesia signals toxicity.",
+    "clinicalPearl": "Urine and sweat may darken harmlessly — this is expected."
+  },
+  {
+    "id": "rn-q-048",
+    "scope": ["RN"],
+    "medicationId": "rn-038",
+    "medication": "Pramipexole",
+    "questionType": "multiple-choice",
+    "stem": "Which patient education point is most important for pramipexole?",
+    "choices": [
+      "Take only at bedtime",
+      "Risk of sudden daytime sleep attacks",
+      "Expect rapid heart rate",
+      "Report mild nausea as an emergency"
+    ],
+    "correctAnswer": "Risk of sudden daytime sleep attacks",
+    "rationale": "Pramipexole may cause sudden sleepiness, posing safety risks.",
+    "clinicalPearl": "Avoid driving or hazardous activities until response is known."
+  },
+  {
+    "id": "rn-q-049",
+    "scope": ["RN"],
+    "medicationId": "rn-039",
+    "medication": "Bromocriptine",
+    "questionType": "multiple-choice",
+    "stem": "Which lab abnormality would be most concerning for a patient on bromocriptine?",
+    "choices": [
+      "Elevated liver enzymes",
+      "Elevated potassium",
+      "Low sodium",
+      "Low LDL cholesterol"
+    ],
+    "correctAnswer": "Elevated liver enzymes",
+    "rationale": "Bromocriptine is associated with hepatotoxicity — monitor liver function.",
+    "clinicalPearl": "Assess for jaundice, dark urine, and RUQ abdominal pain."
+  },
+  {
+    "id": "rn-q-050",
+    "scope": ["RN"],
+    "medicationId": "rn-040",
+    "medication": "Apomorphine",
+    "questionType": "multiple-choice",
+    "stem": "Why is routine EKG monitoring recommended for patients taking apomorphine?",
+    "choices": [
+      "Hypotension risk",
+      "Severe hypertension is common",
+      "QT interval prolongation",
+      "Increased oxygen demand"
+    ],
+    "correctAnswer": "QT interval prolongation",
+    "rationale": "Apomorphine carries a risk of ventricular dysrhythmias from prolonged QT.",
+    "clinicalPearl": "Avoid other QT-prolonging drugs when possible."
+  },
+  {
+    "id": "rn-q-051",
+    "scope": ["RN"],
+    "medicationId": "rn-041",
+    "medication": "Ropinirole",
+    "questionType": "multiple-choice",
+    "stem": "What symptom should be reported immediately for a patient taking ropinirole?",
+    "choices": [
+      "Dry mouth",
+      "Peripheral edema",
+      "Mild fatigue",
+      "Constipation"
+    ],
+    "correctAnswer": "Peripheral edema",
+    "rationale": "Ropinirole may cause fluid retention and cardiac complications.",
+    "clinicalPearl": "Monitor for heart failure in patients with cardiovascular disease."
   }
 ]
 
