@@ -1,1 +1,829 @@
+[
+  {
+    "id": "para-q-201",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-201",
+    "medication": "Enalapril / Enalaprilat (Vasotec)",
+    "questionType": "multiple-choice",
+    "stem": "A CHF patient receives enalaprilat IV. After administration, the patient becomes dizzy and their BP drops from 146/92 to 88/50 mmHg. What is the priority action?",
+    "choices": [
+      "Reassess blood pressure in 10 minutes",
+      "Begin a fluid bolus per protocol",
+      "Apply nitroglycerin to improve preload",
+      "Administer an additional dose of enalaprilat"
+    ],
+    "correctAnswer": "Begin a fluid bolus per protocol",
+    "rationale": "ACE inhibitors can cause significant hypotension due to vasodilation. Supporting BP with fluids is the immediate priority.",
+    "clinicalPearl": "Be cautious administering vasodilators to preload-dependent patients like those with CHF."
+  },
+  {
+    "id": "para-q-202",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-202",
+    "medication": "Albuterol",
+    "questionType": "multiple-choice",
+    "stem": "During albuterol administration for an asthma attack, the patient develops tremors and a heart rate of 148. What is the most correct interpretation?",
+    "choices": [
+      "Signs of toxicity; stop medication immediately",
+      "Expected side effects related to beta-2 stimulation",
+      "Imminent cardiac arrest from hypoxia",
+      "Allergic reaction to the medication"
+    ],
+    "correctAnswer": "Expected side effects related to beta-2 stimulation",
+    "rationale": "Albuterol commonly causes tachycardia and tremors due to beta-1 crossover stimulation.",
+    "clinicalPearl": "Monitor cardiac patients closely as albuterol can worsen underlying tachydysrhythmias."
+  },
+  {
+    "id": "para-q-203",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-203",
+    "medication": "Ipratropium Bromide (Atrovent)",
+    "questionType": "select-all-that-apply",
+    "stem": "Which patient presentations would support adding ipratropium to albuterol in the prehospital setting? (Select all that apply.)",
+    "choices": [
+      "COPD exacerbation with wheezing",
+      "Asthma attack unrelieved by first albuterol treatment",
+      "Bradycardia with hypotension",
+      "Anaphylaxis with airway swelling and wheezing",
+      "Suspected pneumonia with productive cough"
+    ],
+    "correctAnswer": [
+      "COPD exacerbation with wheezing",
+      "Asthma attack unrelieved by first albuterol treatment",
+      "Anaphylaxis with airway swelling and wheezing"
+    ],
+    "rationale": "Ipratropium is often used with albuterol when bronchospasm is persistent or severe, especially in COPD and asthma. It may benefit anaphylaxis patients when bronchospasm is present.",
+    "clinicalPearl": "Avoid in patients with known soy/peanut allergies if using older Atrovent formulations (not common today, but still good to know)."
+  },
+  {
+    "id": "para-q-204",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-204",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "When treating anaphylaxis, a paramedic gives 0.3 mg IM epinephrine. The patient's wheezing improves, but stridor and hypotension persist. What is the next best step?",
+    "choices": [
+      "Administer a fluid bolus and consider a repeat IM dose",
+      "Switch to an IV infusion of dopamine",
+      "Withhold further epi until a physician evaluates",
+      "Administer albuterol and avoid further vasoconstrictors"
+    ],
+    "correctAnswer": "Administer a fluid bolus and consider a repeat IM dose",
+    "rationale": "Epinephrine may need to be repeated every 5–15 minutes in anaphylaxis as symptoms progress. Hypotension should be supported with fluids.",
+    "clinicalPearl": "Anaphylaxis is a time-critical emergency—epi IM is first-line and should not be delayed."
+  },
+  {
+    "id": "para-q-205",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-205",
+    "medication": "Etomidate",
+    "questionType": "multiple-choice",
+    "stem": "RSI is being prepared for a head injury patient with suspected increased ICP. Why might etomidate be preferred for sedation induction?",
+    "choices": [
+      "It significantly lowers ICP and prevents herniation",
+      "It provides sedation with minimal hemodynamic instability",
+      "It is a neuromuscular blocker providing full paralysis",
+      "It completely eliminates the gag reflex for 20–30 minutes"
+    ],
+    "correctAnswer": "It provides sedation with minimal hemodynamic instability",
+    "rationale": "Etomidate offers rapid sedation with limited impact on blood pressure, making it ideal for trauma or shock patients compared to other agents.",
+    "clinicalPearl": "Etomidate may suppress adrenal function with repeated dosing; typically used as a single induction dose."
+  },
+  {
+    "id": "para-q-207-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-207",
+    "medication": "Magnesium Sulfate",
+    "questionType": "multiple-choice",
+    "stem": "You are treating a pregnant patient actively seizing from eclampsia. After an IV magnesium bolus, respirations slow to 6/min and deep tendon reflexes are absent. What is the most appropriate intervention?",
+    "choices": [
+      "Administer an additional dose of magnesium",
+      "Administer calcium chloride or calcium gluconate",
+      "Begin dopamine to increase perfusion",
+      "Switch to midazolam for further seizure control"
+    ],
+    "correctAnswer": "Administer calcium chloride or calcium gluconate",
+    "rationale": "Loss of reflexes and respiratory depression indicates magnesium toxicity; calcium salts are the reversal agents.",
+    "clinicalPearl": "Monitoring reflexes is critical when giving magnesium in preeclampsia/eclampsia."
+  },
+  {
+    "id": "para-q-207-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-207",
+    "medication": "Magnesium Sulfate",
+    "questionType": "multiple-choice",
+    "stem": "A patient in cardiac arrest presents with polymorphic VT suspected to be Torsades de Pointes. What is the best dosing strategy?",
+    "choices": [
+      "1 g IV/IO slow push over 10 minutes",
+      "4 g IV/IO over 20 minutes",
+      "2 g IV/IO push as a bolus",
+      "0.5 g IV every 5 minutes"
+    ],
+    "correctAnswer": "2 g IV/IO push as a bolus",
+    "rationale": "The ACLS-recommended dose for Torsades during cardiac arrest is 2 g IV/IO rapid.",
+    "clinicalPearl": "Torsades often presents as sinusoidal 'twisting' around the baseline — magnesium is the treatment of choice."
+  },
+  {
+    "id": "para-q-207-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-207",
+    "medication": "Magnesium Sulfate",
+    "questionType": "select-all-that-apply",
+    "stem": "Which conditions in the field may indicate magnesium use? (Select all that apply.)",
+    "choices": [
+      "Bronchospasm unresponsive to albuterol",
+      "Hypomagnesemia with ventricular irritability",
+      "Atrial fibrillation with RVR",
+      "Suspected eclampsia with active seizure",
+      "3rd-degree AV block with hypotension"
+    ],
+    "correctAnswer": [
+      "Bronchospasm unresponsive to albuterol",
+      "Hypomagnesemia with ventricular irritability",
+      "Suspected eclampsia with active seizure"
+    ],
+    "rationale": "Magnesium is appropriate for bronchospasm, eclamptic seizures, and ventricular irritability but contraindicated in 3rd-degree block.",
+    "clinicalPearl": "Magnesium can stabilize the myocardium and relax smooth muscle — making it useful in multiple specialty scenarios."
+  },
+  {
+    "id": "para-q-208-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-208",
+    "medication": "Oxygen",
+    "questionType": "multiple-choice",
+    "stem": "A COPD patient with chronic CO2 retention is short of breath. SpO2 is 84% and they are tripoding. Which is the best initial oxygen delivery method?",
+    "choices": [
+      "Non-rebreather at 15 lpm",
+      "Nasal cannula at 2 lpm and titrate to effect",
+      "Room air while bronchodilators are prepared",
+      "High-flow nasal cannula at maximum settings"
+    ],
+    "correctAnswer": "Nasal cannula at 2 lpm and titrate to effect",
+    "rationale": "COPD patients may rely on hypoxic drive; start low and titrate to maintain 88–92% unless critical.",
+    "clinicalPearl": "Do not withhold oxygen from hypoxic COPD patients — titrate instead of avoiding."
+  },
+  {
+    "id": "para-q-208-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-208",
+    "medication": "Oxygen",
+    "questionType": "multiple-choice",
+    "stem": "In suspected carbon monoxide poisoning, the SpO2 reads 100% on room air. What is the most appropriate response?",
+    "choices": [
+      "High-flow oxygen via non-rebreather",
+      "Withhold oxygen and rely on pulse oximetry trend",
+      "Ventilate with BVM at room air",
+      "Administer albuterol first to improve ventilation"
+    ],
+    "correctAnswer": "High-flow oxygen via non-rebreather",
+    "rationale": "Pulse oximetry cannot distinguish oxyhemoglobin from carboxyhemoglobin; high-flow O2 is required.",
+    "clinicalPearl": "Carbon monoxide poisoning saturates pulse oximetry — treat based on presentation, not SpO2."
+  },
+  {
+    "id": "para-q-208-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-208",
+    "medication": "Oxygen",
+    "questionType": "select-all-that-apply",
+    "stem": "Which scenarios warrant immediate high-flow oxygen? (Select all that apply.)",
+    "choices": [
+      "Severe trauma with hypotension",
+      "Active seizure with suspected eclampsia",
+      "Chest pain with suspected STEMI",
+      "Ischemic stroke with SpO2 94%",
+      "Severe anaphylaxis with airway swelling"
+    ],
+    "correctAnswer": [
+      "Severe trauma with hypotension",
+      "Active seizure with suspected eclampsia",
+      "Severe anaphylaxis with airway swelling"
+    ],
+    "rationale": "High-flow oxygen supports perfusion and oxygenation in traumatic shock, anaphylaxis, and seizure states with hypoxia risk.",
+    "clinicalPearl": "Not every medical emergency requires max O2 — stroke and MI patients should be titrated unless hypoxic."
+  },
+   {
+    "id": "para-q-209-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-209",
+    "medication": "Rocuronium",
+    "questionType": "multiple-choice",
+    "stem": "After administering rocuronium for RSI, the patient develops bradycardia and hypotension. What is your priority?",
+    "choices": [
+      "Administer a reversal agent immediately",
+      "Support airway and ventilation while evaluating for hypoxia",
+      "Give an additional dose to maintain paralysis",
+      "Begin chest compressions even if pulses are present"
+    ],
+    "correctAnswer": "Support airway and ventilation while evaluating for hypoxia",
+    "rationale": "Rocuronium paralyzes muscles but provides no sedation; vital signs may change from hypoxia during apnea.",
+    "clinicalPearl": "Always ensure adequate sedation before and after paralysis."
+  },
+  {
+    "id": "para-q-209-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-209",
+    "medication": "Rocuronium",
+    "questionType": "multiple-choice",
+    "stem": "Which situation best indicates rocuronium use in the prehospital setting?",
+    "choices": [
+      "Combative hypoglycemic patient",
+      "Patient with head injury requiring airway control",
+      "Acute asthma attack with poor air movement",
+      "Bradycardia unresponsive to atropine"
+    ],
+    "correctAnswer": "Patient with head injury requiring airway control",
+    "rationale": "Rocuronium is used for paralysis during airway management, especially in RSI.",
+    "clinicalPearl": "It does not sedate — paralytic is not anesthesia."
+  },
+  {
+    "id": "para-q-209-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-209",
+    "medication": "Rocuronium",
+    "questionType": "select-all-that-apply",
+    "stem": "What must be ensured before administering rocuronium? (Select all that apply.)",
+    "choices": [
+      "An appropriately sized endotracheal tube is prepared",
+      "Suction equipment is ready",
+      "Sedation has been administered or planned",
+      "A fluid bolus is running",
+      "A reversal agent is drawn up"
+    ],
+    "correctAnswer": [
+      "An appropriately sized endotracheal tube is prepared",
+      "Suction equipment is ready",
+      "Sedation has been administered or planned"
+    ],
+    "rationale": "Rocuronium results in full paralysis; airway and sedation readiness is mandatory.",
+    "clinicalPearl": "Never paralyze a patient you cannot oxygenate or ventilate."
+  },
+   {
+    "id": "para-q-210-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-210",
+    "medication": "Methylprednisolone (Solu-Medrol)",
+    "questionType": "multiple-choice",
+    "stem": "You administer methylprednisolone during an anaphylactic reaction. The patient still has stridor and hypotension. What should you do next?",
+    "choices": [
+      "Administer a second steroid dose immediately",
+      "Repeat IM epinephrine and start fluid bolus",
+      "Administer IV magnesium",
+      "Give albuterol only until symptoms improve"
+    ],
+    "correctAnswer": "Repeat IM epinephrine and start fluid bolus",
+    "rationale": "Steroids reduce inflammation but have delayed onset; epinephrine and fluids treat acute anaphylaxis.",
+    "clinicalPearl": "Steroids help prevent biphasic reactions but are not frontline for airway compromise."
+  },
+  {
+    "id": "para-q-210-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-210",
+    "medication": "Methylprednisolone (Solu-Medrol)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient benefits most from prehospital methylprednisolone?",
+    "choices": [
+      "COPD patient with worsening wheezing and prolonged expirations",
+      "STEMI patient with crushing chest pain",
+      "Bradycardic patient after beta-blocker overdose",
+      "Stroke patient with sudden left-sided weakness"
+    ],
+    "correctAnswer": "COPD patient with worsening wheezing and prolonged expirations",
+    "rationale": "Steroids help reduce airway inflammation in COPD and asthma exacerbations.",
+    "clinicalPearl": "Peak effects are delayed 1–2 hours; give early in the transport course."
+  },
+  {
+    "id": "para-q-210-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-210",
+    "medication": "Methylprednisolone (Solu-Medrol)",
+    "questionType": "select-all-that-apply",
+    "stem": "What is true regarding methylprednisolone in the field? (Select all that apply.)",
+    "choices": [
+      "It has no role in anaphylaxis",
+      "It prevents recurrence after initial treatment",
+      "It may help reduce airway swelling",
+      "It replaces the need for epinephrine",
+      "It should not delay definitive airway care if needed"
+    ],
+    "correctAnswer": [
+      "It prevents recurrence after initial treatment",
+      "It may help reduce airway swelling",
+      "It should not delay definitive airway care if needed"
+    ],
+    "rationale": "Steroids serve as adjunct therapy, not a replacement for epinephrine or airway management.",
+    "clinicalPearl": "Think of steroids as 'future protection' rather than immediate rescue."
+  },
+  {
+  "id": "para-q-211-1",
+  "scope": ["Paramedic"],
+  "medicationId": "paramedic-211",
+  "medication": "Succinylcholine",
+  "questionType": "multiple-choice",
+  "stem": "A burn patient (10 days post-injury) requires RSI. Why is succinylcholine contraindicated?",
+  "choices": [
+    "It will cause profound hypotension",
+    "It increases serum potassium and risk for lethal dysrhythmias",
+    "It causes severe bronchoconstriction in burn victims",
+    "It is ineffective in patients with damaged skin tissue"
+  ],
+  "correctAnswer": "It increases serum potassium and risk for lethal dysrhythmias",
+  "rationale": "Succinylcholine can cause dangerous hyperkalemia in burns, crush injuries, and neuromuscular disease.",
+  "clinicalPearl": "If at risk for hyperkalemia, choose a non-depolarizing paralytic like rocuronium instead."
+},
+{
+  "id": "para-q-211-2",
+  "scope": ["Paramedic"],
+  "medicationId": "paramedic-211",
+  "medication": "Succinylcholine",
+  "questionType": "multiple-choice",
+  "stem": "After succinylcholine is given, the patient becomes apneic and fasciculations are noted. What is the correct response?",
+  "choices": [
+    "Administer etomidate to deepen sedation",
+    "Ventilate and continue RSI — this is expected physiology",
+    "Begin chest compressions immediately",
+    "Reverse the medication with magnesium"
+  ],
+  "correctAnswer": "Ventilate and continue RSI — this is expected physiology",
+  "rationale": "Fasciculations and apnea confirm paralysis; respiratory support is required until airway secured.",
+  "clinicalPearl": "Never administer paralytics without sedative/induction agents and airway readiness."
+},
+{
+  "id": "para-q-211-3",
+  "scope": ["Paramedic"],
+  "medicationId": "paramedic-211",
+  "medication": "Succinylcholine",
+  "questionType": "select-all-that-apply",
+  "stem": "Who should *not* receive succinylcholine? (Select all that apply.)",
+  "choices": [
+    "Patient with crush injury 48 hours ago",
+    "CHF patient with fluid overload",
+    "ALS patient with progressive weakness",
+    "Burn patient 15 days post-injury",
+    "Stroke patient with residual paralysis"
+  ],
+  "correctAnswer": [
+    "Patient with crush injury 48 hours ago",
+    "ALS patient with progressive weakness",
+    "Burn patient 15 days post-injury",
+    "Stroke patient with residual paralysis"
+  ],
+  "rationale": "All listed situations increase potassium receptor upregulation and risk for lethal hyperkalemia when exposed to succinylcholine.",
+  "clinicalPearl": "If uncertain, default to rocuronium."
+},
+  {
+  "id": "para-q-212-1",
+  "scope": ["Paramedic"],
+  "medicationId": "paramedic-212",
+  "medication": "Adenosine",
+  "questionType": "multiple-choice",
+  "stem": "Which rhythm is most appropriate for adenosine administration?",
+  "choices": [
+    "Atrial fibrillation with RVR",
+    "Regular narrow-complex tachycardia",
+    "Wide-complex VTach with pulses",
+    "Torsades de Pointes"
+  ],
+  "correctAnswer": "Regular narrow-complex tachycardia",
+  "rationale": "Adenosine terminates AV-node dependent SVTs but does not treat atrial fibrillation, atrial flutter, or ventricular rhythms.",
+  "clinicalPearl": "If the rhythm is irregular — do not use adenosine."
+},
+{
+  "id": "para-q-212-2",
+  "scope": ["Paramedic"],
+  "medicationId": "paramedic-212",
+  "medication": "Adenosine",
+  "questionType": "multiple-choice",
+  "stem": "Immediately after adenosine administration, the patient becomes asystolic for 5 seconds. What should the paramedic do?",
+  "choices": [
+    "Call a code and begin CPR",
+    "Reassure the patient — this is an expected response",
+    "Administer amiodarone",
+    "Push atropine immediately"
+  ],
+  "correctAnswer": "Reassure the patient — this is an expected response",
+  "rationale": "Transient asystole/pauses are common as adenosine interrupts AV conduction.",
+  "clinicalPearl": "Warn the patient beforehand; the sensation can feel like 'death is coming' to them."
+},
+{
+  "id": "para-q-212-3",
+  "scope": ["Paramedic"],
+  "medicationId": "paramedic-212",
+  "medication": "Adenosine",
+  "questionType": "select-all-that-apply",
+  "stem": "Adenosine is contraindicated in which conditions? (Select all that apply.)",
+  "choices": [
+    "Atrial flutter",
+    "WPW with atrial fibrillation",
+    "COPD with wheezing",
+    "Sinus tachycardia from dehydration",
+    "Wide-complex tachycardia of unknown origin"
+  ],
+  "correctAnswer": [
+    "Atrial flutter",
+    "WPW with atrial fibrillation",
+    "COPD with wheezing",
+    "Wide-complex tachycardia of unknown origin"
+  ],
+  "rationale": "These rhythms can deteriorate or be made worse by AV node suppression.",
+  "clinicalPearl": "If you don’t know the rhythm — do not push adenosine."
+},
+  {
+    "id": "para-q-213-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-213",
+    "medication": "Amiodarone",
+    "questionType": "multiple-choice",
+    "stem": "A pulseless patient in V-fib has received defibrillation and CPR continues. What is the most appropriate next action regarding amiodarone?",
+    "choices": [
+      "Administrate 150 mg IV over 10 minutes",
+      "Withhold medications until a pulse returns",
+      "Give 300 mg IV/IO push",
+      "Administer 450 mg IV in one dose"
+    ],
+    "correctAnswer": "Give 300 mg IV/IO push",
+    "rationale": "ACLS recommends 300 mg IV/IO for pulseless VT/VF after defibrillation attempts.",
+    "clinicalPearl": "Amiodarone is a second-line agent after defibrillation for refractory VF/VT."
+  },
+  {
+    "id": "para-q-213-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-213",
+    "medication": "Amiodarone",
+    "questionType": "multiple-choice",
+    "stem": "Why should amiodarone be used cautiously in patients with hypotension?",
+    "choices": [
+      "It increases myocardial oxygen demand",
+      "It is a potent vasodilator that may worsen BP",
+      "It causes immediate bradycardia and asystole",
+      "It has no effect on blood pressure"
+    ],
+    "correctAnswer": "It is a potent vasodilator that may worsen BP",
+    "rationale": "Amiodarone can cause vasodilation and decrease blood pressure, especially with rapid administration.",
+    "clinicalPearl": "Slow infusion can reduce risk of hypotension when the patient has a pulse."
+  },
+  {
+    "id": "para-q-213-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-213",
+    "medication": "Amiodarone",
+    "questionType": "select-all-that-apply",
+    "stem": "Which dysrhythmias may be treated with amiodarone in the field? (Select all that apply.)",
+    "choices": [
+      "Pulseless VT",
+      "Ventricular Fibrillation",
+      "Stable SVT",
+      "Atrial flutter with RVR",
+      "Sustained VT with pulses"
+    ],
+    "correctAnswer": [
+      "Pulseless VT",
+      "Ventricular Fibrillation",
+      "Sustained VT with pulses"
+    ],
+    "rationale": "Amiodarone's primary field indications are shock-refractory VF/VT and sustained VT with a pulse.",
+    "clinicalPearl": "Do not use for irregular narrow-complex rhythms like Afib with RVR in the field."
+  },
+  {
+    "id": "para-q-214-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-214",
+    "medication": "Lidocaine",
+    "questionType": "multiple-choice",
+    "stem": "A patient in wide-complex tachycardia is conscious and BP is stable. What is the correct initial dose of lidocaine?",
+    "choices": [
+      "0.5 mg/kg IV/IO",
+      "1–1.5 mg/kg IV/IO",
+      "3 mg/kg IV/IO",
+      "5 mg IV/IO over 10 minutes"
+    ],
+    "correctAnswer": "1–1.5 mg/kg IV/IO",
+    "rationale": "This is the standard initial bolus dose for ventricular arrhythmias.",
+    "clinicalPearl": "Repeat doses are allowed up to a total of 3 mg/kg."
+  },
+  {
+    "id": "para-q-214-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-214",
+    "medication": "Lidocaine",
+    "questionType": "multiple-choice",
+    "stem": "Lidocaine should be avoided in which patient?",
+    "choices": [
+      "V-fib in cardiac arrest",
+      "WPW with atrial fibrillation",
+      "Pulseless VT",
+      "Stable ventricular ectopy post-MI"
+    ],
+    "correctAnswer": "WPW with atrial fibrillation",
+    "rationale": "Lidocaine can worsen conduction issues in accessory pathway syndromes like WPW.",
+    "clinicalPearl": "If you're unsure of the rhythm, avoid lidocaine until diagnostic clarity is reached."
+  },
+  {
+    "id": "para-q-214-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-214",
+    "medication": "Lidocaine",
+    "questionType": "select-all-that-apply",
+    "stem": "What symptoms may indicate lidocaine toxicity? (Select all that apply.)",
+    "choices": [
+      "Seizures",
+      "Bradycardia",
+      "Tinnitus",
+      "Visual disturbances",
+      "Severe hypertension"
+    ],
+    "correctAnswer": [
+      "Seizures",
+      "Tinnitus",
+      "Visual disturbances"
+    ],
+    "rationale": "Neurological signs often present first with lidocaine toxicity.",
+    "clinicalPearl": "Monitor mental status and vital signs closely when repeating doses."
+  },
+  {
+    "id": "para-q-215-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-215",
+    "medication": "Procainamide",
+    "questionType": "multiple-choice",
+    "stem": "A patient on a procainamide infusion develops a QRS duration that widens significantly. What should the paramedic do?",
+    "choices": [
+      "Increase the infusion rate",
+      "Immediately stop the infusion",
+      "Bolus more to maintain suppression",
+      "Switch to atropine"
+    ],
+    "correctAnswer": "Immediately stop the infusion",
+    "rationale": "Procainamide toxicity presents as QRS widening and prolongation.",
+    "clinicalPearl": "Monitor ECG continuously when running procainamide."
+  },
+  {
+    "id": "para-q-215-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-215",
+    "medication": "Procainamide",
+    "questionType": "multiple-choice",
+    "stem": "Which arrhythmia favors procainamide use when adenosine fails?",
+    "choices": [
+      "Irregular AFib",
+      "SVT related to WPW",
+      "Bradycardia with hypotension",
+      "Ventricular fibrillation"
+    ],
+    "correctAnswer": "SVT related to WPW",
+    "rationale": "Procainamide is useful for reentry tachycardias and WPW-related events.",
+    "clinicalPearl": "Avoid in prolonged QT — torsades risk."
+  },
+  {
+    "id": "para-q-215-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-215",
+    "medication": "Procainamide",
+    "questionType": "select-all-that-apply",
+    "stem": "Procainamide is contraindicated in which patients? (Select all that apply.)",
+    "choices": [
+      "Torsades de Pointes",
+      "Digitalis toxicity",
+      "2nd/3rd-degree heart block",
+      "SVT refractory to adenosine",
+      "Prolonged QT interval"
+    ],
+    "correctAnswer": [
+      "Torsades de Pointes",
+      "Digitalis toxicity",
+      "2nd/3rd-degree heart block",
+      "Prolonged QT interval"
+    ],
+    "rationale": "These are direct contraindications due to conduction and rhythm impact.",
+    "clinicalPearl": "If unsure, consider amiodarone instead."
+  },
+  {
+    "id": "para-q-216-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-216",
+    "medication": "Metoprolol",
+    "questionType": "multiple-choice",
+    "stem": "A patient with new-onset rapid Afib (HR 150) and BP 92/58 is being considered for metoprolol. What is the best choice?",
+    "choices": [
+      "Administer 5 mg slow IV push",
+      "Hold medication due to hypotension",
+      "Administer 15 mg rapid IV push",
+      "Give IM for slower absorption"
+    ],
+    "correctAnswer": "Hold medication due to hypotension",
+    "rationale": "Beta-blockers may worsen hypotension; avoid with low BP.",
+    "clinicalPearl": "Assess perfusion before rate control."
+  },
+  {
+    "id": "para-q-216-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-216",
+    "medication": "Metoprolol",
+    "questionType": "multiple-choice",
+    "stem": "Which condition is a clear contraindication for metoprolol?",
+    "choices": [
+      "Tachycardia",
+      "Severe asthma with active bronchospasm",
+      "Hypertension",
+      "Recent MI"
+    ],
+    "correctAnswer": "Severe asthma with active bronchospasm",
+    "rationale": "Beta-blockade can trigger bronchoconstriction in reactive airway disease.",
+    "clinicalPearl": "Consider cardiology consult pathways when in doubt."
+  },
+  {
+    "id": "para-q-216-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-216",
+    "medication": "Metoprolol",
+    "questionType": "select-all-that-apply",
+    "stem": "Expected effects of metoprolol include which? (Select all that apply.)",
+    "choices": [
+      "Reduced heart rate",
+      "Reduced blood pressure",
+      "Bronchodilation",
+      "Decreased myocardial oxygen demand",
+      "Increased AV conduction speed"
+    ],
+    "correctAnswer": [
+      "Reduced heart rate",
+      "Reduced blood pressure",
+      "Decreased myocardial oxygen demand"
+    ],
+    "rationale": "These are the desired hemodynamic effects of beta-1 selective blockade.",
+    "clinicalPearl": "Slowing the heart can improve perfusion when used correctly."
+  },
+  {
+    "id": "para-q-217-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-217",
+    "medication": "Diltiazem (Cardizem)",
+    "questionType": "multiple-choice",
+    "stem": "A patient with Afib RVR has a BP of 106/70 and HR 168. Diltiazem is considered. What is the correct initial dose?",
+    "choices": [
+      "0.1 mg/kg IV",
+      "0.25 mg/kg IV over 2 minutes",
+      "25 mg IV push rapid",
+      "0.35 mg/kg IM"
+    ],
+    "correctAnswer": "0.25 mg/kg IV over 2 minutes",
+    "rationale": "This is the standard loading dose for rate control.",
+    "clinicalPearl": "Monitor pressure closely — vasodilation may drop BP."
+  },
+  {
+    "id": "para-q-217-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-217",
+    "medication": "Diltiazem (Cardizem)",
+    "questionType": "multiple-choice",
+    "stem": "When is diltiazem *not* appropriate?",
+    "choices": [
+      "Afib RVR",
+      "Narrow-complex tachycardia",
+      "WPW with atrial fibrillation",
+      "Stable SVT after vagal maneuvers"
+    ],
+    "correctAnswer": "WPW with atrial fibrillation",
+    "rationale": "Diltiazem can worsen conduction pathway issues and provoke VF.",
+    "clinicalPearl": "Avoid in accessory pathway arrhythmias."
+  },
+  {
+    "id": "para-q-217-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-217",
+    "medication": "Diltiazem (Cardizem)",
+    "questionType": "select-all-that-apply",
+    "stem": "Contraindications to diltiazem include which? (Select all that apply.)",
+    "choices": [
+      "SSS",
+      "Bradycardia",
+      "CHF with poor perfusion",
+      "Ventricular tachycardia",
+      "Stable SVT"
+    ],
+    "correctAnswer": [
+      "SSS",
+      "Bradycardia",
+      "CHF with poor perfusion",
+      "Ventricular tachycardia"
+    ],
+    "rationale": "These conditions may worsen with calcium channel blockade.",
+    "clinicalPearl": "Do not treat VT with AV nodal blockers."
+  },
+  {
+    "id": "para-q-218-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-218",
+    "medication": "Dopamine",
+    "questionType": "multiple-choice",
+    "stem": "You begin dopamine for symptomatic bradycardia unresponsive to atropine. What is the correct starting range?",
+    "choices": [
+      "1–5 mcg/kg/min",
+      "5–20 mcg/kg/min",
+      "20–40 mcg/kg/min",
+      "50 mcg/kg/min"
+    ],
+    "correctAnswer": "5–20 mcg/kg/min",
+    "rationale": "This is the ACLS dosing range for symptomatic bradycardia and hypotension.",
+    "clinicalPearl": "Use lowest effective dose to reduce tachydysrhythmia risk."
+  },
+  {
+    "id": "para-q-218-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-218",
+    "medication": "Dopamine",
+    "questionType": "multiple-choice",
+    "stem": "Why should dopamine be avoided in hypovolemic shock before fluid resuscitation?",
+    "choices": [
+      "It causes hypoglycemia",
+      "It increases insulin release",
+      "It may worsen tachycardia and increase oxygen demand",
+      "It is ineffective in all forms of shock"
+    ],
+    "correctAnswer": "It may worsen tachycardia and increase oxygen demand",
+    "rationale": "In hypovolemia, vasopressors can worsen perfusion; fluids must come first.",
+    "clinicalPearl": "Correct volume deficits before initiating pressors."
+  },
+  {
+    "id": "para-q-218-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-218",
+    "medication": "Dopamine",
+    "questionType": "select-all-that-apply",
+    "stem": "Signs that dopamine infusion is too high include: (Select all that apply.)",
+    "choices": [
+      "Tachycardia",
+      "Hypertension",
+      "PVCs",
+      "Severe bradycardia",
+      "Chest pain"
+    ],
+    "correctAnswer": [
+      "Tachycardia",
+      "Hypertension",
+      "PVCs",
+      "Chest pain"
+    ],
+    "rationale": "Dopamine increases sympathetic output which may cause dysrhythmias and ischemia.",
+    "clinicalPearl": "Titrate to perfusion, not numbers alone."
+  },
+  {
+    "id": "para-q-219-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-219",
+    "medication": "Epinephrine (Cardiac)",
+    "questionType": "multiple-choice",
+    "stem": "What is the correct dose of epinephrine for cardiac arrest?",
+    "choices": [
+      "1 mg IV/IO every 3–5 minutes",
+      "0.3 mg IM every 5 minutes",
+      "0.01 mg/kg ET every 10 minutes",
+      "5 mg IV every 3–5 minutes"
+    ],
+    "correctAnswer": "1 mg IV/IO every 3–5 minutes",
+    "rationale": "Standard ACLS dosing for cardiac arrest.",
+    "clinicalPearl": "Push hard, push fast, minimize interruptions — meds support CPR, not replace it."
+  },
+  {
+    "id": "para-q-219-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-219",
+    "medication": "Epinephrine (Cardiac)",
+    "questionType": "multiple-choice",
+    "stem": "A patient with PEA receives epinephrine. What is the intended physiologic effect?",
+    "choices": [
+      "Vasodilation to improve organ perfusion",
+      "Improved coronary perfusion pressure via vasoconstriction",
+      "Reduction in myocardial oxygen demand",
+      "Direct conversion to sinus rhythm"
+    ],
+    "correctAnswer": "Improved coronary perfusion pressure via vasoconstriction",
+    "rationale": "Alpha-1 effects increase systemic vascular resistance improving perfusion during CPR.",
+    "clinicalPearl": "Epi is not a defibrillation substitute — treat the cause of PEA."
+  },
+  {
+    "id": "para-q-219-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-219",
+    "medication": "Epinephrine (Cardiac)",
+    "questionType": "select-all-that-apply",
+    "stem": "Which rhythms are appropriate for epinephrine administration? (Select all that apply.)",
+    "choices": [
+      "Ventricular fibrillation",
+      "Pulseless VT",
+      "Asystole",
+      "PEA",
+      "Stable SVT with pulses"
+    ],
+    "correctAnswer": [
+      "Ventricular fibrillation",
+      "Pulseless VT",
+      "Asystole",
+      "PEA"
+    ],
+    "rationale": "Epinephrine is indicated for all cardiac arrest rhythms.",
+    "clinicalPearl": "Not indicated for stable SVT — address rate control instead."
+  }
+
+
+]
 
