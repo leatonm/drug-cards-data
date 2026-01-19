@@ -967,5 +967,283 @@
     "correctAnswer": "Support airway and titrate naloxone to respirations",
     "rationale": "Naloxone should be titrated to adequate respirations, not full arousal. Rapid reversal can precipitate acute withdrawal and agitation.",
     "clinicalPearl": "The goal of naloxone is breathing — not consciousness."
+  },
+  {
+    "id": "para-q-292-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-292",
+    "medication": "Dexamethasone",
+    "questionType": "multiple-choice",
+    "stem": "A 3-year-old presents with stridor and barky cough. Oxygen saturation is 92%. What is the most appropriate action regarding dexamethasone?",
+    "choices": [
+      "Administer 10 mg IV immediately",
+      "Administer 0.6 mg/kg IV/IM (max 10 mg)",
+      "Avoid corticosteroids and start nebulized epinephrine only",
+      "Administer 40 mg PO for immediate effect"
+    ],
+    "correctAnswer": "Administer 0.6 mg/kg IV/IM (max 10 mg)",
+    "rationale": "Dexamethasone is indicated in croup and is dosed by weight for pediatric patients.",
+    "clinicalPearl": "Corticosteroids reduce airway inflammation but take time; adjunct therapy may be needed for acute distress."
+  },
+  {
+    "id": "para-q-292-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-292",
+    "medication": "Dexamethasone",
+    "questionType": "multiple-choice",
+    "stem": "An adult asthma patient is not responding to initial albuterol treatments. When should dexamethasone be administered?",
+    "choices": [
+      "Only if the patient develops hypotension",
+      "Early in the treatment to reduce inflammation",
+      "After discharge as an outpatient prescription",
+      "Avoid if oxygen saturation is >95%"
+    ],
+    "correctAnswer": "Early in the treatment to reduce inflammation",
+    "rationale": "Corticosteroids help prevent worsening inflammation and reduce hospital admissions when given early.",
+    "clinicalPearl": "Time is critical; do not delay steroids in moderate-to-severe exacerbations."
+  },
+  {
+    "id": "para-q-292-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-292",
+    "medication": "Dexamethasone",
+    "questionType": "select-all-that-apply",
+    "stem": "Which patients may benefit from dexamethasone in the prehospital setting? (Select all that apply.)",
+    "choices": [
+      "Pediatric patient with croup",
+      "Adult with acute asthma exacerbation",
+      "Patient with active systemic fungal infection",
+      "Spinal cord injury with neurogenic edema"
+    ],
+    "correctAnswer": [
+      "Pediatric patient with croup",
+      "Adult with acute asthma exacerbation",
+      "Spinal cord injury with neurogenic edema"
+    ],
+    "rationale": "Dexamethasone reduces inflammation in airway, asthma, and spinal cord injury scenarios; it is contraindicated in systemic fungal infections.",
+    "clinicalPearl": "Always consider infection risks before corticosteroid administration."
+  },
+  {
+    "id": "para-q-293-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-293",
+    "medication": "Hydrocortisone",
+    "questionType": "multiple-choice",
+    "stem": "A patient with adrenal crisis is hypotensive and tachycardic. What is the correct prehospital hydrocortisone administration?",
+    "choices": [
+      "100 mg IV immediately",
+      "0.6 mg/kg IM once",
+      "40 mg PO over 1 hour",
+      "Avoid until hospital evaluation"
+    ],
+    "correctAnswer": "100 mg IV immediately",
+    "rationale": "Hydrocortisone replaces cortisol urgently in adrenal crisis to support blood pressure and perfusion.",
+    "clinicalPearl": "Early steroid replacement is lifesaving in adrenal insufficiency."
+  },
+  {
+    "id": "para-q-293-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-293",
+    "medication": "Hydrocortisone",
+    "questionType": "multiple-choice",
+    "stem": "During septic shock, when is hydrocortisone indicated in the field?",
+    "choices": [
+      "As a primary resuscitative agent",
+      "Adjunct therapy if hypotension persists despite fluids and vasopressors",
+      "Only after hospital admission",
+      "Avoid if the patient has infection"
+    ],
+    "correctAnswer": "Adjunct therapy if hypotension persists despite fluids and vasopressors",
+    "rationale": "Hydrocortisone is used as adjunctive therapy in refractory septic shock.",
+    "clinicalPearl": "It improves hemodynamics but is not first-line resuscitation."
+  },
+  {
+    "id": "para-q-293-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-293",
+    "medication": "Hydrocortisone",
+    "questionType": "select-all-that-apply",
+    "stem": "Which scenarios warrant hydrocortisone use in the prehospital setting? (Select all that apply.)",
+    "choices": [
+      "Adrenal crisis",
+      "Septic shock unresponsive to fluids",
+      "Anaphylaxis as adjunct therapy",
+      "Isolated mild asthma"
+    ],
+    "correctAnswer": [
+      "Adrenal crisis",
+      "Septic shock unresponsive to fluids",
+      "Anaphylaxis as adjunct therapy"
+    ],
+    "rationale": "Hydrocortisone addresses cortisol deficiency and supports perfusion and inflammation control in severe conditions.",
+    "clinicalPearl": "Not indicated for routine asthma exacerbation without shock."
+  },
+  {
+    "id": "para-q-292-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-292",
+    "medication": "Dexamethasone",
+    "questionType": "multiple-choice",
+    "stem": "A 4-year-old presents with inspiratory stridor and a barking cough, consistent with croup. Which is the most appropriate prehospital medication?",
+    "choices": [
+      "Epinephrine IM",
+      "Dexamethasone PO/IV/IM",
+      "Albuterol nebulizer",
+      "Prednisone PO"
+    ],
+    "correctAnswer": "Dexamethasone PO/IV/IM",
+    "rationale": "Dexamethasone is effective in reducing airway inflammation in croup and can be given orally, IM, or IV in the field.",
+    "clinicalPearl": "Even a single dose can improve airway swelling and reduce hospital admissions."
+  },
+  {
+    "id": "para-q-292-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-292",
+    "medication": "Dexamethasone",
+    "questionType": "multiple-choice",
+    "stem": "A patient with severe asthma exacerbation is struggling to breathe despite multiple albuterol treatments. What adjunct medication can be administered to reduce airway inflammation?",
+    "choices": [
+      "Dexamethasone IV/IM",
+      "Hydrocortisone PO",
+      "Magnesium sulfate IV",
+      "Ipratropium inhalation only"
+    ],
+    "correctAnswer": "Dexamethasone IV/IM",
+    "rationale": "Dexamethasone is a corticosteroid that rapidly reduces airway inflammation and is recommended in severe asthma exacerbations.",
+    "clinicalPearl": "Early administration of corticosteroids in asthma improves outcomes and reduces the need for ICU admission."
+  },
+  {
+    "id": "para-q-292-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-292",
+    "medication": "Dexamethasone",
+    "questionType": "select-all-that-apply",
+    "stem": "Dexamethasone may be indicated in the prehospital setting for which of the following? (Select all that apply.)",
+    "choices": [
+      "Croup",
+      "Asthma exacerbation",
+      "Spinal cord injury with edema",
+      "Hypoglycemia",
+      "Septic shock"
+    ],
+    "correctAnswer": [
+      "Croup",
+      "Asthma exacerbation",
+      "Spinal cord injury with edema"
+    ],
+    "rationale": "Dexamethasone reduces inflammation and edema in airway disease and spinal cord injury. It is not used for hypoglycemia or as a primary shock treatment.",
+    "clinicalPearl": "Corticosteroids are adjuncts, not emergency rescue medications."
+  },
+  {
+    "id": "para-q-293-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-293",
+    "medication": "Hydrocortisone",
+    "questionType": "multiple-choice",
+    "stem": "A patient in adrenal crisis is hypotensive and altered. Which medication should be administered immediately?",
+    "choices": [
+      "Hydrocortisone IV",
+      "Dexamethasone IV",
+      "Prednisone PO",
+      "Fludrocortisone PO"
+    ],
+    "correctAnswer": "Hydrocortisone IV",
+    "rationale": "Hydrocortisone replaces cortisol rapidly and is life-saving in adrenal crisis.",
+    "clinicalPearl": "Early IV administration can prevent cardiovascular collapse."
+  },
+  {
+    "id": "para-q-293-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-293",
+    "medication": "Hydrocortisone",
+    "questionType": "multiple-choice",
+    "stem": "A septic shock patient remains hypotensive after fluids and vasopressors. Which corticosteroid may be used as adjunct therapy?",
+    "choices": [
+      "Hydrocortisone IV",
+      "Prednisone PO",
+      "Dexamethasone IM",
+      "Methylprednisolone PO"
+    ],
+    "correctAnswer": "Hydrocortisone IV",
+    "rationale": "Hydrocortisone can improve hemodynamic stability in refractory septic shock as per ACLS/sepsis guidelines.",
+    "clinicalPearl": "Used in low doses IV, not as long-term therapy."
+  },
+  {
+    "id": "para-q-293-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-293",
+    "medication": "Hydrocortisone",
+    "questionType": "select-all-that-apply",
+    "stem": "Hydrocortisone may be indicated in which prehospital scenarios? (Select all that apply.)",
+    "choices": [
+      "Adrenal crisis",
+      "Septic shock adjunct",
+      "Anaphylaxis adjunct",
+      "Acute myocardial infarction",
+      "Status epilepticus"
+    ],
+    "correctAnswer": [
+      "Adrenal crisis",
+      "Septic shock adjunct",
+      "Anaphylaxis adjunct"
+    ],
+    "rationale": "Hydrocortisone supports cortisol-deficient states and severe inflammatory conditions, not as primary therapy for MI or seizures.",
+    "clinicalPearl": "Always check for hypersensitivity before IV administration."
+  },
+  {
+    "id": "para-q-294-1",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-294",
+    "medication": "Prednisone",
+    "questionType": "multiple-choice",
+    "stem": "A patient with an acute COPD exacerbation has received nebulized bronchodilators without improvement. Which oral medication can be given to reduce inflammation?",
+    "choices": [
+      "Prednisone PO",
+      "Dexamethasone IV",
+      "Hydrocortisone IV",
+      "Albuterol nebulizer"
+    ],
+    "correctAnswer": "Prednisone PO",
+    "rationale": "Prednisone reduces airway inflammation in COPD exacerbations and is suitable for prehospital use orally.",
+    "clinicalPearl": "Early administration reduces hospital length of stay."
+  },
+  {
+    "id": "para-q-294-2",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-294",
+    "medication": "Prednisone",
+    "questionType": "multiple-choice",
+    "stem": "Which patient should *not* receive prednisone in the prehospital setting?",
+    "choices": [
+      "Asthma exacerbation",
+      "COPD exacerbation",
+      "Patient with systemic fungal infection",
+      "Patient with severe wheezing"
+    ],
+    "correctAnswer": "Patient with systemic fungal infection",
+    "rationale": "Prednisone is immunosuppressive and contraindicated in systemic infections.",
+    "clinicalPearl": "Always screen for active infections before steroid use."
+  },
+  {
+    "id": "para-q-294-3",
+    "scope": ["Paramedic"],
+    "medicationId": "paramedic-294",
+    "medication": "Prednisone",
+    "questionType": "select-all-that-apply",
+    "stem": "Prednisone can be administered in which of the following conditions? (Select all that apply.)",
+    "choices": [
+      "Asthma exacerbation",
+      "COPD exacerbation",
+      "Septic shock",
+      "Anaphylaxis without airway compromise",
+      "Acute myocardial infarction"
+    ],
+    "correctAnswer": [
+      "Asthma exacerbation",
+      "COPD exacerbation"
+    ],
+    "rationale": "Prednisone is indicated for inflammatory airway diseases, not as a primary agent for shock or cardiac emergencies.",
+    "clinicalPearl": "Dosing is oral; IV alternatives exist if patient cannot swallow."
   }
 ]
+
