@@ -1,1 +1,343 @@
+[
+  {
+    "id": "emt-asa-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-asa-001",
+    "medication": "Acetylsalicylic Acid (Aspirin)",
+    "questionType": "multiple-choice",
+    "stem": "An EMT is preparing to give aspirin to a patient with chest pain. Which finding is a contraindication?",
+    "choices": [
+      "History of hypertension",
+      "Active gastrointestinal bleeding",
+      "Chest pain lasting 30 minutes",
+      "Age over 65"
+    ],
+    "correctAnswer": "Active gastrointestinal bleeding",
+    "rationale": "Aspirin inhibits platelet aggregation and can worsen active bleeding.",
+    "clinicalPearl": "Always screen for bleeding risk before giving aspirin for chest pain."
+  },
+  {
+    "id": "emt-asa-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-asa-001",
+    "medication": "Acetylsalicylic Acid (Aspirin)",
+    "questionType": "multiple-choice",
+    "stem": "What is the primary benefit of aspirin in suspected acute coronary syndrome?",
+    "choices": [
+      "Pain relief through vasodilation",
+      "Reduction of myocardial oxygen demand",
+      "Inhibition of platelet aggregation",
+      "Increase in coronary artery diameter"
+    ],
+    "correctAnswer": "Inhibition of platelet aggregation",
+    "rationale": "Aspirin limits clot propagation by inhibiting platelet function.",
+    "clinicalPearl": "Early aspirin use reduces mortality in acute coronary syndromes."
+  },
+  {
+    "id": "emt-asa-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-asa-001",
+    "medication": "Acetylsalicylic Acid (Aspirin)",
+    "questionType": "select-all-that-apply",
+    "stem": "Which patients may appropriately receive aspirin in the field? (Select all that apply.)",
+    "choices": [
+      "Adult with suspected MI and no allergies",
+      "Patient with known aspirin allergy",
+      "Patient with active vomiting of blood",
+      "Adult with chest pain and normal vital signs",
+      "Child with viral illness and fever"
+    ],
+    "correctAnswer": [
+      "Adult with suspected MI and no allergies",
+      "Adult with chest pain and normal vital signs"
+    ],
+    "rationale": "Aspirin is indicated for suspected MI unless contraindications such as allergy or bleeding exist.",
+    "clinicalPearl": "Avoid aspirin in children due to the risk of Reye’s syndrome."
+  },
+
+  {
+    "id": "emt-o2-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-o2-001",
+    "medication": "Oxygen",
+    "questionType": "multiple-choice",
+    "stem": "A patient is short of breath with an SpO2 of 86%. What is the EMT’s priority regarding oxygen?",
+    "choices": [
+      "Withhold oxygen until a diagnosis is confirmed",
+      "Apply oxygen to improve oxygenation",
+      "Administer oxygen only if cyanosis is present",
+      "Delay oxygen until advanced care arrives"
+    ],
+    "correctAnswer": "Apply oxygen to improve oxygenation",
+    "rationale": "Hypoxia is treated immediately with supplemental oxygen.",
+    "clinicalPearl": "Treat the patient, not just the number."
+  },
+  {
+    "id": "emt-o2-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-o2-001",
+    "medication": "Oxygen",
+    "questionType": "multiple-choice",
+    "stem": "Which oxygen delivery device provides the highest concentration of oxygen?",
+    "choices": [
+      "Nasal cannula",
+      "Simple face mask",
+      "Non-rebreather mask",
+      "Venturi mask"
+    ],
+    "correctAnswer": "Non-rebreather mask",
+    "rationale": "A non-rebreather mask can deliver up to nearly 100% oxygen when used correctly.",
+    "clinicalPearl": "Ensure the reservoir bag remains inflated during inspiration."
+  },
+  {
+    "id": "emt-o2-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-o2-001",
+    "medication": "Oxygen",
+    "questionType": "select-all-that-apply",
+    "stem": "Which situations indicate the need for oxygen therapy? (Select all that apply.)",
+    "choices": [
+      "Respiratory distress",
+      "Suspected cardiac arrest",
+      "Anxiety with normal oxygen saturation",
+      "Altered mental status of unknown cause",
+      "Isolated ankle injury"
+    ],
+    "correctAnswer": [
+      "Respiratory distress",
+      "Suspected cardiac arrest",
+      "Altered mental status of unknown cause"
+    ],
+    "rationale": "Oxygen supports oxygenation in hypoxic or potentially hypoxic states.",
+    "clinicalPearl": "When in doubt, oxygen is rarely harmful when used appropriately."
+  },
+
+  {
+    "id": "emt-ntg-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-ntg-001",
+    "medication": "Nitroglycerin",
+    "questionType": "multiple-choice",
+    "stem": "Before administering nitroglycerin, which assessment is most critical?",
+    "choices": [
+      "Blood glucose level",
+      "Blood pressure",
+      "Heart rate",
+      "Oxygen saturation"
+    ],
+    "correctAnswer": "Blood pressure",
+    "rationale": "Nitroglycerin can cause significant hypotension.",
+    "clinicalPearl": "Always confirm systolic BP meets protocol thresholds."
+  },
+  {
+    "id": "emt-ntg-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-ntg-001",
+    "medication": "Nitroglycerin",
+    "questionType": "multiple-choice",
+    "stem": "Nitroglycerin relieves chest pain primarily by:",
+    "choices": [
+      "Increasing heart rate",
+      "Reducing preload through venous dilation",
+      "Increasing oxygen-carrying capacity",
+      "Breaking up coronary clots"
+    ],
+    "correctAnswer": "Reducing preload through venous dilation",
+    "rationale": "Venous dilation decreases myocardial workload and oxygen demand.",
+    "clinicalPearl": "Pain relief does not rule out myocardial infarction."
+  },
+  {
+    "id": "emt-ntg-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-ntg-001",
+    "medication": "Nitroglycerin",
+    "questionType": "select-all-that-apply",
+    "stem": "Which findings would prevent nitroglycerin administration? (Select all that apply.)",
+    "choices": [
+      "Systolic BP of 88 mmHg",
+      "Recent sildenafil use",
+      "Chest pain rated 8/10",
+      "History of HOCM",
+      "Normal heart rate"
+    ],
+    "correctAnswer": [
+      "Systolic BP of 88 mmHg",
+      "Recent sildenafil use",
+      "History of HOCM"
+    ],
+    "rationale": "Hypotension and PDE-5 inhibitor use increase the risk of severe hypotension.",
+    "clinicalPearl": "Always ask about erectile dysfunction medications."
+  },
+
+  {
+    "id": "emt-dph-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-dph-001",
+    "medication": "Diphenhydramine (Benadryl)",
+    "questionType": "multiple-choice",
+    "stem": "Diphenhydramine is most appropriately used to treat:",
+    "choices": [
+      "Chest pain from MI",
+      "Anaphylaxis as a single agent",
+      "Allergic reactions with itching",
+      "Acute asthma attack"
+    ],
+    "correctAnswer": "Allergic reactions with itching",
+    "rationale": "Diphenhydramine blocks histamine-mediated symptoms such as itching and hives.",
+    "clinicalPearl": "It does not replace epinephrine in anaphylaxis."
+  },
+  {
+    "id": "emt-dph-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-dph-001",
+    "medication": "Diphenhydramine (Benadryl)",
+    "questionType": "multiple-choice",
+    "stem": "Which side effect is commonly associated with diphenhydramine?",
+    "choices": [
+      "Hypertension",
+      "Sedation",
+      "Bronchodilation",
+      "Hyperglycemia"
+    ],
+    "correctAnswer": "Sedation",
+    "rationale": "Diphenhydramine has anticholinergic and sedative properties.",
+    "clinicalPearl": "Warn patients about drowsiness after administration."
+  },
+  {
+    "id": "emt-dph-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-dph-001",
+    "medication": "Diphenhydramine (Benadryl)",
+    "questionType": "select-all-that-apply",
+    "stem": "Which conditions require caution or avoidance of diphenhydramine? (Select all that apply.)",
+    "choices": [
+      "Glaucoma",
+      "Acute asthma attack",
+      "Seasonal allergies",
+      "Known antihistamine allergy",
+      "Mild rash"
+    ],
+    "correctAnswer": [
+      "Glaucoma",
+      "Acute asthma attack",
+      "Known antihistamine allergy"
+    ],
+    "rationale": "Anticholinergic effects may worsen glaucoma and asthma.",
+    "clinicalPearl": "Know anticholinergic red flags before administration."
+  },
+
+  {
+    "id": "emt-epi-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-epi-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "What is the first-line medication for anaphylaxis?",
+    "choices": [
+      "Diphenhydramine",
+      "Albuterol",
+      "Epinephrine",
+      "Corticosteroids"
+    ],
+    "correctAnswer": "Epinephrine",
+    "rationale": "Epinephrine reverses airway edema, bronchospasm, and hypotension.",
+    "clinicalPearl": "Delay in epinephrine increases mortality."
+  },
+  {
+    "id": "emt-epi-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-epi-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "Which route is most appropriate for EMT epinephrine administration in anaphylaxis?",
+    "choices": [
+      "IV",
+      "IM",
+      "PO",
+      "SL"
+    ],
+    "correctAnswer": "IM",
+    "rationale": "IM injection provides rapid and reliable absorption.",
+    "clinicalPearl": "The lateral thigh is the preferred IM site."
+  },
+  {
+    "id": "emt-epi-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-epi-001",
+    "medication": "Epinephrine",
+    "questionType": "select-all-that-apply",
+    "stem": "Which symptoms indicate the need for epinephrine? (Select all that apply.)",
+    "choices": [
+      "Airway swelling",
+      "Severe wheezing",
+      "Mild isolated rash",
+      "Hypotension after allergen exposure",
+      "Runny nose only"
+    ],
+    "correctAnswer": [
+      "Airway swelling",
+      "Severe wheezing",
+      "Hypotension after allergen exposure"
+    ],
+    "rationale": "Systemic involvement defines anaphylaxis requiring epinephrine.",
+    "clinicalPearl": "Skin findings alone do not always indicate severity."
+  },
+
+  {
+    "id": "emt-glucose-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-glucose-001",
+    "medication": "Glucose",
+    "questionType": "multiple-choice",
+    "stem": "Which patient is the best candidate for oral glucose?",
+    "choices": [
+      "Unresponsive diabetic patient",
+      "Seizing patient",
+      "Alert patient with low blood sugar",
+      "Patient vomiting repeatedly"
+    ],
+    "correctAnswer": "Alert patient with low blood sugar",
+    "rationale": "Oral glucose requires an intact airway and ability to swallow.",
+    "clinicalPearl": "Never give oral glucose to an altered patient."
+  },
+  {
+    "id": "emt-glucose-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-glucose-001",
+    "medication": "Glucose",
+    "questionType": "multiple-choice",
+    "stem": "The primary effect of oral glucose is to:",
+    "choices": [
+      "Stimulate insulin release",
+      "Rapidly raise blood glucose levels",
+      "Decrease metabolic demand",
+      "Improve oxygen delivery"
+    ],
+    "correctAnswer": "Rapidly raise blood glucose levels",
+    "rationale": "Glucose provides immediate substrate for cellular metabolism.",
+    "clinicalPearl": "Recheck blood glucose after administration."
+  },
+  {
+    "id": "emt-glucose-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-glucose-001",
+    "medication": "Glucose",
+    "questionType": "select-all-that-apply",
+    "stem": "Which findings suggest hypoglycemia? (Select all that apply.)",
+    "choices": [
+      "Diaphoresis",
+      "Altered mental status",
+      "Bradycardia",
+      "Confusion",
+      "Warm, dry skin"
+    ],
+    "correctAnswer": [
+      "Diaphoresis",
+      "Altered mental status",
+      "Confusion"
+    ],
+    "rationale": "Low blood glucose commonly presents with neurologic and adrenergic symptoms.",
+    "clinicalPearl": "Hypoglycemia can mimic stroke or intoxication."
+  }
+]
 
