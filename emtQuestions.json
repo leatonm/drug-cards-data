@@ -963,6 +963,432 @@
     ],
     "rationale": "Hydrogels cool and protect superficial burn tissue.",
     "clinicalPearl": "Electrical burns require advanced evaluation."
+  },
+  {
+    "id": "emt-asa-scn-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-asa-001",
+    "medication": "Acetylsalicylic Acid (Aspirin)",
+    "questionType": "multiple-choice",
+    "stem": "A 58-year-old male presents with crushing chest pain and no known allergies. He has a history of peptic ulcer disease but no active bleeding. What should the EMT do regarding aspirin administration?",
+    "choices": [
+      "Administer aspirin immediately",
+      "Withhold aspirin due to past ulcer history",
+      "Wait for ALS guidance",
+      "Administer half the normal dose"
+    ],
+    "correctAnswer": "Administer aspirin immediately",
+    "rationale": "Aspirin is indicated in suspected MI unless active bleeding is present.",
+    "clinicalPearl": "Past ulcer history is not an absolute contraindication if bleeding is not active."
+  },
+  {
+    "id": "emt-o2-scn-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-o2-001",
+    "medication": "Oxygen",
+    "questionType": "multiple-choice",
+    "stem": "A patient with COPD is experiencing mild dyspnea and has an SpO₂ of 92%. What is the EMT’s best approach to oxygen administration?",
+    "choices": [
+      "Apply high-flow oxygen immediately",
+      "Use titrated oxygen to maintain SpO₂ 88–92%",
+      "Withhold oxygen until ALS arrives",
+      "Use a non-rebreather at maximum flow"
+    ],
+    "correctAnswer": "Use titrated oxygen to maintain SpO₂ 88–92%",
+    "rationale": "Patients with chronic CO₂ retention are at risk for oxygen-induced hypercapnia.",
+    "clinicalPearl": "Always titrate oxygen based on patient-specific targets."
+  },
+  {
+    "id": "emt-ntg-scn-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-ntg-001",
+    "medication": "Nitroglycerin",
+    "questionType": "multiple-choice",
+    "stem": "A patient with chest pain and a BP of 92/60 mmHg requests nitroglycerin. What is the most appropriate action?",
+    "choices": [
+      "Administer nitroglycerin",
+      "Withhold nitroglycerin due to hypotension",
+      "Give half the usual dose",
+      "Apply topical nitroglycerin"
+    ],
+    "correctAnswer": "Withhold nitroglycerin due to hypotension",
+    "rationale": "Nitroglycerin can worsen hypotension and should be withheld if BP is below protocol threshold.",
+    "clinicalPearl": "Always check vitals before nitrate administration."
+  },
+  {
+    "id": "emt-dph-scn-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-dph-001",
+    "medication": "Diphenhydramine (Benadryl)",
+    "questionType": "multiple-choice",
+    "stem": "A patient presents with hives and mild facial swelling but no airway compromise. Which is the most appropriate EMT intervention?",
+    "choices": [
+      "Administer epinephrine IM",
+      "Administer diphenhydramine orally or IM",
+      "Apply topical steroid cream",
+      "Withhold medication and transport only"
+    ],
+    "correctAnswer": "Administer diphenhydramine orally or IM",
+    "rationale": "Mild allergic reactions without airway involvement can be treated with antihistamines.",
+    "clinicalPearl": "Epinephrine is reserved for systemic or airway involvement."
+  },
+  {
+    "id": "emt-epi-scn-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-epi-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "A patient develops sudden facial swelling, wheezing, and hypotension after a bee sting. What is the EMT’s first-line treatment?",
+    "choices": [
+      "Diphenhydramine IM",
+      "Albuterol nebulizer",
+      "Epinephrine IM",
+      "Oral prednisone"
+    ],
+    "correctAnswer": "Epinephrine IM",
+    "rationale": "Anaphylaxis with airway and circulatory involvement requires epinephrine as first-line therapy.",
+    "clinicalPearl": "Early epinephrine administration saves lives."
+  },
+  {
+    "id": "emt-glucose-scn-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-glucose-001",
+    "medication": "Glucose",
+    "questionType": "multiple-choice",
+    "stem": "A diabetic patient is alert, oriented, and reports dizziness. Blood glucose is 48 mg/dL. What is the safest EMT intervention?",
+    "choices": [
+      "IV dextrose only",
+      "Oral glucose",
+      "Observe without intervention",
+      "Administer naloxone"
+    ],
+    "correctAnswer": "Oral glucose",
+    "rationale": "An alert patient with intact swallowing can safely receive oral glucose.",
+    "clinicalPearl": "Always reassess glucose after treatment."
+  },
+  {
+    "id": "emt-narcan-scn-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-narcan-001",
+    "medication": "Naloxone (Narcan)",
+    "questionType": "multiple-choice",
+    "stem": "An unresponsive patient with shallow respirations and pinpoint pupils is suspected of opioid overdose. What is the EMT’s best initial intervention?",
+    "choices": [
+      "Apply supplemental oxygen only",
+      "Administer naloxone IN or IM",
+      "Start IV fluids first",
+      "Transport without intervention"
+    ],
+    "correctAnswer": "Administer naloxone IN or IM",
+    "rationale": "Naloxone reverses opioid-induced respiratory depression and is appropriate for EMS administration.",
+    "clinicalPearl": "Airway support should be maintained until respirations improve."
+  },
+  {
+    "id": "emt-alb-scn-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-alb-001",
+    "medication": "Albuterol",
+    "questionType": "multiple-choice",
+    "stem": "A 12-year-old patient presents with an asthma attack, audible wheezing, and accessory muscle use. Which EMT intervention is most appropriate?",
+    "choices": [
+      "Administer albuterol via nebulizer",
+      "Give oral prednisone",
+      "Apply oxygen only",
+      "Transport immediately without treatment"
+    ],
+    "correctAnswer": "Administer albuterol via nebulizer",
+    "rationale": "Bronchodilation is the priority in acute asthma with respiratory distress.",
+    "clinicalPearl": "Continuous monitoring is required due to risk of deterioration."
+  },
+  {
+    "id": "emt-ibu-scn-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "A patient with a headache reports chronic kidney disease. Which pain management choice is safest for an EMT to consider?",
+    "choices": [
+      "Ibuprofen",
+      "Acetaminophen",
+      "High-dose aspirin",
+      "Topical NSAID cream only"
+    ],
+    "correctAnswer": "Acetaminophen",
+    "rationale": "NSAIDs can worsen renal function; acetaminophen is safer for pain in CKD.",
+    "clinicalPearl": "Always review comorbidities before administering NSAIDs."
+  },
+  {
+    "id": "emt-burn-scn-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-burn-gel-001",
+    "medication": "Burn Dressing / Hydrogel",
+    "questionType": "multiple-choice",
+    "stem": "A patient presents with a partial-thickness burn after spilling hot liquid on their hand. Which EMT intervention is most appropriate?",
+    "choices": [
+      "Cover with dry sterile gauze only",
+      "Apply burn gel after cooling",
+      "Rub ice directly on the burn",
+      "Apply antibiotic ointment and wrap tightly"
+    ],
+    "correctAnswer": "Apply burn gel after cooling",
+    "rationale": "Burn gels cool tissue and reduce progression of injury after initial irrigation.",
+    "clinicalPearl": "Never apply burn gel before stopping the burning process."
+  },
+  {
+    "id": "emt-hemo-scn-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-hemo-001",
+    "medication": "Hemostatic Agents",
+    "questionType": "multiple-choice",
+    "stem": "A patient has a large, uncontrolled arterial bleed from a leg laceration. Direct pressure slows bleeding but it persists. Which is the EMT’s next best step?",
+    "choices": [
+      "Apply hemostatic dressing over the wound",
+      "Apply only sterile gauze and wait",
+      "Transport immediately without dressing",
+      "Apply tourniquet above the knee only"
+    ],
+    "correctAnswer": "Apply hemostatic dressing over the wound",
+    "rationale": "Hemostatic agents help control persistent bleeding when direct pressure is insufficient.",
+    "clinicalPearl": "Combine with direct pressure for optimal effect."
+  },
+  {
+    "id": "emt-n2o-scn-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-n2o-001",
+    "medication": "Nitrous Oxide",
+    "questionType": "multiple-choice",
+    "stem": "A patient with a painful, isolated arm fracture requests pain relief. Which is the safest EMT intervention?",
+    "choices": [
+      "Administer IV morphine",
+      "Provide nitrous oxide via self-administration",
+      "Apply topical lidocaine",
+      "Withhold analgesia until ALS arrives"
+    ],
+    "correctAnswer": "Provide nitrous oxide via self-administration",
+    "rationale": "Nitrous oxide provides rapid, patient-controlled analgesia in the prehospital setting.",
+    "clinicalPearl": "Monitor mental status and oxygenation during administration."
+  },
+  {
+    "id": "emt-asa-scn-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-asa-001",
+    "medication": "Acetylsalicylic Acid (Aspirin)",
+    "questionType": "multiple-choice",
+    "stem": "A 62-year-old female with chest pain has taken 81 mg of aspirin daily for heart disease. She now presents with acute chest pain. What should the EMT do?",
+    "choices": [
+      "Administer another 325 mg aspirin",
+      "Withhold aspirin since she takes it daily",
+      "Administer nitroglycerin instead",
+      "Transport without intervention"
+    ],
+    "correctAnswer": "Administer another 325 mg aspirin",
+    "rationale": "Even patients on daily low-dose aspirin benefit from a full dose in suspected MI.",
+    "clinicalPearl": "Check for contraindications but do not withhold in acute coronary syndromes."
+  },
+  {
+    "id": "emt-o2-scn-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-o2-001",
+    "medication": "Oxygen",
+    "questionType": "multiple-choice",
+    "stem": "A patient is unconscious with snoring respirations and an SpO₂ of 80%. What is the EMT’s priority?",
+    "choices": [
+      "Position airway and apply oxygen via non-rebreather",
+      "Place in recovery position only",
+      "Wait for ALS",
+      "Start CPR immediately"
+    ],
+    "correctAnswer": "Position airway and apply oxygen via non-rebreather",
+    "rationale": "Airway management and oxygenation are priorities for hypoxic patients.",
+    "clinicalPearl": "Always assess and maintain airway before oxygen delivery."
+  },
+  {
+    "id": "emt-ntg-scn-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-ntg-001",
+    "medication": "Nitroglycerin",
+    "questionType": "multiple-choice",
+    "stem": "A patient with chest pain reports taking sildenafil 4 hours ago. Their BP is 110/70. What is the safest EMT action regarding nitroglycerin?",
+    "choices": [
+      "Administer nitroglycerin",
+      "Withhold nitroglycerin and transport",
+      "Administer half-dose nitroglycerin",
+      "Apply topical nitroglycerin"
+    ],
+    "correctAnswer": "Withhold nitroglycerin and transport",
+    "rationale": "Concurrent PDE-5 inhibitor use is a contraindication due to risk of severe hypotension.",
+    "clinicalPearl": "Always ask about erectile dysfunction medications."
+  },
+  {
+    "id": "emt-dph-scn-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-dph-001",
+    "medication": "Diphenhydramine (Benadryl)",
+    "questionType": "multiple-choice",
+    "stem": "A patient with a history of asthma develops hives after eating peanuts but has mild wheezing. Which intervention is most appropriate?",
+    "choices": [
+      "Administer diphenhydramine only",
+      "Administer epinephrine IM",
+      "Provide albuterol only",
+      "Transport without medications"
+    ],
+    "correctAnswer": "Administer epinephrine IM",
+    "rationale": "Asthma plus systemic allergic reaction indicates anaphylaxis requiring epinephrine.",
+    "clinicalPearl": "Antihistamines alone are not sufficient for systemic reactions."
+  },
+  {
+    "id": "emt-epi-scn-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-epi-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "A patient stung by a wasp develops lip swelling and dizziness. BP is 84/60 mmHg. Which EMT intervention is correct?",
+    "choices": [
+      "Administer diphenhydramine orally",
+      "Give oxygen and monitor only",
+      "Administer epinephrine IM immediately",
+      "Transport without medications"
+    ],
+    "correctAnswer": "Administer epinephrine IM immediately",
+    "rationale": "Hypotension with airway involvement defines anaphylaxis.",
+    "clinicalPearl": "Rapid epinephrine administration is life-saving."
+  },
+  {
+    "id": "emt-glucose-scn-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-glucose-001",
+    "medication": "Glucose",
+    "questionType": "multiple-choice",
+    "stem": "A 70-year-old diabetic is confused and diaphoretic. They are able to swallow but are very lethargic. Blood glucose is 45 mg/dL. What should the EMT do?",
+    "choices": [
+      "Give oral glucose immediately",
+      "Administer IV dextrose",
+      "Give water and sugar",
+      "Transport without intervention"
+    ],
+    "correctAnswer": "Administer IV dextrose",
+    "rationale": "Lethargic patients may not safely swallow oral glucose; IV dextrose is indicated.",
+    "clinicalPearl": "Always assess ability to protect the airway before oral administration."
+  },
+  {
+    "id": "emt-narcan-scn-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-narcan-001",
+    "medication": "Naloxone (Narcan)",
+    "questionType": "multiple-choice",
+    "stem": "An opioid overdose patient has a respiratory rate of 6/min. Naloxone is administered IN. After 5 minutes, there is minimal improvement. What should the EMT do next?",
+    "choices": [
+      "Administer a second dose of naloxone",
+      "Wait 10 minutes before reassessment",
+      "Transport without repeating dose",
+      "Begin CPR immediately"
+    ],
+    "correctAnswer": "Administer a second dose of naloxone",
+    "rationale": "Short-acting naloxone may require repeated doses to reverse opioid effects.",
+    "clinicalPearl": "Always provide airway support alongside naloxone administration."
+  },
+  {
+    "id": "emt-alb-scn-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-alb-001",
+    "medication": "Albuterol",
+    "questionType": "multiple-choice",
+    "stem": "A 9-year-old with a history of asthma presents with wheezing but normal oxygen saturation. What is the most appropriate EMT intervention?",
+    "choices": [
+      "Administer albuterol via nebulizer",
+      "Provide oxygen only",
+      "Transport immediately without treatment",
+      "Administer diphenhydramine"
+    ],
+    "correctAnswer": "Administer albuterol via nebulizer",
+    "rationale": "Bronchodilator therapy is indicated even if oxygen saturation is normal when wheezing is present.",
+    "clinicalPearl": "Early treatment prevents deterioration."
+  },
+  {
+    "id": "emt-ibu-scn-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "A patient reports mild back pain but has a history of gastric ulcers. What is the safest EMT intervention?",
+    "choices": [
+      "Administer ibuprofen",
+      "Administer acetaminophen",
+      "Administer aspirin",
+      "Apply topical lidocaine only"
+    ],
+    "correctAnswer": "Administer acetaminophen",
+    "rationale": "NSAIDs increase the risk of GI bleeding in patients with a history of ulcers.",
+    "clinicalPearl": "Assess patient history for gastrointestinal risk before NSAID use."
+  },
+  {
+    "id": "emt-burn-scn-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-burn-gel-001",
+    "medication": "Burn Dressing / Hydrogel",
+    "questionType": "multiple-choice",
+    "stem": "A patient has superficial chemical burns on the forearm. Which EMT intervention is most appropriate?",
+    "choices": [
+      "Rinse thoroughly and apply hydrogel",
+      "Cover with dry sterile gauze only",
+      "Neutralize chemical with vinegar",
+      "Transport without treatment"
+    ],
+    "correctAnswer": "Rinse thoroughly and apply hydrogel",
+    "rationale": "Irrigation removes the chemical; hydrogel cools and protects tissue.",
+    "clinicalPearl": "Always flush chemical burns before dressing."
+  },
+  {
+    "id": "emt-hemo-scn-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-hemo-001",
+    "medication": "Hemostatic Agents",
+    "questionType": "multiple-choice",
+    "stem": "A patient with a severe forearm laceration has uncontrolled bleeding. Direct pressure slows but does not stop bleeding. What should the EMT do?",
+    "choices": [
+      "Apply hemostatic dressing over bleeding site",
+      "Transport without intervention",
+      "Use only a regular sterile dressing",
+      "Attempt suturing in the field"
+    ],
+    "correctAnswer": "Apply hemostatic dressing over bleeding site",
+    "rationale": "Hemostatic agents assist in controlling persistent hemorrhage.",
+    "clinicalPearl": "Combine with direct pressure for maximum effect."
+  },
+  {
+    "id": "emt-n2o-scn-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-n2o-001",
+    "medication": "Nitrous Oxide",
+    "questionType": "multiple-choice",
+    "stem": "A patient with a painful ankle fracture requests analgesia but is anxious. Which intervention is safest for the EMT?",
+    "choices": [
+      "Administer nitrous oxide via self-administration",
+      "Give oral ibuprofen only",
+      "Provide IV morphine",
+      "Delay analgesia until ALS arrival"
+    ],
+    "correctAnswer": "Administer nitrous oxide via self-administration",
+    "rationale": "Nitrous oxide provides rapid, patient-controlled analgesia without IV access.",
+    "clinicalPearl": "Monitor mental status and vitals during administration."
+  },
+  {
+    "id": "emt-cet-scn-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-cetirizine-001",
+    "medication": "Cetirizine (Zyrtec)",
+    "questionType": "multiple-choice",
+    "stem": "A patient has mild urticaria and sneezing after exposure to pollen. No airway involvement is present. What is the appropriate EMT intervention?",
+    "choices": [
+      "Administer epinephrine IM",
+      "Give cetirizine orally",
+      "Administer diphenhydramine IM",
+      "Transport without intervention"
+    ],
+    "correctAnswer": "Give cetirizine orally",
+    "rationale": "Cetirizine is appropriate for mild allergic reactions without systemic involvement.",
+    "clinicalPearl": "Do not use for anaphylaxis."
   }
 ]
+
 
