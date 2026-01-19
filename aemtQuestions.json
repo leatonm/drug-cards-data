@@ -1,1 +1,208 @@
+[
+  {
+    "id": "aemt-dex-q-001",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "Which blood glucose value indicates the need for IV dextrose?",
+    "choices": [
+      "110 mg/dL",
+      "85 mg/dL",
+      "58 mg/dL",
+      "140 mg/dL"
+    ],
+    "correctAnswer": "58 mg/dL",
+    "rationale": "Hypoglycemia requires rapid glucose correction.",
+    "clinicalPearl": "Always confirm hypoglycemia when possible."
+  },
+  {
+    "id": "aemt-dex-q-002",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "Why is D10 often preferred over D50 in pediatric patients?",
+    "choices": [
+      "Longer shelf life",
+      "Lower risk of extravasation injury",
+      "Faster onset",
+      "Less need for IV access"
+    ],
+    "correctAnswer": "Lower risk of extravasation injury",
+    "rationale": "Lower concentration reduces tissue damage risk.",
+    "clinicalPearl": "Hypertonic solutions can cause severe tissue necrosis."
+  },
+  {
+    "id": "aemt-dex-q-003",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment is most important after dextrose administration?",
+    "choices": [
+      "Heart rate",
+      "Blood glucose reassessment",
+      "Blood pressure",
+      "Skin temperature"
+    ],
+    "correctAnswer": "Blood glucose reassessment",
+    "rationale": "Treatment effectiveness must be confirmed.",
+    "clinicalPearl": "Treat, reassess, and prevent recurrence."
+  },
+
+  {
+    "id": "aemt-nalox-q-001",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "Naloxone administration primarily improves which patient condition?",
+    "choices": [
+      "Hypotension",
+      "Respiratory depression",
+      "Chest pain",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Respiratory depression",
+    "rationale": "Naloxone reverses opioid-induced respiratory depression.",
+    "clinicalPearl": "Airway and ventilation always come first."
+  },
+  {
+    "id": "aemt-nalox-q-002",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "Which response is most likely after naloxone administration?",
+    "choices": [
+      "Gradual sedation",
+      "Improved respirations with agitation",
+      "Immediate pain relief",
+      "Decreased heart rate"
+    ],
+    "correctAnswer": "Improved respirations with agitation",
+    "rationale": "Rapid opioid reversal may cause acute withdrawal.",
+    "clinicalPearl": "Expect agitation—protect yourself and the patient."
+  },
+  {
+    "id": "aemt-nalox-q-003",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "Why must patients receiving naloxone be closely monitored?",
+    "choices": [
+      "Naloxone causes hypoglycemia",
+      "Naloxone has a shorter duration than many opioids",
+      "Naloxone causes bradycardia",
+      "Naloxone permanently blocks opioid receptors"
+    ],
+    "correctAnswer": "Naloxone has a shorter duration than many opioids",
+    "rationale": "Re-narcotization can occur after naloxone wears off.",
+    "clinicalPearl": "Repeat dosing may be required."
+  },
+  {
+    "id": "aemt-dex-q-001",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "Which blood glucose value indicates the need for IV dextrose?",
+    "choices": [
+      "110 mg/dL",
+      "85 mg/dL",
+      "58 mg/dL",
+      "140 mg/dL"
+    ],
+    "correctAnswer": "58 mg/dL",
+    "rationale": "Hypoglycemia requires rapid glucose correction.",
+    "clinicalPearl": "Always confirm hypoglycemia when possible."
+  },
+  {
+    "id": "aemt-dex-q-002",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "Why is D10 often preferred over D50 in pediatric patients?",
+    "choices": [
+      "Longer shelf life",
+      "Lower risk of extravasation injury",
+      "Faster onset",
+      "Less need for IV access"
+    ],
+    "correctAnswer": "Lower risk of extravasation injury",
+    "rationale": "Lower concentration reduces tissue damage risk.",
+    "clinicalPearl": "Hypertonic solutions can cause severe tissue necrosis."
+  },
+  {
+    "id": "aemt-dex-q-003",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment is most important after dextrose administration?",
+    "choices": [
+      "Heart rate",
+      "Blood glucose reassessment",
+      "Blood pressure",
+      "Skin temperature"
+    ],
+    "correctAnswer": "Blood glucose reassessment",
+    "rationale": "Treatment effectiveness must be confirmed.",
+    "clinicalPearl": "Treat, reassess, and prevent recurrence."
+  },
+  {
+    "id": "aemt-nalox-q-001",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "Naloxone administration primarily improves which patient condition?",
+    "choices": [
+      "Hypotension",
+      "Respiratory depression",
+      "Chest pain",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Respiratory depression",
+    "rationale": "Naloxone reverses opioid-induced respiratory depression.",
+    "clinicalPearl": "Airway and ventilation always come first."
+  },
+  {
+    "id": "aemt-nalox-q-002",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "Which response is most likely after naloxone administration?",
+    "choices": [
+      "Gradual sedation",
+      "Improved respirations with agitation",
+      "Immediate pain relief",
+      "Decreased heart rate"
+    ],
+    "correctAnswer": "Improved respirations with agitation",
+    "rationale": "Rapid opioid reversal may cause acute withdrawal.",
+    "clinicalPearl": "Expect agitation—protect yourself and the patient."
+  },
+  {
+    "id": "aemt-nalox-q-003",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "Why must patients receiving naloxone be closely monitored?",
+    "choices": [
+      "Naloxone causes hypoglycemia",
+      "Naloxone has a shorter duration than many opioids",
+      "Naloxone causes bradycardia",
+      "Naloxone permanently blocks opioid receptors"
+    ],
+    "correctAnswer": "Naloxone has a shorter duration than many opioids",
+    "rationale": "Re-narcotization can occur after naloxone wears off.",
+    "clinicalPearl": "Repeat dosing may be required."
+  }
+]
 
