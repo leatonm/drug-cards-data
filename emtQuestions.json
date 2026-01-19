@@ -338,6 +338,631 @@
     ],
     "rationale": "Low blood glucose commonly presents with neurologic and adrenergic symptoms.",
     "clinicalPearl": "Hypoglycemia can mimic stroke or intoxication."
+  },
+  {
+    "id": "emt-narcan-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-narcan-001",
+    "medication": "Naloxone (Narcan)",
+    "questionType": "multiple-choice",
+    "stem": "An unresponsive patient has slow respirations and pinpoint pupils. What is the primary indication for naloxone?",
+    "choices": [
+      "Altered mental status of unknown cause",
+      "Suspected opioid overdose with respiratory depression",
+      "Hypotension from dehydration",
+      "Seizure activity"
+    ],
+    "correctAnswer": "Suspected opioid overdose with respiratory depression",
+    "rationale": "Naloxone reverses opioid-induced respiratory depression.",
+    "clinicalPearl": "Ventilatory support is still required until respirations improve."
+  },
+  {
+    "id": "emt-narcan-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-narcan-001",
+    "medication": "Naloxone (Narcan)",
+    "questionType": "multiple-choice",
+    "stem": "After naloxone administration, the patient becomes agitated and vomiting. This response is best explained by:",
+    "choices": [
+      "Allergic reaction",
+      "Opioid withdrawal",
+      "Worsening hypoxia",
+      "Medication toxicity"
+    ],
+    "correctAnswer": "Opioid withdrawal",
+    "rationale": "Naloxone can rapidly precipitate withdrawal symptoms.",
+    "clinicalPearl": "Prepare for agitation and emesis after reversal."
+  },
+  {
+    "id": "emt-narcan-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-narcan-001",
+    "medication": "Naloxone (Narcan)",
+    "questionType": "select-all-that-apply",
+    "stem": "Which routes may an EMT use to administer naloxone? (Select all that apply.)",
+    "choices": [
+      "Intranasal",
+      "Intramuscular",
+      "Intravenous",
+      "Oral",
+      "Subcutaneous"
+    ],
+    "correctAnswer": [
+      "Intranasal",
+      "Intramuscular"
+    ],
+    "rationale": "EMTs commonly administer naloxone via IN or IM routes per protocol.",
+    "clinicalPearl": "Repeat dosing may be needed for long-acting opioids."
+  },
+
+  {
+    "id": "emt-tyl-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-tyl-001",
+    "medication": "Acetaminophen (Tylenol)",
+    "questionType": "multiple-choice",
+    "stem": "Acetaminophen is most appropriate for which patient?",
+    "choices": [
+      "Patient with severe liver disease",
+      "Child with fever and no contraindications",
+      "Patient with active GI bleeding",
+      "Adult with renal failure and pain"
+    ],
+    "correctAnswer": "Child with fever and no contraindications",
+    "rationale": "Acetaminophen is safe for fever when liver disease is absent.",
+    "clinicalPearl": "Always calculate pediatric doses carefully."
+  },
+  {
+    "id": "emt-tyl-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-tyl-001",
+    "medication": "Acetaminophen (Tylenol)",
+    "questionType": "multiple-choice",
+    "stem": "Which risk is associated with excessive acetaminophen use?",
+    "choices": [
+      "Renal stones",
+      "Liver toxicity",
+      "Platelet inhibition",
+      "Bronchospasm"
+    ],
+    "correctAnswer": "Liver toxicity",
+    "rationale": "Acetaminophen overdose can cause severe hepatotoxicity.",
+    "clinicalPearl": "Many combination products also contain acetaminophen."
+  },
+  {
+    "id": "emt-tyl-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-tyl-001",
+    "medication": "Acetaminophen (Tylenol)",
+    "questionType": "select-all-that-apply",
+    "stem": "Which findings require caution before giving acetaminophen? (Select all that apply.)",
+    "choices": [
+      "History of liver disease",
+      "Known overdose risk",
+      "Mild headache",
+      "Fever",
+      "Recent alcohol abuse"
+    ],
+    "correctAnswer": [
+      "History of liver disease",
+      "Known overdose risk",
+      "Recent alcohol abuse"
+    ],
+    "rationale": "Liver impairment increases risk of acetaminophen toxicity.",
+    "clinicalPearl": "Ask about recent dosing before administration."
+  },
+
+  {
+    "id": "emt-alb-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-alb-001",
+    "medication": "Albuterol",
+    "questionType": "multiple-choice",
+    "stem": "Albuterol improves breathing primarily by:",
+    "choices": [
+      "Reducing airway inflammation",
+      "Relaxing bronchial smooth muscle",
+      "Decreasing mucus production",
+      "Suppressing respiratory drive"
+    ],
+    "correctAnswer": "Relaxing bronchial smooth muscle",
+    "rationale": "Beta-2 stimulation causes bronchodilation.",
+    "clinicalPearl": "It does not treat the underlying cause of asthma."
+  },
+  {
+    "id": "emt-alb-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-alb-001",
+    "medication": "Albuterol",
+    "questionType": "multiple-choice",
+    "stem": "Which side effect is most commonly seen after albuterol administration?",
+    "choices": [
+      "Bradycardia",
+      "Tremors and tachycardia",
+      "Hypotension",
+      "Sedation"
+    ],
+    "correctAnswer": "Tremors and tachycardia",
+    "rationale": "Beta-agonists commonly cause sympathetic side effects.",
+    "clinicalPearl": "Monitor heart rate, especially in cardiac patients."
+  },
+  {
+    "id": "emt-alb-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-alb-001",
+    "medication": "Albuterol",
+    "questionType": "select-all-that-apply",
+    "stem": "Which conditions indicate albuterol use? (Select all that apply.)",
+    "choices": [
+      "Asthma exacerbation",
+      "COPD flare with wheezing",
+      "Pulmonary edema",
+      "Anxiety attack",
+      "Bronchospasm"
+    ],
+    "correctAnswer": [
+      "Asthma exacerbation",
+      "COPD flare with wheezing",
+      "Bronchospasm"
+    ],
+    "rationale": "Albuterol treats bronchospasm from obstructive airway disease.",
+    "clinicalPearl": "Poor response may indicate severe airway obstruction."
+  },
+
+  {
+    "id": "emt-afrin-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-afrin-001",
+    "medication": "Oxymetazoline (Afrin)",
+    "questionType": "multiple-choice",
+    "stem": "Oxymetazoline relieves nasal congestion by:",
+    "choices": [
+      "Bronchodilation",
+      "Alpha-mediated vasoconstriction",
+      "Reducing histamine release",
+      "Thinning secretions"
+    ],
+    "correctAnswer": "Alpha-mediated vasoconstriction",
+    "rationale": "Vasoconstriction reduces nasal mucosal swelling.",
+    "clinicalPearl": "Overuse can cause rebound congestion."
+  },
+  {
+    "id": "emt-afrin-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-afrin-001",
+    "medication": "Oxymetazoline (Afrin)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient requires caution when using oxymetazoline?",
+    "choices": [
+      "Patient with seasonal allergies",
+      "Patient with hypertension",
+      "Child with fever",
+      "Adult with sore throat"
+    ],
+    "correctAnswer": "Patient with hypertension",
+    "rationale": "Systemic absorption may worsen hypertension.",
+    "clinicalPearl": "Use the lowest effective dose."
+  },
+  {
+    "id": "emt-afrin-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-afrin-001",
+    "medication": "Oxymetazoline (Afrin)",
+    "questionType": "select-all-that-apply",
+    "stem": "Which effects are expected with oxymetazoline use? (Select all that apply.)",
+    "choices": [
+      "Decreased nasal swelling",
+      "Improved airflow",
+      "Sedation",
+      "Rebound congestion with prolonged use",
+      "Bronchodilation"
+    ],
+    "correctAnswer": [
+      "Decreased nasal swelling",
+      "Improved airflow",
+      "Rebound congestion with prolonged use"
+    ],
+    "rationale": "Topical vasoconstrictors relieve congestion but can cause rebound effects.",
+    "clinicalPearl": "Limit use to avoid rhinitis medicamentosa."
+  },
+
+  {
+    "id": "emt-ibu-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "Ibuprofen provides pain relief primarily by:",
+    "choices": [
+      "Blocking opioid receptors",
+      "Inhibiting prostaglandin synthesis",
+      "Stimulating serotonin release",
+      "Suppressing CNS activity"
+    ],
+    "correctAnswer": "Inhibiting prostaglandin synthesis",
+    "rationale": "COX inhibition reduces pain and inflammation.",
+    "clinicalPearl": "It also has antipyretic effects."
+  },
+  {
+    "id": "emt-ibu-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "Which patient should NOT receive ibuprofen?",
+    "choices": [
+      "Child with fever",
+      "Adult with renal disease",
+      "Patient with muscle pain",
+      "Adult with headache"
+    ],
+    "correctAnswer": "Adult with renal disease",
+    "rationale": "NSAIDs can worsen renal function.",
+    "clinicalPearl": "Screen for kidney disease before administration."
+  },
+  {
+    "id": "emt-ibu-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "select-all-that-apply",
+    "stem": "Which risks are associated with ibuprofen? (Select all that apply.)",
+    "choices": [
+      "GI irritation",
+      "Renal impairment",
+      "Platelet inhibition",
+      "Respiratory depression",
+      "Hepatotoxicity"
+    ],
+    "correctAnswer": [
+      "GI irritation",
+      "Renal impairment",
+      "Platelet inhibition"
+    ],
+    "rationale": "NSAIDs affect gastric mucosa, kidneys, and platelet function.",
+    "clinicalPearl": "Take with food when possible."
+  },
+
+  {
+    "id": "emt-hemo-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-hemo-001",
+    "medication": "Hemostatic Agents",
+    "questionType": "multiple-choice",
+    "stem": "Hemostatic agents are primarily used to:",
+    "choices": [
+      "Prevent infection",
+      "Control external bleeding",
+      "Reduce pain",
+      "Close deep internal wounds"
+    ],
+    "correctAnswer": "Control external bleeding",
+    "rationale": "They promote clot formation at the wound site.",
+    "clinicalPearl": "Use with direct pressure for best results."
+  },
+  {
+    "id": "emt-hemo-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-hemo-001",
+    "medication": "Hemostatic Agents",
+    "questionType": "multiple-choice",
+    "stem": "When should a hemostatic dressing be applied?",
+    "choices": [
+      "Minor abrasions",
+      "Uncontrolled external bleeding",
+      "Closed fractures",
+      "Burn injuries"
+    ],
+    "correctAnswer": "Uncontrolled external bleeding",
+    "rationale": "They are designed for hemorrhage control.",
+    "clinicalPearl": "Tourniquets may still be required."
+  },
+  {
+    "id": "emt-hemo-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-hemo-001",
+    "medication": "Hemostatic Agents",
+    "questionType": "select-all-that-apply",
+    "stem": "Which considerations apply to hemostatic agents? (Select all that apply.)",
+    "choices": [
+      "Apply directly to bleeding site",
+      "Use with direct pressure",
+      "Avoid if allergy is known",
+      "Replace need for pressure",
+      "Use internally"
+    ],
+    "correctAnswer": [
+      "Apply directly to bleeding site",
+      "Use with direct pressure",
+      "Avoid if allergy is known"
+    ],
+    "rationale": "They supplement but do not replace pressure.",
+    "clinicalPearl": "Follow manufacturer-specific instructions."
+  },
+
+  {
+    "id": "emt-n2o-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-n2o-001",
+    "medication": "Nitrous Oxide",
+    "questionType": "multiple-choice",
+    "stem": "Nitrous oxide is best described as:",
+    "choices": [
+      "An opioid analgesic",
+      "An inhaled analgesic and sedative",
+      "A paralytic agent",
+      "A local anesthetic"
+    ],
+    "correctAnswer": "An inhaled analgesic and sedative",
+    "rationale": "Nitrous oxide provides analgesia and mild sedation.",
+    "clinicalPearl": "The patient must self-administer."
+  },
+  {
+    "id": "emt-n2o-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-n2o-001",
+    "medication": "Nitrous Oxide",
+    "questionType": "multiple-choice",
+    "stem": "Which condition is a contraindication to nitrous oxide?",
+    "choices": [
+      "Isolated extremity pain",
+      "Bowel obstruction",
+      "Anxiety",
+      "Minor trauma"
+    ],
+    "correctAnswer": "Bowel obstruction",
+    "rationale": "Nitrous oxide expands trapped gases.",
+    "clinicalPearl": "Screen for gas-containing space concerns."
+  },
+  {
+    "id": "emt-n2o-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-n2o-001",
+    "medication": "Nitrous Oxide",
+    "questionType": "select-all-that-apply",
+    "stem": "Which are true regarding nitrous oxide? (Select all that apply.)",
+    "choices": [
+      "Rapid onset and offset",
+      "Patient-controlled",
+      "Requires IV access",
+      "Provides analgesia",
+      "Causes loss of consciousness"
+    ],
+    "correctAnswer": [
+      "Rapid onset and offset",
+      "Patient-controlled",
+      "Provides analgesia"
+    ],
+    "rationale": "Nitrous oxide acts quickly and is self-administered.",
+    "clinicalPearl": "Remove the mask if mental status declines."
+  },
+
+  {
+    "id": "emt-cet-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-cetirizine-001",
+    "medication": "Cetirizine (Zyrtec)",
+    "questionType": "multiple-choice",
+    "stem": "Cetirizine is most appropriate for:",
+    "choices": [
+      "Anaphylaxis with hypotension",
+      "Mild allergic reaction without airway involvement",
+      "Severe asthma attack",
+      "Opioid overdose"
+    ],
+    "correctAnswer": "Mild allergic reaction without airway involvement",
+    "rationale": "Second-generation antihistamines treat mild allergic symptoms.",
+    "clinicalPearl": "Epinephrine is required for anaphylaxis."
+  },
+  {
+    "id": "emt-cet-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-cetirizine-001",
+    "medication": "Cetirizine (Zyrtec)",
+    "questionType": "multiple-choice",
+    "stem": "Compared to diphenhydramine, cetirizine:",
+    "choices": [
+      "Causes more sedation",
+      "Has less sedating effects",
+      "Is faster acting IM",
+      "Treats airway edema"
+    ],
+    "correctAnswer": "Has less sedating effects",
+    "rationale": "Second-generation antihistamines are less sedating.",
+    "clinicalPearl": "Good option when alertness is desired."
+  },
+  {
+    "id": "emt-cet-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-cetirizine-001",
+    "medication": "Cetirizine (Zyrtec)",
+    "questionType": "select-all-that-apply",
+    "stem": "Which symptoms may improve with cetirizine? (Select all that apply.)",
+    "choices": [
+      "Urticaria",
+      "Sneezing",
+      "Airway obstruction",
+      "Itching",
+      "Hypotension"
+    ],
+    "correctAnswer": [
+      "Urticaria",
+      "Sneezing",
+      "Itching"
+    ],
+    "rationale": "H1 blockade reduces allergic skin and nasal symptoms.",
+    "clinicalPearl": "Does not treat life-threatening reactions."
+  },
+
+  {
+    "id": "emt-lor-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-loratadine-001",
+    "medication": "Loratadine (Claritin)",
+    "questionType": "multiple-choice",
+    "stem": "Loratadine differs from first-generation antihistamines because it:",
+    "choices": [
+      "Causes significant drowsiness",
+      "Crosses the blood-brain barrier",
+      "Has minimal sedation",
+      "Treats bronchospasm"
+    ],
+    "correctAnswer": "Has minimal sedation",
+    "rationale": "Loratadine is a non-sedating antihistamine.",
+    "clinicalPearl": "Preferred when patients need to remain alert."
+  },
+  {
+    "id": "emt-lor-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-loratadine-001",
+    "medication": "Loratadine (Claritin)",
+    "questionType": "multiple-choice",
+    "stem": "Loratadine is most appropriate for treating:",
+    "choices": [
+      "Seasonal allergies",
+      "Anaphylaxis",
+      "Acute asthma",
+      "Opioid overdose"
+    ],
+    "correctAnswer": "Seasonal allergies",
+    "rationale": "It treats mild allergic symptoms.",
+    "clinicalPearl": "Not a rescue medication."
+  },
+  {
+    "id": "emt-lor-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-loratadine-001",
+    "medication": "Loratadine (Claritin)",
+    "questionType": "select-all-that-apply",
+    "stem": "Which symptoms may improve with loratadine? (Select all that apply.)",
+    "choices": [
+      "Sneezing",
+      "Runny nose",
+      "Airway swelling",
+      "Itching",
+      "Hypotension"
+    ],
+    "correctAnswer": [
+      "Sneezing",
+      "Runny nose",
+      "Itching"
+    ],
+    "rationale": "Loratadine reduces histamine-mediated symptoms.",
+    "clinicalPearl": "Use epinephrine for airway involvement."
+  },
+
+  {
+    "id": "emt-epi-neb-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-epi-neb-001",
+    "medication": "Epinephrine (Nebulized)",
+    "questionType": "multiple-choice",
+    "stem": "Nebulized epinephrine is most commonly used for:",
+    "choices": [
+      "Lower airway bronchospasm",
+      "Croup with stridor",
+      "Pulmonary edema",
+      "Chest pain"
+    ],
+    "correctAnswer": "Croup with stridor",
+    "rationale": "Alpha effects reduce upper airway edema.",
+    "clinicalPearl": "Monitor for rebound symptoms."
+  },
+  {
+    "id": "emt-epi-neb-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-epi-neb-001",
+    "medication": "Epinephrine (Nebulized)",
+    "questionType": "multiple-choice",
+    "stem": "Improvement after nebulized epinephrine occurs primarily due to:",
+    "choices": [
+      "Bronchodilation only",
+      "Reduced airway edema",
+      "Sedation",
+      "Mucus clearance"
+    ],
+    "correctAnswer": "Reduced airway edema",
+    "rationale": "Vasoconstriction decreases swelling.",
+    "clinicalPearl": "Effects may be temporary."
+  },
+  {
+    "id": "emt-epi-neb-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-epi-neb-001",
+    "medication": "Epinephrine (Nebulized)",
+    "questionType": "select-all-that-apply",
+    "stem": "Which findings support nebulized epinephrine use? (Select all that apply.)",
+    "choices": [
+      "Inspiratory stridor",
+      "Barking cough",
+      "Wheezing from asthma",
+      "Upper airway swelling",
+      "Pulmonary crackles"
+    ],
+    "correctAnswer": [
+      "Inspiratory stridor",
+      "Barking cough",
+      "Upper airway swelling"
+    ],
+    "rationale": "Upper airway obstruction responds best.",
+    "clinicalPearl": "Have airway equipment ready."
+  },
+
+  {
+    "id": "emt-burn-q-001",
+    "scope": ["EMT"],
+    "medicationId": "emt-burn-gel-001",
+    "medication": "Burn Dressing / Hydrogel",
+    "questionType": "multiple-choice",
+    "stem": "The primary benefit of burn gel is to:",
+    "choices": [
+      "Sterilize the wound",
+      "Cool tissue and limit burn progression",
+      "Seal deep wounds",
+      "Control bleeding"
+    ],
+    "correctAnswer": "Cool tissue and limit burn progression",
+    "rationale": "Cooling reduces ongoing tissue damage.",
+    "clinicalPearl": "Apply after stopping the burning process."
+  },
+  {
+    "id": "emt-burn-q-002",
+    "scope": ["EMT"],
+    "medicationId": "emt-burn-gel-001",
+    "medication": "Burn Dressing / Hydrogel",
+    "questionType": "multiple-choice",
+    "stem": "Burn gel should be applied:",
+    "choices": [
+      "Before irrigation of chemical burns",
+      "After cooling and irrigation",
+      "Directly over clothing",
+      "Only in full-thickness burns"
+    ],
+    "correctAnswer": "After cooling and irrigation",
+    "rationale": "Irrigation removes the offending agent first.",
+    "clinicalPearl": "Do not trap heat against the skin."
+  },
+  {
+    "id": "emt-burn-q-003",
+    "scope": ["EMT"],
+    "medicationId": "emt-burn-gel-001",
+    "medication": "Burn Dressing / Hydrogel",
+    "questionType": "select-all-that-apply",
+    "stem": "Which burns may benefit from hydrogel application? (Select all that apply.)",
+    "choices": [
+      "Thermal burns",
+      "Chemical burns after irrigation",
+      "Electrical burns with entry wounds",
+      "Minor superficial burns",
+      "Open fractures"
+    ],
+    "correctAnswer": [
+      "Thermal burns",
+      "Chemical burns after irrigation",
+      "Minor superficial burns"
+    ],
+    "rationale": "Hydrogels cool and protect superficial burn tissue.",
+    "clinicalPearl": "Electrical burns require advanced evaluation."
   }
 ]
 
