@@ -203,6 +203,265 @@
     "correctAnswer": "Naloxone has a shorter duration than many opioids",
     "rationale": "Re-narcotization can occur after naloxone wears off.",
     "clinicalPearl": "Repeat dosing may be required."
+  },
+  {
+    "id": "aemt-ns-q-001",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "Normal saline improves perfusion primarily through which mechanism?",
+    "choices": [
+      "Increasing cardiac contractility",
+      "Expanding intravascular volume",
+      "Causing vasodilation",
+      "Reducing afterload"
+    ],
+    "correctAnswer": "Expanding intravascular volume",
+    "rationale": "Normal saline increases circulating volume, improving preload and perfusion.",
+    "clinicalPearl": "Crystalloids restore volume but do not carry oxygen."
+  },
+  {
+    "id": "aemt-ns-q-002",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "Which patient is at greatest risk for complications from large-volume normal saline boluses?",
+    "choices": [
+      "Young trauma patient",
+      "Patient with heart failure",
+      "Dehydrated athlete",
+      "Febrile pediatric patient"
+    ],
+    "correctAnswer": "Patient with heart failure",
+    "rationale": "Fluid overload can worsen pulmonary edema in heart failure.",
+    "clinicalPearl": "Always reassess lung sounds during fluid resuscitation."
+  },
+  {
+    "id": "aemt-ns-q-003",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "What is the standard initial adult bolus dose of normal saline for hypovolemia?",
+    "choices": [
+      "100–250 mL",
+      "250–500 mL",
+      "500–1000 mL",
+      "1500–2000 mL"
+    ],
+    "correctAnswer": "500–1000 mL",
+    "rationale": "Initial adult fluid boluses are typically 500–1000 mL per protocol.",
+    "clinicalPearl": "Bolus, reassess, repeat if indicated."
+  },
+
+  {
+    "id": "aemt-apap-q-001",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "Acetaminophen reduces fever primarily by acting where?",
+    "choices": [
+      "Peripheral nerves",
+      "Hypothalamus",
+      "Platelets",
+      "Adrenal cortex"
+    ],
+    "correctAnswer": "Hypothalamus",
+    "rationale": "Acetaminophen acts centrally to reduce the hypothalamic set point.",
+    "clinicalPearl": "It is not an anti-inflammatory medication."
+  },
+  {
+    "id": "aemt-apap-q-002",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "Which condition contraindicates acetaminophen use?",
+    "choices": [
+      "Renal disease",
+      "Peptic ulcer disease",
+      "Severe liver disease",
+      "Hypertension"
+    ],
+    "correctAnswer": "Severe liver disease",
+    "rationale": "Acetaminophen is hepatotoxic at high doses or in liver disease.",
+    "clinicalPearl": "Always consider cumulative daily dose."
+  },
+  {
+    "id": "aemt-apap-q-003",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "Which is an appropriate pediatric dose of acetaminophen?",
+    "choices": [
+      "5 mg/kg",
+      "10–15 mg/kg",
+      "25 mg/kg",
+      "50 mg/kg"
+    ],
+    "correctAnswer": "10–15 mg/kg",
+    "rationale": "Standard pediatric dosing is weight based at 10–15 mg/kg.",
+    "clinicalPearl": "Weight-based dosing prevents toxicity."
+  },
+
+  {
+    "id": "aemt-ibu-q-001",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "Ibuprofen reduces pain primarily by inhibiting which enzyme?",
+    "choices": [
+      "Lipoxygenase",
+      "Cyclooxygenase",
+      "Acetylcholinesterase",
+      "Monoamine oxidase"
+    ],
+    "correctAnswer": "Cyclooxygenase",
+    "rationale": "COX inhibition decreases prostaglandin production.",
+    "clinicalPearl": "Prostaglandins mediate pain, fever, and inflammation."
+  },
+  {
+    "id": "aemt-ibu-q-002",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "Which patient should NOT receive ibuprofen?",
+    "choices": [
+      "Fever with dehydration",
+      "History of renal disease",
+      "Musculoskeletal injury",
+      "Mild headache"
+    ],
+    "correctAnswer": "History of renal disease",
+    "rationale": "NSAIDs can worsen renal perfusion.",
+    "clinicalPearl": "NSAIDs affect renal blood flow."
+  },
+  {
+    "id": "aemt-ibu-q-003",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "What is a common adverse effect of ibuprofen?",
+    "choices": [
+      "Hypoglycemia",
+      "GI irritation",
+      "Bradycardia",
+      "Respiratory depression"
+    ],
+    "correctAnswer": "GI irritation",
+    "rationale": "NSAIDs increase gastric irritation and bleeding risk.",
+    "clinicalPearl": "Consider GI history before NSAID use."
+  },
+
+  {
+    "id": "aemt-char-q-001",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-char-001",
+    "medication": "Activated Charcoal",
+    "questionType": "multiple-choice",
+    "stem": "Activated charcoal works by which mechanism?",
+    "choices": [
+      "Neutralizing stomach acid",
+      "Binding toxins in the GI tract",
+      "Inducing emesis",
+      "Increasing renal excretion"
+    ],
+    "correctAnswer": "Binding toxins in the GI tract",
+    "rationale": "Charcoal adsorbs toxins, limiting absorption.",
+    "clinicalPearl": "It does not work on all poisons."
+  },
+  {
+    "id": "aemt-char-q-002",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-char-001",
+    "medication": "Activated Charcoal",
+    "questionType": "multiple-choice",
+    "stem": "Which ingestion is a contraindication to activated charcoal?",
+    "choices": [
+      "Acetaminophen",
+      "Tricyclic antidepressants",
+      "Caustic substances",
+      "Aspirin"
+    ],
+    "correctAnswer": "Caustic substances",
+    "rationale": "Charcoal does not bind caustics and increases aspiration risk.",
+    "clinicalPearl": "Never give charcoal without airway protection."
+  },
+  {
+    "id": "aemt-char-q-003",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-char-001",
+    "medication": "Activated Charcoal",
+    "questionType": "multiple-choice",
+    "stem": "Which patient must NOT receive activated charcoal?",
+    "choices": [
+      "Alert adult",
+      "Patient with intact gag reflex",
+      "Patient with decreased LOC",
+      "Cooperative pediatric patient"
+    ],
+    "correctAnswer": "Patient with decreased LOC",
+    "rationale": "Aspiration risk is high without airway protection.",
+    "clinicalPearl": "Airway comes before antidotes."
+  },
+
+  {
+    "id": "aemt-duoneb-q-001",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-duoneb-001",
+    "medication": "Albuterol / Ipratropium (DuoNeb)",
+    "questionType": "multiple-choice",
+    "stem": "DuoNeb combines which two pharmacologic actions?",
+    "choices": [
+      "Alpha agonist and steroid",
+      "Beta-2 agonist and anticholinergic",
+      "Steroid and antihistamine",
+      "Beta blocker and bronchodilator"
+    ],
+    "correctAnswer": "Beta-2 agonist and anticholinergic",
+    "rationale": "Albuterol and ipratropium provide dual bronchodilation.",
+    "clinicalPearl": "Combination therapy improves airflow."
+  },
+  {
+    "id": "aemt-duoneb-q-002",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-duoneb-001",
+    "medication": "Albuterol / Ipratropium (DuoNeb)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient would benefit most from DuoNeb?",
+    "choices": [
+      "Pulmonary edema",
+      "CHF exacerbation",
+      "COPD exacerbation",
+      "Pneumothorax"
+    ],
+    "correctAnswer": "COPD exacerbation",
+    "rationale": "Combination bronchodilators are first-line in COPD flares.",
+    "clinicalPearl": "COPD often requires dual therapy."
+  },
+  {
+    "id": "aemt-duoneb-q-003",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-duoneb-001",
+    "medication": "Albuterol / Ipratropium (DuoNeb)",
+    "questionType": "multiple-choice",
+    "stem": "Which side effect is most associated with albuterol?",
+    "choices": [
+      "Bradycardia",
+      "Tremors and tachycardia",
+      "Respiratory depression",
+      "Hypotension"
+    ],
+    "correctAnswer": "Tremors and tachycardia",
+    "rationale": "Beta-2 stimulation commonly causes tremors and tachycardia.",
+    "clinicalPearl": "Monitor heart rate during repeated treatments."
   }
 ]
 
