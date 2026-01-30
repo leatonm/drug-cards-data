@@ -964,6 +964,1381 @@
     "correctAnswer": "Seizures",
     "rationale": "Neurologic symptoms, including seizures, are early indicators of lidocaine toxicity.",
     "clinicalPearl": "Monitor neurologic status when giving multiple doses."
+  },
+  {
+    "id": "pm-enalapril-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-enalapril-001",
+    "medication": "Enalapril / Enalaprilat",
+    "questionType": "multiple-choice",
+    "stem": "A patient with acute pulmonary edema is hypotensive. Why must you use caution before administering enalaprilat IV?",
+    "choices": [
+      "It may worsen hypotension",
+      "It can cause bradycardia",
+      "It will increase heart rate",
+      "It has no effect in acute cases"
+    ],
+    "correctAnswer": "It may worsen hypotension",
+    "rationale": "ACE inhibitors can lower blood pressure by vasodilation.",
+    "clinicalPearl": "Assess hemodynamics before giving ACE inhibitors in acute heart failure."
+  },
+  {
+    "id": "pm-enalapril-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-enalapril-001",
+    "medication": "Enalapril / Enalaprilat",
+    "questionType": "multiple-choice",
+    "stem": "Which lab value should you monitor closely when administering enalaprilat?",
+    "choices": [
+      "Serum potassium",
+      "Blood glucose",
+      "Serum calcium",
+      "Hemoglobin"
+    ],
+    "correctAnswer": "Serum potassium",
+    "rationale": "ACE inhibitors can cause hyperkalemia.",
+    "clinicalPearl": "Check potassium before and after administration, especially in renal impairment."
+  },
+  {
+    "id": "pm-enalapril-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-enalapril-001",
+    "medication": "Enalapril / Enalaprilat",
+    "questionType": "multiple-choice",
+    "stem": "A patient reports a persistent dry cough after starting enalapril. What is the most likely cause?",
+    "choices": [
+      "ACE inhibitor–related bradykinin accumulation",
+      "Allergic reaction",
+      "Fluid overload",
+      "Asthma exacerbation"
+    ],
+    "correctAnswer": "ACE inhibitor–related bradykinin accumulation",
+    "rationale": "ACE inhibitors increase bradykinin, which can trigger cough.",
+    "clinicalPearl": "Consider switching to an ARB if cough persists."
+  },
+  {
+    "id": "pm-enalapril-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-enalapril-001",
+    "medication": "Enalapril / Enalaprilat",
+    "questionType": "multiple-choice",
+    "stem": "Which scenario would be a contraindication for IV enalaprilat?",
+    "choices": [
+      "Systolic BP 80 mmHg",
+      "Hypertension 160/100",
+      "Mild ankle edema",
+      "History of headaches"
+    ],
+    "correctAnswer": "Systolic BP 80 mmHg",
+    "rationale": "Severe hypotension is a contraindication for ACE inhibitors.",
+    "clinicalPearl": "Always assess BP before ACE inhibitor administration."
+  },
+
+  {
+    "id": "pm-albuterol-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-albuterol-001",
+    "medication": "Albuterol",
+    "questionType": "multiple-choice",
+    "stem": "A patient with asthma is tachycardic at 130 bpm. Should you give albuterol?",
+    "choices": [
+      "Yes, benefits outweigh transient tachycardia",
+      "No, always hold if tachycardic",
+      "Yes, but only orally",
+      "No, give epinephrine instead"
+    ],
+    "correctAnswer": "Yes, benefits outweigh transient tachycardia",
+    "rationale": "Albuterol may increase HR, but reversing bronchospasm is critical.",
+    "clinicalPearl": "Monitor vitals during repeated treatments."
+  },
+  {
+    "id": "pm-albuterol-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-albuterol-001",
+    "medication": "Albuterol",
+    "questionType": "multiple-choice",
+    "stem": "Which patient scenario would require caution when administering albuterol?",
+    "choices": [
+      "History of tachyarrhythmias",
+      "COPD exacerbation",
+      "Asthma attack",
+      "Allergic rhinitis"
+    ],
+    "correctAnswer": "History of tachyarrhythmias",
+    "rationale": "Beta-2 agonists can exacerbate arrhythmias.",
+    "clinicalPearl": "Cardiac monitoring may be indicated in high-risk patients."
+  },
+  {
+    "id": "pm-albuterol-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-albuterol-001",
+    "medication": "Albuterol",
+    "questionType": "multiple-choice",
+    "stem": "After repeated albuterol nebulizer treatments, a patient’s tremors worsen. What is the next step?",
+    "choices": [
+      "Continue treatment as planned",
+      "Hold further doses and reassess",
+      "Switch to oral albuterol",
+      "Administer epinephrine immediately"
+    ],
+    "correctAnswer": "Hold further doses and reassess",
+    "rationale": "Excessive beta-agonist can cause tremors, tachycardia, and hypokalemia.",
+    "clinicalPearl": "Balance airway improvement with side effect risk."
+  },
+  {
+    "id": "pm-albuterol-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-albuterol-001",
+    "medication": "Albuterol",
+    "questionType": "multiple-choice",
+    "stem": "Which finding indicates albuterol therapy is effective?",
+    "choices": [
+      "Decreased wheezing and improved oxygenation",
+      "Increased HR and tremors",
+      "Increased accessory muscle use",
+      "Persistent cyanosis"
+    ],
+    "correctAnswer": "Decreased wheezing and improved oxygenation",
+    "rationale": "Clinical improvement is the primary measure of effectiveness.",
+    "clinicalPearl": "Vital signs and patient appearance guide therapy."
+  },
+
+  {
+    "id": "pm-ipratropium-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-ipratropium-001",
+    "medication": "Ipratropium Bromide",
+    "questionType": "multiple-choice",
+    "stem": "Ipratropium is added to albuterol therapy primarily to:",
+    "choices": [
+      "Provide additive bronchodilation via anticholinergic effect",
+      "Increase heart rate",
+      "Reduce inflammation systemically",
+      "Act as a steroid replacement"
+    ],
+    "correctAnswer": "Provide additive bronchodilation via anticholinergic effect",
+    "rationale": "Ipratropium blocks muscarinic receptors, reducing bronchoconstriction.",
+    "clinicalPearl": "Dual therapy improves airflow in COPD and asthma."
+  },
+  {
+    "id": "pm-ipratropium-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-ipratropium-001",
+    "medication": "Ipratropium Bromide",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most associated with ipratropium?",
+    "choices": [
+      "Dry mouth and throat irritation",
+      "Tremors and tachycardia",
+      "Hypoglycemia",
+      "Bradycardia"
+    ],
+    "correctAnswer": "Dry mouth and throat irritation",
+    "rationale": "Anticholinergic effects are common with inhaled ipratropium.",
+    "clinicalPearl": "Encourage oral hydration to relieve discomfort."
+  },
+  {
+    "id": "pm-ipratropium-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-ipratropium-001",
+    "medication": "Ipratropium Bromide",
+    "questionType": "multiple-choice",
+    "stem": "Which patient would benefit most from ipratropium therapy?",
+    "choices": [
+      "Patient with COPD exacerbation",
+      "Patient with pulmonary edema",
+      "Patient with pneumonia",
+      "Patient with anxiety"
+    ],
+    "correctAnswer": "Patient with COPD exacerbation",
+    "rationale": "Ipratropium is effective in obstructive airway disease.",
+    "clinicalPearl": "Use combination therapy for maximum bronchodilation."
+  },
+  {
+    "id": "pm-ipratropium-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-ipratropium-001",
+    "medication": "Ipratropium Bromide",
+    "questionType": "multiple-choice",
+    "stem": "What reassessment finding suggests ipratropium effectiveness?",
+    "choices": [
+      "Reduced wheezing and easier respiration",
+      "Increased respiratory rate",
+      "Persistent accessory muscle use",
+      "Hypotension"
+    ],
+    "correctAnswer": "Reduced wheezing and easier respiration",
+    "rationale": "Clinical improvement in airflow is the main indicator of effectiveness.",
+    "clinicalPearl": "Observe both subjective and objective improvements."
+  },
+
+  {
+    "id": "pm-epi-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-epi-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "In anaphylaxis, what is the primary physiologic effect of epinephrine?",
+    "choices": [
+      "Alpha-adrenergic vasoconstriction to increase BP",
+      "Beta-2 effect to reduce heart rate",
+      "Central sedation",
+      "Diuretic effect"
+    ],
+    "correctAnswer": "Alpha-adrenergic vasoconstriction to increase BP",
+    "rationale": "Epinephrine reverses hypotension and shock in anaphylaxis.",
+    "clinicalPearl": "Rapid IM administration can be life-saving."
+  },
+  {
+    "id": "pm-epi-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-epi-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "Which patient scenario indicates epinephrine administration?",
+    "choices": [
+      "Severe allergic reaction with hypotension and wheezing",
+      "Mild rash without airway involvement",
+      "Hypertensive crisis",
+      "Chest pain from angina"
+    ],
+    "correctAnswer": "Severe allergic reaction with hypotension and wheezing",
+    "rationale": "Epinephrine is indicated for life-threatening anaphylaxis.",
+    "clinicalPearl": "Dose and route depend on age and severity."
+  },
+  {
+    "id": "pm-epi-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-epi-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "A patient receiving epinephrine shows a heart rate of 160 bpm. What is the most appropriate action?",
+    "choices": [
+      "Monitor, as tachycardia is an expected effect",
+      "Stop infusion immediately",
+      "Administer beta-blocker",
+      "Give IV fluids only"
+    ],
+    "correctAnswer": "Monitor, as tachycardia is an expected effect",
+    "rationale": "Epinephrine can cause transient tachycardia; continue monitoring vitals.",
+    "clinicalPearl": "Side effects are generally tolerated if life-threatening reaction is being treated."
+  },
+  {
+    "id": "pm-epi-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-epi-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "Which sign indicates effective epinephrine therapy in anaphylaxis?",
+    "choices": [
+      "Improved blood pressure and airway patency",
+      "Persistent hypotension",
+      "Increased wheezing",
+      "Rash progression"
+    ],
+    "correctAnswer": "Improved blood pressure and airway patency",
+    "rationale": "Epinephrine reverses shock and bronchospasm.",
+    "clinicalPearl": "Clinical response guides need for repeat dosing."
+  },
+{
+    "id": "pm-ipratropium-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-ipratropium-001",
+    "medication": "Ipratropium",
+    "questionType": "multiple-choice",
+    "stem": "Ipratropium primarily improves airflow by which mechanism?",
+    "choices": [
+      "Beta-2 agonism",
+      "Muscarinic receptor blockade",
+      "Direct smooth muscle stimulation",
+      "Alpha-1 receptor activation"
+    ],
+    "correctAnswer": "Muscarinic receptor blockade",
+    "rationale": "Ipratropium blocks acetylcholine at muscarinic receptors, reducing bronchoconstriction.",
+    "clinicalPearl": "Combining with a beta-2 agonist provides additive bronchodilation."
+  },
+  {
+    "id": "pm-ipratropium-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-ipratropium-001",
+    "medication": "Ipratropium",
+    "questionType": "multiple-choice",
+    "stem": "Which patient would benefit most from ipratropium therapy?",
+    "choices": [
+      "Acute pulmonary edema",
+      "COPD exacerbation",
+      "Myocardial infarction",
+      "Stroke"
+    ],
+    "correctAnswer": "COPD exacerbation",
+    "rationale": "Anticholinergic bronchodilators are first-line in obstructive pulmonary disease.",
+    "clinicalPearl": "Early treatment prevents respiratory fatigue."
+  },
+  {
+    "id": "pm-ipratropium-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-ipratropium-001",
+    "medication": "Ipratropium",
+    "questionType": "multiple-choice",
+    "stem": "Which side effect is most commonly associated with inhaled ipratropium?",
+    "choices": [
+      "Tremors and tachycardia",
+      "Dry mouth and throat irritation",
+      "Bradycardia",
+      "Hypotension"
+    ],
+    "correctAnswer": "Dry mouth and throat irritation",
+    "rationale": "Local anticholinergic effects often cause dryness.",
+    "clinicalPearl": "Encourage rinsing mouth after inhalation to reduce irritation."
+  },
+  {
+    "id": "pm-ipratropium-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-ipratropium-001",
+    "medication": "Ipratropium",
+    "questionType": "multiple-choice",
+    "stem": "Which finding indicates effective ipratropium therapy?",
+    "choices": [
+      "Improved oxygen saturation and decreased wheezing",
+      "Increased heart rate",
+      "New crackles on auscultation",
+      "Decreased blood pressure"
+    ],
+    "correctAnswer": "Improved oxygen saturation and decreased wheezing",
+    "rationale": "Bronchodilation improves airflow and oxygenation.",
+    "clinicalPearl": "Patient observation is critical; lung sounds alone may not reflect improvement."
+  },
+
+  {
+    "id": "pm-epinephrine-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-epinephrine-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "Epinephrine’s alpha-1 adrenergic effect primarily produces which response?",
+    "choices": [
+      "Bronchodilation",
+      "Vasoconstriction",
+      "Decreased heart rate",
+      "Diuresis"
+    ],
+    "correctAnswer": "Vasoconstriction",
+    "rationale": "Alpha-1 stimulation increases vascular tone and BP.",
+    "clinicalPearl": "Critical in anaphylaxis to support circulation."
+  },
+  {
+    "id": "pm-epinephrine-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-epinephrine-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "During anaphylaxis, what is the primary goal of epinephrine administration?",
+    "choices": [
+      "Increase heart rate only",
+      "Reverse airway obstruction and hypotension",
+      "Provide sedation",
+      "Induce diuresis"
+    ],
+    "correctAnswer": "Reverse airway obstruction and hypotension",
+    "rationale": "Epinephrine reverses life-threatening symptoms by vasoconstriction and bronchodilation.",
+    "clinicalPearl": "IM injection is preferred for rapid onset in prehospital settings."
+  },
+  {
+    "id": "pm-epinephrine-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-epinephrine-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "Which side effect is most expected after epinephrine administration?",
+    "choices": [
+      "Bradycardia",
+      "Tachycardia and palpitations",
+      "Hypotension",
+      "Sedation"
+    ],
+    "correctAnswer": "Tachycardia and palpitations",
+    "rationale": "Beta-1 adrenergic stimulation increases heart rate and myocardial contractility.",
+    "clinicalPearl": "Monitor cardiac rhythm during repeated doses."
+  },
+  {
+    "id": "pm-epinephrine-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-epinephrine-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "Which finding indicates effective epinephrine therapy in anaphylaxis?",
+    "choices": [
+      "Improved airway patency and blood pressure",
+      "Decreased heart rate",
+      "New wheezing",
+      "Lowered oxygen saturation"
+    ],
+    "correctAnswer": "Improved airway patency and blood pressure",
+    "rationale": "Clinical improvement in perfusion and ventilation shows therapeutic effect.",
+    "clinicalPearl": "Reassess frequently; additional doses may be needed."
+  },
+
+  {
+    "id": "pm-etomidate-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-etomidate-001",
+    "medication": "Etomidate",
+    "questionType": "multiple-choice",
+    "stem": "Etomidate is primarily used in prehospital care for what purpose?",
+    "choices": [
+      "Pain management",
+      "Rapid sequence intubation sedation",
+      "Bronchodilation",
+      "Fluid resuscitation"
+    ],
+    "correctAnswer": "Rapid sequence intubation sedation",
+    "rationale": "Etomidate provides short-acting sedation with minimal cardiovascular effect.",
+    "clinicalPearl": "Ideal for unstable patients due to limited hemodynamic impact."
+  },
+  {
+    "id": "pm-etomidate-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-etomidate-001",
+    "medication": "Etomidate",
+    "questionType": "multiple-choice",
+    "stem": "Which vital sign is least likely to change after etomidate administration?",
+    "choices": [
+      "Heart rate",
+      "Blood pressure",
+      "Respiratory rate",
+      "Oxygen saturation"
+    ],
+    "correctAnswer": "Blood pressure",
+    "rationale": "Etomidate maintains hemodynamic stability better than other sedatives.",
+    "clinicalPearl": "Still monitor all vital signs closely during RSI."
+  },
+  {
+    "id": "pm-etomidate-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-etomidate-001",
+    "medication": "Etomidate",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most commonly associated with etomidate?",
+    "choices": [
+      "Hypotension",
+      "Myoclonus",
+      "Bradycardia",
+      "Tachypnea"
+    ],
+    "correctAnswer": "Myoclonus",
+    "rationale": "Etomidate can induce involuntary muscle movements during induction.",
+    "clinicalPearl": "These movements are generally benign and self-limited."
+  },
+  {
+    "id": "pm-etomidate-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-etomidate-001",
+    "medication": "Etomidate",
+    "questionType": "multiple-choice",
+    "stem": "Which patient assessment indicates adequate sedation from etomidate?",
+    "choices": [
+      "Loss of eyelash reflex and unresponsiveness to verbal stimuli",
+      "Improved lung sounds",
+      "Increased blood pressure",
+      "Reduced heart rate"
+    ],
+    "correctAnswer": "Loss of eyelash reflex and unresponsiveness to verbal stimuli",
+    "rationale": "These are clinical markers of effective sedative induction.",
+    "clinicalPearl": "Always prepare airway support before administration."
+  },
+
+  {
+    "id": "pm-magnesium-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-magnesium-001",
+    "medication": "Magnesium Sulfate",
+    "questionType": "multiple-choice",
+    "stem": "Magnesium sulfate is commonly used to treat which prehospital condition?",
+    "choices": [
+      "Hypoglycemia",
+      "Torsades de pointes and eclampsia",
+      "Hypertension only",
+      "Asthma attack"
+    ],
+    "correctAnswer": "Torsades de pointes and eclampsia",
+    "rationale": "Magnesium stabilizes cardiac conduction and reduces seizures in eclampsia.",
+    "clinicalPearl": "Rapid administration can be dangerous; monitor closely."
+  },
+  {
+    "id": "pm-magnesium-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-magnesium-001",
+    "medication": "Magnesium Sulfate",
+    "questionType": "multiple-choice",
+    "stem": "Which vital sign should be most closely monitored during magnesium sulfate infusion?",
+    "choices": [
+      "Heart rate",
+      "Blood pressure",
+      "Respiratory rate",
+      "Temperature"
+    ],
+    "correctAnswer": "Respiratory rate",
+    "rationale": "Magnesium can depress neuromuscular and respiratory function at high doses.",
+    "clinicalPearl": "Have airway support ready for infusion complications."
+  },
+  {
+    "id": "pm-magnesium-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-magnesium-001",
+    "medication": "Magnesium Sulfate",
+    "questionType": "multiple-choice",
+    "stem": "Which lab abnormality requires caution when administering magnesium sulfate?",
+    "choices": [
+      "Hyperkalemia",
+      "Hypermagnesemia",
+      "Hypocalcemia",
+      "Hypernatremia"
+    ],
+    "correctAnswer": "Hypermagnesemia",
+    "rationale": "Preexisting high magnesium levels increase the risk of toxicity.",
+    "clinicalPearl": "Check lab values if available and monitor neuromuscular function."
+  },
+  {
+    "id": "pm-magnesium-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-magnesium-001",
+    "medication": "Magnesium Sulfate",
+    "questionType": "multiple-choice",
+    "stem": "Which finding indicates therapeutic response in eclampsia?",
+    "choices": [
+      "Cessation of seizures and improved reflexes",
+      "Lowered heart rate",
+      "Decreased blood pressure only",
+      "Increased urine output"
+    ],
+    "correctAnswer": "Cessation of seizures and improved reflexes",
+    "rationale": "Clinical improvement confirms magnesium’s anticonvulsant effect.",
+    "clinicalPearl": "Monitor reflexes to guide dosing and prevent toxicity."
+  },
+  {
+    "id": "pm-furosemide-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-furosemide-001",
+    "medication": "Furosemide",
+    "questionType": "multiple-choice",
+    "stem": "Furosemide primarily helps which condition in the prehospital setting?",
+    "choices": [
+      "Hyperglycemia",
+      "Pulmonary edema",
+      "Hypotension",
+      "Bradycardia"
+    ],
+    "correctAnswer": "Pulmonary edema",
+    "rationale": "Furosemide is a loop diuretic that reduces fluid overload and pulmonary congestion.",
+    "clinicalPearl": "Monitor blood pressure and electrolytes after administration."
+  },
+  {
+    "id": "pm-furosemide-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-furosemide-001",
+    "medication": "Furosemide",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment finding indicates effective furosemide therapy?",
+    "choices": [
+      "Reduced lung crackles and improved oxygen saturation",
+      "Increased heart rate",
+      "Decreased blood glucose",
+      "Worsening edema"
+    ],
+    "correctAnswer": "Reduced lung crackles and improved oxygen saturation",
+    "rationale": "Fluid removal improves pulmonary function and oxygenation.",
+    "clinicalPearl": "Assess lung sounds and respiratory status frequently."
+  },
+  {
+    "id": "pm-furosemide-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-furosemide-001",
+    "medication": "Furosemide",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most commonly associated with furosemide?",
+    "choices": [
+      "Hypokalemia",
+      "Hyperglycemia",
+      "Bradycardia",
+      "Hypertension"
+    ],
+    "correctAnswer": "Hypokalemia",
+    "rationale": "Loop diuretics increase potassium excretion, potentially causing hypokalemia.",
+    "clinicalPearl": "Monitor electrolytes if repeated doses are given."
+  },
+  {
+    "id": "pm-furosemide-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-furosemide-001",
+    "medication": "Furosemide",
+    "questionType": "multiple-choice",
+    "stem": "Which patient requires caution when administering furosemide?",
+    "choices": [
+      "Patient with pulmonary edema",
+      "Patient with hypotension",
+      "Patient with CHF",
+      "Patient with tachycardia"
+    ],
+    "correctAnswer": "Patient with hypotension",
+    "rationale": "Diuresis can further lower blood pressure and worsen perfusion.",
+    "clinicalPearl": "Always assess hemodynamics before administration."
+  },
+
+  {
+    "id": "pm-lidocaine-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-lidocaine-001",
+    "medication": "Lidocaine",
+    "questionType": "multiple-choice",
+    "stem": "Lidocaine is used in prehospital care primarily for which indication?",
+    "choices": [
+      "Ventricular arrhythmias",
+      "Atrial fibrillation",
+      "Bradycardia",
+      "Hypotension"
+    ],
+    "correctAnswer": "Ventricular arrhythmias",
+    "rationale": "Lidocaine stabilizes cardiac cell membranes to suppress ventricular ectopy.",
+    "clinicalPearl": "Only indicated for life-threatening ventricular rhythms per protocol."
+  },
+  {
+    "id": "pm-lidocaine-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-lidocaine-001",
+    "medication": "Lidocaine",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment finding indicates lidocaine is having a therapeutic effect?",
+    "choices": [
+      "Suppression of PVCs and stable rhythm",
+      "Reduced blood pressure",
+      "Bradycardia onset",
+      "Increased chest pain"
+    ],
+    "correctAnswer": "Suppression of PVCs and stable rhythm",
+    "rationale": "Effective antiarrhythmic therapy reduces ectopic beats without causing instability.",
+    "clinicalPearl": "Monitor ECG continuously for efficacy and toxicity."
+  },
+  {
+    "id": "pm-lidocaine-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-lidocaine-001",
+    "medication": "Lidocaine",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect should be monitored with lidocaine?",
+    "choices": [
+      "Neurologic symptoms like confusion or seizures",
+      "Hypoglycemia",
+      "Bradycardia only",
+      "Fever"
+    ],
+    "correctAnswer": "Neurologic symptoms like confusion or seizures",
+    "rationale": "High plasma levels of lidocaine can cause CNS toxicity.",
+    "clinicalPearl": "Watch for early signs of lidocaine toxicity during infusion."
+  },
+  {
+    "id": "pm-lidocaine-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-lidocaine-001",
+    "medication": "Lidocaine",
+    "questionType": "multiple-choice",
+    "stem": "Which patient condition requires caution when administering lidocaine?",
+    "choices": [
+      "Ventricular tachycardia",
+      "Severe hepatic impairment",
+      "PVCs",
+      "Stable atrial fibrillation"
+    ],
+    "correctAnswer": "Severe hepatic impairment",
+    "rationale": "Lidocaine is metabolized in the liver; impaired function increases toxicity risk.",
+    "clinicalPearl": "Adjust dosing if hepatic disease is present."
+  },
+
+  {
+    "id": "pm-atropine-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-atropine-001",
+    "medication": "Atropine",
+    "questionType": "multiple-choice",
+    "stem": "Atropine is used in prehospital care primarily for which indication?",
+    "choices": [
+      "Bradycardia",
+      "Tachycardia",
+      "Hypertension",
+      "Pulmonary edema"
+    ],
+    "correctAnswer": "Bradycardia",
+    "rationale": "Atropine increases heart rate by blocking parasympathetic stimulation of the heart.",
+    "clinicalPearl": "Not effective for high-degree AV blocks."
+  },
+  {
+    "id": "pm-atropine-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-atropine-001",
+    "medication": "Atropine",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment finding indicates effective atropine therapy?",
+    "choices": [
+      "Increased heart rate and improved perfusion",
+      "Lowered blood pressure",
+      "Improved oxygen saturation only",
+      "Decreased respiratory rate"
+    ],
+    "correctAnswer": "Increased heart rate and improved perfusion",
+    "rationale": "Therapeutic effect is primarily cardiovascular.",
+    "clinicalPearl": "Reassess perfusion and vitals frequently."
+  },
+  {
+    "id": "pm-atropine-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-atropine-001",
+    "medication": "Atropine",
+    "questionType": "multiple-choice",
+    "stem": "Which side effect is most commonly associated with atropine?",
+    "choices": [
+      "Dry mouth and blurred vision",
+      "Tremors",
+      "Hypoglycemia",
+      "Bradycardia"
+    ],
+    "correctAnswer": "Dry mouth and blurred vision",
+    "rationale": "Anticholinergic effects reduce secretions and may affect vision.",
+    "clinicalPearl": "Educate patients about temporary discomfort."
+  },
+  {
+    "id": "pm-atropine-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-atropine-001",
+    "medication": "Atropine",
+    "questionType": "multiple-choice",
+    "stem": "Which patient requires caution when administering atropine?",
+    "choices": [
+      "Patient with bradycardia",
+      "Patient with glaucoma",
+      "Patient with hypotension",
+      "Patient with tachypnea"
+    ],
+    "correctAnswer": "Patient with glaucoma",
+    "rationale": "Atropine can increase intraocular pressure, worsening glaucoma.",
+    "clinicalPearl": "Consider risks versus benefits before administration."
+  },
+
+  {
+    "id": "pm-amiodarone-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-amiodarone-001",
+    "medication": "Amiodarone",
+    "questionType": "multiple-choice",
+    "stem": "Amiodarone is indicated in prehospital care primarily for which condition?",
+    "choices": [
+      "Ventricular tachycardia and fibrillation",
+      "Bradycardia",
+      "Atrial fibrillation only",
+      "Hypertension"
+    ],
+    "correctAnswer": "Ventricular tachycardia and fibrillation",
+    "rationale": "Amiodarone stabilizes myocardial conduction in life-threatening ventricular arrhythmias.",
+    "clinicalPearl": "Monitor ECG and blood pressure during administration."
+  },
+  {
+    "id": "pm-amiodarone-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-amiodarone-001",
+    "medication": "Amiodarone",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment finding indicates effective amiodarone therapy?",
+    "choices": [
+      "Return of perfusing rhythm and suppression of VT/VF",
+      "Increased blood pressure only",
+      "Bradycardia onset",
+      "Worsened PVCs"
+    ],
+    "correctAnswer": "Return of perfusing rhythm and suppression of VT/VF",
+    "rationale": "Therapeutic effect is restoration of stable rhythm.",
+    "clinicalPearl": "Continuous monitoring is required; hypotension can occur."
+  },
+  {
+    "id": "pm-amiodarone-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-amiodarone-001",
+    "medication": "Amiodarone",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most concerning in prehospital amiodarone use?",
+    "choices": [
+      "Hypotension and bradycardia",
+      "Hyperglycemia",
+      "Tremors",
+      "Fever"
+    ],
+    "correctAnswer": "Hypotension and bradycardia",
+    "rationale": "Amiodarone can depress myocardial contractility and conduction.",
+    "clinicalPearl": "Assess blood pressure continuously during infusion."
+  },
+  {
+    "id": "pm-amiodarone-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-amiodarone-001",
+    "medication": "Amiodarone",
+    "questionType": "multiple-choice",
+    "stem": "Which patient requires caution when administering amiodarone?",
+    "choices": [
+      "Patient with hypotension",
+      "Patient with tachycardia",
+      "Patient with hypoglycemia",
+      "Patient with fever"
+    ],
+    "correctAnswer": "Patient with hypotension",
+    "rationale": "Amiodarone can exacerbate low blood pressure and worsen perfusion.",
+    "clinicalPearl": "Adjust infusion rate and monitor hemodynamics closely."
+  },
+  {
+    "id": "pm-epi-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-epi-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "Epinephrine is used in prehospital care primarily for which condition?",
+    "choices": [
+      "Anaphylaxis and cardiac arrest",
+      "Bradycardia only",
+      "Severe hypertension",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Anaphylaxis and cardiac arrest",
+    "rationale": "Epinephrine stimulates alpha and beta receptors, supporting perfusion and bronchodilation.",
+    "clinicalPearl": "Dose and route differ depending on the emergency scenario."
+  },
+  {
+    "id": "pm-epi-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-epi-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment indicates a therapeutic response to epinephrine?",
+    "choices": [
+      "Improved blood pressure, heart rate, and airway status",
+      "Decreased respirations",
+      "Worsening edema",
+      "Bradycardia"
+    ],
+    "correctAnswer": "Improved blood pressure, heart rate, and airway status",
+    "rationale": "Epinephrine’s vasoconstrictive and bronchodilatory effects improve perfusion and ventilation.",
+    "clinicalPearl": "Monitor vitals and cardiac rhythm closely after administration."
+  },
+  {
+    "id": "pm-epi-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-epi-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is commonly associated with epinephrine?",
+    "choices": [
+      "Tachycardia and anxiety",
+      "Hypotension",
+      "Hypoglycemia",
+      "Bradycardia"
+    ],
+    "correctAnswer": "Tachycardia and anxiety",
+    "rationale": "Beta-1 stimulation increases heart rate; beta-2 effects may cause tremors and nervousness.",
+    "clinicalPearl": "Monitor for arrhythmias and overdosage signs."
+  },
+  {
+    "id": "pm-epi-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-epi-001",
+    "medication": "Epinephrine",
+    "questionType": "multiple-choice",
+    "stem": "Which patient requires caution when administering epinephrine?",
+    "choices": [
+      "Patient with uncontrolled hypertension or cardiac ischemia",
+      "Patient with anaphylaxis",
+      "Patient with severe asthma",
+      "Patient with bradycardia"
+    ],
+    "correctAnswer": "Patient with uncontrolled hypertension or cardiac ischemia",
+    "rationale": "Epinephrine can worsen ischemia and elevate blood pressure dangerously.",
+    "clinicalPearl": "Always weigh benefits vs. risk in cardiovascular disease."
+  },
+
+  {
+    "id": "pm-dopamine-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-dopamine-001",
+    "medication": "Dopamine",
+    "questionType": "multiple-choice",
+    "stem": "Dopamine is primarily indicated in the prehospital setting for which condition?",
+    "choices": [
+      "Shock with hypotension and low perfusion",
+      "Severe bradycardia",
+      "Hyperglycemia",
+      "Bronchospasm"
+    ],
+    "correctAnswer": "Shock with hypotension and low perfusion",
+    "rationale": "Dopamine stimulates dopaminergic and adrenergic receptors to support blood pressure and perfusion.",
+    "clinicalPearl": "Titrate infusion based on hemodynamic response."
+  },
+  {
+    "id": "pm-dopamine-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-dopamine-001",
+    "medication": "Dopamine",
+    "questionType": "multiple-choice",
+    "stem": "Which finding indicates effective dopamine therapy?",
+    "choices": [
+      "Improved blood pressure and urine output",
+      "Decreased heart rate",
+      "Hypoglycemia resolution",
+      "Decreased respirations"
+    ],
+    "correctAnswer": "Improved blood pressure and urine output",
+    "rationale": "Therapeutic effect is improved perfusion and organ function.",
+    "clinicalPearl": "Monitor for arrhythmias and perfusion parameters."
+  },
+  {
+    "id": "pm-dopamine-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-dopamine-001",
+    "medication": "Dopamine",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most concerning with dopamine infusion?",
+    "choices": [
+      "Tachyarrhythmias and ischemia",
+      "Hypoglycemia",
+      "Bronchospasm",
+      "Sedation"
+    ],
+    "correctAnswer": "Tachyarrhythmias and ischemia",
+    "rationale": "High doses can overstimulate beta-1 and alpha receptors, causing arrhythmias or ischemia.",
+    "clinicalPearl": "Continuous cardiac monitoring is essential."
+  },
+  {
+    "id": "pm-dopamine-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-dopamine-001",
+    "medication": "Dopamine",
+    "questionType": "multiple-choice",
+    "stem": "Which patient requires caution with dopamine administration?",
+    "choices": [
+      "Patient with tachyarrhythmia",
+      "Patient with hypotension from shock",
+      "Patient with low perfusion",
+      "Patient with acute renal failure"
+    ],
+    "correctAnswer": "Patient with tachyarrhythmia",
+    "rationale": "Dopamine can exacerbate pre-existing arrhythmias.",
+    "clinicalPearl": "Assess ECG and vitals before starting infusion."
+  },
+
+  {
+    "id": "pm-ntg-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-ntg-001",
+    "medication": "Nitroglycerin",
+    "questionType": "multiple-choice",
+    "stem": "Nitroglycerin is primarily used prehospital for which condition?",
+    "choices": [
+      "Angina and acute coronary syndrome",
+      "Bradycardia",
+      "Hypotension",
+      "Asthma exacerbation"
+    ],
+    "correctAnswer": "Angina and acute coronary syndrome",
+    "rationale": "Nitroglycerin is a vasodilator that reduces myocardial oxygen demand and preload.",
+    "clinicalPearl": "Assess blood pressure before each dose; contraindicated in hypotension."
+  },
+  {
+    "id": "pm-ntg-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-ntg-001",
+    "medication": "Nitroglycerin",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment indicates effective nitroglycerin therapy?",
+    "choices": [
+      "Reduced chest pain and improved BP and perfusion",
+      "Bradycardia onset",
+      "Improved oxygen saturation only",
+      "Increased edema"
+    ],
+    "correctAnswer": "Reduced chest pain and improved BP and perfusion",
+    "rationale": "Pain relief and stable hemodynamics indicate therapeutic effect.",
+    "clinicalPearl": "Monitor for hypotension and headaches as common side effects."
+  },
+  {
+    "id": "pm-ntg-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-ntg-001",
+    "medication": "Nitroglycerin",
+    "questionType": "multiple-choice",
+    "stem": "Which side effect is most commonly associated with nitroglycerin?",
+    "choices": [
+      "Headache and hypotension",
+      "Bradycardia",
+      "Tremors",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Headache and hypotension",
+    "rationale": "Vasodilation can lead to these common effects.",
+    "clinicalPearl": "Warn patients about transient headaches."
+  },
+  {
+    "id": "pm-ntg-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-ntg-001",
+    "medication": "Nitroglycerin",
+    "questionType": "multiple-choice",
+    "stem": "Which patient requires caution when administering nitroglycerin?",
+    "choices": [
+      "Patient with systolic BP < 100 mmHg",
+      "Patient with angina",
+      "Patient with ACS but normal BP",
+      "Patient with pulmonary edema"
+    ],
+    "correctAnswer": "Patient with systolic BP < 100 mmHg",
+    "rationale": "Vasodilation can worsen hypotension, risking perfusion.",
+    "clinicalPearl": "Hold or titrate dose if hypotensive."
+  },
+
+  {
+    "id": "pm-morphine-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-morphine-001",
+    "medication": "Morphine",
+    "questionType": "multiple-choice",
+    "stem": "Morphine is primarily indicated prehospital for which condition?",
+    "choices": [
+      "Severe pain, particularly in ACS or trauma",
+      "Bradycardia",
+      "Hypertension",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Severe pain, particularly in ACS or trauma",
+    "rationale": "Morphine provides potent analgesia and can reduce preload in ACS.",
+    "clinicalPearl": "Use lowest effective dose and monitor for hypotension or respiratory depression."
+  },
+  {
+    "id": "pm-morphine-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-morphine-001",
+    "medication": "Morphine",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment indicates morphine is having a therapeutic effect?",
+    "choices": [
+      "Reduced pain and improved patient comfort",
+      "Increased heart rate",
+      "Worsened respiratory rate",
+      "Improved BP only"
+    ],
+    "correctAnswer": "Reduced pain and improved patient comfort",
+    "rationale": "Analgesia is the primary desired effect.",
+    "clinicalPearl": "Reassess pain and vitals after each dose."
+  },
+  {
+    "id": "pm-morphine-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-morphine-001",
+    "medication": "Morphine",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most concerning with morphine?",
+    "choices": [
+      "Respiratory depression",
+      "Tachycardia",
+      "Hypertension",
+      "Headache"
+    ],
+    "correctAnswer": "Respiratory depression",
+    "rationale": "Opioids can depress the respiratory center, particularly in opioid-naive patients.",
+    "clinicalPearl": "Monitor respiratory rate, SpO₂, and level of consciousness."
+  },
+  {
+    "id": "pm-morphine-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-morphine-001",
+    "medication": "Morphine",
+    "questionType": "multiple-choice",
+    "stem": "Which patient requires caution when administering morphine?",
+    "choices": [
+      "Patient with hypotension or respiratory compromise",
+      "Patient with ACS",
+      "Patient with severe pain",
+      "Patient with anxiety"
+    ],
+    "correctAnswer": "Patient with hypotension or respiratory compromise",
+    "rationale": "Morphine can worsen low blood pressure and depress ventilation.",
+    "clinicalPearl": "Always assess vitals and consider alternative analgesia if unstable."
+  },
+{
+    "id": "pm-furo-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-furo-001",
+    "medication": "Furosemide",
+    "questionType": "multiple-choice",
+    "stem": "Furosemide is primarily indicated prehospital for which condition?",
+    "choices": [
+      "Pulmonary edema from heart failure",
+      "Bradycardia",
+      "Hypotension",
+      "Anaphylaxis"
+    ],
+    "correctAnswer": "Pulmonary edema from heart failure",
+    "rationale": "Furosemide is a loop diuretic that reduces preload and pulmonary congestion.",
+    "clinicalPearl": "Monitor BP and electrolytes; may cause hypotension."
+  },
+  {
+    "id": "pm-furo-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-furo-001",
+    "medication": "Furosemide",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment indicates therapeutic effect of furosemide?",
+    "choices": [
+      "Improved oxygen saturation and reduced crackles",
+      "Increased heart rate",
+      "Worsening hypotension",
+      "Decreased urine output"
+    ],
+    "correctAnswer": "Improved oxygen saturation and reduced crackles",
+    "rationale": "Diuresis reduces pulmonary congestion, improving oxygenation.",
+    "clinicalPearl": "Assess lung sounds and vitals frequently."
+  },
+  {
+    "id": "pm-furo-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-furo-001",
+    "medication": "Furosemide",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is commonly associated with furosemide?",
+    "choices": [
+      "Hypotension and electrolyte imbalances",
+      "Bradycardia",
+      "Hyperglycemia",
+      "Respiratory depression"
+    ],
+    "correctAnswer": "Hypotension and electrolyte imbalances",
+    "rationale": "Loop diuretics increase fluid and electrolyte loss, which can drop BP and potassium.",
+    "clinicalPearl": "Monitor BP, electrolytes, and renal function."
+  },
+  {
+    "id": "pm-furo-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-furo-001",
+    "medication": "Furosemide",
+    "questionType": "multiple-choice",
+    "stem": "Which patient requires caution when administering furosemide?",
+    "choices": [
+      "Hypotensive patient or patient with hypokalemia",
+      "Patient with pulmonary edema",
+      "Patient with CHF but normal BP",
+      "Patient with hypertension"
+    ],
+    "correctAnswer": "Hypotensive patient or patient with hypokalemia",
+    "rationale": "Diuretics can worsen low BP and electrolyte imbalances.",
+    "clinicalPearl": "Check vitals and labs before giving."
+  },
+
+  {
+    "id": "pm-amio-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-amio-001",
+    "medication": "Amiodarone",
+    "questionType": "multiple-choice",
+    "stem": "Amiodarone is primarily indicated prehospital for which condition?",
+    "choices": [
+      "Ventricular tachycardia and ventricular fibrillation",
+      "Bradycardia",
+      "Hypotension",
+      "Anaphylaxis"
+    ],
+    "correctAnswer": "Ventricular tachycardia and ventricular fibrillation",
+    "rationale": "Amiodarone is an antiarrhythmic for life-threatening ventricular arrhythmias.",
+    "clinicalPearl": "Administer as per ACLS protocol with ECG monitoring."
+  },
+  {
+    "id": "pm-amio-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-amio-001",
+    "medication": "Amiodarone",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment indicates therapeutic effect of amiodarone?",
+    "choices": [
+      "Conversion to normal rhythm or stabilization of arrhythmia",
+      "Increased heart rate",
+      "Worsening hypotension",
+      "Reduced SpO₂"
+    ],
+    "correctAnswer": "Conversion to normal rhythm or stabilization of arrhythmia",
+    "rationale": "Antiarrhythmic therapy aims to restore or maintain a stable rhythm.",
+    "clinicalPearl": "Monitor BP and ECG continuously."
+  },
+  {
+    "id": "pm-amio-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-amio-001",
+    "medication": "Amiodarone",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is concerning during amiodarone administration?",
+    "choices": [
+      "Hypotension and bradycardia",
+      "Tachyarrhythmias",
+      "Hyperglycemia",
+      "Bronchospasm"
+    ],
+    "correctAnswer": "Hypotension and bradycardia",
+    "rationale": "IV amiodarone can depress myocardial contractility and conduction.",
+    "clinicalPearl": "Monitor vitals and adjust infusion rate accordingly."
+  },
+  {
+    "id": "pm-amio-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-amio-001",
+    "medication": "Amiodarone",
+    "questionType": "multiple-choice",
+    "stem": "Which patient requires caution with amiodarone?",
+    "choices": [
+      "Patient with hypotension or heart block",
+      "Patient with stable VT",
+      "Patient with VF arrest",
+      "Patient with tachycardia"
+    ],
+    "correctAnswer": "Patient with hypotension or heart block",
+    "rationale": "Amiodarone can worsen conduction abnormalities and hypotension.",
+    "clinicalPearl": "Continuous monitoring is mandatory."
+  },
+
+  {
+    "id": "pm-aden-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-aden-001",
+    "medication": "Adenosine",
+    "questionType": "multiple-choice",
+    "stem": "Adenosine is primarily indicated for which arrhythmia?",
+    "choices": [
+      "Supraventricular tachycardia (SVT)",
+      "Ventricular fibrillation",
+      "Bradycardia",
+      "Atrial fibrillation"
+    ],
+    "correctAnswer": "Supraventricular tachycardia (SVT)",
+    "rationale": "Adenosine temporarily blocks AV nodal conduction to terminate reentrant SVT.",
+    "clinicalPearl": "Administer rapidly followed by saline flush; transient asystole may occur."
+  },
+  {
+    "id": "pm-aden-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-aden-001",
+    "medication": "Adenosine",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment indicates effective adenosine therapy?",
+    "choices": [
+      "Conversion to normal sinus rhythm",
+      "Persistent tachycardia",
+      "Worsening hypotension",
+      "Improved pain"
+    ],
+    "correctAnswer": "Conversion to normal sinus rhythm",
+    "rationale": "Termination of SVT confirms efficacy.",
+    "clinicalPearl": "Prepare for transient bradycardia or asystole."
+  },
+  {
+    "id": "pm-aden-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-aden-001",
+    "medication": "Adenosine",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most commonly observed with adenosine?",
+    "choices": [
+      "Transient flushing, chest discomfort, or brief asystole",
+      "Hypoglycemia",
+      "Tachyarrhythmias",
+      "Respiratory depression"
+    ],
+    "correctAnswer": "Transient flushing, chest discomfort, or brief asystole",
+    "rationale": "These effects are usually short-lived and self-limited.",
+    "clinicalPearl": "Warn the patient; monitor ECG continuously."
+  },
+  {
+    "id": "pm-aden-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-aden-001",
+    "medication": "Adenosine",
+    "questionType": "multiple-choice",
+    "stem": "Which patient requires caution with adenosine?",
+    "choices": [
+      "Patient with second- or third-degree AV block",
+      "Patient with SVT",
+      "Patient with narrow complex tachycardia",
+      "Patient with mild hypotension"
+    ],
+    "correctAnswer": "Patient with second- or third-degree AV block",
+    "rationale": "Adenosine can worsen AV conduction disturbances.",
+    "clinicalPearl": "Avoid use in patients with significant conduction disease."
+  },
+
+  {
+    "id": "pm-atro-q-001",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-atro-001",
+    "medication": "Atropine",
+    "questionType": "multiple-choice",
+    "stem": "Atropine is primarily indicated for which prehospital condition?",
+    "choices": [
+      "Symptomatic bradycardia",
+      "Tachycardia",
+      "Ventricular fibrillation",
+      "Pulmonary edema"
+    ],
+    "correctAnswer": "Symptomatic bradycardia",
+    "rationale": "Atropine blocks parasympathetic stimulation, increasing heart rate.",
+    "clinicalPearl": "Monitor for effectiveness and repeat dosing per ACLS protocol."
+  },
+  {
+    "id": "pm-atro-q-002",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-atro-001",
+    "medication": "Atropine",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment indicates therapeutic effect of atropine?",
+    "choices": [
+      "Improved heart rate and perfusion",
+      "Decreased heart rate",
+      "Reduced BP",
+      "Worsened mental status"
+    ],
+    "correctAnswer": "Improved heart rate and perfusion",
+    "rationale": "Therapy aims to restore adequate cardiac output.",
+    "clinicalPearl": "Reassess vitals frequently."
+  },
+  {
+    "id": "pm-atro-q-003",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-atro-001",
+    "medication": "Atropine",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect may occur with atropine administration?",
+    "choices": [
+      "Dry mouth, blurred vision, and tachycardia",
+      "Hypoglycemia",
+      "Respiratory depression",
+      "Pulmonary edema"
+    ],
+    "correctAnswer": "Dry mouth, blurred vision, and tachycardia",
+    "rationale": "Anticholinergic effects are expected at therapeutic doses.",
+    "clinicalPearl": "Monitor for excessive tachycardia or confusion in elderly."
+  },
+  {
+    "id": "pm-atro-q-004",
+    "scope": ["Paramedic"],
+    "medicationId": "pm-atro-001",
+    "medication": "Atropine",
+    "questionType": "multiple-choice",
+    "stem": "Which patient requires caution when administering atropine?",
+    "choices": [
+      "Patient with glaucoma or tachyarrhythmia",
+      "Patient with symptomatic bradycardia",
+      "Patient with hypotension",
+      "Patient with pulmonary edema"
+    ],
+    "correctAnswer": "Patient with glaucoma or tachyarrhythmia",
+    "rationale": "Anticholinergic effects can worsen these conditions.",
+    "clinicalPearl": "Assess history before administration."
   }
 ]
 
