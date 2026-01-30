@@ -916,7 +916,1382 @@
     "correctAnswer": "Ensure scene safety and continue monitoring",
     "rationale": "Acute withdrawal can cause agitation; safety and monitoring are key.",
     "clinicalPearl": "Naloxone can change behavior rapidly."
+  },
+  {
+    "id": "aemt-dex-q-004",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "A diabetic patient with confusion and diaphoresis has a blood glucose of 62 mg/dL. Which treatment consideration is most important?",
+    "choices": [
+      "Start IV D50 immediately without checking airway",
+      "Check mental status and ability to swallow before giving oral glucose",
+      "Administer oral glucose regardless of consciousness",
+      "Give normal saline instead of glucose"
+    ],
+    "correctAnswer": "Check mental status and ability to swallow before giving oral glucose",
+    "rationale": "Treatment should match patient’s mental status to avoid aspiration.",
+    "clinicalPearl": "Mental status guides glucose administration route."
+  },
+  {
+    "id": "aemt-dex-q-005",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "After administering IV dextrose to a hypoglycemic patient, which complication should you monitor for?",
+    "choices": [
+      "Hyperglycemia",
+      "Bradycardia",
+      "Hypotension",
+      "Hypokalemia"
+    ],
+    "correctAnswer": "Hyperglycemia",
+    "rationale": "Rapid glucose infusion can overshoot, causing hyperglycemia.",
+    "clinicalPearl": "Reassess blood glucose and adjust further treatment accordingly."
+  },
+  {
+    "id": "aemt-dex-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "Why is D10 preferred over D50 in pediatric patients requiring glucose correction?",
+    "choices": [
+      "Less risk of vein irritation",
+      "Faster absorption",
+      "Lower blood glucose effect",
+      "Longer shelf life"
+    ],
+    "correctAnswer": "Less risk of vein irritation",
+    "rationale": "D50 is highly concentrated and can damage veins if extravasation occurs.",
+    "clinicalPearl": "Pediatric IV therapy prioritizes safety and vein preservation."
+  },
+  {
+    "id": "aemt-dex-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "A patient’s glucose improved from 48 mg/dL to 95 mg/dL after Dextrose. What is the next best step?",
+    "choices": [
+      "Discontinue monitoring",
+      "Reassess glucose in 15 minutes and prepare for maintenance",
+      "Administer another D50 bolus immediately",
+      "Give oral glucose even if patient is unresponsive"
+    ],
+    "correctAnswer": "Reassess glucose in 15 minutes and prepare for maintenance",
+    "rationale": "Even after correction, hypoglycemia may recur; monitoring ensures safety.",
+    "clinicalPearl": "Treat, reassess, and prevent recurrence."
+  },
+
+  {
+    "id": "aemt-nalox-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "A patient with suspected opioid overdose is breathing 8 times per minute and has cyanosis. What is the priority after naloxone administration?",
+    "choices": [
+      "Monitor for re-narcotization and provide airway support",
+      "Immediately transport without further monitoring",
+      "Administer IV fluids to correct hypotension",
+      "Give acetaminophen for pain relief"
+    ],
+    "correctAnswer": "Monitor for re-narcotization and provide airway support",
+    "rationale": "Naloxone may wear off before the opioid does; airway management is critical.",
+    "clinicalPearl": "Always monitor breathing even after reversal."
+  },
+  {
+    "id": "aemt-nalox-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "Why is titrating naloxone to spontaneous respirations preferable to full reversal?",
+    "choices": [
+      "Reduces risk of acute withdrawal and agitation",
+      "Ensures patient is fully alert for transport",
+      "Prevents hypotension",
+      "Avoids opioid receptor blockade"
+    ],
+    "correctAnswer": "Reduces risk of acute withdrawal and agitation",
+    "rationale": "Full reversal may cause violent withdrawal symptoms.",
+    "clinicalPearl": "Goal is safe ventilation, not complete consciousness."
+  },
+  {
+    "id": "aemt-nalox-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "Which situation would limit the effectiveness of naloxone?",
+    "choices": [
+      "Co-ingestion of benzodiazepines",
+      "Heroin overdose",
+      "Morphine overdose",
+      "Oxycodone overdose"
+    ],
+    "correctAnswer": "Co-ingestion of benzodiazepines",
+    "rationale": "Naloxone only reverses opioid effects; other sedatives are unaffected.",
+    "clinicalPearl": "Always assess for poly-substance use."
+  },
+  {
+    "id": "aemt-nalox-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "A patient awakens combative after naloxone. What is the safest management?",
+    "choices": [
+      "Physically restrain and administer another dose",
+      "Ensure scene safety, monitor, and manage agitation",
+      "Administer IV fluids to calm patient",
+      "Give oral glucose for sedation"
+    ],
+    "correctAnswer": "Ensure scene safety, monitor, and manage agitation",
+    "rationale": "Acute withdrawal can cause agitation; protecting patient and provider is priority.",
+    "clinicalPearl": "Observe and support rather than immediately re-dosing."
+  },
+
+  {
+    "id": "aemt-ns-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "After a 500 mL NS bolus, a patient’s blood pressure improves but crackles appear at lung bases. What is the next best step?",
+    "choices": [
+      "Continue rapid bolus",
+      "Slow or stop fluid administration and reassess",
+      "Give IV dextrose instead",
+      "Administer ibuprofen for edema"
+    ],
+    "correctAnswer": "Slow or stop fluid administration and reassess",
+    "rationale": "Crackles indicate fluid overload; fluids should be reassessed and slowed.",
+    "clinicalPearl": "Fluids are medications—monitor for adverse effects."
+  },
+  {
+    "id": "aemt-ns-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "Why is NS considered isotonic, and how does this affect patient care?",
+    "choices": [
+      "Matches plasma osmolarity, expanding intravascular volume without shifting cells",
+      "Draws fluid into cells, correcting dehydration",
+      "Pulls fluid from cells to increase urine output",
+      "Contains glucose for energy"
+    ],
+    "correctAnswer": "Matches plasma osmolarity, expanding intravascular volume without shifting cells",
+    "rationale": "Isotonic fluids primarily restore intravascular volume safely.",
+    "clinicalPearl": "Understand fluid type to avoid unintended shifts."
+  },
+  {
+    "id": "aemt-ns-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "Which patient is at highest risk of complications from a large NS bolus?",
+    "choices": [
+      "Healthy young adult trauma patient",
+      "Elderly patient with heart failure",
+      "Dehydrated pediatric patient",
+      "Febrile adult"
+    ],
+    "correctAnswer": "Elderly patient with heart failure",
+    "rationale": "Fluid overload can precipitate pulmonary edema in heart failure.",
+    "clinicalPearl": "Adjust volume based on comorbidities."
+  },
+  {
+    "id": "aemt-ns-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment best indicates effective NS bolus therapy in hypovolemic patients?",
+    "choices": [
+      "Decreased heart rate only",
+      "Improved blood pressure and mental status",
+      "Increased temperature",
+      "Worsening JVD"
+    ],
+    "correctAnswer": "Improved blood pressure and mental status",
+    "rationale": "Hemodynamic improvement shows restored perfusion.",
+    "clinicalPearl": "Monitor vital signs and mental status together."
+  },
+
+  {
+    "id": "aemt-apap-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "A febrile patient weighs 30 kg. Which approach ensures safe acetaminophen dosing?",
+    "choices": [
+      "Give 500 mg regardless of weight",
+      "Calculate weight-based dose 10–15 mg/kg",
+      "Use adult fixed dose for children over 20 kg",
+      "Give multiple doses quickly to reduce fever"
+    ],
+    "correctAnswer": "Calculate weight-based dose 10–15 mg/kg",
+    "rationale": "Pediatric dosing must be weight-based to prevent toxicity.",
+    "clinicalPearl": "Always calculate exact pediatric doses."
+  },
+  {
+    "id": "aemt-apap-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "Which patient condition is a contraindication to acetaminophen use?",
+    "choices": [
+      "Fever",
+      "Mild headache",
+      "Severe liver disease",
+      "Musculoskeletal pain"
+    ],
+    "correctAnswer": "Severe liver disease",
+    "rationale": "Hepatic impairment increases risk of toxicity.",
+    "clinicalPearl": "Check liver function and cumulative dosing."
+  },
+  {
+    "id": "aemt-apap-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "A patient reports taking multiple OTC medications containing acetaminophen. What is the main concern?",
+    "choices": [
+      "Cumulative dosing may reach toxic levels",
+      "Reduced efficacy",
+      "Increased bleeding risk",
+      "Increased fever"
+    ],
+    "correctAnswer": "Cumulative dosing may reach toxic levels",
+    "rationale": "Multiple sources increase risk of liver injury.",
+    "clinicalPearl": "Always assess total daily intake."
+  },
+  {
+    "id": "aemt-apap-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "Which early symptom may indicate acetaminophen toxicity?",
+    "choices": [
+      "Nausea and vomiting",
+      "Bradycardia",
+      "Hypertension",
+      "Rash"
+    ],
+    "correctAnswer": "Nausea and vomiting",
+    "rationale": "GI symptoms are an early sign of overdose before liver damage.",
+    "clinicalPearl": "Monitor liver function and watch for delayed effects."
+  },
+  {
+    "id": "aemt-ibu-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "A patient with a history of renal disease requests ibuprofen for pain. What is the most critical consideration?",
+    "choices": [
+      "Renal perfusion may be reduced, increasing risk of kidney injury",
+      "Pain relief will be insufficient",
+      "It may cause bradycardia",
+      "It enhances fever reduction"
+    ],
+    "correctAnswer": "Renal perfusion may be reduced, increasing risk of kidney injury",
+    "rationale": "NSAIDs inhibit prostaglandins needed to maintain renal blood flow.",
+    "clinicalPearl": "Always consider renal function before NSAID administration."
+  },
+  {
+    "id": "aemt-ibu-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "Why does ibuprofen provide analgesia beyond pain suppression?",
+    "choices": [
+      "Its anti-inflammatory action reduces pain at the source",
+      "It sedates the patient",
+      "It relaxes muscles",
+      "It constricts blood vessels"
+    ],
+    "correctAnswer": "Its anti-inflammatory action reduces pain at the source",
+    "rationale": "Reducing inflammation decreases pain mediators at injury sites.",
+    "clinicalPearl": "NSAIDs target both pain and inflammation."
+  },
+  {
+    "id": "aemt-ibu-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "A dehydrated patient has fever and requests ibuprofen. What is the main risk?",
+    "choices": [
+      "Reduced renal perfusion",
+      "Hypoglycemia",
+      "Respiratory depression",
+      "Increased bleeding risk"
+    ],
+    "correctAnswer": "Reduced renal perfusion",
+    "rationale": "NSAIDs may worsen kidney blood flow in dehydrated patients.",
+    "clinicalPearl": "Hydration status is important when administering NSAIDs."
+  },
+  {
+    "id": "aemt-ibu-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "Which patient should avoid NSAIDs due to risk of gastrointestinal complications?",
+    "choices": [
+      "History of peptic ulcer disease",
+      "Mild musculoskeletal pain",
+      "Febrile pediatric patient",
+      "Healthy adult with headache"
+    ],
+    "correctAnswer": "History of peptic ulcer disease",
+    "rationale": "NSAIDs increase gastric irritation and bleeding risk.",
+    "clinicalPearl": "Always review GI history before NSAID use."
+  },
+
+  {
+    "id": "aemt-char-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-char-001",
+    "medication": "Activated Charcoal",
+    "questionType": "multiple-choice",
+    "stem": "A patient ingested an unknown quantity of pills 45 minutes ago and is alert with intact gag reflex. What is the best next step?",
+    "choices": [
+      "Administer activated charcoal immediately",
+      "Induce vomiting",
+      "Delay until hospital arrival",
+      "Give oral glucose"
+    ],
+    "correctAnswer": "Administer activated charcoal immediately",
+    "rationale": "Charcoal is most effective within 1–2 hours of ingestion.",
+    "clinicalPearl": "Time and airway status determine charcoal use."
+  },
+  {
+    "id": "aemt-char-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-char-001",
+    "medication": "Activated Charcoal",
+    "questionType": "multiple-choice",
+    "stem": "Which situation contraindicates activated charcoal administration?",
+    "choices": [
+      "Patient with decreased LOC",
+      "Patient alert and cooperative",
+      "Mild nausea",
+      "Recent acetaminophen ingestion"
+    ],
+    "correctAnswer": "Patient with decreased LOC",
+    "rationale": "Risk of aspiration is high without airway protection.",
+    "clinicalPearl": "Airway safety comes before toxin absorption."
+  },
+  {
+    "id": "aemt-char-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-char-001",
+    "medication": "Activated Charcoal",
+    "questionType": "multiple-choice",
+    "stem": "Why is activated charcoal not recommended for hydrocarbon ingestion?",
+    "choices": [
+      "Aspiration risk outweighs benefit",
+      "Charcoal neutralizes hydrocarbon",
+      "Charcoal accelerates absorption",
+      "Causes hypotension"
+    ],
+    "correctAnswer": "Aspiration risk outweighs benefit",
+    "rationale": "Hydrocarbons are poorly adsorbed and increase aspiration risk.",
+    "clinicalPearl": "Risk–benefit analysis guides charcoal use."
+  },
+  {
+    "id": "aemt-char-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-char-001",
+    "medication": "Activated Charcoal",
+    "questionType": "multiple-choice",
+    "stem": "A patient presents 3 hours after an overdose. What is the likely effectiveness of activated charcoal?",
+    "choices": [
+      "Minimal effectiveness due to delayed administration",
+      "Highly effective regardless of time",
+      "Causes hyperglycemia",
+      "Preferred over IV antidotes"
+    ],
+    "correctAnswer": "Minimal effectiveness due to delayed administration",
+    "rationale": "Charcoal effectiveness decreases significantly after 1–2 hours.",
+    "clinicalPearl": "Early administration maximizes toxin adsorption."
+  },
+
+  {
+    "id": "aemt-duoneb-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-duoneb-001",
+    "medication": "Albuterol / Ipratropium (DuoNeb)",
+    "questionType": "multiple-choice",
+    "stem": "Which combination of actions does DuoNeb provide?",
+    "choices": [
+      "Beta-2 agonist and anticholinergic",
+      "Steroid and antihistamine",
+      "Beta blocker and bronchodilator",
+      "Alpha agonist and steroid"
+    ],
+    "correctAnswer": "Beta-2 agonist and anticholinergic",
+    "rationale": "Albuterol relaxes smooth muscles; ipratropium reduces bronchoconstriction via parasympathetic inhibition.",
+    "clinicalPearl": "Dual therapy improves airflow more effectively than single agents."
+  },
+  {
+    "id": "aemt-duoneb-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-duoneb-001",
+    "medication": "Albuterol / Ipratropium (DuoNeb)",
+    "questionType": "multiple-choice",
+    "stem": "A COPD patient with wheezing and SpO₂ of 88% arrives. Which treatment is most appropriate?",
+    "choices": [
+      "DuoNeb via nebulizer",
+      "CPAP only",
+      "IV dextrose",
+      "Oral glucose"
+    ],
+    "correctAnswer": "DuoNeb via nebulizer",
+    "rationale": "Combined bronchodilators are first-line for COPD exacerbation with hypoxia.",
+    "clinicalPearl": "Treat bronchospasm early to prevent respiratory fatigue."
+  },
+  {
+    "id": "aemt-duoneb-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-duoneb-001",
+    "medication": "Albuterol / Ipratropium (DuoNeb)",
+    "questionType": "multiple-choice",
+    "stem": "After DuoNeb treatment, what finding best indicates improvement?",
+    "choices": [
+      "Reduced wheezing and accessory muscle use",
+      "Increased heart rate",
+      "Lower blood pressure",
+      "Increased anxiety"
+    ],
+    "correctAnswer": "Reduced wheezing and accessory muscle use",
+    "rationale": "Improved airflow reduces work of breathing.",
+    "clinicalPearl": "Clinical signs often matter more than vital numbers alone."
+  },
+  {
+    "id": "aemt-duoneb-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-duoneb-001",
+    "medication": "Albuterol / Ipratropium (DuoNeb)",
+    "questionType": "multiple-choice",
+    "stem": "Which mechanism explains ipratropium’s effect?",
+    "choices": [
+      "Parasympathetic inhibition",
+      "Beta-2 stimulation",
+      "Corticosteroid action",
+      "Histamine blockade"
+    ],
+    "correctAnswer": "Parasympathetic inhibition",
+    "rationale": "Ipratropium blocks muscarinic receptors to reduce bronchoconstriction.",
+    "clinicalPearl": "Understanding mechanism aids in predicting response and side effects."
+  },
+
+  {
+    "id": "aemt-glucose-q-003",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-glucose-oral-001",
+    "medication": "Oral Glucose",
+    "questionType": "multiple-choice",
+    "stem": "Which patient is the best candidate for oral glucose?",
+    "choices": [
+      "Alert patient with low blood glucose",
+      "Unresponsive diabetic",
+      "Patient with airway compromise",
+      "Patient actively vomiting"
+    ],
+    "correctAnswer": "Alert patient with low blood glucose",
+    "rationale": "Oral glucose requires intact swallowing and alertness.",
+    "clinicalPearl": "Never give oral medication to a patient with unprotected airway."
+  },
+  {
+    "id": "aemt-glucose-q-004",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-glucose-oral-001",
+    "medication": "Oral Glucose",
+    "questionType": "multiple-choice",
+    "stem": "What is the primary risk of giving oral glucose to a patient with altered mental status?",
+    "choices": [
+      "Aspiration",
+      "Hyperglycemia",
+      "Hypotension",
+      "Bradycardia"
+    ],
+    "correctAnswer": "Aspiration",
+    "rationale": "Patients who cannot protect their airway risk inhaling glucose.",
+    "clinicalPearl": "Airway assessment is mandatory before oral administration."
+  },
+  {
+    "id": "aemt-glucose-q-005",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-glucose-oral-001",
+    "medication": "Oral Glucose",
+    "questionType": "multiple-choice",
+    "stem": "A diabetic patient is confused but able to follow commands and swallow. Blood glucose is 54 mg/dL. Best treatment?",
+    "choices": [
+      "Oral glucose",
+      "IV dextrose",
+      "Naloxone",
+      "Normal saline"
+    ],
+    "correctAnswer": "Oral glucose",
+    "rationale": "Oral glucose is safe when airway and swallowing are intact.",
+    "clinicalPearl": "Tailor treatment to patient’s mental status."
+  },
+  {
+    "id": "aemt-glucose-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-glucose-oral-001",
+    "medication": "Oral Glucose",
+    "questionType": "multiple-choice",
+    "stem": "Why is oral glucose not suitable for an unresponsive patient?",
+    "choices": [
+      "High risk of aspiration",
+      "Ineffective in raising glucose",
+      "Causes hypotension",
+      "May worsen bradycardia"
+    ],
+    "correctAnswer": "High risk of aspiration",
+    "rationale": "An unprotected airway makes oral administration unsafe.",
+    "clinicalPearl": "IV or alternative route is required for altered mental status."
+  },
+  {
+    "id": "aemt-dex-q-004",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "A diabetic patient is lethargic with a blood glucose of 62 mg/dL. What is the most appropriate intervention?",
+    "choices": [
+      "IV dextrose",
+      "Oral glucose",
+      "Naloxone",
+      "Normal saline"
+    ],
+    "correctAnswer": "IV dextrose",
+    "rationale": "Altered mental status prevents safe oral administration.",
+    "clinicalPearl": "Route of administration depends on patient’s mental status."
+  },
+  {
+    "id": "aemt-dex-q-005",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "Why must blood glucose be reassessed after dextrose administration?",
+    "choices": [
+      "To confirm effectiveness and prevent rebound hypoglycemia",
+      "To check for allergic reaction",
+      "To assess liver function",
+      "To monitor hydration status"
+    ],
+    "correctAnswer": "To confirm effectiveness and prevent rebound hypoglycemia",
+    "rationale": "Treatment should be verified and recurrent hypoglycemia prevented.",
+    "clinicalPearl": "Reassessment is as critical as initial treatment."
+  },
+  {
+    "id": "aemt-dex-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "A patient received D10 via IV. Which assessment finding indicates appropriate response?",
+    "choices": [
+      "Improved mental status and orientation",
+      "Bradycardia",
+      "Hypotension",
+      "Wheezing"
+    ],
+    "correctAnswer": "Improved mental status and orientation",
+    "rationale": "Glucose correction restores CNS function in hypoglycemia.",
+    "clinicalPearl": "Focus on functional improvement rather than only vital signs."
+  },
+  {
+    "id": "aemt-dex-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "Which patient would benefit most from IV D50 rather than D10?",
+    "choices": [
+      "Severely hypoglycemic adult",
+      "Mildly hypoglycemic pediatric patient",
+      "Patient with stable blood glucose",
+      "Patient with airway compromise"
+    ],
+    "correctAnswer": "Severely hypoglycemic adult",
+    "rationale": "Higher concentration is used for rapid correction in adults.",
+    "clinicalPearl": "Adjust concentration based on age, weight, and risk of extravasation."
+  },
+
+  {
+    "id": "aemt-nalox-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "A patient presents with pinpoint pupils and RR 4. What is the primary indication for naloxone?",
+    "choices": [
+      "Respiratory depression",
+      "Hypotension",
+      "Bradycardia",
+      "Altered mental status"
+    ],
+    "correctAnswer": "Respiratory depression",
+    "rationale": "Opioid reversal is indicated to restore adequate ventilation.",
+    "clinicalPearl": "Breathing takes priority over consciousness in opioid overdose."
+  },
+  {
+    "id": "aemt-nalox-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "After naloxone, the patient becomes agitated. What is the next best action?",
+    "choices": [
+      "Ensure scene safety and monitor",
+      "Administer additional naloxone immediately",
+      "Give acetaminophen",
+      "Induce vomiting"
+    ],
+    "correctAnswer": "Ensure scene safety and monitor",
+    "rationale": "Rapid opioid reversal can cause withdrawal; safety is key.",
+    "clinicalPearl": "Monitor behavior changes; titrate naloxone to respirations."
+  },
+  {
+    "id": "aemt-nalox-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "Why must patients be closely monitored after naloxone administration?",
+    "choices": [
+      "Naloxone has a shorter duration than most opioids",
+      "It can cause bradycardia",
+      "It causes hypoglycemia",
+      "It permanently blocks opioid receptors"
+    ],
+    "correctAnswer": "Naloxone has a shorter duration than most opioids",
+    "rationale": "Re-narcotization can occur once naloxone wears off.",
+    "clinicalPearl": "Repeat dosing may be necessary based on patient response."
+  },
+  {
+    "id": "aemt-nalox-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "Which overdose would most likely show little response to naloxone?",
+    "choices": [
+      "Benzodiazepines",
+      "Morphine",
+      "Heroin",
+      "Oxycodone"
+    ],
+    "correctAnswer": "Benzodiazepines",
+    "rationale": "Naloxone only reverses opioids, not other sedatives.",
+    "clinicalPearl": "Identify substance before expecting pharmacologic reversal."
+  },
+
+  {
+    "id": "aemt-ns-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "A hypotensive, dehydrated patient receives a 500 mL NS bolus. Which finding indicates a positive response?",
+    "choices": [
+      "Improved blood pressure",
+      "Decreased lung sounds",
+      "Worsening jugular venous distention",
+      "Increased temperature"
+    ],
+    "correctAnswer": "Improved blood pressure",
+    "rationale": "Rising BP indicates improved circulating volume and perfusion.",
+    "clinicalPearl": "Vital signs guide fluid therapy effectiveness."
+  },
+  {
+    "id": "aemt-ns-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "A patient with CHF develops crackles after NS bolus. What is the correct action?",
+    "choices": [
+      "Slow or stop fluids",
+      "Increase fluid rate",
+      "Administer IV acetaminophen",
+      "Give oral glucose"
+    ],
+    "correctAnswer": "Slow or stop fluids",
+    "rationale": "New crackles indicate fluid overload or pulmonary edema.",
+    "clinicalPearl": "Fluids are medications — reassess frequently."
+  },
+  {
+    "id": "aemt-ns-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "Why is NS considered isotonic?",
+    "choices": [
+      "It has the same osmolarity as plasma",
+      "It pulls fluid out of cells",
+      "It draws fluid into cells",
+      "It contains glucose"
+    ],
+    "correctAnswer": "It has the same osmolarity as plasma",
+    "rationale": "Isotonic fluids do not cause major fluid shifts.",
+    "clinicalPearl": "Isotonic solutions primarily expand intravascular volume."
+  },
+  {
+    "id": "aemt-ns-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "Which patient is at greatest risk from a large-volume NS bolus?",
+    "choices": [
+      "Patient with heart failure",
+      "Young trauma patient",
+      "Dehydrated athlete",
+      "Febrile pediatric patient"
+    ],
+    "correctAnswer": "Patient with heart failure",
+    "rationale": "Fluid overload can worsen pulmonary edema.",
+    "clinicalPearl": "Always reassess lungs and vitals during fluid resuscitation."
+  },
+
+  {
+    "id": "aemt-apap-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "A 6-year-old weighing 25 kg has a fever. What is the maximum single acetaminophen dose?",
+    "choices": [
+      "375 mg",
+      "500 mg",
+      "625 mg",
+      "750 mg"
+    ],
+    "correctAnswer": "375 mg",
+    "rationale": "Pediatric dosing is 10–15 mg/kg (25 × 15 = 375 mg).",
+    "clinicalPearl": "Always calculate by weight to avoid toxicity."
+  },
+  {
+    "id": "aemt-apap-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "A patient took multiple acetaminophen-containing products. What is the primary concern?",
+    "choices": [
+      "Toxic cumulative dosing and liver injury",
+      "Increased bleeding",
+      "Renal failure",
+      "Hypertension"
+    ],
+    "correctAnswer": "Toxic cumulative dosing and liver injury",
+    "rationale": "Total daily dose may exceed safe limits.",
+    "clinicalPearl": "Always ask about all sources of acetaminophen."
+  },
+  {
+    "id": "aemt-apap-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "Early signs of acetaminophen toxicity include which symptom?",
+    "choices": [
+      "Nausea and vomiting",
+      "Bradycardia",
+      "Bronchospasm",
+      "Hypertension"
+    ],
+    "correctAnswer": "Nausea and vomiting",
+    "rationale": "GI symptoms often precede liver injury.",
+    "clinicalPearl": "Liver damage may be delayed even with mild early symptoms."
+  },
+  {
+    "id": "aemt-apap-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "Which strategy reduces the risk of acetaminophen overdose?",
+    "choices": [
+      "Tracking total daily intake",
+      "Routine max-dose administration",
+      "Combining with NSAIDs",
+      "Giving with food"
+    ],
+    "correctAnswer": "Tracking total daily intake",
+    "rationale": "Toxicity is related to cumulative dosing over 24 hours.",
+    "clinicalPearl": "Check all medications, including OTC products."
+  },
+  {
+    "id": "aemt-ibu-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "A dehydrated adult with musculoskeletal pain requests ibuprofen. What is the primary concern?",
+    "choices": [
+      "Reduced renal perfusion",
+      "Hypoglycemia",
+      "Respiratory depression",
+      "Sedation"
+    ],
+    "correctAnswer": "Reduced renal perfusion",
+    "rationale": "NSAIDs can worsen kidney function, especially when dehydrated.",
+    "clinicalPearl": "Assess hydration status before administering NSAIDs."
+  },
+  {
+    "id": "aemt-ibu-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "Which patient should avoid ibuprofen use?",
+    "choices": [
+      "History of renal disease",
+      "Mild headache",
+      "Musculoskeletal injury",
+      "Fever"
+    ],
+    "correctAnswer": "History of renal disease",
+    "rationale": "NSAIDs can exacerbate renal dysfunction.",
+    "clinicalPearl": "Always check renal history and hydration."
+  },
+  {
+    "id": "aemt-ibu-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "A patient with inflammatory pain receives ibuprofen. Which mechanism primarily contributes to pain relief?",
+    "choices": [
+      "Anti-inflammatory action",
+      "Sedation",
+      "Muscle relaxation",
+      "Vasoconstriction"
+    ],
+    "correctAnswer": "Anti-inflammatory action",
+    "rationale": "COX inhibition decreases prostaglandin-mediated inflammation and pain.",
+    "clinicalPearl": "Reducing inflammation is key for analgesia in musculoskeletal injuries."
+  },
+  {
+    "id": "aemt-ibu-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ibu-001",
+    "medication": "Ibuprofen",
+    "questionType": "multiple-choice",
+    "stem": "Which patient assessment indicates NSAID caution?",
+    "choices": [
+      "Dehydrated patient with fever",
+      "Healthy adult with headache",
+      "Child with mild musculoskeletal pain",
+      "Patient with allergy to penicillin"
+    ],
+    "correctAnswer": "Dehydrated patient with fever",
+    "rationale": "NSAIDs reduce renal perfusion; dehydration increases risk.",
+    "clinicalPearl": "Hydration status should guide NSAID use."
+  },
+  {
+    "id": "aemt-char-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-char-001",
+    "medication": "Activated Charcoal",
+    "questionType": "multiple-choice",
+    "stem": "Which ingestion is contraindicated for activated charcoal?",
+    "choices": [
+      "Caustic substances",
+      "Acetaminophen",
+      "Aspirin",
+      "Tricyclic antidepressants"
+    ],
+    "correctAnswer": "Caustic substances",
+    "rationale": "Charcoal cannot neutralize caustics and increases aspiration risk.",
+    "clinicalPearl": "Do not administer charcoal without airway protection."
+  },
+  {
+    "id": "aemt-char-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-char-001",
+    "medication": "Activated Charcoal",
+    "questionType": "multiple-choice",
+    "stem": "A patient with decreased LOC requires treatment for a toxic ingestion. Why is activated charcoal inappropriate?",
+    "choices": [
+      "High aspiration risk",
+      "It neutralizes toxins",
+      "It induces emesis",
+      "It causes hypotension"
+    ],
+    "correctAnswer": "High aspiration risk",
+    "rationale": "Unprotected airway makes charcoal unsafe.",
+    "clinicalPearl": "Airway comes before antidotes."
+  },
+  {
+    "id": "aemt-char-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-char-001",
+    "medication": "Activated Charcoal",
+    "questionType": "multiple-choice",
+    "stem": "Activated charcoal is most effective when administered within what timeframe?",
+    "choices": [
+      "Within 1–2 hours of ingestion",
+      "After symptoms appear",
+      "Immediately regardless of time",
+      "Only after vomiting stops"
+    ],
+    "correctAnswer": "Within 1–2 hours of ingestion",
+    "rationale": "Earlier administration limits toxin absorption.",
+    "clinicalPearl": "Timing is critical for maximum effectiveness."
+  },
+  {
+    "id": "aemt-char-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-char-001",
+    "medication": "Activated Charcoal",
+    "questionType": "multiple-choice",
+    "stem": "A patient ingested hydrocarbons. Why is charcoal contraindicated?",
+    "choices": [
+      "Aspiration risk outweighs benefit",
+      "It neutralizes the toxin",
+      "It increases absorption",
+      "It causes hypotension"
+    ],
+    "correctAnswer": "Aspiration risk outweighs benefit",
+    "rationale": "Hydrocarbons increase aspiration risk without effective adsorption.",
+    "clinicalPearl": "Assess risk–benefit carefully."
+  },
+
+  {
+    "id": "aemt-duoneb-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-duoneb-001",
+    "medication": "Albuterol / Ipratropium (DuoNeb)",
+    "questionType": "multiple-choice",
+    "stem": "Which mechanism explains ipratropium’s bronchodilating effect?",
+    "choices": [
+      "Parasympathetic inhibition",
+      "Beta-2 stimulation",
+      "Histamine blockade",
+      "Corticosteroid action"
+    ],
+    "correctAnswer": "Parasympathetic inhibition",
+    "rationale": "Ipratropium blocks muscarinic receptors, reducing bronchoconstriction.",
+    "clinicalPearl": "Combining mechanisms improves bronchodilation."
+  },
+  {
+    "id": "aemt-duoneb-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-duoneb-001",
+    "medication": "Albuterol / Ipratropium (DuoNeb)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient would benefit most from DuoNeb therapy?",
+    "choices": [
+      "COPD exacerbation",
+      "Pulmonary edema",
+      "CHF exacerbation",
+      "Pneumothorax"
+    ],
+    "correctAnswer": "COPD exacerbation",
+    "rationale": "Combination bronchodilators are first-line in COPD flares.",
+    "clinicalPearl": "Dual therapy targets both bronchospasm pathways."
+  },
+  {
+    "id": "aemt-duoneb-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-duoneb-001",
+    "medication": "Albuterol / Ipratropium (DuoNeb)",
+    "questionType": "multiple-choice",
+    "stem": "After DuoNeb treatment, which assessment indicates effective therapy?",
+    "choices": [
+      "Reduced wheezing and accessory muscle use",
+      "Increased heart rate",
+      "Increased anxiety",
+      "Lower blood pressure"
+    ],
+    "correctAnswer": "Reduced wheezing and accessory muscle use",
+    "rationale": "Improved airflow reduces work of breathing.",
+    "clinicalPearl": "Patient appearance is key to evaluating response."
+  },
+  {
+    "id": "aemt-duoneb-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-duoneb-001",
+    "medication": "Albuterol / Ipratropium (DuoNeb)",
+    "questionType": "multiple-choice",
+    "stem": "Which side effect is most associated with albuterol?",
+    "choices": [
+      "Tremors and tachycardia",
+      "Bradycardia",
+      "Respiratory depression",
+      "Hypotension"
+    ],
+    "correctAnswer": "Tremors and tachycardia",
+    "rationale": "Beta-2 stimulation commonly causes tremors and tachycardia.",
+    "clinicalPearl": "Monitor vitals during repeated treatments."
+  },
+
+  {
+    "id": "aemt-glucose-q-003",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-glucose-oral-001",
+    "medication": "Oral Glucose",
+    "questionType": "multiple-choice",
+    "stem": "Which patient is the best candidate for oral glucose?",
+    "choices": [
+      "Alert patient with low blood glucose",
+      "Unresponsive diabetic",
+      "Patient with vomiting",
+      "Patient with airway compromise"
+    ],
+    "correctAnswer": "Alert patient with low blood glucose",
+    "rationale": "Oral glucose requires intact mental status and ability to swallow.",
+    "clinicalPearl": "Airway safety is essential before giving oral meds."
+  },
+  {
+    "id": "aemt-glucose-q-004",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-glucose-oral-001",
+    "medication": "Oral Glucose",
+    "questionType": "multiple-choice",
+    "stem": "A diabetic patient is confused but able to swallow. Blood glucose is 54 mg/dL. Best treatment?",
+    "choices": [
+      "Oral glucose",
+      "IV dextrose",
+      "Naloxone",
+      "Normal saline"
+    ],
+    "correctAnswer": "Oral glucose",
+    "rationale": "Airway intact; oral glucose is safe and effective.",
+    "clinicalPearl": "Match treatment to mental status."
+  },
+  {
+    "id": "aemt-glucose-q-005",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-glucose-oral-001",
+    "medication": "Oral Glucose",
+    "questionType": "multiple-choice",
+    "stem": "What is the primary risk of giving oral glucose to an altered patient?",
+    "choices": [
+      "Aspiration",
+      "Hyperglycemia",
+      "Hypotension",
+      "Bradycardia"
+    ],
+    "correctAnswer": "Aspiration",
+    "rationale": "Altered mental status increases aspiration risk.",
+    "clinicalPearl": "Airway assessment comes first."
+  },
+  {
+    "id": "aemt-glucose-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-glucose-oral-001",
+    "medication": "Oral Glucose",
+    "questionType": "multiple-choice",
+    "stem": "Why is mental status crucial before administering oral glucose?",
+    "choices": [
+      "To ensure safe swallowing and avoid aspiration",
+      "To check for liver function",
+      "To prevent hyperglycemia",
+      "To assess hydration status"
+    ],
+    "correctAnswer": "To ensure safe swallowing and avoid aspiration",
+    "rationale": "Oral glucose requires intact swallowing reflex.",
+    "clinicalPearl": "Never give oral meds if airway is compromised."
+  },
+  {
+    "id": "aemt-dex-q-004",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "A diabetic patient has a blood glucose of 62 mg/dL and is lethargic but able to protect their airway. What is the safest treatment?",
+    "choices": [
+      "IV dextrose",
+      "Oral glucose",
+      "Naloxone",
+      "Normal saline"
+    ],
+    "correctAnswer": "IV dextrose",
+    "rationale": "Lethargy indicates altered mental status; IV glucose ensures rapid correction.",
+    "clinicalPearl": "Match the route to patient’s mental status."
+  },
+  {
+    "id": "aemt-dex-q-005",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "After administering IV dextrose, the patient becomes more alert. What is the most important next step?",
+    "choices": [
+      "Reassess blood glucose",
+      "Discontinue IV",
+      "Administer oral glucose immediately",
+      "Check potassium levels"
+    ],
+    "correctAnswer": "Reassess blood glucose",
+    "rationale": "Confirm treatment effectiveness and avoid rebound hypoglycemia.",
+    "clinicalPearl": "Treat, reassess, and prevent recurrence."
+  },
+  {
+    "id": "aemt-dex-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "A pediatric patient with hypoglycemia is at risk for tissue injury. Which dextrose formulation is safest?",
+    "choices": [
+      "D10",
+      "D50",
+      "D25",
+      "D5"
+    ],
+    "correctAnswer": "D10",
+    "rationale": "Lower concentration reduces risk of extravasation injury.",
+    "clinicalPearl": "Hypertonic solutions can cause severe tissue necrosis."
+  },
+  {
+    "id": "aemt-dex-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-dex-001",
+    "medication": "Dextrose",
+    "questionType": "multiple-choice",
+    "stem": "Why is it important to confirm hypoglycemia before administering dextrose?",
+    "choices": [
+      "Prevent unnecessary hyperglycemia",
+      "Avoid fluid overload",
+      "Prevent potassium loss",
+      "Reduce risk of bradycardia"
+    ],
+    "correctAnswer": "Prevent unnecessary hyperglycemia",
+    "rationale": "Unnecessary glucose can cause harm if patient is not truly hypoglycemic.",
+    "clinicalPearl": "Always confirm before treatment if possible."
+  },
+
+  {
+    "id": "aemt-nalox-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "A patient with RR 6, shallow breathing, and pinpoint pupils receives naloxone. What is the primary endpoint?",
+    "choices": [
+      "Adequate spontaneous respirations",
+      "Complete alertness",
+      "Pain relief",
+      "Normal heart rate"
+    ],
+    "correctAnswer": "Adequate spontaneous respirations",
+    "rationale": "The goal is to restore ventilation, not necessarily full consciousness.",
+    "clinicalPearl": "Titrate naloxone to breathing, not alertness."
+  },
+  {
+    "id": "aemt-nalox-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "After naloxone administration, a patient becomes agitated and combative. What is the safest approach?",
+    "choices": [
+      "Ensure scene safety and continue monitoring",
+      "Immediately restrain physically",
+      "Give additional naloxone",
+      "Administer acetaminophen"
+    ],
+    "correctAnswer": "Ensure scene safety and continue monitoring",
+    "rationale": "Acute withdrawal can cause agitation; focus on safety.",
+    "clinicalPearl": "Naloxone can change patient behavior rapidly."
+  },
+  {
+    "id": "aemt-nalox-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "Why must patients be monitored after naloxone administration?",
+    "choices": [
+      "Naloxone duration is shorter than many opioids",
+      "Naloxone causes hypoglycemia",
+      "Naloxone permanently blocks receptors",
+      "Naloxone causes bradycardia"
+    ],
+    "correctAnswer": "Naloxone duration is shorter than many opioids",
+    "rationale": "Re-narcotization may occur after naloxone wears off.",
+    "clinicalPearl": "Repeat dosing may be required."
+  },
+  {
+    "id": "aemt-nalox-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-nalox-001",
+    "medication": "Naloxone",
+    "questionType": "multiple-choice",
+    "stem": "Naloxone is ineffective in overdoses involving which substance?",
+    "choices": [
+      "Benzodiazepines",
+      "Heroin",
+      "Oxycodone",
+      "Morphine"
+    ],
+    "correctAnswer": "Benzodiazepines",
+    "rationale": "Naloxone only reverses opioid effects.",
+    "clinicalPearl": "Not all overdoses respond to naloxone."
+  },
+
+  {
+    "id": "aemt-ns-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "A 70-year-old with vomiting and diarrhea has BP 88/56, HR 118. Lungs clear. Best intervention?",
+    "choices": [
+      "500–1000 mL normal saline bolus",
+      "Oral fluids",
+      "Administer acetaminophen",
+      "Withhold fluids due to age"
+    ],
+    "correctAnswer": "500–1000 mL normal saline bolus",
+    "rationale": "Hypovolemia with hypotension warrants IV fluid resuscitation.",
+    "clinicalPearl": "Treat the shock, not the patient’s age."
+  },
+  {
+    "id": "aemt-ns-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "After fluid bolus, crackles appear at lung bases. Next step?",
+    "choices": [
+      "Slow or stop fluids",
+      "Continue bolus",
+      "Increase infusion rate",
+      "Administer diuretic immediately"
+    ],
+    "correctAnswer": "Slow or stop fluids",
+    "rationale": "Crackles indicate possible fluid overload.",
+    "clinicalPearl": "Fluids are medications—reassess frequently."
+  },
+  {
+    "id": "aemt-ns-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "Which sign indicates a positive response to a normal saline bolus?",
+    "choices": [
+      "Improved blood pressure",
+      "Decreased lung sounds",
+      "Increased temperature",
+      "Worsening JVD"
+    ],
+    "correctAnswer": "Improved blood pressure",
+    "rationale": "Rising BP indicates increased circulating volume and perfusion.",
+    "clinicalPearl": "Monitor vitals to guide fluid resuscitation."
+  },
+  {
+    "id": "aemt-ns-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-ns-001",
+    "medication": "Normal Saline",
+    "questionType": "multiple-choice",
+    "stem": "Why is normal saline isotonic?",
+    "choices": [
+      "Same osmolarity as plasma",
+      "Draws fluid into cells",
+      "Pulls fluid out of cells",
+      "Contains glucose"
+    ],
+    "correctAnswer": "Same osmolarity as plasma",
+    "rationale": "Isotonic fluids do not cause significant fluid shifts between compartments.",
+    "clinicalPearl": "Primarily expands intravascular volume."
+  },
+
+  {
+    "id": "aemt-apap-q-006",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "A 6-year-old weighing 20 kg has a fever. What is the correct acetaminophen dose?",
+    "choices": [
+      "300 mg",
+      "100 mg",
+      "200 mg",
+      "600 mg"
+    ],
+    "correctAnswer": "300 mg",
+    "rationale": "Pediatric dosing: 10–15 mg/kg (20 × 15 = 300 mg).",
+    "clinicalPearl": "Always calculate pediatric doses by weight."
+  },
+  {
+    "id": "aemt-apap-q-007",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "A patient reports taking acetaminophen every 4 hours. Why is this important?",
+    "choices": [
+      "May indicate toxic cumulative dosing",
+      "Prevents NSAID use",
+      "Causes renal failure",
+      "Increases bleeding risk"
+    ],
+    "correctAnswer": "May indicate toxic cumulative dosing",
+    "rationale": "Excess total daily dosing increases risk of liver injury.",
+    "clinicalPearl": "Ask about all sources of acetaminophen."
+  },
+  {
+    "id": "aemt-apap-q-008",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "Which symptom may indicate early acetaminophen toxicity?",
+    "choices": [
+      "Nausea and vomiting",
+      "Bradycardia",
+      "Bronchospasm",
+      "Hypertension"
+    ],
+    "correctAnswer": "Nausea and vomiting",
+    "rationale": "GI symptoms often precede liver injury.",
+    "clinicalPearl": "Liver damage may be delayed."
+  },
+  {
+    "id": "aemt-apap-q-009",
+    "scope": ["AEMT"],
+    "medicationId": "aemt-apap-001",
+    "medication": "Acetaminophen",
+    "questionType": "multiple-choice",
+    "stem": "Why is acetaminophen preferred over NSAIDs in patients with peptic ulcer disease?",
+    "choices": [
+      "Does not irritate the stomach",
+      "Acts as anti-inflammatory",
+      "Causes less sedation",
+      "Improves renal perfusion"
+    ],
+    "correctAnswer": "Does not irritate the stomach",
+    "rationale": "Acetaminophen is safe for patients with gastric mucosa concerns.",
+    "clinicalPearl": "Consider comorbidities when choosing analgesics."
   }
+
 ]
 
 
