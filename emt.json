@@ -1,4 +1,3 @@
-
 [
   { "id":"emt-asa-001","scope":["EMT"],"name":{"generic":"Acetylsalicylic Acid","brand":["Aspirin","ASA"]},"class":"NSAID","mechanism":"COX inhibition reduces pain, fever, inflammation.","indications":["Pain","Fever","Inflammation","Cardiac protection"],"contraindications":["NSAID allergy","Ulcer","Bleeding disorders","Renal failure"],"adultDose":"325–650 mg","pediatricDose":"Avoid (Reye’s risk)","routes":["PO","PR"] },
   { "id":"emt-o2-001","scope":["EMT"],"name":{"generic":"Oxygen","brand":["O2"]},"class":"Medical Gas","mechanism":"Increases oxygen concentration for respiration.","indications":["Hypoxia","Respiratory distress","Cardiac arrest"],"contraindications":["None absolute; caution in COPD CO2 retainers"],"adultDose":"1–15 L/min","pediatricDose":"1–10 L/min","routes":["NC","Mask","NRB"] },  
