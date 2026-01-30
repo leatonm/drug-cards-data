@@ -1388,7 +1388,398 @@
     "correctAnswer": "Give cetirizine orally",
     "rationale": "Cetirizine is appropriate for mild allergic reactions without systemic involvement.",
     "clinicalPearl": "Do not use for anaphylaxis."
+  },
+  {
+    "id": "emt-ct-q-007",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "An EMT is preparing to administer aspirin to a patient with chest pain. Which finding would most strongly contraindicate aspirin administration?",
+    "choices": [
+      "History of GERD",
+      "Current use of nitroglycerin",
+      "Active gastrointestinal bleeding",
+      "Blood pressure of 102/70 mmHg"
+    ],
+    "correctAnswer": "Active gastrointestinal bleeding",
+    "rationale": "Active bleeding significantly increases the risk of hemorrhage with aspirin use.",
+    "clinicalPearl": "Aspirin saves lives in ACS — unless bleeding risk outweighs benefit."
+  },
+  {
+    "id": "emt-ct-q-008",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient with suspected anaphylaxis received epinephrine IM. Five minutes later, the patient’s breathing improves but hives and nausea persist. What is the EMT’s most appropriate next action?",
+    "choices": [
+      "Administer a second dose of epinephrine",
+      "Administer diphenhydramine if available",
+      "Withhold further treatment and monitor",
+      "Administer nebulized epinephrine"
+    ],
+    "correctAnswer": "Administer diphenhydramine if available",
+    "rationale": "Antihistamines address persistent cutaneous symptoms after epinephrine has stabilized life threats.",
+    "clinicalPearl": "Epinephrine treats the emergency; antihistamines treat the reaction."
+  },
+  {
+    "id": "emt-ct-q-009",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "An unresponsive diabetic patient has a blood glucose of 38 mg/dL. The patient has a gag reflex but is not following commands. What is the safest EMT treatment?",
+    "choices": [
+      "Administer oral glucose",
+      "Administer glucagon IM",
+      "Administer naloxone",
+      "Provide oxygen and transport only"
+    ],
+    "correctAnswer": "Administer glucagon IM",
+    "rationale": "Glucagon is indicated for severe hypoglycemia when oral glucose is unsafe.",
+    "clinicalPearl": "Gag reflex alone does not equal a protected airway."
+  },
+  {
+    "id": "emt-ct-q-010",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient in respiratory distress has stridor and a barking cough. Lung sounds are otherwise clear. What medication best targets the underlying problem?",
+    "choices": [
+      "Albuterol",
+      "Nebulized epinephrine",
+      "Diphenhydramine",
+      "Oxygen via non-rebreather"
+    ],
+    "correctAnswer": "Nebulized epinephrine",
+    "rationale": "Upper airway edema causing stridor responds to alpha-mediated vasoconstriction.",
+    "clinicalPearl": "Stridor is an upper airway problem — treat it at the source."
+  },
+  {
+    "id": "emt-ct-q-011",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "An EMT is considering nitroglycerin for a patient with chest pain. Which assessment finding requires the EMT to withhold the medication?",
+    "choices": [
+      "Heart rate of 58 bpm",
+      "Blood pressure of 96/60 mmHg",
+      "Oxygen saturation of 95%",
+      "Pain rating of 9/10"
+    ],
+    "correctAnswer": "Blood pressure of 96/60 mmHg",
+    "rationale": "Nitroglycerin may cause dangerous hypotension in patients with low baseline blood pressure.",
+    "clinicalPearl": "Nitro treats ischemia — but can worsen shock."
+  },
+  {
+    "id": "emt-ct-q-012",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient overdosed on opioids and received naloxone. The patient becomes awake, agitated, and refuses transport. What is the EMT’s most appropriate concern?",
+    "choices": [
+      "Risk of rebound respiratory depression",
+      "Risk of allergic reaction to naloxone",
+      "Risk of aspiration from vomiting",
+      "Risk of hypotension"
+    ],
+    "correctAnswer": "Risk of rebound respiratory depression",
+    "rationale": "Naloxone’s duration may be shorter than that of the opioid involved.",
+    "clinicalPearl": "Naloxone wears off — opioids often don’t."
+  },
+  {
+    "id": "emt-ct-q-013",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient with chest pain denies allergies and has not taken aspirin today. The patient reports vomiting blood earlier this morning. Vital signs are stable. What should the EMT do regarding aspirin?",
+    "choices": [
+      "Administer aspirin due to suspected ACS",
+      "Withhold aspirin due to bleeding risk",
+      "Administer a reduced dose of aspirin",
+      "Contact medical control before deciding"
+    ],
+    "correctAnswer": "Withhold aspirin due to bleeding risk",
+    "rationale": "Active or recent gastrointestinal bleeding is a contraindication to aspirin.",
+    "clinicalPearl": "Aspirin saves myocardium — unless it worsens hemorrhage."
+  },
+  {
+    "id": "emt-ct-q-014",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A child with a history of asthma presents with wheezing after exposure to a known allergen. The child also has facial swelling and hives. What medication should the EMT prioritize?",
+    "choices": [
+      "Albuterol",
+      "Diphenhydramine",
+      "Epinephrine IM",
+      "Nebulized epinephrine"
+    ],
+    "correctAnswer": "Epinephrine IM",
+    "rationale": "Multi-system involvement indicates anaphylaxis, requiring epinephrine.",
+    "clinicalPearl": "Wheezing plus hives equals epinephrine, not just albuterol."
+  },
+  {
+    "id": "emt-ct-q-015",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient with COPD is short of breath and using accessory muscles. SpO₂ is 86% on room air. What is the most appropriate initial oxygen therapy?",
+    "choices": [
+      "Non-rebreather at 15 L/min",
+      "Nasal cannula titrated to effect",
+      "No oxygen due to CO₂ retention risk",
+      "Immediate BVM ventilation"
+    ],
+    "correctAnswer": "Nasal cannula titrated to effect",
+    "rationale": "COPD patients benefit from controlled oxygen therapy to maintain adequate saturation.",
+    "clinicalPearl": "Hypoxia kills faster than hypercapnia."
+  },
+  {
+    "id": "emt-ct-q-016",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "An elderly patient with altered mental status has cool, clammy skin and a blood glucose of 112 mg/dL. What should guide the EMT’s next treatment decision?",
+    "choices": [
+      "Blood glucose level",
+      "Skin signs",
+      "Mental status",
+      "Overall clinical presentation"
+    ],
+    "correctAnswer": "Overall clinical presentation",
+    "rationale": "Normal glucose does not exclude other life-threatening causes of altered mental status.",
+    "clinicalPearl": "Treat the patient, not the number."
+  },
+  {
+    "id": "emt-ct-q-017",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient in moderate respiratory distress is receiving albuterol. After the treatment, wheezing improves but heart rate increases from 96 to 132 bpm. What is the EMT’s best interpretation?",
+    "choices": [
+      "Allergic reaction to albuterol",
+      "Expected beta-agonist side effect",
+      "Worsening respiratory failure",
+      "Indication to stop all bronchodilators"
+    ],
+    "correctAnswer": "Expected beta-agonist side effect",
+    "rationale": "Tachycardia is a common and expected effect of beta-2 agonists.",
+    "clinicalPearl": "Side effects don’t always mean complications."
+  },
+  {
+    "id": "emt-ct-q-018",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient with suspected opioid overdose has a respiratory rate of 6/min but a strong pulse. What is the EMT’s priority intervention?",
+    "choices": [
+      "Administer naloxone",
+      "Begin assisted ventilations",
+      "Apply oxygen via non-rebreather",
+      "Establish IV access"
+    ],
+    "correctAnswer": "Begin assisted ventilations",
+    "rationale": "Airway and breathing take precedence over medication administration.",
+    "clinicalPearl": "Naloxone supports breathing indirectly — a BVM does it directly."
+  },
+  {
+    "id": "emt-ct-q-019",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "An EMT is assisting a patient with their prescribed nitroglycerin. Which question is most critical to ask before administration?",
+    "choices": [
+      "When did your chest pain start?",
+      "Have you taken medication for erectile dysfunction?",
+      "Do you have a history of heart disease?",
+      "Are you allergic to aspirin?"
+    ],
+    "correctAnswer": "Have you taken medication for erectile dysfunction?",
+    "rationale": "Recent PDE-5 inhibitor use can cause life-threatening hypotension when combined with nitroglycerin.",
+    "clinicalPearl": "Always ask about ED meds — every time."
+  },
+  {
+    "id": "emt-ct-q-020",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient with a severe nosebleed receives oxymetazoline. Which action best enhances the effectiveness of the medication?",
+    "choices": [
+      "Tilting the head backward",
+      "Applying direct pressure after administration",
+      "Packing both nostrils immediately",
+      "Administering high-flow oxygen"
+    ],
+    "correctAnswer": "Applying direct pressure after administration",
+    "rationale": "Vasoconstriction combined with pressure improves hemostasis.",
+    "clinicalPearl": "Medication plus mechanics stops bleeding."
+  },
+  {
+    "id": "emt-ct-q-021",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient with nausea and vomiting requests medication. Which assessment finding would make oral administration inappropriate?",
+    "choices": [
+      "Persistent nausea",
+      "History of motion sickness",
+      "Inability to protect the airway",
+      "Mild abdominal discomfort"
+    ],
+    "correctAnswer": "Inability to protect the airway",
+    "rationale": "Oral medications are unsafe when airway protection is compromised.",
+    "clinicalPearl": "If they can’t swallow safely, don’t give it orally."
+  },
+  {
+    "id": "emt-ct-q-022",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient using nitrous oxide for pain control suddenly becomes anxious and removes the mask. What should the EMT do next?",
+    "choices": [
+      "Reapply the mask and encourage continued use",
+      "Discontinue nitrous oxide and reassess",
+      "Administer oxygen via non-rebreather",
+      "Administer a higher concentration of nitrous oxide"
+    ],
+    "correctAnswer": "Discontinue nitrous oxide and reassess",
+    "rationale": "Nitrous oxide must be patient-controlled and stopped if the patient cannot tolerate it.",
+    "clinicalPearl": "Loss of control equals loss of indication."
+  },
+{
+    "id": "emt-ct-q-023",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient with chest pain took aspirin prior to EMS arrival. The patient is unsure of the dose. What is the EMT’s best action?",
+    "choices": [
+      "Administer a full 324 mg dose",
+      "Administer 81 mg to supplement",
+      "Withhold aspirin",
+      "Contact medical control before giving aspirin"
+    ],
+    "correctAnswer": "Withhold aspirin",
+    "rationale": "Uncertain dosing increases the risk of overmedication without clear benefit.",
+    "clinicalPearl": "When in doubt, don’t double-dose."
+  },
+  {
+    "id": "emt-ct-q-024",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient with suspected hypoglycemia is awake but repeatedly falls asleep and cannot follow commands. What is the safest EMT treatment?",
+    "choices": [
+      "Oral glucose gel",
+      "Glucose tablets",
+      "Glucagon IM",
+      "Encourage oral intake slowly"
+    ],
+    "correctAnswer": "Glucagon IM",
+    "rationale": "Inability to follow commands indicates an unsafe airway for oral glucose.",
+    "clinicalPearl": "Awake does not equal safe to swallow."
+  },
+  {
+    "id": "emt-ct-q-025",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient with mild allergic symptoms requests diphenhydramine. Which assessment finding would require the EMT to withhold the medication?",
+    "choices": [
+      "Generalized itching",
+      "History of glaucoma",
+      "Runny nose",
+      "Mild rash"
+    ],
+    "correctAnswer": "History of glaucoma",
+    "rationale": "Diphenhydramine has anticholinergic effects that may worsen glaucoma.",
+    "clinicalPearl": "Antihistamines aren’t benign for everyone."
+  },
+  {
+    "id": "emt-ct-q-026",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient in respiratory distress has wheezing only on expiration and prolonged exhalation. Which medication best addresses the underlying problem?",
+    "choices": [
+      "Nebulized epinephrine",
+      "Albuterol",
+      "Oxygen via non-rebreather",
+      "Diphenhydramine"
+    ],
+    "correctAnswer": "Albuterol",
+    "rationale": "Lower airway bronchoconstriction responds to beta-2 bronchodilators.",
+    "clinicalPearl": "Expiratory wheeze = lower airway."
+  },
+  {
+    "id": "emt-ct-q-027",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient receiving naloxone becomes suddenly nauseated and vomits. What is the EMT’s priority concern?",
+    "choices": [
+      "Allergic reaction",
+      "Aspiration risk",
+      "Medication failure",
+      "Recurrent overdose"
+    ],
+    "correctAnswer": "Aspiration risk",
+    "rationale": "Vomiting after naloxone increases the risk of airway compromise.",
+    "clinicalPearl": "Protect the airway after reversal."
+  },
+  {
+    "id": "emt-ct-q-028",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "An EMT is preparing to assist with a patient’s prescribed nitroglycerin. Which vital sign trend is most concerning?",
+    "choices": [
+      "Heart rate decreasing from 104 to 88 bpm",
+      "Blood pressure decreasing from 138/84 to 108/70 mmHg",
+      "Respiratory rate decreasing from 22 to 18/min",
+      "Oxygen saturation increasing from 92% to 96%"
+    ],
+    "correctAnswer": "Blood pressure decreasing from 138/84 to 108/70 mmHg",
+    "rationale": "Nitroglycerin can cause further hypotension as blood pressure trends downward.",
+    "clinicalPearl": "Watch trends, not just single numbers."
+  },
+  {
+    "id": "emt-ct-q-029",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient with suspected poisoning is alert but refuses activated charcoal. What is the EMT’s best course of action?",
+    "choices": [
+      "Administer charcoal anyway due to potential benefit",
+      "Force the patient to drink charcoal",
+      "Respect refusal and provide supportive care",
+      "Delay transport until charcoal is taken"
+    ],
+    "correctAnswer": "Respect refusal and provide supportive care",
+    "rationale": "Competent patients have the right to refuse treatment.",
+    "clinicalPearl": "Consent matters — even when the treatment helps."
+  },
+  {
+    "id": "emt-ct-q-030",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient with stridor improves after nebulized epinephrine. What is the EMT’s most important next step?",
+    "choices": [
+      "Discontinue monitoring",
+      "Prepare for rapid deterioration",
+      "Administer albuterol",
+      "Encourage oral fluids"
+    ],
+    "correctAnswer": "Prepare for rapid deterioration",
+    "rationale": "Rebound airway edema can occur after epinephrine wears off.",
+    "clinicalPearl": "Temporary improvement can be deceptive."
+  },
+  {
+    "id": "emt-ct-q-031",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A febrile child requires antipyretic therapy. Which factor most influences the EMT’s medication choice?",
+    "choices": [
+      "Child’s temperature",
+      "Child’s age and weight",
+      "Parent preference",
+      "Time of last oral intake"
+    ],
+    "correctAnswer": "Child’s age and weight",
+    "rationale": "Pediatric dosing is weight-based to prevent toxicity.",
+    "clinicalPearl": "Kids aren’t small adults."
+  },
+  {
+    "id": "emt-ct-q-032",
+    "scope": ["EMT"],
+    "questionType": "multiple-choice",
+    "stem": "A patient using nitrous oxide becomes dizzy but remains alert and cooperative. What should the EMT do?",
+    "choices": [
+      "Increase nitrous concentration",
+      "Continue therapy and monitor closely",
+      "Discontinue nitrous oxide immediately",
+      "Administer oxygen via nasal cannula"
+    ],
+    "correctAnswer": "Continue therapy and monitor closely",
+    "rationale": "Mild dizziness is a common, expected effect if the patient remains in control.",
+    "clinicalPearl": "Side effects don’t always equal stop."
   }
+  
 ]
 
 
