@@ -16,6 +16,23 @@
     "rationale": "Excessive diarrhea is a sign of quinidine toxicity and may precede serious cardiac dysrhythmias.",
     "clinicalPearl": "GI symptoms are often the earliest warning sign of quinidine toxicity."
   },
+   {
+    "id": "rn-q-002",
+    "scope": ["RN"],
+    "medicationId": "rn-002",
+    "medication": "Ropinirole",
+    "questionType": "multiple-choice",
+    "stem": "What symptom should be reported immediately for a patient taking ropinirole?",
+    "choices": [
+      "Dry mouth",
+      "Peripheral edema",
+      "Mild fatigue",
+      "Constipation"
+    ],
+    "correctAnswer": "Peripheral edema",
+    "rationale": "Ropinirole may cause fluid retention and cardiac complications.",
+    "clinicalPearl": "Monitor for heart failure in patients with cardiovascular disease."
+  },
   {
     "id": "rn-q-003",
     "scope": ["RN"],
@@ -832,23 +849,7 @@
     "correctAnswer": "QT interval prolongation",
     "rationale": "Apomorphine carries a risk of ventricular dysrhythmias from prolonged QT.",
     "clinicalPearl": "Avoid other QT-prolonging drugs when possible."
-  },
-  {
-    "id": "rn-q-051",
-    "scope": ["RN"],
-    "medicationId": "rn-041",
-    "medication": "Ropinirole",
-    "questionType": "multiple-choice",
-    "stem": "What symptom should be reported immediately for a patient taking ropinirole?",
-    "choices": [
-      "Dry mouth",
-      "Peripheral edema",
-      "Mild fatigue",
-      "Constipation"
-    ],
-    "correctAnswer": "Peripheral edema",
-    "rationale": "Ropinirole may cause fluid retention and cardiac complications.",
-    "clinicalPearl": "Monitor for heart failure in patients with cardiovascular disease."
   }
+
 ]
 
