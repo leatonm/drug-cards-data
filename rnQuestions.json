@@ -17,28 +17,6 @@
     "clinicalPearl": "GI symptoms are often the earliest warning sign of quinidine toxicity."
   },
   {
-    "id": "rn-q-002",
-    "scope": ["RN"],
-    "medicationId": "rn-002",
-    "medication": "Procainamide",
-    "questionType": "select-all-that-apply",
-    "stem": "Which findings suggest a potential adverse reaction to procainamide? (Select all that apply.)",
-    "choices": [
-      "Joint pain",
-      "Butterfly-shaped facial rash",
-      "Hypotension",
-      "Bradycardia",
-      "Dry cough"
-    ],
-    "correctAnswer": [
-      "Joint pain",
-      "Butterfly-shaped facial rash",
-      "Hypotension"
-    ],
-    "rationale": "Procainamide can cause a lupus-like syndrome and hypotension.",
-    "clinicalPearl": "Drug-induced lupus is a well-known complication of procainamide therapy."
-  },
-  {
     "id": "rn-q-003",
     "scope": ["RN"],
     "medicationId": "rn-003",
