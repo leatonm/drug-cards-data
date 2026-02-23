@@ -3031,7 +3031,7 @@
   "correctAnswer": "Rotate injection sites to prevent lipoatrophy.",
   "rationale": "Injection-site rotation is essential to prevent tissue damage and lipoatrophy.",
   "clinicalPearl": "Teach patients to systematically rotate subcutaneous injection sites to protect skin integrity."
-}
+},
 
 
 
@@ -3832,7 +3832,6 @@
 
 
 
-[
   {
     "id": "rn-q-190",
     "scope": ["RN"],
