@@ -5,26 +5,6 @@
     "medicationId": "rn-001",
     "medication": "Quinidine",
     "questionType": "multiple-choice",
-    "stem": "Which assessment finding in a patient taking quinidine requires immediate notification of the provider?",
-    "choices": [
-      "Mild nausea",
-      "Excessive diarrhea",
-      "Occasional dizziness",
-      "Dry mouth"
-    ],
-    "correctAnswer": "Excessive diarrhea",
-    "rationale": "Excessive diarrhea is a sign of quinidine toxicity and may precede serious cardiac dysrhythmias.",
-    "clinicalPearl": "GI symptoms are often the earliest warning sign of quinidine toxicity."
-  },
-
-
-[
-  {
-    "id": "rn-q-001",
-    "scope": ["RN"],
-    "medicationId": "rn-001",
-    "medication": "Quinidine",
-    "questionType": "multiple-choice",
     "stem": "A nurse is teaching a patient about quinidine therapy. Which symptom should the patient be instructed to report immediately?",
     "choices": [
       "Tinnitus",
