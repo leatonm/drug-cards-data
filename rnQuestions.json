@@ -55,9 +55,7 @@
     "rationale": "Quinidine prolongs the QT interval, increasing the risk of torsades de pointes.",
     "clinicalPearl": "Monitoring QT interval is essential during quinidine therapy to prevent life-threatening arrhythmias."
   }
-]
 
-[
   {
     "id": "rn-q-004",
     "scope": ["RN"],
@@ -94,8 +92,6 @@
     "clinicalPearl": "Routine ANA monitoring helps detect early signs of drug-induced lupus in patients receiving prolonged procainamide therapy."
   },
  
-
-
  {
     "id": "rn-q-006",
     "scope": ["RN"],
@@ -114,8 +110,6 @@
     "clinicalPearl": "Continuous cardiac and hemodynamic monitoring is essential during IV procainamide administration."
   }
 
-
-[
   {
     "id": "rn-q-007",
     "scope": ["RN"],
@@ -170,13 +164,7 @@
     "rationale": "Lidocaine is primarily used for acute ventricular dysrhythmias, especially post-MI.",
     "clinicalPearl": "Lidocaine is a first-line antiarrhythmic for life-threatening ventricular dysrhythmias in emergency settings."
   }
-]
 
-
-
-
-
-[
   {
     "id": "rn-q-010",
     "scope": ["RN"],
@@ -232,10 +220,7 @@
     "rationale": "Mexiletine is metabolized by the liver, increasing the risk of drug accumulation and toxicity in hepatic impairment.",
     "clinicalPearl": "Patients with hepatic dysfunction may require dosage adjustments and closer monitoring during mexiletine therapy."
   }
-]
 
-
-[
   {
     "id": "rn-q-013",
     "scope": ["RN"],
@@ -287,15 +272,7 @@
     "rationale": "Class IC drugs have a significant proarrhythmic risk, requiring careful ECG monitoring.",
     "clinicalPearl": "Patients taking flecainide require ongoing cardiac monitoring to detect potentially life-threatening arrhythmias."
   }
-]
 
-
-
-
-
-
-
-[
   {
     "id": "rn-q-016",
     "scope": ["RN"],
@@ -332,9 +309,6 @@
   },
  
 
-
-
-
  {
     "id": "rn-q-018",
     "scope": ["RN"],
@@ -352,10 +326,8 @@
     "rationale": "Propafenone’s beta-blocking effects can cause clinically significant bradycardia, requiring prompt evaluation.",
     "clinicalPearl": "Monitor heart rate closely in patients receiving propafenone to detect potentially dangerous bradycardia."
   }
-]
 
-
-[
+  
   {
     "id": "rn-q-019",
     "scope": ["RN"],
@@ -408,10 +380,6 @@
     "clinicalPearl": "Assess baseline heart rate carefully before initiating beta-blocker therapy."
   },
  
-
-
-
-
 
 
  {
@@ -491,8 +459,6 @@
 
 
 
-
-
   {
     "id": "rn-q-026",
     "scope": ["RN"],
@@ -528,14 +494,8 @@
     "rationale": "Dose adjustment may be required because atenolol is cleared renally.",
     "clinicalPearl": "Monitor renal function to avoid atenolol accumulation and toxicity."
   }
-]
 
-
-
-
-
-
-[
+  
   {
     "id": "rn-q-028",
     "scope": ["RN"],
@@ -715,10 +675,8 @@
     "rationale": "Low potassium levels increase the risk of QT prolongation and torsades de pointes with ibutilide.",
     "clinicalPearl": "Correct potassium deficits before administering medications that prolong the QT interval."
   }
-]
 
-
-[
+  
   {
     "id": "rn-q-037",
     "scope": ["RN"],
@@ -896,14 +854,8 @@
     "rationale": "Verapamil commonly causes constipation due to decreased GI motility.",
     "clinicalPearl": "Encourage adequate fluid and fiber intake to reduce constipation risk while on verapamil."
   }
-]
 
-
-
-
-
-
-[
+  
   {
     "id": "rn-q-046",
     "scope": ["RN"],
@@ -1087,9 +1039,7 @@
     "rationale": "Patients commonly experience brief chest discomfort, flushing, and a sense of impending doom due to transient asystole.",
     "clinicalPearl": "Reassure patients that the uncomfortable sensations are brief and expected."
   }
-]
 
-[
   {
     "id": "rn-q-055",
     "scope": ["RN"],
@@ -1269,15 +1219,9 @@
     "rationale": "After metabolism of dextrose, free water shifts into the intracellular space.",
     "clinicalPearl": "D5W is not ideal for fluid resuscitation because it does not remain in the intravascular space."
   }
-]
 
 
-
-
-
-
-
-[
+  
   {
     "id": "rn-q-064",
     "scope": ["RN"],
@@ -1462,9 +1406,8 @@
     "rationale": "Albumin can rapidly expand plasma volume, increasing the risk for circulatory overload.",
     "clinicalPearl": "Monitor lung sounds and signs of heart failure during albumin infusion."
   }
-]
 
-[
+  
   {
     "id": "rn-q-073",
     "scope": ["RN"],
@@ -1643,16 +1586,8 @@
     "correctAnswer": "Take at bedtime",
     "rationale": "Donepezil is commonly taken at bedtime to reduce dizziness and GI side effects.",
     "clinicalPearl": "Bedtime dosing may reduce awareness of mild nausea or dizziness."
-  }
-]
+  },
 
-
-
-
-
-
-
-[
   {
     "id": "rn-q-082",
     "scope": ["RN"],
@@ -1831,10 +1766,9 @@
     "correctAnswer": "“I will remove the old patch before applying a new one.”",
     "rationale": "Only one patch should be worn at a time; the old patch must be removed to avoid overdose.",
     "clinicalPearl": "Never cut transdermal patches, and rotate application sites."
-  }
-]
+  },
 
-[
+  
   {
     "id": "rn-q-091",
     "scope": ["RN"],
@@ -2015,10 +1949,7 @@
     "correctAnswer": "Increase fluid and fiber intake",
     "rationale": "Increasing fluids and fiber helps reduce constipation caused by anticholinergic effects.",
     "clinicalPearl": "Preventing constipation improves adherence and comfort."
-  }
-]
-
-
+  },
 
 
 {
@@ -2037,7 +1968,7 @@
   "correctAnswer": "Parkinson disease",
   "rationale": "Carbidopa/levodopa is used to replace dopamine and manage motor symptoms in Parkinson disease.",
   "clinicalPearl": "Carbidopa reduces peripheral conversion of levodopa, allowing more medication to reach the brain."
-}
+},
 
 {
   "id": "rn-q-101",
@@ -2055,7 +1986,7 @@
   "correctAnswer": "Orthostatic hypotension",
   "rationale": "Carbidopa/levodopa can cause orthostatic hypotension, dyskinesias, and hallucinations.",
   "clinicalPearl": "Teach patients to change positions slowly to reduce fall risk."
-}
+},
 
 
 
@@ -2078,7 +2009,7 @@
   "correctAnswer": "Avoid high-protein meals at dosing times",
   "rationale": "High-protein meals can interfere with levodopa absorption; patients should take it apart from protein-heavy meals.",
   "clinicalPearl": "Dietary protein competes with levodopa for absorption and transport across the blood-brain barrier."
-}
+},
 
 {
   "id": "rn-q-103",
@@ -2096,7 +2027,7 @@
   "correctAnswer": "Parkinson disease",
   "rationale": "Pramipexole is a dopamine agonist used to manage Parkinson disease symptoms.",
   "clinicalPearl": "Dopamine agonists directly stimulate dopamine receptors in the CNS."
-}
+},
 
 
 
@@ -2119,7 +2050,7 @@
   "correctAnswer": "Impulse control disorders",
   "rationale": "Dopamine agonists can cause impulse control issues such as gambling, hypersexuality, or compulsive shopping.",
   "clinicalPearl": "Assess patients regularly for new compulsive behaviors."
-}
+},
 
 {
   "id": "rn-q-105",
@@ -2137,7 +2068,7 @@
   "correctAnswer": "Do not drive until response to medication is known",
   "rationale": "Pramipexole can cause drowsiness or sudden sleep attacks; patients should not drive until they know how it affects them.",
   "clinicalPearl": "Sudden sleep episodes can occur without warning."
-}
+},
 
 
 
@@ -2161,7 +2092,7 @@
   "correctAnswer": "Stimulate dopamine receptors",
   "rationale": "Bromocriptine is a dopamine agonist that stimulates dopamine receptors in the CNS.",
   "clinicalPearl": "Dopamine agonists may be used alone or with levodopa."
-}
+},
 
 
 {
@@ -2180,7 +2111,7 @@
   "correctAnswer": "Orthostatic hypotension",
   "rationale": "Bromocriptine can cause orthostatic hypotension, nausea, and hallucinations.",
   "clinicalPearl": "Monitor blood pressure during initiation and dose adjustments."
-}
+},
 
 
 
@@ -2204,7 +2135,7 @@
   "correctAnswer": "Change positions slowly to prevent dizziness",
   "rationale": "Orthostatic hypotension is common; patients should rise slowly from sitting or lying positions.",
   "clinicalPearl": "Fall prevention education is essential with dopamine agonists."
-}
+},
 
 {
   "id": "rn-q-109",
@@ -2222,7 +2153,7 @@
   "correctAnswer": "Acute “off” episodes in Parkinson disease",
   "rationale": "Apomorphine is a dopamine agonist used for rapid relief of “off” episodes in advanced Parkinson disease.",
   "clinicalPearl": "Apomorphine is used as rescue therapy for sudden motor fluctuations."
-}
+},
 
 
 
@@ -2246,7 +2177,7 @@
   "correctAnswer": "Nausea and vomiting",
   "rationale": "Apomorphine commonly causes nausea, vomiting, orthostatic hypotension, and somnolence.",
   "clinicalPearl": "Antiemetic therapy is often prescribed prior to starting apomorphine."
-}
+},
 
 
 {
@@ -2265,7 +2196,7 @@
   "correctAnswer": "Avoid taking antiemetics without approval",
   "rationale": "Some antiemetics (e.g., ondansetron) can cause severe hypotension or loss of efficacy; only certain antiemetics are safe with apomorphine.",
   "clinicalPearl": "Always verify compatible antiemetics before administration."
-}
+},
 
 
 
@@ -2287,7 +2218,7 @@
   "correctAnswer": "Parkinson disease restless legs syndrome",
   "rationale": "Ropinirole is a dopamine agonist used for Parkinson disease and restless legs syndrome.",
   "clinicalPearl": "Ropinirole can be used as monotherapy in early Parkinson disease."
-}
+},
 
 
 
@@ -2307,7 +2238,7 @@
   "correctAnswer": "Impulse control disorders",
   "rationale": "Dopamine agonists like ropinirole can cause compulsive behaviors, sleep attacks, and hallucinations.",
   "clinicalPearl": "Screen regularly for new compulsive gambling, shopping, or hypersexual behavior."
-}
+},
 
 
 
@@ -2328,7 +2259,7 @@
   "correctAnswer": "Do not drive until response to medication is known",
   "rationale": "Ropinirole may cause sudden sleep episodes; patients should avoid driving or operating machinery until they know their response.",
   "clinicalPearl": "Sudden sleep attacks can occur without warning."
-}
+},
 
 
 
@@ -2348,7 +2279,7 @@
   "correctAnswer": "Transdermal patch",
   "rationale": "Rotigotine is a dopamine agonist delivered via a transdermal patch for continuous drug delivery.",
   "clinicalPearl": "The patch provides steady dopaminergic stimulation over 24 hours."
-}
+},
 
 
 
@@ -2370,7 +2301,7 @@
   "correctAnswer": "Skin irritation at patch site",
   "rationale": "Rotigotine may cause local skin reactions, in addition to systemic dopamine agonist effects like hypotension or sleepiness.",
   "clinicalPearl": "Rotate patch sites daily to reduce skin reactions."
-}
+},
 
 
 
@@ -2390,7 +2321,7 @@
   "correctAnswer": "Remove the old patch before applying a new one",
   "rationale": "Rotigotine patch should be rotated, and the old patch removed to prevent overdose and skin irritation.",
   "clinicalPearl": "Only one patch should be worn at a time."
-}
+},
 
 
 
@@ -2412,7 +2343,7 @@
   "correctAnswer": "Parkinson disease",
   "rationale": "Selegiline is an MAO-B inhibitor used to increase dopamine availability in Parkinson disease.",
   "clinicalPearl": "MAO-B inhibitors help prolong the effects of levodopa by reducing dopamine breakdown."
-}
+},
 
 
 
@@ -2432,7 +2363,7 @@
   "correctAnswer": "Insomnia",
   "rationale": "Selegiline can cause insomnia, orthostatic hypotension, and dizziness due to increased dopamine levels.",
   "clinicalPearl": "Morning dosing may help reduce insomnia."
-}
+},
 
 
 
@@ -2453,7 +2384,7 @@
   "correctAnswer": "Insomnia",
   "rationale": "Selegiline can cause insomnia, orthostatic hypotension, and dizziness due to increased dopamine levels.",
   "clinicalPearl": "Morning dosing may help reduce insomnia."
-}
+},
 
 
 
@@ -2473,7 +2404,7 @@
   "correctAnswer": "Avoid foods high in tyramine",
   "rationale": "High doses of MAO-B inhibitors may interact with tyramine-containing foods, increasing risk for hypertensive crisis.",
   "clinicalPearl": "Educate patients about aged cheeses, cured meats, and fermented products."
-}
+},
 
 
 
@@ -2495,7 +2426,7 @@
   "correctAnswer": "Parkinson disease",
   "rationale": "Safinamide is a selective MAO-B inhibitor used as adjunct therapy for Parkinson disease.",
   "clinicalPearl": "Safinamide is typically added to levodopa therapy."
-}
+},
 
 
 
@@ -2515,7 +2446,7 @@
   "correctAnswer": "Nausea and dyskinesia",
   "rationale": "Safinamide may worsen dyskinesias and cause nausea, dizziness, and insomnia.",
   "clinicalPearl": "Monitor for increased involuntary movements after initiation."
-}
+},
 
 
 
@@ -2537,7 +2468,7 @@
   "correctAnswer": "Report new or worsening dyskinesias",
   "rationale": "Patients should report worsening dyskinesias or uncontrolled movements, a common side effect of dopamine-increasing drugs.",
   "clinicalPearl": "Dose adjustments may be required if dyskinesias worsen."
-}
+},
 
 
 
@@ -2557,7 +2488,7 @@
   "correctAnswer": "Parkinson disease",
   "rationale": "Rasagiline is a selective MAO-B inhibitor used for early or adjunct therapy in Parkinson disease.",
   "clinicalPearl": "Rasagiline may be used alone in early disease or with levodopa in advanced stages."
-}
+},
 
 
 
@@ -2578,7 +2509,7 @@
   "correctAnswer": "Hypertension or headache",
   "rationale": "Rasagiline can cause headache, orthostatic hypotension, and potential drug interactions.",
   "clinicalPearl": "Monitor blood pressure and review medication interactions."
-}
+},
 
 
 
@@ -2598,7 +2529,7 @@
   "correctAnswer": "Avoid tyramine-containing foods",
   "rationale": "Patients should avoid high-tyramine foods to reduce the risk of hypertensive crisis with MAO-B inhibitors.",
   "clinicalPearl": "Teach patients to read food labels carefully."
-}
+},
 
 
 
@@ -2620,7 +2551,7 @@
   "correctAnswer": "Increase dopamine availability in Parkinson disease",
   "rationale": "Entacapone is a COMT inhibitor used as adjunct therapy with levodopa to prolong its effect.",
   "clinicalPearl": "COMT inhibitors extend levodopa’s duration and reduce “wearing-off” episodes."
-}
+},
 
 
 {
@@ -2639,7 +2570,7 @@
   "correctAnswer": "Liver toxicity and diarrhea",
   "rationale": "Entacapone can cause diarrhea, urine discoloration, and in rare cases hepatotoxicity.",
   "clinicalPearl": "Brown-orange urine discoloration is harmless but may alarm patients."
-}
+},
 
 
 
@@ -2661,7 +2592,7 @@
   "correctAnswer": "Do not skip doses; take with each levodopa dose",
   "rationale": "Entacapone must be taken with each dose of levodopa to prevent “wearing-off” symptoms.",
   "clinicalPearl": "Entacapone has no effect when given alone."
-}
+},
 
 
 {
@@ -2680,7 +2611,7 @@
   "correctAnswer": "Is hepatotoxic and requires liver monitoring",
   "rationale": "Tolcapone carries a risk of hepatotoxicity; liver function must be monitored regularly.",
   "clinicalPearl": "Baseline and periodic liver function tests are required with tolcapone."
-}
+},
 
 
 
@@ -2703,7 +2634,7 @@
   "correctAnswer": "Liver failure and dyskinesia",
   "rationale": "Tolcapone may cause hepatotoxicity and worsen dyskinesias when used with levodopa.",
   "clinicalPearl": "Report fatigue, jaundice, or dark urine immediately."
-}
+},
 
 
 
@@ -2723,7 +2654,7 @@
   "correctAnswer": "Report yellowing of skin or dark urine immediately",
   "rationale": "Jaundice or dark urine may indicate liver injury; patients must report immediately.",
   "clinicalPearl": "Early recognition of hepatotoxicity is critical."
-}
+},
 
 
 
@@ -2746,7 +2677,7 @@
   "correctAnswer": "Parkinson disease and dyskinesia",
   "rationale": "Amantadine increases dopamine release and is used for mild Parkinson symptoms or levodopa-induced dyskinesia.",
   "clinicalPearl": "Amantadine may also reduce levodopa-induced involuntary movements."
-}
+},
 
 
 
@@ -2766,7 +2697,7 @@
   "correctAnswer": "Livedo reticularis, dizziness, hallucinations",
   "rationale": "Amantadine can cause livedo reticularis (mottled skin), CNS effects, and anticholinergic-like effects.",
   "clinicalPearl": "Livedo reticularis is usually reversible after discontinuation."
-}
+},
 
 
 
@@ -2788,7 +2719,7 @@
   "correctAnswer": "Do not abruptly stop the medication",
   "rationale": "Sudden discontinuation can worsen Parkinson symptoms; medication should be tapered if stopped.",
   "clinicalPearl": "Abrupt withdrawal may cause severe symptom rebound."
-}
+},
 
 
 
@@ -2808,7 +2739,7 @@
   "correctAnswer": "Flu-like symptoms may occur after injections, especially early in treatment.",
   "rationale": "Interferon beta-1a commonly causes flu-like symptoms, especially early in therapy. It is given by injection, not orally. Depression is an adverse effect that must be reported, and the medication does not cure MS.",
   "clinicalPearl": "Administering interferon in the evening and using antipyretics such as acetaminophen or ibuprofen can help reduce flu-like symptoms."
-}
+},
 
 
 {
@@ -2827,7 +2758,7 @@
   "correctAnswer": "Take acetaminophen or ibuprofen around the time of injection.",
   "rationale": "Antipyretics and evening dosing can reduce flu-like symptoms. Food, potassium intake, and activity restrictions do not prevent these effects.",
   "clinicalPearl": "Premedicating with acetaminophen or NSAIDs and administering injections at bedtime improves tolerability."
-}
+},
 
 
 
@@ -2847,7 +2778,7 @@
   "correctAnswer": "Liver function tests",
   "rationale": "Interferon beta-1a can cause hepatotoxicity; therefore, liver enzymes must be monitored periodically during therapy.",
   "clinicalPearl": "Baseline and periodic liver function tests are essential when administering interferon therapy."
-}
+},
 
 {
   "id": "rn-q-139",
@@ -2865,7 +2796,7 @@
   "correctAnswer": "Rotate injection sites and inspect for skin necrosis.",
   "rationale": "Interferon beta-1b is given subcutaneously and may cause injection-site reactions including rare necrosis, so site rotation and assessment are essential.",
   "clinicalPearl": "Teach patients proper subcutaneous injection technique and to report severe redness, swelling, or skin breakdown."
-}
+},
 
 
 
@@ -2885,7 +2816,7 @@
   "correctAnswer": "Notify the provider of possible depression.",
   "rationale": "Interferons are associated with depression and suicidal ideation; mental health changes require prompt provider notification.",
   "clinicalPearl": "Always assess mood changes in patients taking interferons and escalate concerns immediately."
-}
+},
 
 {
   "id": "rn-q-141",
@@ -2903,7 +2834,7 @@
   "correctAnswer": "History of seizure disorder",
   "rationale": "Interferon beta-1b may lower seizure threshold, so seizure disorders require caution and close monitoring.",
   "clinicalPearl": "Review neurologic history carefully before initiating interferon therapy."
-}
+},
 
 
 
@@ -2923,7 +2854,7 @@
   "correctAnswer": "Hepatotoxicity",
   "rationale": "Teriflunomide carries a boxed warning for severe liver injury, requiring routine liver enzyme monitoring.",
   "clinicalPearl": "Obtain baseline liver function tests before starting teriflunomide and monitor periodically."
-}
+},
 
 
 
@@ -2943,7 +2874,7 @@
   "correctAnswer": "Use reliable contraception during and after treatment.",
   "rationale": "Teriflunomide is teratogenic; pregnancy must be avoided during therapy and until drug elimination is confirmed.",
   "clinicalPearl": "Pregnancy must be ruled out before starting teriflunomide, and effective contraception is required during and after treatment."
-}
+},
 
 
 
@@ -2963,7 +2894,7 @@
   "correctAnswer": "Cholestyramine",
   "rationale": "Cholestyramine is used to accelerate teriflunomide elimination because the drug has a very long half-life.",
   "clinicalPearl": "An accelerated elimination procedure is required if pregnancy occurs while taking teriflunomide."
-}
+},
 
 
 {
@@ -2982,7 +2913,7 @@
   "correctAnswer": "This is a common effect and usually decreases over time.",
   "rationale": "Flushing is a common, expected adverse effect of fumarates and often improves with continued therapy.",
   "clinicalPearl": "Taking the medication with food or premedicating with aspirin (if prescribed) may help reduce flushing."
-}
+},
 
 
 
@@ -3002,7 +2933,7 @@
   "correctAnswer": "Take the medication with food to reduce GI upset.",
   "rationale": "Taking monomethyl fumarate with food can reduce gastrointestinal side effects; capsules should not be crushed.",
   "clinicalPearl": "Swallow capsules whole and administer with meals to improve tolerability."
-}
+},
 
 
 {
@@ -3021,7 +2952,7 @@
   "correctAnswer": "Absolute lymphocyte count",
   "rationale": "Monomethyl fumarate can cause lymphopenia, increasing infection risk; lymphocyte counts must be monitored.",
   "clinicalPearl": "Monitor CBC regularly to assess for lymphopenia and reduce infection risk."
-}
+},
 
 
 
@@ -3041,7 +2972,7 @@
   "correctAnswer": "Reassure the patient and monitor until symptoms resolve.",
   "rationale": "Glatiramer acetate can cause transient post-injection reactions that are self-limiting and usually resolve without treatment.",
   "clinicalPearl": "Educate patients about possible immediate post-injection reactions to reduce anxiety if they occur."
-}
+},
 
 
 {
@@ -3080,7 +3011,7 @@
   "correctAnswer": "It reduces relapse frequency but does not cure MS.",
   "rationale": "Glatiramer acetate reduces relapse rates but does not cure multiple sclerosis and does not cause major systemic immunosuppression.",
   "clinicalPearl": "Set realistic expectations—disease-modifying therapies reduce relapses but are not curative."
-}
+},
 
 
 
@@ -3100,7 +3031,7 @@
   "correctAnswer": "Autoimmune disorders",
   "rationale": "Alemtuzumab can trigger serious autoimmune conditions including thyroid disease, immune thrombocytopenia, and kidney disorders.",
   "clinicalPearl": "Long-term monitoring is essential due to delayed autoimmune risks."
-}
+},
 
 
 
@@ -3120,7 +3051,7 @@
   "correctAnswer": "Antihistamines and corticosteroids",
   "rationale": "Premedication with steroids and antihistamines helps reduce infusion-related reactions.",
   "clinicalPearl": "Administer premedications as prescribed prior to infusion to minimize severe reactions."
-}
+},
 
 
 {
@@ -3139,7 +3070,7 @@
   "correctAnswer": "48 months",
   "rationale": "Due to delayed autoimmune risks, monthly laboratory monitoring is required for 48 months after the final infusion.",
   "clinicalPearl": "Alemtuzumab requires extended post-treatment surveillance to detect late-onset complications."
-}
+},
 
 
 
@@ -3159,7 +3090,7 @@
   "correctAnswer": "Hepatitis B virus screening",
   "rationale": "Ocrelizumab can reactivate hepatitis B virus infection; patients must be screened prior to treatment initiation.",
   "clinicalPearl": "Always screen for hepatitis B before starting B-cell–depleting therapies."
-}
+},
 
 
 
@@ -3179,7 +3110,7 @@
   "correctAnswer": "Stop the infusion and notify the provider",
   "rationale": "These are signs of an infusion reaction; the infusion should be stopped immediately and the provider notified for further management.",
   "clinicalPearl": "Monitor closely during infusions and have emergency medications available for hypersensitivity reactions."
-}
+},
 
 
 
@@ -3199,7 +3130,7 @@
   "correctAnswer": "Recent live vaccination",
   "rationale": "Ocrelizumab causes immunosuppression; live vaccines are contraindicated during and after therapy due to infection risk.",
   "clinicalPearl": "Ensure required vaccinations are completed before starting immunosuppressive therapy."
-}
+},
 
 
 {
@@ -3218,7 +3149,7 @@
   "correctAnswer": "Progressive multifocal leukoencephalopathy (PML)",
   "rationale": "Natalizumab increases the risk of progressive multifocal leukoencephalopathy due to JC virus reactivation.",
   "clinicalPearl": "Monitor for new neurologic symptoms and evaluate promptly for possible PML."
-}
+},
 
 
 
@@ -3238,7 +3169,7 @@
   "correctAnswer": "New onset weakness or vision changes",
   "rationale": "New neurologic changes may indicate progressive multifocal leukoencephalopathy and require immediate evaluation.",
   "clinicalPearl": "Any new or worsening neurologic symptom in a patient on natalizumab is an emergency."
-}
+},
 
 {
   "id": "rn-q-159",
@@ -3256,7 +3187,7 @@
   "correctAnswer": "REMS (risk evaluation and mitigation strategy) program",
   "rationale": "Natalizumab is restricted through a REMS program due to the risk of progressive multifocal leukoencephalopathy.",
   "clinicalPearl": "Enrollment in the REMS program is mandatory before initiating natalizumab therapy."
-}
+},
 
 
 
@@ -3276,7 +3207,7 @@
   "correctAnswer": "CYP2C9 genotype testing",
   "rationale": "Siponimod dosing is based on CYP2C9 genotype due to differences in drug metabolism and risk of adverse effects.",
   "clinicalPearl": "Genotype testing determines appropriate dosing and identifies patients who should not receive siponimod."
-}
+},
 
 
 
@@ -3296,7 +3227,7 @@
   "correctAnswer": "Bradycardia",
   "rationale": "Sphingosine-1-phosphate receptor modulators like siponimod can decrease heart rate, particularly when therapy is initiated.",
   "clinicalPearl": "Monitor heart rate and blood pressure when starting siponimod."
-}
+},
 
 
 
@@ -3316,7 +3247,7 @@
   "correctAnswer": "Do not miss doses; restarting may require dose titration again",
   "rationale": "Missed doses may require re-titration because of the risk of bradycardia when restarting therapy.",
   "clinicalPearl": "Adherence is critical; interruption of therapy may require repeating the dose-escalation schedule."
-}
+},
 
 
 
@@ -3337,7 +3268,7 @@
   "correctAnswer": "Sedation and dizziness",
   "rationale": "Baclofen is a central nervous system depressant that commonly causes sedation, dizziness, and muscle weakness.",
   "clinicalPearl": "Advise patients to avoid driving or operating heavy machinery until they know how baclofen affects them."
-}
+},
 
 
 
@@ -3357,7 +3288,7 @@
   "correctAnswer": "Assess pump function and notify the provider",
   "rationale": "These symptoms may indicate baclofen withdrawal due to pump malfunction, which is a medical emergency requiring immediate evaluation.",
   "clinicalPearl": "Intrathecal baclofen withdrawal can cause severe rebound spasticity, seizures, and hyperthermia."
-}
+},
 
 {
   "id": "rn-q-165",
@@ -3375,7 +3306,7 @@
   "correctAnswer": "Avoid abrupt discontinuation of the medication",
   "rationale": "Abrupt withdrawal of baclofen can cause seizures, hallucinations, and rebound spasticity; the dose must be tapered gradually.",
   "clinicalPearl": "Never stop baclofen suddenly—taper slowly under provider supervision."
-}
+},
 
 
 
@@ -3395,7 +3326,7 @@
   "correctAnswer": "Hepatotoxicity",
   "rationale": "Dantrolene carries a risk of severe liver injury and requires routine liver function monitoring.",
   "clinicalPearl": "Obtain baseline and periodic liver function tests during dantrolene therapy."
-}
+},
 
 
 
@@ -3415,7 +3346,7 @@
   "correctAnswer": "Skeletal muscle fibers",
   "rationale": "Dantrolene acts directly on skeletal muscle by reducing calcium release from the sarcoplasmic reticulum, thereby decreasing muscle contraction.",
   "clinicalPearl": "Unlike many antispasmodics, dantrolene works peripherally at the muscle level."
-}
+},
 
 
 
@@ -3435,8 +3366,7 @@
   "correctAnswer": "Dark urine and jaundice",
   "rationale": "Dark urine and jaundice suggest liver injury, a serious adverse effect associated with dantrolene.",
   "clinicalPearl": "Teach patients to report signs of liver dysfunction immediately."
-}
-
+},
 
 
 
@@ -3456,7 +3386,7 @@
   "correctAnswer": "Dizziness and somnolence",
   "rationale": "Gabapentin commonly causes central nervous system effects such as dizziness, drowsiness, and fatigue.",
   "clinicalPearl": "Caution patients about fall risk, especially older adults."
-}
+},
 
 
 
@@ -3476,7 +3406,7 @@
   "correctAnswer": "Avoid abrupt discontinuation of the medication",
   "rationale": "Gabapentin should be tapered gradually to avoid withdrawal symptoms and seizure risk, particularly in patients with seizure disorders.",
   "clinicalPearl": "Always taper gabapentin rather than stopping suddenly."
-}
+},
 
 
 
@@ -3497,7 +3427,7 @@
   "correctAnswer": "Aluminum- or magnesium-containing antacids reduce absorption",
   "rationale": "Antacids containing aluminum or magnesium can decrease gabapentin absorption; doses should be separated by at least 2 hours.",
   "clinicalPearl": "Administer gabapentin at least 2 hours after antacids to ensure adequate absorption."
-}
+},
 
 
 
@@ -3517,7 +3447,7 @@
   "correctAnswer": "Peripheral edema and weight gain",
   "rationale": "Pregabalin commonly causes peripheral edema and weight gain and may worsen heart failure due to fluid retention.",
   "clinicalPearl": "Monitor weight and assess for swelling, especially in patients with cardiac disease."
-}
+},
 
 {
   "id": "rn-q-173",
@@ -3535,7 +3465,7 @@
   "correctAnswer": "Avoid abrupt discontinuation of the medication",
   "rationale": "Pregabalin should be tapered gradually to prevent withdrawal symptoms and increased seizure risk.",
   "clinicalPearl": "Never stop pregabalin suddenly—taper the dose under provider supervision."
-}
+},
 
 
 
@@ -3555,7 +3485,7 @@
   "correctAnswer": "Heart failure",
   "rationale": "Pregabalin can cause fluid retention and peripheral edema, which may exacerbate heart failure.",
   "clinicalPearl": "Use caution and monitor closely in patients with cardiac disease."
-}
+},
 
 
 
@@ -3576,7 +3506,7 @@
   "correctAnswer": "Gingival hyperplasia",
   "rationale": "Gingival hyperplasia is a classic long-term adverse effect of phenytoin therapy.",
   "clinicalPearl": "Encourage meticulous oral hygiene and regular dental visits."
-}
+},
 
 
 
@@ -3596,7 +3526,7 @@
   "correctAnswer": "Maintain good oral hygiene and regular dental visits",
   "rationale": "Good oral hygiene helps reduce the risk and severity of gingival hyperplasia associated with phenytoin.",
   "clinicalPearl": "Do not stop antiepileptic drugs abruptly; adherence is critical for seizure control."
-}
+},
 
 
 
@@ -3617,7 +3547,7 @@
   "correctAnswer": "Serum phenytoin level",
   "rationale": "Phenytoin has a narrow therapeutic range, so serum drug levels must be monitored to prevent toxicity or subtherapeutic dosing.",
   "clinicalPearl": "Monitor for signs of toxicity such as nystagmus, ataxia, and confusion."
-}
+},
 
 
 
@@ -3637,7 +3567,7 @@
   "correctAnswer": "Respiratory depression",
   "rationale": "Phenobarbital is a barbiturate that can cause significant central nervous system and respiratory depression.",
   "clinicalPearl": "Monitor respiratory status closely, especially at initiation or with dose increases."
-}
+},
 
 
 
@@ -3658,7 +3588,7 @@
   "correctAnswer": "Avoid driving until you know how the medication affects you",
   "rationale": "Phenobarbital causes sedation and impaired alertness; patients should avoid driving or operating machinery until effects are known.",
   "clinicalPearl": "Do not abruptly discontinue phenobarbital due to risk of withdrawal seizures."
-}
+},
 
 
 
@@ -3678,7 +3608,7 @@
   "correctAnswer": "Phenobarbital decreases effectiveness of oral contraceptives",
   "rationale": "Phenobarbital induces hepatic enzymes, which can reduce the effectiveness of many medications including oral contraceptives.",
   "clinicalPearl": "Advise patients using hormonal contraception to consider alternative or additional birth control methods."
-}
+},
 
 
 {
@@ -3697,7 +3627,7 @@
   "correctAnswer": "Absence (petit mal) seizures",
   "rationale": "Ethosuximide is the drug of choice for absence seizures due to its selective suppression of T-type calcium channels in the thalamus.",
   "clinicalPearl": "Ethosuximide is not effective for tonic-clonic or focal seizures."
-}
+},
 
 
 
@@ -3717,7 +3647,7 @@
   "correctAnswer": "Gastrointestinal upset and fatigue",
   "rationale": "Common side effects of ethosuximide include nausea, vomiting, anorexia, fatigue, and dizziness.",
   "clinicalPearl": "Administer with food to reduce gastrointestinal discomfort."
-}
+},
 
 
 
@@ -3739,7 +3669,7 @@
   "correctAnswer": "Take the medication with food if stomach upset occurs",
   "rationale": "Taking ethosuximide with food can reduce gastrointestinal irritation; therapy should not be stopped abruptly.",
   "clinicalPearl": "Do not discontinue antiepileptic drugs suddenly due to risk of seizure recurrence."
-}
+},
 
 
 
@@ -3759,8 +3689,7 @@
   "correctAnswer": "Enhancing GABA activity",
   "rationale": "Clonazepam is a benzodiazepine that enhances the inhibitory effects of gamma-aminobutyric acid (GABA) in the central nervous system.",
   "clinicalPearl": "Benzodiazepines increase the frequency of chloride channel opening, enhancing GABA-mediated inhibition."
-}
-
+},
 
 
 {
@@ -3779,7 +3708,7 @@
   "correctAnswer": "Respiratory depression and sedation",
   "rationale": "Clonazepam can cause central nervous system and respiratory depression, especially when combined with other sedatives.",
   "clinicalPearl": "Use caution when combined with opioids or alcohol due to additive respiratory depression."
-}
+},
 
 
 
@@ -3799,7 +3728,7 @@
   "correctAnswer": "Avoid alcohol while taking this medication",
   "rationale": "Alcohol increases central nervous system depression and respiratory risk when combined with benzodiazepines.",
   "clinicalPearl": "Combining benzodiazepines with alcohol or opioids significantly increases overdose risk."
-}
+},
 
 
 
@@ -3819,7 +3748,7 @@
   "correctAnswer": "Benzodiazepine",
   "rationale": "Clorazepate is a long-acting benzodiazepine used in the treatment of seizures and anxiety disorders.",
   "clinicalPearl": "Clorazepate is a prodrug that is converted to an active benzodiazepine metabolite."
-}
+},
 
 
 
@@ -3839,7 +3768,7 @@
   "correctAnswer": "Sedation and impaired coordination",
   "rationale": "Benzodiazepines commonly cause sedation, dizziness, and impaired coordination.",
   "clinicalPearl": "Advise patients to avoid driving or hazardous activities until they know how the medication affects them."
-}
+},
 
 
 
@@ -3859,7 +3788,7 @@
   "correctAnswer": "Taper the dose gradually as prescribed",
   "rationale": "Benzodiazepines must be tapered gradually to prevent withdrawal symptoms, rebound anxiety, and seizures.",
   "clinicalPearl": "Abrupt discontinuation of benzodiazepines can precipitate life-threatening withdrawal."
-}
+},
 
 
 
@@ -3881,6 +3810,7 @@
     "rationale": "Diazepam is a benzodiazepine that can cause significant respiratory depression, especially when given IV.",
     "clinicalPearl": "Always monitor airway, breathing, and oxygen saturation closely when administering IV benzodiazepines."
   },
+  
   {
     "id": "rn-q-191",
     "scope": ["RN"],
@@ -4042,13 +3972,8 @@
     "correctAnswer": "It decreases effectiveness of oral contraceptives",
     "rationale": "Carbamazepine induces liver enzymes, reducing effectiveness of oral contraceptives and many other drugs.",
     "clinicalPearl": "Patients should use alternative or additional contraception while taking carbamazepine."
-  }
-]
+  },
 
-
-
-
-[
   {
     "id": "rn-q-199",
     "scope": ["RN"],
@@ -4229,11 +4154,8 @@
     "correctAnswer": "Report any new rash immediately",
     "rationale": "Patients must report rashes immediately due to risk of Stevens-Johnson syndrome.",
     "clinicalPearl": "Early recognition and reporting of rash can prevent life-threatening complications."
-  }
-]
-
-
-[
+  },
+  
   {
     "id": "rn-q-208",
     "scope": ["RN"],
@@ -4414,13 +4336,9 @@
     "correctAnswer": "Serum bicarbonate",
     "rationale": "Periodic serum bicarbonate should be monitored due to risk of metabolic acidosis.",
     "clinicalPearl": "Monitor for metabolic acidosis especially in long-term therapy."
-  }
-]
+  },
 
-
-
-
-[
+  
   {
     "id": "rn-q-217",
     "scope": ["RN"],
@@ -4600,11 +4518,9 @@
     "correctAnswer": "Transient tingling, flushing, or chest pressure may occur and usually resolves quickly",
     "rationale": "Triptans commonly cause mild, transient adverse effects like tingling, flushing, or chest pressure; serious effects are rare.",
     "clinicalPearl": "Patients should be reassured that mild adverse effects are common and typically self-limited."
-  }
-]
+  },
 
-
-[
+  
   {
     "id": "rn-q-226",
     "scope": ["RN"],
@@ -4782,11 +4698,9 @@
     "correctAnswer": "A patient with severe cardiovascular disease",
     "rationale": "Lasmiditan is contraindicated in patients with severe cardiovascular disease due to risk of CNS and hemodynamic effects.",
     "clinicalPearl": "Assess cardiac status before prescribing lasmiditan and educate patients on warning signs."
-  }
-]
+  },
 
-
-[
+  
   {
     "id": "rn-q-235",
     "scope": ["RN"],
@@ -4968,11 +4882,9 @@
     "correctAnswer": "Hypovolemia and dehydration",
     "rationale": "Mannitol can cause excessive diuresis, leading to hypovolemia, dehydration, and electrolyte disturbances.",
     "clinicalPearl": "Teach patients to report dizziness, excessive urination, or signs of dehydration immediately."
-  }
-]
+  },
 
-
-[
+  
   {
     "id": "rn-q-244",
     "scope": ["RN"],
@@ -4990,6 +4902,8 @@
     "rationale": "TCAs like amitriptyline commonly cause anticholinergic effects.",
     "clinicalPearl": "Monitor for dry mouth, constipation, urinary retention, and provide patient education on management."
   },
+
+  
   {
     "id": "rn-q-245",
     "scope": ["RN"],
@@ -5152,11 +5066,9 @@
     "correctAnswer": "Monitor for mood changes, suicidal ideation, and signs of serotonin syndrome",
     "rationale": "Mental status monitoring is essential, especially in young adults or during initiation; no routine labs are required unless other conditions exist.",
     "clinicalPearl": "Closely observe for behavioral changes and educate caregivers about warning signs."
-  }
-]
+  },
 
-
-[
+  
   {
     "id": "rn-q-253",
     "scope": ["RN"],
@@ -5335,12 +5247,9 @@
     "correctAnswer": "Mood changes and suicidal ideation",
     "rationale": "Monitoring for suicidal thoughts or worsening depression is essential during the early weeks of SSRI therapy.",
     "clinicalPearl": "Close follow-up is essential, especially in adolescents and young adults during initiation or dose changes."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-262",
     "scope": ["RN"],
@@ -5518,11 +5427,9 @@
     "correctAnswer": "Uncontrolled hypertension",
     "rationale": "Because levomilnacipran increases BP and HR, patients with uncontrolled hypertension require caution.",
     "clinicalPearl": "Monitor BP and HR during therapy; adjust dose or avoid use in uncontrolled hypertension."
-  }
-]
+  },
 
-
-[
+  
   {
     "id": "rn-q-271",
     "scope": ["RN"],
@@ -5699,11 +5606,9 @@
     "correctAnswer": "SSRIs, SNRIs, or other serotonergic drugs leading to serotonin syndrome",
     "rationale": "Concurrent serotonergic drugs can cause life-threatening serotonin syndrome with MAOIs like selegiline.",
     "clinicalPearl": "Check all current medications for serotonergic activity before starting selegiline."
-  }
-]
+  },
 
-
-[
+  
   {
     "id": "rn-q-280",
     "scope": ["RN"],
@@ -5879,9 +5784,9 @@
     "correctAnswer": "Mood changes, suicidal ideion, and signs of serotonin syndrome",
     "rationale": "Monitoring for suicidal thoughts and serotonin syndrome is critical during early treatment with any serotonergic antidepressant.",
     "clinicalPearl": "Assess mental status and educate patients and families on warning signs of serotonin syndrome."
-  }
+  },
 
-[
+  
   {
     "id": "rn-q-289",
     "scope": ["RN"],
@@ -6057,12 +5962,9 @@
     "correctAnswer": "Report fever, muscle rigidity, or confusion immediately and avoid abrupt discontinuation",
     "rationale": "Early recognition of NMS is critical; abrupt discontinuation can precipitate relapse of psychosis.",
     "clinicalPearl": "Educate patients to report NMS symptoms promptly and not to stop the medication abruptly."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-298",
     "scope": ["RN"],
@@ -6080,6 +5982,8 @@
     "rationale": "Aripiprazole can cause akathisia, restlessness, insomnia, and headache due to partial dopamine agonist activity.",
     "clinicalPearl": "Monitor for restlessness and insomnia early to reduce patient distress and prevent nonadherence."
   },
+
+  
   {
     "id": "rn-q-299",
     "scope": ["RN"],
@@ -6240,10 +6144,9 @@
     "correctAnswer": "CBC with differential regularly, metabolic parameters, and mental status",
     "rationale": "Clozapine requires frequent CBCs to monitor for neutropenia, and metabolic monitoring due to risk of weight gain, diabetes, and dyslipidemia.",
     "clinicalPearl": "Regular CBCs and metabolic checks are critical for safe long-term clozapine therapy."
-  }
-]
+  },
 
-[
+  
   {
     "id": "rn-q-307",
     "scope": ["RN"],
@@ -6417,12 +6320,9 @@
     "correctAnswer": "Mental status, EPS signs, blood pressure, and metabolic parameters",
     "rationale": "Comprehensive monitoring includes mental status, EPS, cardiovascular, and metabolic effects.",
     "clinicalPearl": "Routine assessment ensures early detection of EPS, hypotension, and metabolic complications."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-316",
     "scope": ["RN"],
@@ -6604,10 +6504,9 @@
     "correctAnswer": "ECG for QT interval, mental status, EPS signs, and metabolic parameters",
     "rationale": "Monitoring cardiac rhythm, EPS, mental status, and metabolic effects is essential with ziprasidone.",
     "clinicalPearl": "Baseline and periodic ECGs are recommended, especially in patients with cardiac risk factors."
-  }
-]
+  },
 
-[
+  
   {
     "id": "rn-q-325",
     "scope": ["RN"],
@@ -6789,12 +6688,9 @@
     "correctAnswer": "History of substance use disorder or respiratory insufficiency",
     "rationale": "Temazepam can cause dependence and worsen respiratory depression; caution is needed in these populations.",
     "clinicalPearl": "Monitor for signs of misuse or respiratory compromise in at-risk patients."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-334",
     "scope": ["RN"],
@@ -6974,13 +6870,9 @@
     "correctAnswer": "History of substance use disorder or severe respiratory disease",
     "rationale": "Zolpidem can cause dependence and respiratory depression; caution is required.",
     "clinicalPearl": "Assess risk for misuse and monitor respiratory function in at-risk patients."
-  }
-]
+  },
 
-
-
-
-[
+  
   {
     "id": "rn-q-343",
     "scope": ["RN"],
@@ -7161,12 +7053,9 @@
     "correctAnswer": "History of substance use disorder, severe respiratory disease, or hepatic impairment",
     "rationale": "Lemborexant can worsen respiratory depression and cause dependence; caution is needed in these patients.",
     "clinicalPearl": "Assess risk for misuse and monitor respiratory function in at-risk populations."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-352",
     "scope": ["RN"],
@@ -7345,10 +7234,9 @@
     "correctAnswer": "Severe cardiovascular disease or uncontrolled hypertension",
     "rationale": "These stimulants can exacerbate cardiovascular problems; contraindicated in severe CV disease or uncontrolled hypertension.",
     "clinicalPearl": "Assess blood pressure and cardiac history before initiating therapy."
-  }
-]
+  },
 
-[
+  
   {
     "id": "rn-q-361",
     "scope": ["RN"],
@@ -7531,12 +7419,9 @@
     "correctAnswer": "History of cardiovascular disease, hypertension, or anxiety",
     "rationale": "CNS stimulants can increase BP and HR; caution in CV disease and anxiety.",
     "clinicalPearl": "Assess cardiovascular status before initiating therapy."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-370",
     "scope": ["RN"],
@@ -7716,12 +7601,9 @@
     "correctAnswer": "History of cardiovascular disease, hypertension, or arrhythmias",
     "rationale": "Modafinil can increase heart rate and blood pressure; caution is required in CV disease and arrhythmias.",
     "clinicalPearl": "Assess vitals and cardiac history before starting therapy."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-379",
     "scope": ["RN"],
@@ -7902,12 +7784,9 @@
     "correctAnswer": "History of hypotension, bradycardia, or severe cardiac disease",
     "rationale": "Guanfacine can exacerbate hypotension or bradycardia; caution is required in these patients.",
     "clinicalPearl": "Monitor cardiovascular status and adjust dose carefully."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-388",
     "scope": ["RN"],
@@ -8089,12 +7968,9 @@
     "correctAnswer": "History of cardiovascular disease, hypertension, or arrhythmias",
     "rationale": "Solriamfetol can increase heart rate and BP; caution is required in these patients.",
     "clinicalPearl": "Monitor cardiovascular status closely, especially in patients with arrhythmias or HTN."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-397",
     "scope": ["RN"],
@@ -8280,12 +8156,9 @@
     "correctAnswer": "History of peptic ulcer disease or bleeding disorders",
     "rationale": "Aspirin increases bleeding risk; contraindicated in patients with active ulcers or bleeding disorders.",
     "clinicalPearl": "Avoid aspirin in patients with hemophilia or thrombocytopenia."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-406",
     "scope": ["RN"],
@@ -8466,12 +8339,9 @@
     "correctAnswer": "History of seizure disorder, liver disease, or concurrent CNS depressants",
     "rationale": "Tramadol can lower seizure threshold and interact with CNS depressants; caution is required.",
     "clinicalPearl": "Assess seizure history and current CNS medications before prescribing."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-415",
     "scope": ["RN"],
@@ -8644,11 +8514,9 @@
     "correctAnswer": "Respiratory disease, liver impairment, or history of substance use disorder",
     "rationale": "Caution is needed due to risk of respiratory depression and hepatotoxicity.",
     "clinicalPearl": "Monitor liver function in patients with hepatic impairment."
-  }
-]
+  },
 
-
-[
+  
   {
     "id": "rn-q-424",
     "scope": ["RN"],
@@ -8831,10 +8699,9 @@
     "correctAnswer": "Respiratory disease, hepatic impairment, or history of substance use disorder",
     "rationale": "Morphine can cause respiratory depression and is metabolized by the liver; caution is required.",
     "clinicalPearl": "Monitor respiratory rate closely, especially after dose increases."
-  }
-]
+  },
 
-[
+  
   {
     "id": "rn-q-433",
     "scope": ["RN"],
@@ -9009,12 +8876,9 @@
     "correctAnswer": "Liver impairment, recent opioid use, or severe respiratory disease",
     "rationale": "Hepatic metabolism, opioid interaction, and respiratory depression risk require caution.",
     "clinicalPearl": "Monitor liver function tests periodically during therapy."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-442",
     "scope": ["RN"],
@@ -9200,15 +9064,9 @@
     "correctAnswer": "Pregnancy",
     "rationale": "ACE inhibitors are teratogenic and contraindicated in pregnancy.",
     "clinicalPearl": "Discontinue immediately if pregnancy is detected."
-  }
-]
+  },
 
-
-
-
-
-
-[
+  
   {
     "id": "rn-q-451",
     "scope": ["RN"],
@@ -9400,12 +9258,9 @@
     "correctAnswer": "It can cause fetal kidney damage",
     "rationale": "ACE inhibitors cause fetal renal failure and birth defects.",
     "clinicalPearl": "Discontinue immediately if pregnancy is confirmed."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-460",
     "scope": ["RN"],
@@ -9664,12 +9519,9 @@
     "correctAnswer": "Renal impairment",
     "rationale": "Renal function may worsen due to altered renal perfusion.",
     "clinicalPearl": "Monitor creatinine and potassium levels in at-risk patients."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-472",
     "scope": ["RN"],
@@ -9860,14 +9712,9 @@
     "correctAnswer": "It dilates coronary and peripheral arteries",
     "rationale": "CCBs improve myocardial oxygen supply via vasodilation.",
     "clinicalPearl": "Reduces afterload and myocardial oxygen demand."
-  }
-]
+  },
 
-
-
-
-
-[
+  
   {
     "id": "rn-q-481",
     "scope": ["RN"],
@@ -10059,13 +9906,8 @@
     "correctAnswer": "Eat potassium-rich foods",
     "rationale": "Potassium loss can occur and may require dietary replacement.",
     "clinicalPearl": "Take medication in the morning to prevent nocturia."
-  }
-]
-
-
-
-
-[
+  },
+  
   {
     "id": "rn-q-490",
     "scope": ["RN"],
@@ -10323,12 +10165,9 @@
     "correctAnswer": "To balance potassium levels",
     "rationale": "Combination prevents potassium depletion.",
     "clinicalPearl": "Common fixed-dose combinations improve adherence."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-502",
     "scope": ["RN"],
@@ -10518,8 +10357,7 @@
     "correctAnswer": "Sildenafil",
     "rationale": "Combined vasodilation can cause life-threatening hypotension.",
     "clinicalPearl": "Always review medication list for PDE-5 inhibitors."
-  }
-]
+  },
 
 
 
@@ -10772,13 +10610,9 @@
   "correctAnswer": "Patient with frequent urinary tract infections",
   "rationale": "Dapagliflozin increases glucose in the urine, raising the risk of UTIs and genital infections.",
   "clinicalPearl": "Monitor for signs of infection such as dysuria or unusual discharge."
-}
-]
+},
 
-
-
-
-[
+  
   {
     "id": "rn-q-523",
     "scope": ["RN"],
@@ -10957,12 +10791,9 @@
     "correctAnswer": "Dizziness and dry mouth",
     "rationale": "Symptoms of dehydration such as dizziness and dry mouth may indicate overdiuresis.",
     "clinicalPearl": "Monitor daily weights and blood pressure to detect excessive fluid loss early."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-532",
     "scope": ["RN"],
@@ -11150,12 +10981,9 @@
     "correctAnswer": "Reduces blood pressure in hypertension",
     "rationale": "Indapamide is primarily used to lower blood pressure in patients with hypertension.",
     "clinicalPearl": "Effective blood pressure control reduces the risk of stroke and cardiovascular events."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-541",
     "scope": ["RN"],
@@ -11235,6 +11063,8 @@
     "rationale": "This combination improves survival in patients with HFrEF, particularly African American patients.",
     "clinicalPearl": "Hydralazine plus nitrate therapy reduces mortality when added to standard therapy in select HFrEF patients."
   },
+
+  
   {
     "id": "rn-q-545",
     "scope": ["RN"],
@@ -11332,12 +11162,9 @@
     "correctAnswer": "Bradycardia and visual disturbances",
     "rationale": "Ivabradine can cause bradycardia and phosphenes (visual brightness).",
     "clinicalPearl": "Monitor heart rate closely and educate patients about possible transient visual effects."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-550",
     "scope": ["RN"],
@@ -11588,12 +11415,9 @@
     "correctAnswer": "Do not rub injection site after administration",
     "rationale": "Rubbing the injection site increases bruising and hematoma risk.",
     "clinicalPearl": "Apply gentle pressure only after injection to minimize bleeding."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-562",
     "scope": ["RN"],
@@ -11777,12 +11601,9 @@
     "correctAnswer": "Bleeding risk",
     "rationale": "All anticoagulants increase the risk of bleeding.",
     "clinicalPearl": "Patients should report unusual bruising, prolonged bleeding, or blood in urine or stool."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-571",
     "scope": ["RN"],
@@ -11970,13 +11791,9 @@
     "correctAnswer": "Swallow whole",
     "rationale": "Crushing or opening capsules increases absorption and bleeding risk.",
     "clinicalPearl": "Dabigatran capsules should be kept in their original container to protect from moisture."
-  }
-]
+  },
 
-
-
-
-[
+  
   {
     "id": "rn-q-580",
     "scope": ["RN"],
@@ -12228,13 +12045,9 @@
     "correctAnswer": "Signs of bleeding",
     "rationale": "Clopidogrel inhibits platelet function; monitoring for bleeding is most important.",
     "clinicalPearl": "Routine INR monitoring is not required for antiplatelet agents."
-  }
-]
+  },
 
-
-
-
-[
+  
   {
     "id": "rn-q-592",
     "scope": ["RN"],
@@ -12423,14 +12236,9 @@
     "correctAnswer": "Bleeding",
     "rationale": "Potent platelet inhibition increases the risk of bleeding.",
     "clinicalPearl": "Careful monitoring during and after infusion is essential."
-  }
-]
+  },
 
-
-
-
-
-[
+  
   {
     "id": "rn-q-601",
     "scope": ["RN"],
@@ -12616,13 +12424,9 @@
     "correctAnswer": "Signs of bleeding",
     "rationale": "Bleeding is the primary complication of thrombolytic therapy.",
     "clinicalPearl": "Monitor IV sites, neurologic status, and vital signs closely after administration."
-  }
-]
+  },
 
-
-
-
-[
+  
   {
     "id": "rn-q-610",
     "scope": ["RN"],
@@ -12874,13 +12678,9 @@
     "correctAnswer": "Dark urine and muscle pain",
     "rationale": "Dark urine and muscle pain indicate muscle breakdown and possible kidney injury.",
     "clinicalPearl": "Rhabdomyolysis is rare but life-threatening and requires immediate intervention."
-  }
-]
+  },
 
-
-
-
-[
+  
   {
     "id": "rn-q-622",
     "scope": ["RN"],
@@ -13063,14 +12863,9 @@
     "correctAnswer": "Injection site reactions",
     "rationale": "Local injection site reactions are the most commonly reported adverse effect.",
     "clinicalPearl": "Rotating injection sites can help minimize local irritation."
-  }
-]
+  },
 
-
-
-
-
-[
+  
   {
     "id": "rn-q-631",
     "scope": ["RN"],
@@ -13256,13 +13051,9 @@
     "correctAnswer": "Take other medications 1–4 hours apart",
     "rationale": "Cholestyramine interferes with absorption of many medications, so timing separation is necessary.",
     "clinicalPearl": "Administer other drugs at least 1 hour before or 4 hours after cholestyramine."
-  }
-]
+  },
 
-
-
-
-[
+  
   {
     "id": "rn-q-640",
     "scope": ["RN"],
@@ -13519,14 +13310,9 @@
     "correctAnswer": "Take 30 minutes before meals",
     "rationale": "Gemfibrozil is best absorbed when taken 30 minutes before meals.",
     "clinicalPearl": "Consistent timing improves therapeutic effectiveness."
-  }
-]
+  },
 
-
-
-
-
-[
+  
   {
     "id": "rn-q-652",
     "scope": ["RN"],
@@ -13715,12 +13501,9 @@
     "correctAnswer": "Intramuscular in thigh",
     "rationale": "IM injection in the thigh allows rapid absorption and onset of action.",
     "clinicalPearl": "The vastus lateralis muscle provides the fastest systemic absorption."
-  }
-]
+  },
 
-
-
-[
+  
   {
     "id": "rn-q-661",
     "scope": ["RN"],
@@ -13909,14 +13692,9 @@
     "correctAnswer": "For acute asthma symptoms",
     "rationale": "Albuterol is used as a rescue inhaler for acute bronchospasm.",
     "clinicalPearl": "Frequent need may indicate poor asthma control."
-  }
-]
+  },
 
-
-
-
-
-[
+  
   {
     "id": "rn-q-670",
     "scope": ["RN"],
@@ -14170,13 +13948,9 @@
     "correctAnswer": "May cause mild drowsiness",
     "rationale": "Some sedation may still occur despite improved selectivity.",
     "clinicalPearl": "Advise patients to assess alertness before driving."
-  }
-]
+  },
 
-
-
-
-[
+  
   {
     "id": "rn-q-670",
     "scope": ["RN"],
@@ -14365,14 +14139,9 @@
     "correctAnswer": "Once-daily dosing with minimal sedation",
     "rationale": "Desloratadine is long-acting and minimally sedating.",
     "clinicalPearl": "Improves adherence due to convenient once-daily dosing."
-  }
-]
+  },
 
-
-
-
-
-[
+  
   {
     "id": "rn-q-679",
     "scope": ["RN"],
@@ -14559,13 +14328,9 @@
     "correctAnswer": "Oral tablets and nasal sprays",
     "rationale": "Phenylephrine is widely available OTC in oral and intranasal forms.",
     "clinicalPearl": "Often included in combination cold and flu products."
-  }
-]
+  },
 
-
-
-
-[
+  
   {
     "id": "rn-q-688",
     "scope": ["RN"],
@@ -14821,14 +14586,9 @@
     "correctAnswer": "Productive cough with thinner mucus",
     "rationale": "Effective expectoration indicates guaifenesin is working.",
     "clinicalPearl": "Goal is improved airway clearance, not cough elimination."
-  }
-]
+  },
 
-
-
-
-
-[
+  
   {
     "id": "rn-q-700",
     "scope": ["RN"],
@@ -15017,14 +14777,9 @@
     "correctAnswer": "Acute bronchospasm prevention",
     "rationale": "Levalbuterol is a short-acting beta-2 agonist used as a rescue bronchodilator.",
     "clinicalPearl": "Used for quick relief of asthma symptoms."
-  }
-]
+  },
 
-
-
-
-
-[
+  
   {
     "id": "rn-q-709",
     "scope": ["RN"],
@@ -15215,14 +14970,9 @@
     "correctAnswer": "COPD management",
     "rationale": "Ipratropium is a key bronchodilator in COPD treatment.",
     "clinicalPearl": "Often combined with beta-agonists for enhanced effect."
-  }
-]
+  },
 
-
-
-
-
-[
+  
   {
     "id": "rn-q-718",
     "scope": ["RN"],
@@ -15478,14 +15228,9 @@
     "correctAnswer": "I should report signs of infection",
     "rationale": "Steroids suppress immune function, increasing infection risk.",
     "clinicalPearl": "Patients should promptly report fever or unusual symptoms."
-  }
-]
+  },
 
-
-
-
-
-[
+  
   {
     "id": "rn-q-730",
     "scope": ["RN"],
@@ -15674,14 +15419,9 @@
     "correctAnswer": "Nausea and tachycardia",
     "rationale": "Theophylline toxicity commonly causes GI distress and cardiac arrhythmias.",
     "clinicalPearl": "Severe toxicity may lead to seizures."
-  }
-]
+  },
 
-
-
-
-
-[
+  
   {
     "id": "rn-q-739",
     "scope": ["RN"],
@@ -15871,14 +15611,9 @@
     "correctAnswer": "Maintenance asthma therapy",
     "rationale": "Zafirlukast is a leukotriene receptor antagonist used for asthma prevention.",
     "clinicalPearl": "It does not relieve acute asthma symptoms."
-  }
-]
+  },
 
-
-
-
-
-[
+  
   {
     "id": "rn-q-748",
     "scope": ["RN"],
@@ -16133,14 +15868,9 @@
     "correctAnswer": "Orthostatic hypotension",
     "rationale": "Dopamine agonists commonly cause dizziness and orthostatic hypotension.",
     "clinicalPearl": "Advise patients to rise slowly to prevent falls."
-  }
-]
+  },
 
-
-
-
-
-[
+  
   {
     "id": "rn-q-760",
     "scope": ["RN"],
@@ -16326,13 +16056,9 @@
     "correctAnswer": "Liver function tests",
     "rationale": "Pegvisomant carries a risk of hepatotoxicity.",
     "clinicalPearl": "Monitor LFTs before and during therapy."
-  }
-]
+  },
 
-
-
-
-[
+  
   {
     "id": "rn-q-769",
     "scope": ["RN"],
@@ -16522,13 +16248,9 @@
     "correctAnswer": "Photosensitivity and nephrotoxicity",
     "rationale": "As a tetracycline derivative, demeclocycline can cause renal toxicity and photosensitivity.",
     "clinicalPearl": "Encourage sun protection and monitor renal function."
-  }
-]
+  },
 
-
-
-
-[
+  
   {
     "id": "rn-q-778",
     "scope": ["RN"],
@@ -16781,13 +16503,9 @@
     "correctAnswer": "I should report fever or sore throat",
     "rationale": "Steroids suppress immune response, increasing infection risk.",
     "clinicalPearl": "Early reporting of infection symptoms is essential."
-  }
-]
+  },
 
-
-
-
-[
+  
   {
     "id": "rn-q-790",
     "scope": ["RN"],
@@ -16977,12 +16695,8 @@
     "rationale": "Betamethasone is a potent glucocorticoid used for strong anti-inflammatory effects.",
     "clinicalPearl": "Indicated for severe allergic, dermatologic, and autoimmune conditions."
   },
-]
 
-
-
-
-[
+  
   {
     "id": "rn-q-799",
     "scope": ["RN"],
@@ -17171,7 +16885,6 @@
     "rationale": "Excess levothyroxine causes hyperthyroid symptoms.",
     "clinicalPearl": "Monitor TSH levels to guide dosing."
   },
-]
 
 
 
@@ -17761,7 +17474,7 @@
   "correctAnswer": "Hypercalcemia",
   "rationale": "Calcitriol increases calcium absorption and can elevate serum calcium levels.",
   "clinicalPearl": "Monitor calcium and phosphate levels during therapy."
-},
+}
 
 
 ]
