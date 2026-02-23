@@ -54,7 +54,7 @@
     "correctAnswer": "Prolonged QT interval",
     "rationale": "Quinidine prolongs the QT interval, increasing the risk of torsades de pointes.",
     "clinicalPearl": "Monitoring QT interval is essential during quinidine therapy to prevent life-threatening arrhythmias."
-  }
+  },
 
   {
     "id": "rn-q-004",
@@ -108,7 +108,7 @@
     "correctAnswer": "Monitor blood pressure and ECG continuously",
     "rationale": "Procainamide can cause hypotension and new dysrhythmias, especially when given IV, requiring continuous monitoring.",
     "clinicalPearl": "Continuous cardiac and hemodynamic monitoring is essential during IV procainamide administration."
-  }
+  },
 
   {
     "id": "rn-q-007",
@@ -147,6 +147,8 @@
     "rationale": "Early CNS toxicity from lidocaine includes metallic taste, numbness of lips/tongue, dizziness, and confusion.",
     "clinicalPearl": "Recognizing early neurologic symptoms of lidocaine toxicity helps prevent progression to seizures and cardiovascular collapse."
   },
+
+  
   {
     "id": "rn-q-009",
     "scope": ["RN"],
@@ -163,7 +165,7 @@
     "correctAnswer": "Ventricular tachycardia",
     "rationale": "Lidocaine is primarily used for acute ventricular dysrhythmias, especially post-MI.",
     "clinicalPearl": "Lidocaine is a first-line antiarrhythmic for life-threatening ventricular dysrhythmias in emergency settings."
-  }
+  },
 
   {
     "id": "rn-q-010",
@@ -219,7 +221,7 @@
     "correctAnswer": "Liver disease",
     "rationale": "Mexiletine is metabolized by the liver, increasing the risk of drug accumulation and toxicity in hepatic impairment.",
     "clinicalPearl": "Patients with hepatic dysfunction may require dosage adjustments and closer monitoring during mexiletine therapy."
-  }
+  },
 
   {
     "id": "rn-q-013",
@@ -238,6 +240,8 @@
     "rationale": "Flecainide has a high risk of proarrhythmia and should not be used in patients with structural heart disease or post-MI.",
     "clinicalPearl": "Class IC antiarrhythmics significantly increase mortality risk in patients with structural heart disease."
   },
+
+  
   {
     "id": "rn-q-014",
     "scope": ["RN"],
@@ -255,6 +259,8 @@
     "rationale": "Flecainide slows conduction through the ventricles, resulting in QRS widening.",
     "clinicalPearl": "Monitoring QRS duration helps detect early flecainide toxicity."
   },
+
+  
   {
     "id": "rn-q-015",
     "scope": ["RN"],
@@ -271,7 +277,8 @@
     "correctAnswer": "New or worsening dysrhythmias",
     "rationale": "Class IC drugs have a significant proarrhythmic risk, requiring careful ECG monitoring.",
     "clinicalPearl": "Patients taking flecainide require ongoing cardiac monitoring to detect potentially life-threatening arrhythmias."
-  }
+  },
+  
 
   {
     "id": "rn-q-016",
@@ -290,6 +297,8 @@
     "rationale": "Propafenone has weak beta-blocker activity, which can cause bradycardia and bronchoconstriction.",
     "clinicalPearl": "Because of its beta-blocking properties, propafenone can affect heart rate and respiratory status."
   },
+
+  
   {
     "id": "rn-q-017",
     "scope": ["RN"],
@@ -325,7 +334,7 @@
     "correctAnswer": "Bradycardia",
     "rationale": "Propafenone’s beta-blocking effects can cause clinically significant bradycardia, requiring prompt evaluation.",
     "clinicalPearl": "Monitor heart rate closely in patients receiving propafenone to detect potentially dangerous bradycardia."
-  }
+  },
 
   
   {
@@ -345,6 +354,8 @@
     "rationale": "Esmolol is a short-acting beta-1 blocker that can cause bradycardia and hypotension, requiring continuous monitoring.",
     "clinicalPearl": "Continuous ECG and blood pressure monitoring are essential during IV esmolol therapy."
   },
+
+  
   {
     "id": "rn-q-020",
     "scope": ["RN"],
@@ -362,6 +373,8 @@
     "rationale": "Esmolol has a very short half-life, allowing rapid titration and quick discontinuation if adverse effects occur.",
     "clinicalPearl": "Esmolol’s short duration makes it ideal for temporary rate control in emergency settings."
   },
+
+  
   {
     "id": "rn-q-021",
     "scope": ["RN"],
@@ -438,6 +451,8 @@
     "rationale": "Beta-blockers reduce cardiac output, which can result in hypotension.",
     "clinicalPearl": "Monitor blood pressure routinely when patients begin or change beta-blocker dosages."
   },
+
+  
   {
     "id": "rn-q-025",
     "scope": ["RN"],
@@ -476,6 +491,7 @@
     "rationale": "Atenolol is primarily excreted by the kidneys, unlike metoprolol, which is hepatically metabolized.",
     "clinicalPearl": "Renal function should be assessed when prescribing atenolol due to renal drug clearance."
   },
+  
  
  {
     "id": "rn-q-027",
@@ -493,7 +509,7 @@
     "correctAnswer": "Renal impairment",
     "rationale": "Dose adjustment may be required because atenolol is cleared renally.",
     "clinicalPearl": "Monitor renal function to avoid atenolol accumulation and toxicity."
-  }
+  },
 
   
   {
@@ -513,6 +529,8 @@
     "rationale": "Dronedarone increases mortality in patients with symptomatic or recently decompensated heart failure.",
     "clinicalPearl": "Avoid dronedarone in patients with unstable or recently worsened heart failure."
   },
+
+  
   {
     "id": "rn-q-029",
     "scope": ["RN"],
@@ -591,6 +609,8 @@
     "rationale": "Hypokalemia increases the risk of dofetilide-induced torsades de pointes.",
     "clinicalPearl": "Correct electrolyte imbalances before administering Class III antiarrhythmics."
   },
+
+  
   {
     "id": "rn-q-033",
     "scope": ["RN"],
@@ -634,6 +654,8 @@
     "rationale": "Ibutilide is an IV Class III antiarrhythmic used for acute cardioversion of atrial arrhythmias.",
     "clinicalPearl": "Ibutilide is typically administered in monitored settings due to arrhythmia risk."
   },
+
+  
   {
     "id": "rn-q-035",
     "scope": ["RN"],
@@ -674,7 +696,7 @@
     "correctAnswer": "Hypokalemia",
     "rationale": "Low potassium levels increase the risk of QT prolongation and torsades de pointes with ibutilide.",
     "clinicalPearl": "Correct potassium deficits before administering medications that prolong the QT interval."
-  }
+  },
 
   
   {
@@ -713,6 +735,8 @@
     "rationale": "Sotalol prolongs the QT interval and can cause torsades de pointes, requiring ECG monitoring during initiation.",
     "clinicalPearl": "Continuous ECG monitoring is critical during the first doses of sotalol."
   },
+
+  
   {
     "id": "rn-q-039",
     "scope": ["RN"],
@@ -754,6 +778,8 @@
     "rationale": "Diltiazem is a non-dihydropyridine calcium channel blocker that slows conduction through the AV node.",
     "clinicalPearl": "Non-dihydropyridine CCBs are especially useful for rate control in supraventricular tachycardias."
   },
+
+  
   {
     "id": "rn-q-041",
     "scope": ["RN"],
@@ -795,6 +821,8 @@
     "rationale": "Diltiazem slows heart rate and AV conduction, increasing the risk of bradycardia.",
     "clinicalPearl": "Monitor pulse and ECG in patients receiving diltiazem."
   },
+
+  
   {
     "id": "rn-q-043",
     "scope": ["RN"],
@@ -837,6 +865,8 @@
     "rationale": "Verapamil can cause bradycardia and hypotension, so vital signs must be assessed before administration.",
     "clinicalPearl": "Hold verapamil if systolic BP is <90 mmHg or pulse <50 bpm unless otherwise ordered."
   },
+
+  
   {
     "id": "rn-q-045",
     "scope": ["RN"],
@@ -853,7 +883,7 @@
     "correctAnswer": "Constipation",
     "rationale": "Verapamil commonly causes constipation due to decreased GI motility.",
     "clinicalPearl": "Encourage adequate fluid and fiber intake to reduce constipation risk while on verapamil."
-  }
+  },
 
   
   {
@@ -873,6 +903,8 @@
     "rationale": "Atropine is an anticholinergic used to increase heart rate in symptomatic bradycardia.",
     "clinicalPearl": "Atropine blocks vagal stimulation at the SA and AV nodes to increase heart rate."
   },
+
+  
   {
     "id": "rn-q-047",
     "scope": ["RN"],
@@ -912,6 +944,8 @@
     "rationale": "Atropine decreases bladder tone and can worsen urinary retention.",
     "clinicalPearl": "Use atropine cautiously in patients with BPH or urinary obstruction."
   },
+
+  
   {
     "id": "rn-q-049",
     "scope": ["RN"],
@@ -955,6 +989,8 @@
     "rationale": "Hypokalemia increases digoxin binding and the risk of toxicity.",
     "clinicalPearl": "Low potassium and low magnesium both increase the risk of digoxin toxicity."
   },
+
+  
   {
     "id": "rn-q-051",
     "scope": ["RN"],
@@ -997,6 +1033,8 @@
     "rationale": "Adenosine is first-line therapy for paroxysmal supraventricular tachycardia (PSVT).",
     "clinicalPearl": "Adenosine briefly stops conduction through the AV node to terminate SVT."
   },
+
+  
   {
     "id": "rn-q-053",
     "scope": ["RN"],
@@ -1038,7 +1076,7 @@
     "correctAnswer": "Chest discomfort and flushing",
     "rationale": "Patients commonly experience brief chest discomfort, flushing, and a sense of impending doom due to transient asystole.",
     "clinicalPearl": "Reassure patients that the uncomfortable sensations are brief and expected."
-  }
+  },
 
   {
     "id": "rn-q-055",
@@ -1079,6 +1117,8 @@
     "rationale": "The liver converts lactate to bicarbonate; impaired liver function can lead to lactate accumulation.",
     "clinicalPearl": "Monitor liver function when administering LR in patients with hepatic impairment."
   },
+
+  
   {
     "id": "rn-q-057",
     "scope": ["RN"],
@@ -1218,8 +1258,7 @@
     "correctAnswer": "Movement of fluid into cells",
     "rationale": "After metabolism of dextrose, free water shifts into the intracellular space.",
     "clinicalPearl": "D5W is not ideal for fluid resuscitation because it does not remain in the intravascular space."
-  }
-
+  },
 
   
   {
@@ -1239,6 +1278,7 @@
     "rationale": "0.45% NS is a hypotonic solution that causes fluid to shift into cells.",
     "clinicalPearl": "Hypotonic solutions move water into the intracellular space."
   },
+  
  
  {
     "id": "rn-q-065",
@@ -1405,7 +1445,7 @@
     "correctAnswer": "Fluid volume overload",
     "rationale": "Albumin can rapidly expand plasma volume, increasing the risk for circulatory overload.",
     "clinicalPearl": "Monitor lung sounds and signs of heart failure during albumin infusion."
-  }
+  },
 
   
   {
