@@ -494,5 +494,6 @@
 {"id":"rn-491","scope":["RN"],"name":{"generic":"Carboplatin","brand":["Paraplantin"]},"class":"Alkylating agent - Alkylating-like Drugs","mechanism":"Forms DNA cross-links that prevent DNA synthesis and lead to cell death","indications":["Ovarian cancer","Lung cancer"],"contraindications":["Severe renal impairment","Severe bone marrow suppression"],"interactions":["Myelosuppressants"],"education":["Risk for bleeding, infection, and anemia."]},
 {"id":"rn-492","scope":["RN"],"name":{"generic":"Oxaliplatin","brand":["Eloxatin"]},"class":"Alkylating agent - Alkylating-like Drugs","mechanism":"Forms DNA cross-links that prevent DNA synthesis and lead to cell death","indications":["Colorectal cancer"],"contraindications":["Hypersensitivity","Severe neuropathy"],"interactions":["Neurotoxic drugs"],"education":["Avoid cold foods/drinks because of cold-induced neuropathy."]} 
 
+
   
 ]
