@@ -1,5 +1,5 @@
 [
-  {
+{
     "id": "rn-q-001",
     "scope": ["RN"],
     "medicationId": "rn-001",
@@ -16,9 +16,8 @@
     "rationale": "Tinnitus is a sign of cinchonism, a toxic effect of quinidine that requires prompt intervention.",
     "clinicalPearl": "Cinchonism symptoms (tinnitus, headache, dizziness) are early indicators of quinidine toxicity."
   },
-  
-
-{
+ 
+ {
     "id": "rn-q-002",
     "scope": ["RN"],
     "medicationId": "rn-001",
@@ -35,8 +34,6 @@
     "rationale": "Hypokalemia increases the risk of quinidine-induced dysrhythmias, so potassium levels must be closely monitored.",
     "clinicalPearl": "Maintaining normal potassium levels reduces the risk of serious ventricular dysrhythmias when taking quinidine."
   },
- 
-
 
  {
     "id": "rn-q-003",
@@ -55,8 +52,8 @@
     "rationale": "Quinidine prolongs the QT interval, increasing the risk of torsades de pointes.",
     "clinicalPearl": "Monitoring QT interval is essential during quinidine therapy to prevent life-threatening arrhythmias."
   },
-
-  {
+ 
+ {
     "id": "rn-q-004",
     "scope": ["RN"],
     "medicationId": "rn-002",
@@ -91,8 +88,8 @@
     "rationale": "An elevated ANA supports the diagnosis of procainamide-induced lupus.",
     "clinicalPearl": "Routine ANA monitoring helps detect early signs of drug-induced lupus in patients receiving prolonged procainamide therapy."
   },
- 
- {
+
+  {
     "id": "rn-q-006",
     "scope": ["RN"],
     "medicationId": "rn-002",
@@ -128,8 +125,6 @@
     "clinicalPearl": "Patients with liver dysfunction require lower lidocaine doses and close monitoring for toxicity."
   },
  
-
-
  {
     "id": "rn-q-008",
     "scope": ["RN"],
@@ -148,7 +143,6 @@
     "clinicalPearl": "Recognizing early neurologic symptoms of lidocaine toxicity helps prevent progression to seizures and cardiovascular collapse."
   },
 
-  
   {
     "id": "rn-q-009",
     "scope": ["RN"],
@@ -184,7 +178,8 @@
     "rationale": "Mexiletine can cause CNS adverse effects similar to lidocaine, including tremors, dizziness, and confusion, which may indicate toxicity.",
     "clinicalPearl": "Neurologic symptoms are common early indicators of mexiletine toxicity and should be reported immediately."
   },
-  {
+ 
+ {
     "id": "rn-q-011",
     "scope": ["RN"],
     "medicationId": "rn-004",
@@ -202,9 +197,6 @@
     "clinicalPearl": "Mexiletine is often used as a long-term oral alternative to lidocaine for ventricular arrhythmia management."
   },
  
-
-
-
  {
     "id": "rn-q-012",
     "scope": ["RN"],
@@ -240,8 +232,6 @@
     "rationale": "Flecainide has a high risk of proarrhythmia and should not be used in patients with structural heart disease or post-MI.",
     "clinicalPearl": "Class IC antiarrhythmics significantly increase mortality risk in patients with structural heart disease."
   },
-
-  
   {
     "id": "rn-q-014",
     "scope": ["RN"],
@@ -259,7 +249,6 @@
     "rationale": "Flecainide slows conduction through the ventricles, resulting in QRS widening.",
     "clinicalPearl": "Monitoring QRS duration helps detect early flecainide toxicity."
   },
-
   
   {
     "id": "rn-q-015",
@@ -278,7 +267,6 @@
     "rationale": "Class IC drugs have a significant proarrhythmic risk, requiring careful ECG monitoring.",
     "clinicalPearl": "Patients taking flecainide require ongoing cardiac monitoring to detect potentially life-threatening arrhythmias."
   },
-  
 
   {
     "id": "rn-q-016",
@@ -297,7 +285,6 @@
     "rationale": "Propafenone has weak beta-blocker activity, which can cause bradycardia and bronchoconstriction.",
     "clinicalPearl": "Because of its beta-blocking properties, propafenone can affect heart rate and respiratory status."
   },
-
   
   {
     "id": "rn-q-017",
@@ -316,7 +303,6 @@
     "rationale": "Due to its beta-blocking properties, propafenone may worsen bronchospasm in patients with COPD or asthma.",
     "clinicalPearl": "Assess respiratory history carefully before initiating propafenone therapy."
   },
- 
 
  {
     "id": "rn-q-018",
@@ -335,8 +321,7 @@
     "rationale": "Propafenone’s beta-blocking effects can cause clinically significant bradycardia, requiring prompt evaluation.",
     "clinicalPearl": "Monitor heart rate closely in patients receiving propafenone to detect potentially dangerous bradycardia."
   },
-
-  
+ 
   {
     "id": "rn-q-019",
     "scope": ["RN"],
@@ -354,8 +339,7 @@
     "rationale": "Esmolol is a short-acting beta-1 blocker that can cause bradycardia and hypotension, requiring continuous monitoring.",
     "clinicalPearl": "Continuous ECG and blood pressure monitoring are essential during IV esmolol therapy."
   },
-
-  
+ 
   {
     "id": "rn-q-020",
     "scope": ["RN"],
@@ -373,7 +357,6 @@
     "rationale": "Esmolol has a very short half-life, allowing rapid titration and quick discontinuation if adverse effects occur.",
     "clinicalPearl": "Esmolol’s short duration makes it ideal for temporary rate control in emergency settings."
   },
-
   
   {
     "id": "rn-q-021",
@@ -393,8 +376,6 @@
     "clinicalPearl": "Assess baseline heart rate carefully before initiating beta-blocker therapy."
   },
  
-
-
  {
     "id": "rn-q-022",
     "scope": ["RN"],
@@ -431,9 +412,6 @@
     "clinicalPearl": "Cardioselective beta-blockers have less effect on bronchial smooth muscle compared with nonselective agents."
   },
  
-
-
-
  {
     "id": "rn-q-024",
     "scope": ["RN"],
@@ -452,7 +430,6 @@
     "clinicalPearl": "Monitor blood pressure routinely when patients begin or change beta-blocker dosages."
   },
 
-  
   {
     "id": "rn-q-025",
     "scope": ["RN"],
@@ -470,9 +447,6 @@
     "rationale": "Atenolol can cause bradycardia and hypotension, leading to dizziness and fatigue.",
     "clinicalPearl": "Patients should report symptoms of low heart rate or blood pressure promptly."
   },
-
-
-
 
   {
     "id": "rn-q-026",
@@ -492,8 +466,7 @@
     "clinicalPearl": "Renal function should be assessed when prescribing atenolol due to renal drug clearance."
   },
   
- 
- {
+  {
     "id": "rn-q-027",
     "scope": ["RN"],
     "medicationId": "rn-009",
@@ -511,7 +484,6 @@
     "clinicalPearl": "Monitor renal function to avoid atenolol accumulation and toxicity."
   },
 
-  
   {
     "id": "rn-q-028",
     "scope": ["RN"],
@@ -529,8 +501,7 @@
     "rationale": "Dronedarone increases mortality in patients with symptomatic or recently decompensated heart failure.",
     "clinicalPearl": "Avoid dronedarone in patients with unstable or recently worsened heart failure."
   },
-
-  
+ 
   {
     "id": "rn-q-029",
     "scope": ["RN"],
@@ -548,9 +519,6 @@
     "rationale": "Dronedarone should be taken with meals to improve absorption; grapefruit juice should be avoided.",
     "clinicalPearl": "Taking dronedarone with food enhances absorption and improves therapeutic effectiveness."
   },
-  
-
-
 
 {
     "id": "rn-q-030",
@@ -569,7 +537,8 @@
     "rationale": "Dronedarone can prolong the QT interval, increasing the risk for torsades de pointes.",
     "clinicalPearl": "Regular ECG monitoring helps detect QT interval changes in patients taking dronedarone."
   },
-  {
+ 
+ {
     "id": "rn-q-031",
     "scope": ["RN"],
     "medicationId": "rn-011",
@@ -587,11 +556,6 @@
     "clinicalPearl": "Hospital initiation ensures early detection of dangerous ventricular arrhythmias."
   },
   
-
-
-
-
-
 {
     "id": "rn-q-032",
     "scope": ["RN"],
@@ -609,7 +573,6 @@
     "rationale": "Hypokalemia increases the risk of dofetilide-induced torsades de pointes.",
     "clinicalPearl": "Correct electrolyte imbalances before administering Class III antiarrhythmics."
   },
-
   
   {
     "id": "rn-q-033",
@@ -628,14 +591,6 @@
     "rationale": "Dofetilide is primarily renally excreted; impaired renal function increases toxicity risk.",
     "clinicalPearl": "Renal function must be evaluated prior to dosing dofetilide."
   },
-  
-
-
-
-
-
-
-
 
 {
     "id": "rn-q-034",
@@ -655,7 +610,6 @@
     "clinicalPearl": "Ibutilide is typically administered in monitored settings due to arrhythmia risk."
   },
 
-  
   {
     "id": "rn-q-035",
     "scope": ["RN"],
@@ -674,12 +628,6 @@
     "clinicalPearl": "Extended ECG monitoring helps detect delayed arrhythmias after ibutilide administration."
   },
   
-
-
-
-
-
-
 {
     "id": "rn-q-036",
     "scope": ["RN"],
@@ -697,7 +645,6 @@
     "rationale": "Low potassium levels increase the risk of QT prolongation and torsades de pointes with ibutilide.",
     "clinicalPearl": "Correct potassium deficits before administering medications that prolong the QT interval."
   },
-
   
   {
     "id": "rn-q-037",
@@ -716,8 +663,7 @@
     "rationale": "Sotalol is both a nonselective beta-blocker and a Class III antiarrhythmic that prolongs repolarization.",
     "clinicalPearl": "Sotalol’s dual action requires careful monitoring for bradycardia and QT prolongation."
   },
-  
-
+ 
 {
     "id": "rn-q-038",
     "scope": ["RN"],
@@ -736,8 +682,7 @@
     "clinicalPearl": "Continuous ECG monitoring is critical during the first doses of sotalol."
   },
 
-  
-  {
+    {
     "id": "rn-q-039",
     "scope": ["RN"],
     "medicationId": "rn-013",
@@ -754,12 +699,6 @@
     "rationale": "Low potassium levels increase QT prolongation and the risk of torsades de pointes.",
     "clinicalPearl": "Correct potassium and magnesium deficiencies before starting Class III antiarrhythmics."
   },
-  
-
-
-
-
-
 
 {
     "id": "rn-q-040",
@@ -778,7 +717,6 @@
     "rationale": "Diltiazem is a non-dihydropyridine calcium channel blocker that slows conduction through the AV node.",
     "clinicalPearl": "Non-dihydropyridine CCBs are especially useful for rate control in supraventricular tachycardias."
   },
-
   
   {
     "id": "rn-q-041",
@@ -798,12 +736,6 @@
     "clinicalPearl": "Assess cardiac function before starting non-dihydropyridine calcium channel blockers."
   },
   
-
-
-
-
-
-
 {
     "id": "rn-q-042",
     "scope": ["RN"],
@@ -822,8 +754,7 @@
     "clinicalPearl": "Monitor pulse and ECG in patients receiving diltiazem."
   },
 
-  
-  {
+   {
     "id": "rn-q-043",
     "scope": ["RN"],
     "medicationId": "rn-015",
@@ -841,13 +772,6 @@
     "clinicalPearl": "Avoid verapamil in patients with reduced left ventricular function."
   },
   
-
-
-
-
-
-
-
 {
     "id": "rn-q-044",
     "scope": ["RN"],
@@ -865,8 +789,7 @@
     "rationale": "Verapamil can cause bradycardia and hypotension, so vital signs must be assessed before administration.",
     "clinicalPearl": "Hold verapamil if systolic BP is <90 mmHg or pulse <50 bpm unless otherwise ordered."
   },
-
-  
+ 
   {
     "id": "rn-q-045",
     "scope": ["RN"],
@@ -884,7 +807,6 @@
     "rationale": "Verapamil commonly causes constipation due to decreased GI motility.",
     "clinicalPearl": "Encourage adequate fluid and fiber intake to reduce constipation risk while on verapamil."
   },
-
   
   {
     "id": "rn-q-046",
@@ -904,7 +826,6 @@
     "clinicalPearl": "Atropine blocks vagal stimulation at the SA and AV nodes to increase heart rate."
   },
 
-  
   {
     "id": "rn-q-047",
     "scope": ["RN"],
@@ -923,10 +844,6 @@
     "clinicalPearl": "Anticholinergic side effects can be remembered by: hot, dry, blind, and tachycardic."
   },
   
-
-
-
-
 {
     "id": "rn-q-048",
     "scope": ["RN"],
@@ -944,7 +861,6 @@
     "rationale": "Atropine decreases bladder tone and can worsen urinary retention.",
     "clinicalPearl": "Use atropine cautiously in patients with BPH or urinary obstruction."
   },
-
   
   {
     "id": "rn-q-049",
@@ -964,14 +880,6 @@
     "clinicalPearl": "Early signs of digoxin toxicity include GI upset and visual changes."
   },
   
-
-
-
-
-
-
-
-
 {
     "id": "rn-q-050",
     "scope": ["RN"],
@@ -989,7 +897,6 @@
     "rationale": "Hypokalemia increases digoxin binding and the risk of toxicity.",
     "clinicalPearl": "Low potassium and low magnesium both increase the risk of digoxin toxicity."
   },
-
   
   {
     "id": "rn-q-051",
@@ -1008,12 +915,6 @@
     "rationale": "Patients should check the apical pulse and hold digoxin if heart rate is below prescribed parameters (commonly <60 bpm).",
     "clinicalPearl": "Always assess apical pulse for one full minute before administering digoxin."
   },
- 
-
-
-
-
-
 
 
  {
@@ -1033,7 +934,6 @@
     "rationale": "Adenosine is first-line therapy for paroxysmal supraventricular tachycardia (PSVT).",
     "clinicalPearl": "Adenosine briefly stops conduction through the AV node to terminate SVT."
   },
-
   
   {
     "id": "rn-q-053",
@@ -1053,13 +953,6 @@
     "clinicalPearl": "Always have continuous ECG monitoring in place before giving adenosine."
   },
   
-
-
-
-
-
-
-
 {
     "id": "rn-q-054",
     "scope": ["RN"],
@@ -1096,10 +989,6 @@
     "clinicalPearl": "Lactated Ringer’s is often the fluid of choice for trauma and burn resuscitation."
   },
   
-
-
-
-
 {
     "id": "rn-q-056",
     "scope": ["RN"],
@@ -1117,8 +1006,7 @@
     "rationale": "The liver converts lactate to bicarbonate; impaired liver function can lead to lactate accumulation.",
     "clinicalPearl": "Monitor liver function when administering LR in patients with hepatic impairment."
   },
-
-  
+ 
   {
     "id": "rn-q-057",
     "scope": ["RN"],
@@ -1137,13 +1025,6 @@
     "clinicalPearl": "Always review IV fluid electrolyte composition before administration."
   },
   
-
-
-
-
-
-
-
 {
     "id": "rn-q-058",
     "scope": ["RN"],
@@ -1180,9 +1061,6 @@
     "clinicalPearl": "Normal saline remains in the extracellular space, expanding intravascular volume."
   },
  
-
-
-
  {
     "id": "rn-q-060",
     "scope": ["RN"],
@@ -1218,11 +1096,6 @@
     "rationale": "D5W is isotonic in the bag but becomes hypotonic after dextrose is metabolized.",
     "clinicalPearl": "Once dextrose is metabolized, D5W acts as free water."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-062",
@@ -1259,7 +1132,6 @@
     "rationale": "After metabolism of dextrose, free water shifts into the intracellular space.",
     "clinicalPearl": "D5W is not ideal for fluid resuscitation because it does not remain in the intravascular space."
   },
-
   
   {
     "id": "rn-q-064",
@@ -1279,7 +1151,6 @@
     "clinicalPearl": "Hypotonic solutions move water into the intracellular space."
   },
   
- 
  {
     "id": "rn-q-065",
     "scope": ["RN"],
@@ -1297,12 +1168,6 @@
     "rationale": "Hypotonic fluids help dilute elevated serum sodium levels.",
     "clinicalPearl": "0.45% NS is commonly used to treat hypernatremia by lowering serum sodium gradually."
   },
- 
-
-
-
-
-
 
  {
     "id": "rn-q-066",
@@ -1339,10 +1204,6 @@
     "rationale": "D10W is a hypertonic dextrose solution that pulls fluid into the intravascular space.",
     "clinicalPearl": "Hypertonic solutions draw fluid out of cells and expand intravascular volume."
   },
-  
-
-
-
 
 {
     "id": "rn-q-068",
@@ -1379,14 +1240,6 @@
     "rationale": "D10W contains a high concentration of glucose and can cause hyperglycemia.",
     "clinicalPearl": "Frequent glucose monitoring is essential during hypertonic dextrose therapy."
   },
- 
-
-
-
-
-
-
-
 
  {
     "id": "rn-q-070",
@@ -1423,11 +1276,6 @@
     "rationale": "Albumin increases oncotic pressure and expands intravascular volume.",
     "clinicalPearl": "Albumin is often used when volume expansion is needed with low serum albumin levels."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-072",
@@ -1446,7 +1294,6 @@
     "rationale": "Albumin can rapidly expand plasma volume, increasing the risk for circulatory overload.",
     "clinicalPearl": "Monitor lung sounds and signs of heart failure during albumin infusion."
   },
-
   
   {
     "id": "rn-q-073",
@@ -1465,9 +1312,6 @@
     "rationale": "Pyridostigmine is a cholinesterase inhibitor used to improve neuromuscular transmission in myasthenia gravis.",
     "clinicalPearl": "Pyridostigmine increases acetylcholine at the neuromuscular junction to improve muscle strength."
   },
-  
-
-
 
 {
     "id": "rn-q-074",
@@ -1504,11 +1348,6 @@
     "rationale": "Cholinergic crisis causes excessive acetylcholine, leading to muscle twitching, weakness, and increased secretions.",
     "clinicalPearl": "SLUDGE symptoms (salivation, lacrimation, urination, diarrhea, GI upset, emesis) indicate cholinergic excess."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-076",
@@ -1545,12 +1384,6 @@
     "rationale": "Atropine is used to counteract severe muscarinic effects such as bradycardia.",
     "clinicalPearl": "Always monitor heart rate when administering cholinesterase inhibitors."
   },
- 
-
-
-
-
-
 
  {
     "id": "rn-q-078",
@@ -1587,10 +1420,6 @@
     "rationale": "Donepezil is a cholinesterase inhibitor used to slow cognitive decline in Alzheimer disease.",
     "clinicalPearl": "Donepezil does not cure Alzheimer disease but may temporarily improve cognition."
   },
- 
-
-
-
 
  {
     "id": "rn-q-080",
@@ -1662,8 +1491,7 @@
     "correctAnswer": "Reduced gastrointestinal side effects",
     "rationale": "The transdermal patch provides steady absorption and may reduce GI side effects like nausea and vomiting.",
     "clinicalPearl": "Patches bypass first-pass metabolism and reduce peak-related GI effects."
-  },
-  
+  }, 
 
 {
     "id": "rn-q-084",
@@ -1700,11 +1528,6 @@
     "rationale": "Galantamine is a cholinesterase inhibitor that increases acetylcholine levels in the brain.",
     "clinicalPearl": "Increased acetylcholine may temporarily improve cognition in Alzheimer disease."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-086",
@@ -1741,13 +1564,6 @@
     "rationale": "Galantamine may increase bronchoconstriction due to cholinergic effects.",
     "clinicalPearl": "Cholinergic medications can increase secretions and bronchial constriction."
   },
-  
-
-
-
-
-
-
 
 {
     "id": "rn-q-088",
@@ -1784,11 +1600,6 @@
     "rationale": "Excess cholinergic activity causes GI symptoms such as nausea, vomiting, and diarrhea.",
     "clinicalPearl": "Monitor for signs of cholinergic excess when doses are increased."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-090",
@@ -1808,7 +1619,6 @@
     "clinicalPearl": "Never cut transdermal patches, and rotate application sites."
   },
 
-  
   {
     "id": "rn-q-091",
     "scope": ["RN"],
@@ -1826,8 +1636,6 @@
     "rationale": "Memantine is an NMDA receptor antagonist used for moderate to severe Alzheimer disease.",
     "clinicalPearl": "Memantine is often combined with cholinesterase inhibitors in advanced Alzheimer disease."
   },
- 
-
 
  {
     "id": "rn-q-092",
@@ -1864,12 +1672,6 @@
     "rationale": "CNS effects such as dizziness, headache, and confusion are common with memantine.",
     "clinicalPearl": "Assess fall risk in older adults starting memantine."
   },
- 
-
-
-
-
-
 
  {
     "id": "rn-q-094",
@@ -1906,11 +1708,6 @@
     "rationale": "Benztropine causes anticholinergic effects such as dry mouth, blurred vision, and urinary retention.",
     "clinicalPearl": "Anticholinergic side effects are common and dose-related."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-096",
@@ -1947,13 +1744,6 @@
     "rationale": "Trihexyphenidyl is an anticholinergic used to reduce tremor and rigidity in Parkinson disease.",
     "clinicalPearl": "Most helpful for tremor rather than bradykinesia."
   },
- 
-
-
-
-
-
-
 
  {
     "id": "rn-q-098",
@@ -1991,7 +1781,6 @@
     "clinicalPearl": "Preventing constipation improves adherence and comfort."
   },
 
-
 {
   "id": "rn-q-100",
   "scope": ["RN"],
@@ -2027,11 +1816,6 @@
   "rationale": "Carbidopa/levodopa can cause orthostatic hypotension, dyskinesias, and hallucinations.",
   "clinicalPearl": "Teach patients to change positions slowly to reduce fall risk."
 },
-
-
-
-
-
 
 {
   "id": "rn-q-102",
@@ -2069,11 +1853,6 @@
   "clinicalPearl": "Dopamine agonists directly stimulate dopamine receptors in the CNS."
 },
 
-
-
-
-
-
 {
   "id": "rn-q-104",
   "scope": ["RN"],
@@ -2110,12 +1889,6 @@
   "clinicalPearl": "Sudden sleep episodes can occur without warning."
 },
 
-
-
-
-
-
-
 {
   "id": "rn-q-106",
   "scope": ["RN"],
@@ -2134,7 +1907,6 @@
   "clinicalPearl": "Dopamine agonists may be used alone or with levodopa."
 },
 
-
 {
   "id": "rn-q-107",
   "scope": ["RN"],
@@ -2152,12 +1924,6 @@
   "rationale": "Bromocriptine can cause orthostatic hypotension, nausea, and hallucinations.",
   "clinicalPearl": "Monitor blood pressure during initiation and dose adjustments."
 },
-
-
-
-
-
-
 
 {
   "id": "rn-q-108",
@@ -2195,12 +1961,6 @@
   "clinicalPearl": "Apomorphine is used as rescue therapy for sudden motor fluctuations."
 },
 
-
-
-
-
-
-
 {
   "id": "rn-q-110",
   "scope": ["RN"],
@@ -2218,7 +1978,6 @@
   "rationale": "Apomorphine commonly causes nausea, vomiting, orthostatic hypotension, and somnolence.",
   "clinicalPearl": "Antiemetic therapy is often prescribed prior to starting apomorphine."
 },
-
 
 {
   "id": "rn-q-111",
@@ -2238,10 +1997,6 @@
   "clinicalPearl": "Always verify compatible antiemetics before administration."
 },
 
-
-
-
-
 {
   "id": "rn-q-112",
   "scope": ["RN"],
@@ -2259,8 +2014,6 @@
   "rationale": "Ropinirole is a dopamine agonist used for Parkinson disease and restless legs syndrome.",
   "clinicalPearl": "Ropinirole can be used as monotherapy in early Parkinson disease."
 },
-
-
 
 {
   "id": "rn-q-113",
@@ -2280,9 +2033,6 @@
   "clinicalPearl": "Screen regularly for new compulsive gambling, shopping, or hypersexual behavior."
 },
 
-
-
-
 {
   "id": "rn-q-114",
   "scope": ["RN"],
@@ -2300,8 +2050,6 @@
   "rationale": "Ropinirole may cause sudden sleep episodes; patients should avoid driving or operating machinery until they know their response.",
   "clinicalPearl": "Sudden sleep attacks can occur without warning."
 },
-
-
 
 {
   "id": "rn-q-115",
@@ -2321,10 +2069,6 @@
   "clinicalPearl": "The patch provides steady dopaminergic stimulation over 24 hours."
 },
 
-
-
-
-
 {
   "id": "rn-q-116",
   "scope": ["RN"],
@@ -2342,8 +2086,6 @@
   "rationale": "Rotigotine may cause local skin reactions, in addition to systemic dopamine agonist effects like hypotension or sleepiness.",
   "clinicalPearl": "Rotate patch sites daily to reduce skin reactions."
 },
-
-
 
 {
   "id": "rn-q-117",
@@ -2363,10 +2105,6 @@
   "clinicalPearl": "Only one patch should be worn at a time."
 },
 
-
-
-
-
 {
   "id": "rn-q-118",
   "scope": ["RN"],
@@ -2385,8 +2123,6 @@
   "clinicalPearl": "MAO-B inhibitors help prolong the effects of levodopa by reducing dopamine breakdown."
 },
 
-
-
 {
   "id": "rn-q-119",
   "scope": ["RN"],
@@ -2405,9 +2141,6 @@
   "clinicalPearl": "Morning dosing may help reduce insomnia."
 },
 
-
-
-
 {
   "id": "rn-q-119",
   "scope": ["RN"],
@@ -2425,8 +2158,6 @@
   "rationale": "Selegiline can cause insomnia, orthostatic hypotension, and dizziness due to increased dopamine levels.",
   "clinicalPearl": "Morning dosing may help reduce insomnia."
 },
-
-
 
 {
   "id": "rn-q-120",
@@ -2446,10 +2177,6 @@
   "clinicalPearl": "Educate patients about aged cheeses, cured meats, and fermented products."
 },
 
-
-
-
-
 {
   "id": "rn-q-121",
   "scope": ["RN"],
@@ -2467,8 +2194,6 @@
   "rationale": "Safinamide is a selective MAO-B inhibitor used as adjunct therapy for Parkinson disease.",
   "clinicalPearl": "Safinamide is typically added to levodopa therapy."
 },
-
-
 
 {
   "id": "rn-q-122",
@@ -2488,10 +2213,6 @@
   "clinicalPearl": "Monitor for increased involuntary movements after initiation."
 },
 
-
-
-
-
 {
   "id": "rn-q-123",
   "scope": ["RN"],
@@ -2509,8 +2230,6 @@
   "rationale": "Patients should report worsening dyskinesias or uncontrolled movements, a common side effect of dopamine-increasing drugs.",
   "clinicalPearl": "Dose adjustments may be required if dyskinesias worsen."
 },
-
-
 
 {
   "id": "rn-q-124",
@@ -2530,9 +2249,6 @@
   "clinicalPearl": "Rasagiline may be used alone in early disease or with levodopa in advanced stages."
 },
 
-
-
-
 {
   "id": "rn-q-125",
   "scope": ["RN"],
@@ -2550,8 +2266,6 @@
   "rationale": "Rasagiline can cause headache, orthostatic hypotension, and potential drug interactions.",
   "clinicalPearl": "Monitor blood pressure and review medication interactions."
 },
-
-
 
 {
   "id": "rn-q-126",
@@ -2571,10 +2285,6 @@
   "clinicalPearl": "Teach patients to read food labels carefully."
 },
 
-
-
-
-
 {
   "id": "rn-q-127",
   "scope": ["RN"],
@@ -2592,7 +2302,6 @@
   "rationale": "Entacapone is a COMT inhibitor used as adjunct therapy with levodopa to prolong its effect.",
   "clinicalPearl": "COMT inhibitors extend levodopa’s duration and reduce “wearing-off” episodes."
 },
-
 
 {
   "id": "rn-q-128",
@@ -2612,10 +2321,6 @@
   "clinicalPearl": "Brown-orange urine discoloration is harmless but may alarm patients."
 },
 
-
-
-
-
 {
   "id": "rn-q-129",
   "scope": ["RN"],
@@ -2633,7 +2338,6 @@
   "rationale": "Entacapone must be taken with each dose of levodopa to prevent “wearing-off” symptoms.",
   "clinicalPearl": "Entacapone has no effect when given alone."
 },
-
 
 {
   "id": "rn-q-130",
@@ -2653,11 +2357,6 @@
   "clinicalPearl": "Baseline and periodic liver function tests are required with tolcapone."
 },
 
-
-
-
-
-
 {
   "id": "rn-q-131",
   "scope": ["RN"],
@@ -2675,8 +2374,6 @@
   "rationale": "Tolcapone may cause hepatotoxicity and worsen dyskinesias when used with levodopa.",
   "clinicalPearl": "Report fatigue, jaundice, or dark urine immediately."
 },
-
-
 
 {
   "id": "rn-q-132",
@@ -2696,11 +2393,6 @@
   "clinicalPearl": "Early recognition of hepatotoxicity is critical."
 },
 
-
-
-
-
-
 {
   "id": "rn-q-133",
   "scope": ["RN"],
@@ -2718,8 +2410,6 @@
   "rationale": "Amantadine increases dopamine release and is used for mild Parkinson symptoms or levodopa-induced dyskinesia.",
   "clinicalPearl": "Amantadine may also reduce levodopa-induced involuntary movements."
 },
-
-
 
 {
   "id": "rn-q-134",
@@ -2739,10 +2429,6 @@
   "clinicalPearl": "Livedo reticularis is usually reversible after discontinuation."
 },
 
-
-
-
-
 {
   "id": "rn-q-135",
   "scope": ["RN"],
@@ -2760,8 +2446,6 @@
   "rationale": "Sudden discontinuation can worsen Parkinson symptoms; medication should be tapered if stopped.",
   "clinicalPearl": "Abrupt withdrawal may cause severe symptom rebound."
 },
-
-
 
 {
   "id": "rn-q-136",
@@ -2781,7 +2465,6 @@
   "clinicalPearl": "Administering interferon in the evening and using antipyretics such as acetaminophen or ibuprofen can help reduce flu-like symptoms."
 },
 
-
 {
   "id": "rn-q-137",
   "scope": ["RN"],
@@ -2799,8 +2482,6 @@
   "rationale": "Antipyretics and evening dosing can reduce flu-like symptoms. Food, potassium intake, and activity restrictions do not prevent these effects.",
   "clinicalPearl": "Premedicating with acetaminophen or NSAIDs and administering injections at bedtime improves tolerability."
 },
-
-
 
 {
   "id": "rn-q-138",
@@ -2838,8 +2519,6 @@
   "clinicalPearl": "Teach patients proper subcutaneous injection technique and to report severe redness, swelling, or skin breakdown."
 },
 
-
-
 {
   "id": "rn-q-140",
   "scope": ["RN"],
@@ -2876,8 +2555,6 @@
   "clinicalPearl": "Review neurologic history carefully before initiating interferon therapy."
 },
 
-
-
 {
   "id": "rn-q-142",
   "scope": ["RN"],
@@ -2895,8 +2572,6 @@
   "rationale": "Teriflunomide carries a boxed warning for severe liver injury, requiring routine liver enzyme monitoring.",
   "clinicalPearl": "Obtain baseline liver function tests before starting teriflunomide and monitor periodically."
 },
-
-
 
 {
   "id": "rn-q-143",
@@ -2916,8 +2591,6 @@
   "clinicalPearl": "Pregnancy must be ruled out before starting teriflunomide, and effective contraception is required during and after treatment."
 },
 
-
-
 {
   "id": "rn-q-144",
   "scope": ["RN"],
@@ -2935,7 +2608,6 @@
   "rationale": "Cholestyramine is used to accelerate teriflunomide elimination because the drug has a very long half-life.",
   "clinicalPearl": "An accelerated elimination procedure is required if pregnancy occurs while taking teriflunomide."
 },
-
 
 {
   "id": "rn-q-145",
@@ -2955,8 +2627,6 @@
   "clinicalPearl": "Taking the medication with food or premedicating with aspirin (if prescribed) may help reduce flushing."
 },
 
-
-
 {
   "id": "rn-q-146",
   "scope": ["RN"],
@@ -2974,7 +2644,6 @@
   "rationale": "Taking monomethyl fumarate with food can reduce gastrointestinal side effects; capsules should not be crushed.",
   "clinicalPearl": "Swallow capsules whole and administer with meals to improve tolerability."
 },
-
 
 {
   "id": "rn-q-147",
@@ -2994,8 +2663,6 @@
   "clinicalPearl": "Monitor CBC regularly to assess for lymphopenia and reduce infection risk."
 },
 
-
-
 {
   "id": "rn-q-148",
   "scope": ["RN"],
@@ -3013,7 +2680,6 @@
   "rationale": "Glatiramer acetate can cause transient post-injection reactions that are self-limiting and usually resolve without treatment.",
   "clinicalPearl": "Educate patients about possible immediate post-injection reactions to reduce anxiety if they occur."
 },
-
 
 {
   "id": "rn-q-149",
@@ -3033,8 +2699,6 @@
   "clinicalPearl": "Teach patients to systematically rotate subcutaneous injection sites to protect skin integrity."
 },
 
-
-
 {
   "id": "rn-q-150",
   "scope": ["RN"],
@@ -3052,8 +2716,6 @@
   "rationale": "Glatiramer acetate reduces relapse rates but does not cure multiple sclerosis and does not cause major systemic immunosuppression.",
   "clinicalPearl": "Set realistic expectations—disease-modifying therapies reduce relapses but are not curative."
 },
-
-
 
 {
   "id": "rn-q-151",
@@ -3073,8 +2735,6 @@
   "clinicalPearl": "Long-term monitoring is essential due to delayed autoimmune risks."
 },
 
-
-
 {
   "id": "rn-q-152",
   "scope": ["RN"],
@@ -3092,7 +2752,6 @@
   "rationale": "Premedication with steroids and antihistamines helps reduce infusion-related reactions.",
   "clinicalPearl": "Administer premedications as prescribed prior to infusion to minimize severe reactions."
 },
-
 
 {
   "id": "rn-q-153",
@@ -3112,8 +2771,6 @@
   "clinicalPearl": "Alemtuzumab requires extended post-treatment surveillance to detect late-onset complications."
 },
 
-
-
 {
   "id": "rn-q-154",
   "scope": ["RN"],
@@ -3131,8 +2788,6 @@
   "rationale": "Ocrelizumab can reactivate hepatitis B virus infection; patients must be screened prior to treatment initiation.",
   "clinicalPearl": "Always screen for hepatitis B before starting B-cell–depleting therapies."
 },
-
-
 
 {
   "id": "rn-q-155",
@@ -3152,8 +2807,6 @@
   "clinicalPearl": "Monitor closely during infusions and have emergency medications available for hypersensitivity reactions."
 },
 
-
-
 {
   "id": "rn-q-156",
   "scope": ["RN"],
@@ -3172,7 +2825,6 @@
   "clinicalPearl": "Ensure required vaccinations are completed before starting immunosuppressive therapy."
 },
 
-
 {
   "id": "rn-q-157",
   "scope": ["RN"],
@@ -3190,8 +2842,6 @@
   "rationale": "Natalizumab increases the risk of progressive multifocal leukoencephalopathy due to JC virus reactivation.",
   "clinicalPearl": "Monitor for new neurologic symptoms and evaluate promptly for possible PML."
 },
-
-
 
 {
   "id": "rn-q-158",
@@ -3229,8 +2879,6 @@
   "clinicalPearl": "Enrollment in the REMS program is mandatory before initiating natalizumab therapy."
 },
 
-
-
 {
   "id": "rn-q-160",
   "scope": ["RN"],
@@ -3248,8 +2896,6 @@
   "rationale": "Siponimod dosing is based on CYP2C9 genotype due to differences in drug metabolism and risk of adverse effects.",
   "clinicalPearl": "Genotype testing determines appropriate dosing and identifies patients who should not receive siponimod."
 },
-
-
 
 {
   "id": "rn-q-161",
@@ -3269,8 +2915,6 @@
   "clinicalPearl": "Monitor heart rate and blood pressure when starting siponimod."
 },
 
-
-
 {
   "id": "rn-q-162",
   "scope": ["RN"],
@@ -3289,9 +2933,6 @@
   "clinicalPearl": "Adherence is critical; interruption of therapy may require repeating the dose-escalation schedule."
 },
 
-
-
-
 {
   "id": "rn-q-163",
   "scope": ["RN"],
@@ -3309,8 +2950,6 @@
   "rationale": "Baclofen is a central nervous system depressant that commonly causes sedation, dizziness, and muscle weakness.",
   "clinicalPearl": "Advise patients to avoid driving or operating heavy machinery until they know how baclofen affects them."
 },
-
-
 
 {
   "id": "rn-q-164",
@@ -3348,8 +2987,6 @@
   "clinicalPearl": "Never stop baclofen suddenly—taper slowly under provider supervision."
 },
 
-
-
 {
   "id": "rn-q-166",
   "scope": ["RN"],
@@ -3367,8 +3004,6 @@
   "rationale": "Dantrolene carries a risk of severe liver injury and requires routine liver function monitoring.",
   "clinicalPearl": "Obtain baseline and periodic liver function tests during dantrolene therapy."
 },
-
-
 
 {
   "id": "rn-q-167",
@@ -3388,8 +3023,6 @@
   "clinicalPearl": "Unlike many antispasmodics, dantrolene works peripherally at the muscle level."
 },
 
-
-
 {
   "id": "rn-q-168",
   "scope": ["RN"],
@@ -3407,8 +3040,6 @@
   "rationale": "Dark urine and jaundice suggest liver injury, a serious adverse effect associated with dantrolene.",
   "clinicalPearl": "Teach patients to report signs of liver dysfunction immediately."
 },
-
-
 
 {
   "id": "rn-q-169",
@@ -3428,8 +3059,6 @@
   "clinicalPearl": "Caution patients about fall risk, especially older adults."
 },
 
-
-
 {
   "id": "rn-q-170",
   "scope": ["RN"],
@@ -3448,9 +3077,6 @@
   "clinicalPearl": "Always taper gabapentin rather than stopping suddenly."
 },
 
-
-
-
 {
   "id": "rn-q-171",
   "scope": ["RN"],
@@ -3468,8 +3094,6 @@
   "rationale": "Antacids containing aluminum or magnesium can decrease gabapentin absorption; doses should be separated by at least 2 hours.",
   "clinicalPearl": "Administer gabapentin at least 2 hours after antacids to ensure adequate absorption."
 },
-
-
 
 {
   "id": "rn-q-172",
@@ -3507,8 +3131,6 @@
   "clinicalPearl": "Never stop pregabalin suddenly—taper the dose under provider supervision."
 },
 
-
-
 {
   "id": "rn-q-174",
   "scope": ["RN"],
@@ -3526,9 +3148,6 @@
   "rationale": "Pregabalin can cause fluid retention and peripheral edema, which may exacerbate heart failure.",
   "clinicalPearl": "Use caution and monitor closely in patients with cardiac disease."
 },
-
-
-
 
 {
   "id": "rn-q-175",
@@ -3548,8 +3167,6 @@
   "clinicalPearl": "Encourage meticulous oral hygiene and regular dental visits."
 },
 
-
-
 {
   "id": "rn-q-176",
   "scope": ["RN"],
@@ -3567,9 +3184,6 @@
   "rationale": "Good oral hygiene helps reduce the risk and severity of gingival hyperplasia associated with phenytoin.",
   "clinicalPearl": "Do not stop antiepileptic drugs abruptly; adherence is critical for seizure control."
 },
-
-
-
 
 {
   "id": "rn-q-177",
@@ -3589,8 +3203,6 @@
   "clinicalPearl": "Monitor for signs of toxicity such as nystagmus, ataxia, and confusion."
 },
 
-
-
 {
   "id": "rn-q-178",
   "scope": ["RN"],
@@ -3608,9 +3220,6 @@
   "rationale": "Phenobarbital is a barbiturate that can cause significant central nervous system and respiratory depression.",
   "clinicalPearl": "Monitor respiratory status closely, especially at initiation or with dose increases."
 },
-
-
-
 
 {
   "id": "rn-q-179",
@@ -3630,8 +3239,6 @@
   "clinicalPearl": "Do not abruptly discontinue phenobarbital due to risk of withdrawal seizures."
 },
 
-
-
 {
   "id": "rn-q-180",
   "scope": ["RN"],
@@ -3649,7 +3256,6 @@
   "rationale": "Phenobarbital induces hepatic enzymes, which can reduce the effectiveness of many medications including oral contraceptives.",
   "clinicalPearl": "Advise patients using hormonal contraception to consider alternative or additional birth control methods."
 },
-
 
 {
   "id": "rn-q-181",
@@ -3669,8 +3275,6 @@
   "clinicalPearl": "Ethosuximide is not effective for tonic-clonic or focal seizures."
 },
 
-
-
 {
   "id": "rn-q-182",
   "scope": ["RN"],
@@ -3688,10 +3292,6 @@
   "rationale": "Common side effects of ethosuximide include nausea, vomiting, anorexia, fatigue, and dizziness.",
   "clinicalPearl": "Administer with food to reduce gastrointestinal discomfort."
 },
-
-
-
-
 
 {
   "id": "rn-q-183",
@@ -3711,8 +3311,6 @@
   "clinicalPearl": "Do not discontinue antiepileptic drugs suddenly due to risk of seizure recurrence."
 },
 
-
-
 {
   "id": "rn-q-184",
   "scope": ["RN"],
@@ -3730,7 +3328,6 @@
   "rationale": "Clonazepam is a benzodiazepine that enhances the inhibitory effects of gamma-aminobutyric acid (GABA) in the central nervous system.",
   "clinicalPearl": "Benzodiazepines increase the frequency of chloride channel opening, enhancing GABA-mediated inhibition."
 },
-
 
 {
   "id": "rn-q-185",
@@ -3750,8 +3347,6 @@
   "clinicalPearl": "Use caution when combined with opioids or alcohol due to additive respiratory depression."
 },
 
-
-
 {
   "id": "rn-q-186",
   "scope": ["RN"],
@@ -3769,8 +3364,6 @@
   "rationale": "Alcohol increases central nervous system depression and respiratory risk when combined with benzodiazepines.",
   "clinicalPearl": "Combining benzodiazepines with alcohol or opioids significantly increases overdose risk."
 },
-
-
 
 {
   "id": "rn-q-187",
@@ -3790,8 +3383,6 @@
   "clinicalPearl": "Clorazepate is a prodrug that is converted to an active benzodiazepine metabolite."
 },
 
-
-
 {
   "id": "rn-q-188",
   "scope": ["RN"],
@@ -3810,8 +3401,6 @@
   "clinicalPearl": "Advise patients to avoid driving or hazardous activities until they know how the medication affects them."
 },
 
-
-
 {
   "id": "rn-q-189",
   "scope": ["RN"],
@@ -3829,8 +3418,6 @@
   "rationale": "Benzodiazepines must be tapered gradually to prevent withdrawal symptoms, rebound anxiety, and seizures.",
   "clinicalPearl": "Abrupt discontinuation of benzodiazepines can precipitate life-threatening withdrawal."
 },
-
-
 
   {
     "id": "rn-q-190",
@@ -3868,8 +3455,6 @@
     "clinicalPearl": "Combining benzodiazepines with alcohol significantly increases the risk of respiratory suppression and overdose."
   },
   
-
-
 {
     "id": "rn-q-192",
     "scope": ["RN"],
@@ -3887,10 +3472,6 @@
     "rationale": "Benzodiazepines can cause dependence and tolerance with prolonged use.",
     "clinicalPearl": "Long-term benzodiazepine therapy should be regularly evaluated to prevent dependence and withdrawal complications."
   },
-
-
-
-
 
   {
     "id": "rn-q-193",
@@ -3910,7 +3491,6 @@
     "clinicalPearl": "Lorazepam is preferred in status epilepticus due to its rapid onset and longer duration of action compared to diazepam."
   },
 
-
   {
     "id": "rn-q-194",
     "scope": ["RN"],
@@ -3928,10 +3508,6 @@
     "rationale": "Lorazepam can cause respiratory depression, requiring close airway and breathing monitoring.",
     "clinicalPearl": "Airway and breathing always take priority after IV benzodiazepine administration."
   },
-
-
-
-
 
   {
     "id": "rn-q-195",
@@ -3951,7 +3527,6 @@
     "clinicalPearl": "Concurrent use of sedatives or alcohol with lorazepam increases risk of respiratory depression and injury."
   },
 
-
   {
     "id": "rn-q-196",
     "scope": ["RN"],
@@ -3970,11 +3545,6 @@
     "clinicalPearl": "Monitor for agranulocytosis and liver injury during carbamazepine therapy."
   },
 
-
-
-
-
-
   {
     "id": "rn-q-197",
     "scope": ["RN"],
@@ -3992,8 +3562,6 @@
     "rationale": "Sore throat and fever may indicate agranulocytosis, a serious adverse effect.",
     "clinicalPearl": "Unexplained infection symptoms may signal bone marrow suppression."
   },
-
-
 
   {
     "id": "rn-q-198",
@@ -4030,8 +3598,6 @@
     "rationale": "Valproic acid can cause hepatotoxicity, especially in children under 2 or those on multiple anticonvulsants.",
     "clinicalPearl": "Monitor liver function closely, particularly in high-risk patients."
   },
- 
-
 
  {
     "id": "rn-q-200",
@@ -4050,9 +3616,6 @@
     "rationale": "Valproic acid can cause hepatotoxicity and hyperammonemia, so both liver function tests and serum ammonia should be monitored.",
     "clinicalPearl": "Regular labs help detect early toxicity before severe complications occur."
   },
- 
-
-
 
  {
     "id": "rn-q-201",
@@ -4072,8 +3635,6 @@
     "clinicalPearl": "Always educate patients to taper rather than abruptly stop therapy."
   },
  
-
-
  {
     "id": "rn-q-202",
     "scope": ["RN"],
@@ -4091,11 +3652,6 @@
     "rationale": "Levetiracetam commonly causes CNS effects such as dizziness, somnolence, and fatigue.",
     "clinicalPearl": "Monitor CNS effects, especially at therapy initiation or dose changes."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-203",
@@ -4114,8 +3670,6 @@
     "rationale": "Missed doses should be taken as soon as possible; doses should not be doubled.",
     "clinicalPearl": "Educate patients on proper handling of missed doses to maintain seizure control."
   },
-  
-
 
 {
     "id": "rn-q-204",
@@ -4134,8 +3688,6 @@
     "rationale": "Levetiracetam can increase risk of depression and suicidal ideation; mental status monitoring is important.",
     "clinicalPearl": "Monitor mental status closely, especially in patients with psychiatric history."
   },
-  
-
 
 {
     "id": "rn-q-205",
@@ -4154,8 +3706,6 @@
     "rationale": "Lamotrigine carries a risk of severe skin reactions, including Stevens-Johnson syndrome; rash requires immediate discontinuation.",
     "clinicalPearl": "Any rash should prompt immediate evaluation and discontinuation of lamotrigine."
   },
-  
-
 
 {
     "id": "rn-q-206",
@@ -4174,8 +3724,6 @@
     "rationale": "Lamotrigine does not require routine labs, but skin reactions must be monitored closely.",
     "clinicalPearl": "Focus on patient education and monitoring for rash rather than routine lab testing."
   },
-  
-
 
 {
     "id": "rn-q-207",
@@ -4212,7 +3760,6 @@
     "rationale": "Topiramate can cause CNS effects including cognitive impairment, word-finding difficulties, and confusion.",
     "clinicalPearl": "Monitor for CNS side effects; patients may have trouble concentrating or finding words."
   },
- 
 
  {
     "id": "rn-q-209",
@@ -4231,8 +3778,6 @@
     "rationale": "Topiramate can cause metabolic acidosis by inhibiting carbonic anhydrase.",
     "clinicalPearl": "Check serum bicarbonate periodically and monitor for symptoms of acidosis."
   },
- 
-
 
  {
     "id": "rn-q-210",
@@ -4252,10 +3797,6 @@
     "clinicalPearl": "Encourage adequate hydration and instruct patients to taper doses if discontinuing."
   },
   
-
-
-
-
 {
     "id": "rn-q-211",
     "scope": ["RN"],
@@ -4273,8 +3814,6 @@
     "rationale": "Lacosamide can prolong the PR interval; cardiac monitoring is important in patients with conduction abnormalities.",
     "clinicalPearl": "Obtain baseline ECG and monitor for signs of cardiac conduction issues."
   },
-
-
 
   {
     "id": "rn-q-212",
@@ -4294,9 +3833,6 @@
     "clinicalPearl": "Implement fall precautions and monitor for worsening CNS effects."
   },
 
-
-
-
   {
     "id": "rn-q-213",
     "scope": ["RN"],
@@ -4315,8 +3851,6 @@
     "clinicalPearl": "Educate patients to be cautious with tasks requiring full alertness during therapy initiation."
   },
 
-
-
   {
     "id": "rn-q-214",
     "scope": ["RN"],
@@ -4334,10 +3868,6 @@
     "rationale": "Zonisamide can cause metabolic acidosis due to carbonic anhydrase inhibition.",
     "clinicalPearl": "Monitor serum bicarbonate and watch for symptoms of acidosis."
   },
- 
-
-
-
 
  {
     "id": "rn-q-215",
@@ -4357,8 +3887,6 @@
     "clinicalPearl": "Encourage fluid intake and educate about kidney stone symptoms."
   },
 
-
-
   {
     "id": "rn-q-216",
     "scope": ["RN"],
@@ -4376,8 +3904,7 @@
     "rationale": "Periodic serum bicarbonate should be monitored due to risk of metabolic acidosis.",
     "clinicalPearl": "Monitor for metabolic acidosis especially in long-term therapy."
   },
-
-  
+ 
   {
     "id": "rn-q-217",
     "scope": ["RN"],
@@ -4395,9 +3922,6 @@
     "rationale": "Triptans like eletriptan should be taken at the onset of migraine for maximal effectiveness.",
     "clinicalPearl": "Early administration increases efficacy and may reduce headache duration."
   },
- 
-
-
 
  {
     "id": "rn-q-218",
@@ -4417,7 +3941,6 @@
     "clinicalPearl": "Assess cardiac history before prescribing any triptan."
   },
 
-
   {
     "id": "rn-q-219",
     "scope": ["RN"],
@@ -4436,9 +3959,6 @@
     "clinicalPearl": "Educate patients that mild chest sensations can occur but serious cardiac events are rare if contraindications are observed."
   },
 
-
-
-
   {
     "id": "rn-q-220",
     "scope": ["RN"],
@@ -4456,8 +3976,6 @@
     "rationale": "Rizatriptan should be taken at the onset of migraine; dosing limits vary by formulation.",
     "clinicalPearl": "Prompt administration improves relief; educate on max daily dose."
   },
- 
-
 
  {
     "id": "rn-q-221",
@@ -4477,9 +3995,6 @@
     "clinicalPearl": "Monitor patients for CNS side effects and advise caution with driving or operating machinery."
   },
 
-
-
-
   {
     "id": "rn-q-222",
     "scope": ["RN"],
@@ -4497,8 +4012,6 @@
     "rationale": "Triptans can cause coronary vasospasm; any chest pain should be reported immediately.",
     "clinicalPearl": "Assess cardiovascular risk before initiating therapy and educate patients on urgent warning signs."
   },
-
-
 
   {
     "id": "rn-q-223",
@@ -4518,8 +4031,6 @@
     "clinicalPearl": "Always review cardiovascular status prior to prescribing triptans."
   },
 
-
-
   {
     "id": "rn-q-224",
     "scope": ["RN"],
@@ -4537,9 +4048,6 @@
     "rationale": "Proper administration technique improves absorption and effectiveness of nasal sumatriptan.",
     "clinicalPearl": "Educate patients on correct nasal spray technique for optimal drug delivery."
   },
- 
-
-
 
  {
     "id": "rn-q-225",
@@ -4558,7 +4066,6 @@
     "rationale": "Triptans commonly cause mild, transient adverse effects like tingling, flushing, or chest pressure; serious effects are rare.",
     "clinicalPearl": "Patients should be reassured that mild adverse effects are common and typically self-limited."
   },
-
   
   {
     "id": "rn-q-226",
@@ -4596,8 +4103,6 @@
     "clinicalPearl": "Always assess cardiovascular history before prescribing any triptan."
   },
   
-
-
 {
     "id": "rn-q-228",
     "scope": ["RN"],
@@ -4615,10 +4120,6 @@
     "rationale": "Chest pressure or tightness is a common transient effect of triptans.",
     "clinicalPearl": "Educate patients that mild chest tightness is common but serious cardiac events are rare if contraindications are observed."
   },
- 
-
-
-
 
  {
     "id": "rn-q-229",
@@ -4638,8 +4139,6 @@
     "clinicalPearl": "Instruct patients on dosing limits to prevent serious vasoconstrictive complications."
   },
 
-
-
   {
     "id": "rn-q-230",
     "scope": ["RN"],
@@ -4657,8 +4156,6 @@
     "rationale": "Ergotamine is contraindicated in patients with cardiovascular disease due to vasoconstrictive effects.",
     "clinicalPearl": "Always screen for cardiovascular risk before ergotamine use."
   },
- 
-
 
  {
     "id": "rn-q-231",
@@ -4678,8 +4175,6 @@
     "clinicalPearl": "Educate patients to report severe GI symptoms or signs of peripheral ischemia immediately."
   },
 
-
-
   {
     "id": "rn-q-232",
     "scope": ["RN"],
@@ -4697,9 +4192,6 @@
     "rationale": "Lasmiditan causes CNS depression and dizziness; patients should avoid driving or operating machinery for at least 8 hours after dosing.",
     "clinicalPearl": "Ensure patients have safe transportation available after taking lasmiditan."
   },
-  
-
-
 
 {
     "id": "rn-q-233",
@@ -4719,8 +4211,6 @@
     "clinicalPearl": "Monitor patients for CNS side effects and advise caution with activities requiring alertness."
   },
 
-
-
   {
     "id": "rn-q-234",
     "scope": ["RN"],
@@ -4738,7 +4228,6 @@
     "rationale": "Lasmiditan is contraindicated in patients with severe cardiovascular disease due to risk of CNS and hemodynamic effects.",
     "clinicalPearl": "Assess cardiac status before prescribing lasmiditan and educate patients on warning signs."
   },
-
   
   {
     "id": "rn-q-235",
@@ -4758,8 +4247,6 @@
     "clinicalPearl": "Educate patients that rimegepant is abortive, not preventive; timing matters for efficacy."
   },
  
-
-
  {
     "id": "rn-q-236",
     "scope": ["RN"],
@@ -4777,10 +4264,8 @@
     "rationale": "Rimegepant is contraindicated in severe hepatic impairment due to metabolism and clearance concerns.",
     "clinicalPearl": "Assess liver function before prescribing; dose adjustments may be required in mild/moderate impairment."
   },
-
-
-
-  {
+  
+{
     "id": "rn-q-237",
     "scope": ["RN"],
     "medicationId": "rn-079",
@@ -4798,8 +4283,6 @@
     "clinicalPearl": "Advise patients these effects are usually mild and transient."
   },
  
-
-
  {
     "id": "rn-q-238",
     "scope": ["RN"],
@@ -4817,10 +4300,6 @@
     "rationale": "Acetazolamide decreases aqueous humor production, useful for glaucoma, and reduces edema in altitude sickness.",
     "clinicalPearl": "Monitor patients for therapeutic response and potential electrolyte disturbances."
   },
- 
-
-
-
 
  {
     "id": "rn-q-239",
@@ -4840,8 +4319,6 @@
     "clinicalPearl": "Regular labs help prevent complications like hypokalemia or metabolic acidosis."
   },
 
-
-
   {
     "id": "rn-q-240",
     "scope": ["RN"],
@@ -4860,8 +4337,6 @@
     "clinicalPearl": "Educate patients on hydration and the importance of not stopping the medication suddenly."
   },
  
-
-
  {
     "id": "rn-q-241",
     "scope": ["RN"],
@@ -4880,8 +4355,6 @@
     "clinicalPearl": "Monitor ICP or IOP response and adjust therapy accordingly."
   },
  
-
-
  {
     "id": "rn-q-242",
     "scope": ["RN"],
@@ -4899,11 +4372,6 @@
     "rationale": "Mannitol can cause fluid shifts, dehydration, and electrolyte imbalances; careful monitoring is essential.",
     "clinicalPearl": "Check electrolytes and hydration status frequently during therapy."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-243",
@@ -4922,7 +4390,6 @@
     "rationale": "Mannitol can cause excessive diuresis, leading to hypovolemia, dehydration, and electrolyte disturbances.",
     "clinicalPearl": "Teach patients to report dizziness, excessive urination, or signs of dehydration immediately."
   },
-
   
   {
     "id": "rn-q-244",
@@ -4941,7 +4408,6 @@
     "rationale": "TCAs like amitriptyline commonly cause anticholinergic effects.",
     "clinicalPearl": "Monitor for dry mouth, constipation, urinary retention, and provide patient education on management."
   },
-
   
   {
     "id": "rn-q-245",
@@ -4961,8 +4427,6 @@
     "clinicalPearl": "Educate patients to avoid activities requiring alertness during initial dosing."
   },
   
-
-
 {
     "id": "rn-q-246",
     "scope": ["RN"],
@@ -4981,10 +4445,6 @@
     "clinicalPearl": "Assess cardiac history before prescribing TCAs."
   },
  
-
-
-
-
  {
     "id": "rn-q-247",
     "scope": ["RN"],
@@ -5003,8 +4463,6 @@
     "clinicalPearl": "Monitor ECG in patients with cardiac risk factors or concurrent QT-prolonging medications."
   },
  
-
-
  {
     "id": "rn-q-248",
     "scope": ["RN"],
@@ -5023,8 +4481,6 @@
     "clinicalPearl": "Teach patients to seek immediate help if experiencing confusion, fever, or muscle rigidity."
   },
   
-
-
 {
     "id": "rn-q-249",
     "scope": ["RN"],
@@ -5043,8 +4499,6 @@
     "clinicalPearl": "Ensure patients understand not to double doses to prevent side effects."
   },
  
-
-
  {
     "id": "rn-q-250",
     "scope": ["RN"],
@@ -5063,12 +4517,6 @@
     "clinicalPearl": "Side effects are usually mild and improve over the first few weeks."
   },
  
-
-
-
-
-
-
  {
     "id": "rn-q-251",
     "scope": ["RN"],
@@ -5087,8 +4535,6 @@
     "clinicalPearl": "Educate patients to follow the tapering schedule prescribed by the provider."
   },
   
-
-
 {
     "id": "rn-q-252",
     "scope": ["RN"],
@@ -5106,7 +4552,6 @@
     "rationale": "Mental status monitoring is essential, especially in young adults or during initiation; no routine labs are required unless other conditions exist.",
     "clinicalPearl": "Closely observe for behavioral changes and educate caregivers about warning signs."
   },
-
   
   {
     "id": "rn-q-253",
@@ -5125,9 +4570,6 @@
     "rationale": "Common SSRI side effects include insomnia, headache, and nausea.",
     "clinicalPearl": "Advise patients that mild GI upset often resolves in the first 1–2 weeks."
   },
-  
-
-
 
 {
     "id": "rn-q-254",
@@ -5147,9 +4589,6 @@
     "clinicalPearl": "Encourage patients to take SSRIs consistently at the same time each day."
   },
 
-
-
-
   {
     "id": "rn-q-255",
     "scope": ["RN"],
@@ -5167,9 +4606,6 @@
     "rationale": "SSRIs can cause serotonin syndrome, which requires immediate attention.",
     "clinicalPearl": "Teach patients and caregivers to recognize early signs of serotonin syndrome for prompt intervention."
   },
-
-
-
 
   {
     "id": "rn-q-256",
@@ -5189,8 +4625,6 @@
     "clinicalPearl": "Always check medication history for MAOI use before starting any SSRI."
   },
 
-
-
   {
     "id": "rn-q-257",
     "scope": ["RN"],
@@ -5208,8 +4642,6 @@
     "rationale": "Sexual dysfunction and weight gain are common SSRI adverse effects; patients should be informed and alternative options discussed if needed.",
     "clinicalPearl": "Normalize common side effects and provide options for management if they significantly impact quality of life."
   },
-
-
 
   {
     "id": "rn-q-258",
@@ -5229,7 +4661,6 @@
     "clinicalPearl": "Educate patients to maintain steady blood levels and avoid dose-doubling."
   },
  
-
  {
     "id": "rn-q-259",
     "scope": ["RN"],
@@ -5247,8 +4678,6 @@
     "rationale": "Sertraline commonly causes GI upset, insomnia, and mild CNS effects.",
     "clinicalPearl": "Side effects are usually mild and transient; taking with food may reduce GI upset."
   },
-
-
 
   {
     "id": "rn-q-260",
@@ -5268,8 +4697,6 @@
     "clinicalPearl": "Provide a tapering schedule and educate patients about withdrawal symptoms."
   },
 
-
-
   {
     "id": "rn-q-261",
     "scope": ["RN"],
@@ -5287,7 +4714,6 @@
     "rationale": "Monitoring for suicidal thoughts or worsening depression is essential during the early weeks of SSRI therapy.",
     "clinicalPearl": "Close follow-up is essential, especially in adolescents and young adults during initiation or dose changes."
   },
-
   
   {
     "id": "rn-q-262",
@@ -5307,7 +4733,6 @@
     "clinicalPearl": "Monitor blood pressure regularly, especially in patients with hypertension."
   },
 
-
   {
     "id": "rn-q-263",
     "scope": ["RN"],
@@ -5326,8 +4751,6 @@
     "clinicalPearl": "Educate patients to follow a tapering schedule when discontinuing venlafaxine."
   },
   
-
-
 {
     "id": "rn-q-264",
     "scope": ["RN"],
@@ -5345,10 +4768,6 @@
     "rationale": "Concomitant MAOI use can lead to life-threatening serotonin syndrome.",
     "clinicalPearl": "Verify a 14-day washout period after MAOI use before starting venlafaxine."
   },
- 
-
-
-
 
  {
     "id": "rn-q-265",
@@ -5368,8 +4787,6 @@
     "clinicalPearl": "Side effects are often transient and may improve over the first 1–2 weeks."
   },
 
-
-
   {
     "id": "rn-q-266",
     "scope": ["RN"],
@@ -5387,9 +4804,6 @@
     "rationale": "Duloxetine may increase blood pressure and carries risk of hepatotoxicity; monitoring is required.",
     "clinicalPearl": "Check BP regularly and monitor liver enzymes, especially in patients with preexisting liver disease."
   },
- 
-
-
 
  {
     "id": "rn-q-267",
@@ -5409,8 +4823,6 @@
     "clinicalPearl": "Provide guidance on tapering and educate on signs of withdrawal or mood changes."
   },
 
-
-
   {
     "id": "rn-q-268",
     "scope": ["RN"],
@@ -5428,7 +4840,6 @@
     "rationale": "Levomilnacipran can increase heart rate and blood pressure and may cause insomnia.",
     "clinicalPearl": "Monitor cardiovascular parameters and educate patients on reporting palpitations or sleep disturbances."
   },
- 
 
  {
     "id": "rn-q-269",
@@ -5448,8 +4859,6 @@
     "clinicalPearl": "Educate patients to follow a tapering schedule and report any withdrawal symptoms promptly."
   },
 
-
-
   {
     "id": "rn-q-270",
     "scope": ["RN"],
@@ -5467,7 +4876,6 @@
     "rationale": "Because levomilnacipran increases BP and HR, patients with uncontrolled hypertension require caution.",
     "clinicalPearl": "Monitor BP and HR during therapy; adjust dose or avoid use in uncontrolled hypertension."
   },
-
   
   {
     "id": "rn-q-271",
@@ -5487,8 +4895,6 @@
     "clinicalPearl": "Advise patients to take the medication in the morning to minimize insomnia and monitor weight changes."
   },
 
-
-
   {
     "id": "rn-q-272",
     "scope": ["RN"],
@@ -5506,7 +4912,6 @@
     "rationale": "Bupropion can cause insomnia; taking it in the morning minimizes sleep disturbances.",
     "clinicalPearl": "Instruct patients to take the medication early in the day and monitor sleep patterns."
   },
-
 
   {
     "id": "rn-q-273",
@@ -5526,8 +4931,6 @@
     "clinicalPearl": "Screen for seizure history or eating disorders before prescribing bupropion."
   },
 
-
-
   {
     "id": "rn-q-274",
     "scope": ["RN"],
@@ -5545,9 +4948,6 @@
     "rationale": "MAOIs like phenelzine can cause hypertensive crisis when combined with tyramine-rich foods.",
     "clinicalPearl": "Educate patients to read labels and avoid aged, fermented, or cured foods."
   },
- 
-
-
 
  {
     "id": "rn-q-275",
@@ -5566,8 +4966,6 @@
     "rationale": "Tyramine can interact with MAOIs causing hypertensive crisis; patients must be educated on foods and warning signs.",
     "clinicalPearl": "Reinforce the importance of avoiding tyramine-rich foods and recognizing early warning signs of hypertensive crisis."
   },
- 
-
 
  {
     "id": "rn-q-276",
@@ -5586,8 +4984,6 @@
     "rationale": "Concurrent use of SSRIs, SNRIs, or other serotonergic drugs can cause serotonin syndrome and is contraindicated.",
     "clinicalPearl": "Always check for serotonergic medications before starting an MAOI."
   },
- 
-
 
  {
     "id": "rn-q-277",
@@ -5607,8 +5003,6 @@
     "clinicalPearl": "Monitor BP and educate patients on avoiding stimulants and tyramine-rich foods."
   },
 
-
-
   {
     "id": "rn-q-278",
     "scope": ["RN"],
@@ -5627,8 +5021,6 @@
     "clinicalPearl": "Reinforce dietary restrictions and educate about signs of hypertensive crisis."
   },
  
-
-
  {
     "id": "rn-q-279",
     "scope": ["RN"],
@@ -5647,7 +5039,6 @@
     "clinicalPearl": "Check all current medications for serotonergic activity before starting selegiline."
   },
 
-  
   {
     "id": "rn-q-280",
     "scope": ["RN"],
@@ -5684,8 +5075,6 @@
     "clinicalPearl": "Advise patients to take it at night and avoid driving or operating machinery until sedation is known."
   },
 
-
-
   {
     "id": "rn-q-282",
     "scope": ["RN"],
@@ -5703,9 +5092,6 @@
     "rationale": "Patients prone to weight gain or excessive sedation require careful monitoring while on mirtazapine.",
     "clinicalPearl": "Assess baseline weight and sedation risk; adjust lifestyle counseling as needed."
   },
-
-
-
 
   {
     "id": "rn-q-283",
@@ -5725,8 +5111,6 @@
     "clinicalPearl": "Monitor for dizziness and falls; instruct patients to rise slowly from sitting or lying positions."
   },
 
-
-
   {
     "id": "rn-q-284",
     "scope": ["RN"],
@@ -5745,7 +5129,6 @@
     "clinicalPearl": "Reinforce safety measures for orthostatic hypotension, especially in older adults."
   },
  
-
  {
     "id": "rn-q-285",
     "scope": ["RN"],
@@ -5763,8 +5146,6 @@
     "rationale": "Trazodone can rarely cause priapism; patients should report any painful or prolonged erections immediately.",
     "clinicalPearl": "Prompt reporting is critical; untreated priapism can cause permanent erectile dysfunction."
   },
-
-
 
   {
     "id": "rn-q-286",
@@ -5784,9 +5165,6 @@
     "clinicalPearl": "Most side effects are mild and transient; administer with food if nausea occurs."
   },
 
-
-
-
   {
     "id": "rn-q-287",
     "scope": ["RN"],
@@ -5804,8 +5182,6 @@
     "rationale": "Abrupt discontinuation may cause withdrawal symptoms such as dizziness, irritability, or nausea.",
     "clinicalPearl": "Educate patients about gradual tapering and to report withdrawal symptoms promptly."
   },
-
-
 
   {
     "id": "rn-q-288",
@@ -5825,7 +5201,6 @@
     "clinicalPearl": "Assess mental status and educate patients and families on warning signs of serotonin syndrome."
   },
 
-  
   {
     "id": "rn-q-289",
     "scope": ["RN"],
@@ -5843,8 +5218,6 @@
     "rationale": "Typical antipsychotics like chlorpromazine commonly cause EPS due to dopamine blockade.",
     "clinicalPearl": "Monitor patients for early signs of EPS and provide interventions such as anticholinergic medications if needed."
   },
-
-
 
   {
     "id": "rn-q-290",
@@ -5864,7 +5237,6 @@
     "clinicalPearl": "Educate patients and families to report EPS signs promptly to prevent progression."
   },
 
-
   {
     "id": "rn-q-291",
     "scope": ["RN"],
@@ -5882,8 +5254,6 @@
     "rationale": "NMS is a life-threatening reaction to antipsychotics characterized by hyperthermia, rigidity, and altered mental status.",
     "clinicalPearl": "Monitor temperature, muscle tone, and mental status; initiate rapid intervention if NMS is suspected."
   },
-
-
 
   {
     "id": "rn-q-292",
@@ -5903,7 +5273,6 @@
     "clinicalPearl": "High-potency antipsychotics have a higher EPS risk; monitor closely for tremors, rigidity, and akathisia."
   },
  
-
  {
     "id": "rn-q-293",
     "scope": ["RN"],
@@ -5921,8 +5290,6 @@
     "rationale": "Extrapyramidal symptoms require early reporting to prevent permanent complications like tardive dyskinesia.",
     "clinicalPearl": "Instruct patients to monitor and report abnormal movements immediately."
   },
-
-
 
   {
     "id": "rn-q-294",
@@ -5942,8 +5309,6 @@
     "clinicalPearl": "Regular monitoring helps detect NMS and hepatotoxicity early, reducing morbidity."
   },
 
-
-
   {
     "id": "rn-q-295",
     "scope": ["RN"],
@@ -5961,8 +5326,6 @@
     "rationale": "Haloperidol can cause extrapyramidal symptoms, sedation, and cardiac effects like QT prolongation.",
     "clinicalPearl": "Monitor ECG and educate patients about signs of EPS and sedation."
   },
-
-
 
   {
     "id": "rn-q-296",
@@ -5982,9 +5345,6 @@
     "clinicalPearl": "Assess for abnormal movements, changes in mood or cognition, and monitor heart rhythm."
   },
 
-
-
-
   {
     "id": "rn-q-297",
     "scope": ["RN"],
@@ -6002,7 +5362,6 @@
     "rationale": "Early recognition of NMS is critical; abrupt discontinuation can precipitate relapse of psychosis.",
     "clinicalPearl": "Educate patients to report NMS symptoms promptly and not to stop the medication abruptly."
   },
-
   
   {
     "id": "rn-q-298",
@@ -6021,7 +5380,6 @@
     "rationale": "Aripiprazole can cause akathisia, restlessness, insomnia, and headache due to partial dopamine agonist activity.",
     "clinicalPearl": "Monitor for restlessness and insomnia early to reduce patient distress and prevent nonadherence."
   },
-
   
   {
     "id": "rn-q-299",
@@ -6041,8 +5399,6 @@
     "clinicalPearl": "Patients and caregivers should be instructed to report any abnormal movements promptly."
   },
 
-
-
   {
     "id": "rn-q-300",
     "scope": ["RN"],
@@ -6060,10 +5416,6 @@
     "rationale": "Although lower risk than other atypicals, metabolic monitoring is recommended.",
     "clinicalPearl": "Track weight, glucose, and lipid levels periodically, even with lower-risk atypicals."
   },
-
-
-
-
 
   {
     "id": "rn-q-301",
@@ -6083,8 +5435,6 @@
     "clinicalPearl": "Monitor for abnormal movements and restlessness, particularly in the first weeks of therapy."
   },
 
-
-
   {
     "id": "rn-q-302",
     "scope": ["RN"],
@@ -6102,10 +5452,6 @@
     "rationale": "Early detection of EPS or akathisia is critical for management.",
     "clinicalPearl": "Patient education helps reduce complications like tardive dyskinesia."
   },
- 
-
-
-
 
  {
     "id": "rn-q-303",
@@ -6125,8 +5471,6 @@
     "clinicalPearl": "Baseline and periodic monitoring of metabolic parameters supports safe long-term therapy."
   },
 
-
-
   {
     "id": "rn-q-304",
     "scope": ["RN"],
@@ -6144,8 +5488,6 @@
     "rationale": "Clozapine can cause life-threatening agranulocytosis; patients must be closely monitored with regular CBCs.",
     "clinicalPearl": "Monitor WBC and ANC weekly during the initial months and educate patients to report infection signs immediately."
   },
-
-
 
   {
     "id": "rn-q-305",
@@ -6165,8 +5507,6 @@
     "clinicalPearl": "Emphasize strict adherence to blood monitoring schedules to prevent life-threatening complications."
   },
 
-
-
   {
     "id": "rn-q-306",
     "scope": ["RN"],
@@ -6184,7 +5524,6 @@
     "rationale": "Clozapine requires frequent CBCs to monitor for neutropenia, and metabolic monitoring due to risk of weight gain, diabetes, and dyslipidemia.",
     "clinicalPearl": "Regular CBCs and metabolic checks are critical for safe long-term clozapine therapy."
   },
-
   
   {
     "id": "rn-q-307",
@@ -6203,8 +5542,6 @@
     "rationale": "Lurasidone commonly causes akathisia, nausea, and sedation.",
     "clinicalPearl": "Monitor for EPS and sedation; educate patients to report restlessness promptly."
   },
- 
-
 
  {
     "id": "rn-q-308",
@@ -6224,7 +5561,6 @@
     "clinicalPearl": "Educate patients that taking lurasidone with food enhances efficacy and reduces variability in absorption."
   },
  
-
  {
     "id": "rn-q-309",
     "scope": ["RN"],
@@ -6243,8 +5579,6 @@
     "clinicalPearl": "Track weight, blood pressure, and EPS symptoms at baseline and periodically."
   },
  
-
-
  {
     "id": "rn-q-310",
     "scope": ["RN"],
@@ -6262,8 +5596,6 @@
     "rationale": "Olanzapine frequently causes weight gain, sedation, and metabolic disturbances (hyperlipidemia, diabetes).",
     "clinicalPearl": "Monitor weight and metabolic labs regularly to prevent long-term complications."
   },
-  
-
 
 {
     "id": "rn-q-311",
@@ -6283,8 +5615,6 @@
     "clinicalPearl": "Lifestyle counseling and frequent check-ins can reduce metabolic risks."
   },
 
-
-
   {
     "id": "rn-q-312",
     "scope": ["RN"],
@@ -6302,8 +5632,6 @@
     "rationale": "Metabolic monitoring is required due to risk of diabetes, dyslipidemia, and weight gain.",
     "clinicalPearl": "Include baseline labs and ongoing metabolic assessments for all patients on olanzapine."
   },
- 
-
 
  {
     "id": "rn-q-313",
@@ -6323,8 +5651,6 @@
     "clinicalPearl": "Assess BP, weight, and EPS symptoms regularly to prevent complications."
   },
  
-
-
  {
     "id": "rn-q-314",
     "scope": ["RN"],
@@ -6361,7 +5687,6 @@
     "clinicalPearl": "Routine assessment ensures early detection of EPS, hypotension, and metabolic complications."
   },
 
-  
   {
     "id": "rn-q-316",
     "scope": ["RN"],
@@ -6379,7 +5704,6 @@
     "rationale": "Quetiapine commonly causes sedation, metabolic effects, and orthostatic hypotension.",
     "clinicalPearl": "Monitor weight, BP, and mental status; educate patients on fall risk."
   },
- 
 
  {
     "id": "rn-q-317",
@@ -6399,8 +5723,6 @@
     "clinicalPearl": "Educate patients to change positions slowly to avoid orthostatic hypotension."
   },
 
-
-
   {
     "id": "rn-q-318",
     "scope": ["RN"],
@@ -6419,10 +5741,6 @@
     "clinicalPearl": "Track vitals and metabolic labs regularly to prevent long-term complications."
   },
   
-
-
-
-
 {
     "id": "rn-q-319",
     "scope": ["RN"],
@@ -6440,8 +5758,6 @@
     "rationale": "Risperidone can cause EPS, increased prolactin, and metabolic disturbances.",
     "clinicalPearl": "Monitor prolactin-related effects like galactorrhea, in addition to EPS and metabolic parameters."
   },
-
-
 
   {
     "id": "rn-q-320",
@@ -6461,10 +5777,6 @@
     "clinicalPearl": "Patient education ensures early detection and intervention for side effects."
   },
 
-
-
-
-
   {
     "id": "rn-q-321",
     "scope": ["RN"],
@@ -6482,8 +5794,6 @@
     "rationale": "Comprehensive monitoring ensures early detection of EPS, prolactin issues, and metabolic side effects.",
     "clinicalPearl": "Regular assessments improve patient safety and adherence."
   },
- 
-
 
  {
     "id": "rn-q-322",
@@ -6503,10 +5813,6 @@
     "clinicalPearl": "ECG monitoring is important at baseline and periodically during therapy."
   },
 
-
-
-
-
   {
     "id": "rn-q-323",
     "scope": ["RN"],
@@ -6524,8 +5830,6 @@
     "rationale": "Patients need to report cardiac symptoms and monitor for sedation and EPS.",
     "clinicalPearl": "Educate patients to notify the provider of any cardiac or neurological symptoms promptly."
   },
-
-
 
   {
     "id": "rn-q-324",
@@ -6545,7 +5849,6 @@
     "clinicalPearl": "Baseline and periodic ECGs are recommended, especially in patients with cardiac risk factors."
   },
 
-  
   {
     "id": "rn-q-325",
     "scope": ["RN"],
@@ -6563,8 +5866,6 @@
     "rationale": "Lithium has a narrow therapeutic window and can affect kidneys and thyroid; monitoring is essential.",
     "clinicalPearl": "Check lithium levels 12 hours after last dose for accurate trough measurement."
   },
-  
-
 
 {
     "id": "rn-q-326",
@@ -6583,8 +5884,6 @@
     "rationale": "Sodium and fluid fluctuations can alter lithium levels, increasing risk of toxicity.",
     "clinicalPearl": "Educate patients not to drastically change salt intake or fluid volume."
   },
- 
-
 
  {
     "id": "rn-q-327",
@@ -6603,8 +5902,6 @@
     "rationale": "These are signs of lithium toxicity and require urgent evaluation.",
     "clinicalPearl": "Early recognition of toxicity can prevent seizures, kidney injury, and arrhythmias."
   },
-  
-
 
 {
     "id": "rn-q-328",
@@ -6623,10 +5920,6 @@
     "rationale": "Alprazolam, a benzodiazepine, commonly causes CNS depression, including drowsiness and dizziness.",
     "clinicalPearl": "Monitor fall risk, especially in older adults."
   },
- 
-
-
-
 
  {
     "id": "rn-q-329",
@@ -6646,8 +5939,6 @@
     "clinicalPearl": "Teach patients gradual tapering if discontinuing to avoid withdrawal seizures."
   },
 
-
-
   {
     "id": "rn-q-330",
     "scope": ["RN"],
@@ -6665,10 +5956,6 @@
     "rationale": "Benzodiazepines can worsen respiratory depression in patients with severe respiratory disorders.",
     "clinicalPearl": "Use caution in COPD or sleep apnea; monitor respiratory status closely."
   },
-
-
-
-
 
   {
     "id": "rn-q-331",
@@ -6688,8 +5975,6 @@
     "clinicalPearl": "Assess for daytime sleepiness and impaired motor coordination."
   },
 
-
-
   {
     "id": "rn-q-332",
     "scope": ["RN"],
@@ -6707,9 +5992,6 @@
     "rationale": "Temazepam is used for insomnia; bedtime dosing and avoiding CNS depressants minimize risk.",
     "clinicalPearl": "Educate on potential next-day drowsiness; avoid driving after use."
   },
-
-
-
 
   {
     "id": "rn-q-333",
@@ -6729,7 +6011,6 @@
     "clinicalPearl": "Monitor for signs of misuse or respiratory compromise in at-risk patients."
   },
 
-  
   {
     "id": "rn-q-334",
     "scope": ["RN"],
@@ -6748,8 +6029,6 @@
     "clinicalPearl": "Monitor patients for next-day sedation and fall risk."
   },
  
-
-
  {
     "id": "rn-q-335",
     "scope": ["RN"],
@@ -6767,8 +6046,6 @@
     "rationale": "Eszopiclone is short-acting; taking it at bedtime with enough time to sleep reduces risk of residual sedation.",
     "clinicalPearl": "Instruct patients to avoid getting up immediately after taking to prevent falls."
   },
- 
-
 
  {
     "id": "rn-q-336",
@@ -6787,8 +6064,6 @@
     "rationale": "Eszopiclone can cause dependence and worsen respiratory depression; caution is required.",
     "clinicalPearl": "Evaluate history of substance misuse and pulmonary status before prescribing."
   },
-  
-
 
 {
     "id": "rn-q-337",
@@ -6807,8 +6082,6 @@
     "rationale": "Zaleplon is ultrashort-acting; taking it with sufficient sleep time is essential to avoid next-day sedation.",
     "clinicalPearl": "Ensure patient understands minimal sleep requirement to prevent morning drowsiness."
   },
-  
-
 
 {
     "id": "rn-q-338",
@@ -6827,9 +6100,6 @@
     "rationale": "Common side effects include dizziness, headache, and somnolence.",
     "clinicalPearl": "Monitor for next-day drowsiness and impaired coordination."
   },
- 
-
-
 
  {
     "id": "rn-q-339",
@@ -6848,8 +6118,6 @@
     "rationale": "Risk of dependence and respiratory depression necessitates caution in these patients.",
     "clinicalPearl": "Assess patient history and monitor for misuse or respiratory compromise."
   },
-  
-
 
 {
     "id": "rn-q-340",
@@ -6868,10 +6136,6 @@
     "rationale": "Zolpidem requires sufficient sleep time to minimize residual next-day sedation and fall risk.",
     "clinicalPearl": "Warn about potential sleepwalking or unusual nighttime behaviors."
   },
- 
-
-
-
 
  {
     "id": "rn-q-341",
@@ -6891,8 +6155,6 @@
     "clinicalPearl": "Monitor for next-day sedation, especially in elderly patients."
   },
 
-
-
   {
     "id": "rn-q-342",
     "scope": ["RN"],
@@ -6911,7 +6173,6 @@
     "clinicalPearl": "Assess risk for misuse and monitor respiratory function in at-risk patients."
   },
 
-  
   {
     "id": "rn-q-343",
     "scope": ["RN"],
@@ -6929,8 +6190,6 @@
     "rationale": "Ramelteon commonly causes mild CNS effects like dizziness, fatigue, and drowsiness.",
     "clinicalPearl": "Monitor for next-day sedation, especially in older adults."
   },
- 
-
 
  {
     "id": "rn-q-344",
@@ -6967,8 +6226,6 @@
     "rationale": "Ramelteon is metabolized by the liver; hepatic impairment increases drug exposure. Depression may worsen sleep.",
     "clinicalPearl": "Adjust dose or avoid use in severe liver disease; monitor mood."
   },
- 
-
 
  {
     "id": "rn-q-346",
@@ -6987,10 +6244,6 @@
     "rationale": "Suvorexant commonly causes CNS depression including drowsiness and vivid dreams.",
     "clinicalPearl": "Advise patients about unusual dreams and next-day sedation."
   },
-  
-
-
-
 
 {
     "id": "rn-q-347",
@@ -7009,8 +6262,6 @@
     "rationale": "Suvorexant requires sufficient sleep time to prevent residual next-day sedation.",
     "clinicalPearl": "Ensure patient understands minimum sleep duration to reduce fall risk."
   },
- 
-
 
  {
     "id": "rn-q-348",
@@ -7029,9 +6280,6 @@
     "rationale": "Suvorexant can cause dependence and worsen respiratory depression; caution is required in these patients.",
     "clinicalPearl": "Assess history of substance misuse and respiratory status before prescribing."
   },
- 
-
-
 
  {
     "id": "rn-q-349",
@@ -7051,8 +6299,6 @@
     "clinicalPearl": "Monitor for next-day sedation and unusual dreams."
   },
 
-
-
   {
     "id": "rn-q-350",
     "scope": ["RN"],
@@ -7070,11 +6316,6 @@
     "rationale": "Sufficient sleep time reduces risk of next-day sedation and falls.",
     "clinicalPearl": "Patient education on timing and sleep duration is critical."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-351",
@@ -7093,8 +6334,7 @@
     "rationale": "Lemborexant can worsen respiratory depression and cause dependence; caution is needed in these patients.",
     "clinicalPearl": "Assess risk for misuse and monitor respiratory function in at-risk populations."
   },
-
-  
+ 
   {
     "id": "rn-q-352",
     "scope": ["RN"],
@@ -7113,7 +6353,6 @@
     "clinicalPearl": "Monitor for next-day sedation, especially in older adults."
   },
  
-
  {
     "id": "rn-q-353",
     "scope": ["RN"],
@@ -7131,8 +6370,6 @@
     "rationale": "Sufficient sleep time is essential to minimize next-day residual sedation.",
     "clinicalPearl": "Emphasize minimum sleep duration to reduce fall and drowsiness risk."
   },
- 
-
 
  {
     "id": "rn-q-354",
@@ -7152,9 +6389,6 @@
     "clinicalPearl": "Assess risk for misuse and monitor respiratory function in vulnerable populations."
   },
   
-
-
-
 {
     "id": "rn-q-355",
     "scope": ["RN"],
@@ -7173,8 +6407,6 @@
     "clinicalPearl": "Monitor pediatric growth and weight during long-term therapy."
   },
 
-
-
   {
     "id": "rn-q-356",
     "scope": ["RN"],
@@ -7192,9 +6424,6 @@
     "rationale": "Morning dosing reduces sleep disruption; growth and weight monitoring is needed for pediatric patients.",
     "clinicalPearl": "Advise parents to monitor height, weight, and appetite in children."
   },
- 
-
-
 
  {
     "id": "rn-q-357",
@@ -7214,8 +6443,6 @@
     "clinicalPearl": "Baseline ECG may be considered in patients with significant cardiac history."
   },
 
-
-
   {
     "id": "rn-q-358",
     "scope": ["RN"],
@@ -7233,9 +6460,6 @@
     "rationale": "These CNS stimulants can cause insomnia, appetite suppression, and increased nervousness or agitation.",
     "clinicalPearl": "Monitor pediatric growth and blood pressure regularly."
   },
-
-
-
 
   {
     "id": "rn-q-359",
@@ -7255,8 +6479,6 @@
     "clinicalPearl": "Schedule doses appropriately to avoid sleep disruption."
   },
 
-
-
   {
     "id": "rn-q-360",
     "scope": ["RN"],
@@ -7274,7 +6496,6 @@
     "rationale": "These stimulants can exacerbate cardiovascular problems; contraindicated in severe CV disease or uncontrolled hypertension.",
     "clinicalPearl": "Assess blood pressure and cardiac history before initiating therapy."
   },
-
   
   {
     "id": "rn-q-361",
@@ -7294,8 +6515,6 @@
     "clinicalPearl": "Monitor pediatric growth, weight, and sleep during therapy."
   },
 
-
-
   {
     "id": "rn-q-362",
     "scope": ["RN"],
@@ -7314,8 +6533,6 @@
     "clinicalPearl": "Advise parents to track height, weight, and sleep patterns in children."
   },
  
-
-
  {
     "id": "rn-q-363",
     "scope": ["RN"],
@@ -7333,8 +6550,6 @@
     "rationale": "Stimulants can increase HR and BP; caution is needed in CV disease and anxiety.",
     "clinicalPearl": "Monitor blood pressure and heart rate in these patients."
   },
- 
-
 
  {
     "id": "rn-q-364",
@@ -7354,10 +6569,6 @@
     "clinicalPearl": "Monitor children for growth, weight, and sleep disturbances."
   },
 
-
-
-
-
   {
     "id": "rn-q-365",
     "scope": ["RN"],
@@ -7376,8 +6587,6 @@
     "clinicalPearl": "Advise taking the dose early and monitoring appetite and sleep patterns."
   },
 
-
-
   {
     "id": "rn-q-366",
     "scope": ["RN"],
@@ -7395,10 +6604,6 @@
     "rationale": "Stimulants can exacerbate CV disease; contraindicated in severe cardiovascular conditions or uncontrolled hypertension.",
     "clinicalPearl": "Assess cardiac history and vital signs before starting therapy."
   },
- 
-
-
-
 
  {
     "id": "rn-q-367",
@@ -7418,9 +6623,6 @@
     "clinicalPearl": "Monitor children closely for growth and sleep issues."
   },
 
-
-
-
   {
     "id": "rn-q-368",
     "scope": ["RN"],
@@ -7438,9 +6640,6 @@
     "rationale": "Morning dosing helps reduce insomnia; monitor growth/weight in pediatric patients.",
     "clinicalPearl": "Schedule doses to minimize sleep disturbance."
   },
- 
-
-
 
  {
     "id": "rn-q-369",
@@ -7459,7 +6658,6 @@
     "rationale": "CNS stimulants can increase BP and HR; caution in CV disease and anxiety.",
     "clinicalPearl": "Assess cardiovascular status before initiating therapy."
   },
-
   
   {
     "id": "rn-q-370",
@@ -7478,9 +6676,6 @@
     "rationale": "Dexmethylphenidate, like other CNS stimulants, commonly causes insomnia, appetite suppression, and nervousness.",
     "clinicalPearl": "Monitor pediatric growth, weight, and sleep patterns."
   },
-  
-
-
 
 {
     "id": "rn-q-371",
@@ -7499,9 +6694,6 @@
     "rationale": "Morning dosing reduces sleep disruption; pediatric growth and cardiovascular monitoring is required.",
     "clinicalPearl": "Advise parents to track height, weight, and vital signs."
   },
- 
-
-
 
  {
     "id": "rn-q-372",
@@ -7521,7 +6713,6 @@
     "clinicalPearl": "Assess cardiovascular status before starting therapy."
   },
  
-
  {
     "id": "rn-q-373",
     "scope": ["RN"],
@@ -7539,8 +6730,6 @@
     "rationale": "The combination increases stimulant exposure; common adverse effects include insomnia, appetite suppression, and nervousness.",
     "clinicalPearl": "Monitor pediatric growth, weight, and sleep patterns closely."
   },
-  
-
 
 {
     "id": "rn-q-374",
@@ -7559,8 +6748,6 @@
     "rationale": "Morning dosing helps prevent sleep disturbance; pediatric monitoring is essential.",
     "clinicalPearl": "Educate caregivers about monitoring appetite, weight, and sleep."
   },
- 
-
 
  {
     "id": "rn-q-375",
@@ -7579,8 +6766,6 @@
     "rationale": "CNS stimulants can exacerbate CV disease; contraindicated in severe cardiovascular conditions.",
     "clinicalPearl": "Assess cardiac history, blood pressure, and HR before prescribing."
   },
- 
-
 
  {
     "id": "rn-q-376",
@@ -7599,10 +6784,6 @@
     "rationale": "Modafinil commonly causes CNS stimulation, leading to headache, nausea, and insomnia.",
     "clinicalPearl": "Monitor sleep patterns and report severe CNS symptoms."
   },
- 
-
-
-
 
  {
     "id": "rn-q-377",
@@ -7621,8 +6802,6 @@
     "rationale": "Morning dosing reduces risk of sleep disruption; monitor for CNS stimulation effects.",
     "clinicalPearl": "Monitor for cardiovascular effects in patients with preexisting conditions."
   },
- 
-
 
  {
     "id": "rn-q-378",
@@ -7642,7 +6821,6 @@
     "clinicalPearl": "Assess vitals and cardiac history before starting therapy."
   },
 
-  
   {
     "id": "rn-q-379",
     "scope": ["RN"],
@@ -7660,8 +6838,6 @@
     "rationale": "Pitolisant increases histamine activity in the CNS and commonly causes insomnia, headache, and nausea.",
     "clinicalPearl": "Monitor CNS and cardiovascular effects; insomnia may be dose-dependent."
   },
-
-
 
   {
     "id": "rn-q-380",
@@ -7681,8 +6857,6 @@
     "clinicalPearl": "Advise patients to report palpitations or new CNS symptoms promptly."
   },
 
-
-
   {
     "id": "rn-q-381",
     "scope": ["RN"],
@@ -7701,8 +6875,6 @@
     "clinicalPearl": "Assess liver function and cardiac history prior to starting therapy."
   },
 
-
-
   {
     "id": "rn-q-382",
     "scope": ["RN"],
@@ -7720,10 +6892,6 @@
     "rationale": "Atomoxetine commonly causes GI upset, decreased appetite, and mild CNS stimulation.",
     "clinicalPearl": "Monitor pediatric growth, weight, and sleep patterns."
   },
- 
-
-
-
 
  {
     "id": "rn-q-383",
@@ -7742,8 +6910,6 @@
     "rationale": "Morning dosing reduces insomnia; pediatric patients require growth and cardiovascular monitoring.",
     "clinicalPearl": "Report significant appetite loss or weight changes to the provider."
   },
- 
-
 
  {
     "id": "rn-q-384",
@@ -7763,8 +6929,6 @@
     "clinicalPearl": "Baseline cardiovascular and liver function assessment is recommended."
   },
 
-
-
   {
     "id": "rn-q-385",
     "scope": ["RN"],
@@ -7782,8 +6946,6 @@
     "rationale": "Guanfacine commonly causes CNS depression, low blood pressure, and decreased heart rate.",
     "clinicalPearl": "Monitor BP and HR, especially with dose adjustments."
   },
-
-
 
   {
     "id": "rn-q-386",
@@ -7803,10 +6965,6 @@
     "clinicalPearl": "Advise patients not to drive until they know their response to the medication."
   },
 
-
-
-
-
   {
     "id": "rn-q-387",
     "scope": ["RN"],
@@ -7824,7 +6982,6 @@
     "rationale": "Guanfacine can exacerbate hypotension or bradycardia; caution is required in these patients.",
     "clinicalPearl": "Monitor cardiovascular status and adjust dose carefully."
   },
-
   
   {
     "id": "rn-q-388",
@@ -7844,8 +7001,6 @@
     "clinicalPearl": "Monitor BP and sedation; advise patients on dry mouth management."
   },
   
-
-
 {
     "id": "rn-q-389",
     "scope": ["RN"],
@@ -7863,8 +7018,6 @@
     "rationale": "Abrupt discontinuation can cause rebound hypertension; bedtime dosing reduces daytime sedation.",
     "clinicalPearl": "Educate patients on tapering schedules and monitoring BP."
   },
- 
-
 
  {
     "id": "rn-q-390",
@@ -7884,10 +7037,6 @@
     "clinicalPearl": "Monitor vitals closely during dose titration."
   },
 
-
-
-
-
   {
     "id": "rn-q-391",
     "scope": ["RN"],
@@ -7905,8 +7054,6 @@
     "rationale": "Viloxazine commonly causes GI upset, decreased appetite, and mild CNS stimulation.",
     "clinicalPearl": "Monitor pediatric growth and sleep patterns."
   },
-
-
 
   {
     "id": "rn-q-392",
@@ -7926,9 +7073,6 @@
     "clinicalPearl": "Report significant appetite or weight changes to the provider."
   },
 
-
-
-
   {
     "id": "rn-q-393",
     "scope": ["RN"],
@@ -7946,8 +7090,6 @@
     "rationale": "Viloxazine can increase BP/HR and is hepatically metabolized; caution is required in these patients.",
     "clinicalPearl": "Assess baseline cardiovascular and liver function before initiating therapy."
   },
- 
-
 
  {
     "id": "rn-q-394",
@@ -7966,10 +7108,6 @@
     "rationale": "Solriamfetol stimulates wakefulness; common adverse effects include insomnia, headache, and nausea.",
     "clinicalPearl": "Monitor CNS stimulation and signs of cardiovascular stress."
   },
- 
-
-
-
 
  {
     "id": "rn-q-395",
@@ -7989,8 +7127,6 @@
     "clinicalPearl": "Advise patients to report palpitations or unusual CNS symptoms immediately."
   },
   
-
-
 {
     "id": "rn-q-396",
     "scope": ["RN"],
@@ -8009,7 +7145,6 @@
     "clinicalPearl": "Monitor cardiovascular status closely, especially in patients with arrhythmias or HTN."
   },
 
-  
   {
     "id": "rn-q-397",
     "scope": ["RN"],
@@ -8027,8 +7162,6 @@
     "rationale": "Sodium oxalate can form crystals in the kidney, leading to nephropathy; renal function monitoring is essential.",
     "clinicalPearl": "Ensure regular monitoring of serum creatinine and BUN."
   },
-
-
 
   {
     "id": "rn-q-398",
@@ -8048,10 +7181,6 @@
     "clinicalPearl": "Encourage patients to drink sufficient water throughout the day."
   },
  
-
-
-
-
  {
     "id": "rn-q-399",
     "scope": ["RN"],
@@ -8069,8 +7198,6 @@
     "rationale": "Renal impairment increases risk of oxalate accumulation and kidney damage.",
     "clinicalPearl": "Assess kidney function before starting therapy."
   },
- 
-
 
  {
     "id": "rn-q-400",
@@ -8089,11 +7216,6 @@
     "rationale": "High doses of acetaminophen can cause acute liver failure; monitoring liver function is critical.",
     "clinicalPearl": "Monitor AST, ALT, and INR in patients at risk for toxicity."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-401",
@@ -8113,8 +7235,6 @@
     "clinicalPearl": "Remind patients to check all combination OTC products for acetaminophen content."
   },
  
-
-
  {
     "id": "rn-q-402",
     "scope": ["RN"],
@@ -8132,10 +7252,6 @@
     "rationale": "Liver disease or alcohol use increases risk of hepatotoxicity.",
     "clinicalPearl": "Consider lower doses or alternative analgesics in these patients."
   },
-
-
-
-
 
   {
     "id": "rn-q-403",
@@ -8155,8 +7271,6 @@
     "clinicalPearl": "Assess for history of ulcers or bleeding before starting therapy."
   },
 
-
-
   {
     "id": "rn-q-404",
     "scope": ["RN"],
@@ -8175,10 +7289,6 @@
     "clinicalPearl": "Patients on long-term therapy may need periodic CBCs."
   },
 
-
-
-
-
   {
     "id": "rn-q-405",
     "scope": ["RN"],
@@ -8196,7 +7306,6 @@
     "rationale": "Aspirin increases bleeding risk; contraindicated in patients with active ulcers or bleeding disorders.",
     "clinicalPearl": "Avoid aspirin in patients with hemophilia or thrombocytopenia."
   },
-
   
   {
     "id": "rn-q-406",
@@ -8215,7 +7324,6 @@
     "rationale": "Ibuprofen, an NSAID, can cause GI upset, ulcers, and nephrotoxicity with chronic use.",
     "clinicalPearl": "Monitor for black stools, abdominal pain, and kidney function with prolonged therapy."
   },
- 
 
  {
     "id": "rn-q-407",
@@ -8235,9 +7343,6 @@
     "clinicalPearl": "Avoid combining with other NSAIDs unless prescribed."
   },
 
- 
-
-
  {
     "id": "rn-q-408",
     "scope": ["RN"],
@@ -8255,10 +7360,6 @@
     "rationale": "NSAIDs can worsen ulcers, renal function, or fluid retention; caution is needed in these patients.",
     "clinicalPearl": "Consider alternative analgesics in high-risk patients."
   },
-  
-
-
-
 
 {
     "id": "rn-q-409",
@@ -8278,8 +7379,6 @@
     "clinicalPearl": "Monitor kidney function, fluid status, and GI symptoms with chronic use."
   },
 
-
-
   {
     "id": "rn-q-410",
     "scope": ["RN"],
@@ -8297,9 +7396,6 @@
     "rationale": "Taking with food reduces GI upset; monitoring for bleeding and renal effects is critical.",
     "clinicalPearl": "Avoid alcohol and other NSAIDs unless prescribed."
   },
- 
-
-
 
  {
     "id": "rn-q-411",
@@ -8318,8 +7414,6 @@
     "rationale": "Caution is needed as NSAIDs can exacerbate ulcers, kidney dysfunction, or fluid overload.",
     "clinicalPearl": "Consider the lowest effective dose for the shortest duration."
   },
- 
-
 
  {
     "id": "rn-q-412",
@@ -8338,9 +7432,6 @@
     "rationale": "Tramadol, a weak opioid, can cause CNS and GI side effects, and lower seizure threshold.",
     "clinicalPearl": "Monitor for seizure activity and CNS depression, especially with other CNS depressants."
   },
- 
-
-
 
  {
     "id": "rn-q-413",
@@ -8359,8 +7450,6 @@
     "rationale": "Alcohol and improper dosing increase CNS depression; monitoring for GI effects is important.",
     "clinicalPearl": "Avoid abrupt discontinuation to prevent withdrawal symptoms."
   },
-  
-
 
 {
     "id": "rn-q-414",
@@ -8379,8 +7468,7 @@
     "rationale": "Tramadol can lower seizure threshold and interact with CNS depressants; caution is required.",
     "clinicalPearl": "Assess seizure history and current CNS medications before prescribing."
   },
-
-  
+ 
   {
     "id": "rn-q-415",
     "scope": ["RN"],
@@ -8398,8 +7486,6 @@
     "rationale": "Codeine, an opioid, commonly causes CNS depression, GI effects, and may depress respiration.",
     "clinicalPearl": "Monitor bowel function and respiratory status, especially in elderly patients."
   },
-  
-
 
 {
     "id": "rn-q-416",
@@ -8436,8 +7522,6 @@
     "rationale": "Codeine can worsen respiratory depression and is metabolized by the liver; caution is required.",
     "clinicalPearl": "Genetic differences in CYP2D6 metabolism can increase risk of toxicity in ultra-rapid metabolizers."
   },
- 
-
 
  {
     "id": "rn-q-418",
@@ -8456,8 +7540,6 @@
     "rationale": "Fentanyl is a potent opioid; respiratory depression is the most serious risk.",
     "clinicalPearl": "Monitor respiratory rate, oxygen saturation, and level of consciousness closely."
   },
-  
-
 
 {
     "id": "rn-q-419",
@@ -8476,8 +7558,6 @@
     "rationale": "Fentanyl patches and other forms require careful dosing and avoidance of other CNS depressants.",
     "clinicalPearl": "Patch disposal is critical; fold in half and flush or follow local disposal guidance."
   },
- 
-
 
  {
     "id": "rn-q-420",
@@ -8515,8 +7595,6 @@
     "clinicalPearl": "Prophylactic bowel regimen is often indicated."
   },
   
-
-
 {
     "id": "rn-q-422",
     "scope": ["RN"],
@@ -8535,8 +7613,6 @@
     "clinicalPearl": "Avoid combining with other CNS depressants."
   },
  
-
-
  {
     "id": "rn-q-423",
     "scope": ["RN"],
@@ -8554,7 +7630,6 @@
     "rationale": "Caution is needed due to risk of respiratory depression and hepatotoxicity.",
     "clinicalPearl": "Monitor liver function in patients with hepatic impairment."
   },
-
   
   {
     "id": "rn-q-424",
@@ -8573,9 +7648,6 @@
     "rationale": "Meperidine can cause CNS and GI depression; accumulation of normeperidine may lead to seizures.",
     "clinicalPearl": "Avoid long-term use due to risk of neurotoxicity, especially in older adults."
   },
-  
-
-
 
 {
     "id": "rn-q-425",
@@ -8595,8 +7667,6 @@
     "clinicalPearl": "Monitor for confusion or tremors, especially in renal impairment."
   },
 
-
-
   {
     "id": "rn-q-426",
     "scope": ["RN"],
@@ -8615,9 +7685,6 @@
     "clinicalPearl": "Avoid in patients with chronic kidney disease whenever possible."
   },
 
-
-
-
   {
     "id": "rn-q-427",
     "scope": ["RN"],
@@ -8635,8 +7702,6 @@
     "rationale": "Methadone is a potent opioid with risk of respiratory depression and cardiac arrhythmias.",
     "clinicalPearl": "Obtain baseline and periodic ECGs to monitor QT interval."
   },
- 
-
 
  {
     "id": "rn-q-428",
@@ -8655,9 +7720,6 @@
     "rationale": "Education includes safe dosing and monitoring for CNS and cardiac effects.",
     "clinicalPearl": "Do not abruptly stop therapy due to risk of withdrawal."
   },
- 
-
-
 
  {
     "id": "rn-q-429",
@@ -8677,8 +7739,6 @@
     "clinicalPearl": "Use cautiously with other QT-prolonging medications."
   },
 
-
-
   {
     "id": "rn-q-430",
     "scope": ["RN"],
@@ -8697,11 +7757,6 @@
     "clinicalPearl": "Initiate bowel regimen when starting chronic opioid therapy."
   },
 
-
-
-
-
-
   {
     "id": "rn-q-431",
     "scope": ["RN"],
@@ -8719,8 +7774,6 @@
     "rationale": "Prevention of overdose, constipation, and respiratory depression is key patient education.",
     "clinicalPearl": "Store medication securely to prevent misuse."
   },
- 
-
 
  {
     "id": "rn-q-432",
@@ -8740,7 +7793,6 @@
     "clinicalPearl": "Monitor respiratory rate closely, especially after dose increases."
   },
 
-  
   {
     "id": "rn-q-433",
     "scope": ["RN"],
@@ -8758,8 +7810,6 @@
     "rationale": "Oxycodone, a strong opioid, commonly causes CNS depression, GI effects, and may depress respiration.",
     "clinicalPearl": "Initiate a bowel regimen when starting long-term opioid therapy."
   },
-
-
 
   {
     "id": "rn-q-434",
@@ -8796,8 +7846,6 @@
     "rationale": "Caution is needed due to risk of respiratory depression and hepatic metabolism considerations.",
     "clinicalPearl": "Monitor respiratory rate closely, especially after dose increases."
   },
- 
-
 
  {
     "id": "rn-q-436",
@@ -8817,9 +7865,6 @@
     "clinicalPearl": "Monitor airway, breathing, and circulation after administration."
   },
  
-
-
-
  {
     "id": "rn-q-437",
     "scope": ["RN"],
@@ -8838,8 +7883,6 @@
     "clinicalPearl": "Emergency services should still be contacted after naloxone administration."
   },
 
-
-
   {
     "id": "rn-q-438",
     "scope": ["RN"],
@@ -8857,9 +7900,6 @@
     "rationale": "Precipitated withdrawal can stress the cardiovascular system; caution is needed.",
     "clinicalPearl": "Monitor heart rate and blood pressure during reversal."
   },
- 
-
-
 
  {
     "id": "rn-q-439",
@@ -8878,8 +7918,6 @@
     "rationale": "The combination can cause typical opioid-related adverse effects and precipitate withdrawal if opioids are used.",
     "clinicalPearl": "Ensure patient is in mild withdrawal before initiation to avoid precipitated withdrawal."
   },
-
-
 
   {
     "id": "rn-q-440",
@@ -8916,7 +7954,6 @@
     "rationale": "Hepatic metabolism, opioid interaction, and respiratory depression risk require caution.",
     "clinicalPearl": "Monitor liver function tests periodically during therapy."
   },
-
   
   {
     "id": "rn-q-442",
@@ -8936,8 +7973,6 @@
     "clinicalPearl": "Rotate patch sites daily to reduce skin irritation."
   },
 
-
-
   {
     "id": "rn-q-443",
     "scope": ["RN"],
@@ -8955,8 +7990,6 @@
     "rationale": "Smoking while using patches increases nicotine toxicity; insomnia is common.",
     "clinicalPearl": "Used patches should be folded in half before disposal."
   },
- 
-
 
  {
     "id": "rn-q-444",
@@ -8976,10 +8009,6 @@
     "clinicalPearl": "Monitor blood pressure and heart rate during therapy."
   },
 
-
-
-
-
   {
     "id": "rn-q-445",
     "scope": ["RN"],
@@ -8997,8 +8026,6 @@
     "rationale": "Bupropion lowers the seizure threshold, especially at high doses.",
     "clinicalPearl": "Avoid exceeding recommended doses to reduce seizure risk."
   },
- 
-
 
  {
     "id": "rn-q-446",
@@ -9018,11 +8045,6 @@
     "clinicalPearl": "Set a target quit date within the first 1–2 weeks of therapy."
   },
 
-
-
-
-
-
   {
     "id": "rn-q-447",
     "scope": ["RN"],
@@ -9040,8 +8062,6 @@
     "rationale": "Eating disorders and seizure history are contraindications for bupropion.",
     "clinicalPearl": "Screen for history of seizures or eating disorders before prescribing."
   },
- 
-
 
  {
     "id": "rn-q-448",
@@ -9060,12 +8080,6 @@
     "rationale": "ACE inhibitors commonly cause cough due to bradykinin buildup.",
     "clinicalPearl": "Report swelling of face or lips immediately due to risk of angioedema."
   },
- 
-
-
-
-
-
 
  {
     "id": "rn-q-449",
@@ -9084,8 +8098,6 @@
     "rationale": "ACE inhibitors can cause hyperkalemia.",
     "clinicalPearl": "Monitor renal function and potassium levels periodically."
   },
- 
-
 
  {
     "id": "rn-q-450",
@@ -9105,8 +8117,7 @@
     "clinicalPearl": "Discontinue immediately if pregnancy is detected."
   },
 
-  
-  {
+    {
     "id": "rn-q-451",
     "scope": ["RN"],
     "medicationId": "rn-158",
@@ -9124,8 +8135,6 @@
     "clinicalPearl": "Monitor blood pressure closely, especially after the first dose."
   },
  
-
-
  {
     "id": "rn-q-452",
     "scope": ["RN"],
@@ -9143,11 +8152,6 @@
     "rationale": "Food decreases captopril absorption, reducing its effectiveness.",
     "clinicalPearl": "Administer on an empty stomach for optimal therapeutic effect."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-453",
@@ -9166,9 +8170,6 @@
     "rationale": "Angioedema is a life-threatening adverse effect of ACE inhibitors.",
     "clinicalPearl": "Discontinue immediately and seek emergency care if angioedema occurs."
   },
- 
-
-
 
  {
     "id": "rn-q-454",
@@ -9187,11 +8188,6 @@
     "rationale": "ACE inhibitors reduce aldosterone, increasing potassium levels.",
     "clinicalPearl": "Avoid potassium supplements and salt substitutes unless prescribed."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-455",
@@ -9210,9 +8206,6 @@
     "rationale": "First-dose hypotension may occur; orthostatic precautions are needed.",
     "clinicalPearl": "Monitor blood pressure regularly at home."
   },
- 
-
-
 
  {
     "id": "rn-q-456",
@@ -9231,11 +8224,6 @@
     "rationale": "ACE inhibitors reduce glomerular filtration in renal artery stenosis.",
     "clinicalPearl": "Monitor serum creatinine and BUN after initiation."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-457",
@@ -9255,8 +8243,6 @@
     "clinicalPearl": "Cough typically resolves after discontinuation."
   },
 
-
-
   {
     "id": "rn-q-458",
     "scope": ["RN"],
@@ -9274,12 +8260,6 @@
     "rationale": "Reduced aldosterone leads to potassium retention.",
     "clinicalPearl": "Assess potassium levels before and during therapy."
   },
-  
-
-
-
-
-
 
 {
     "id": "rn-q-459",
@@ -9299,7 +8279,6 @@
     "clinicalPearl": "Discontinue immediately if pregnancy is confirmed."
   },
 
-  
   {
     "id": "rn-q-460",
     "scope": ["RN"],
@@ -9318,10 +8297,6 @@
     "clinicalPearl": "Monitor blood pressure and potassium levels regularly."
   },
 
-
-
-
-
   {
     "id": "rn-q-461",
     "scope": ["RN"],
@@ -9339,8 +8314,6 @@
     "rationale": "ARBs may increase potassium levels.",
     "clinicalPearl": "Avoid potassium-containing salt substitutes."
   },
- 
-
 
  {
     "id": "rn-q-462",
@@ -9359,12 +8332,6 @@
     "rationale": "ARBs do not increase bradykinin, so cough is less common.",
     "clinicalPearl": "ARBs are alternatives for patients intolerant to ACE inhibitors."
   },
-  
-
-
-
-
-
 
 {
     "id": "rn-q-463",
@@ -9384,9 +8351,6 @@
     "clinicalPearl": "Assess renal function before and during therapy."
   },
 
-
-
-
   {
     "id": "rn-q-464",
     "scope": ["RN"],
@@ -9405,11 +8369,6 @@
     "clinicalPearl": "Continue medication even if feeling well unless directed otherwise."
   },
  
-
-
-
-
-
  {
     "id": "rn-q-465",
     "scope": ["RN"],
@@ -9428,9 +8387,6 @@
     "clinicalPearl": "Discontinue immediately if pregnancy occurs."
   },
 
-
-
-
   {
     "id": "rn-q-466",
     "scope": ["RN"],
@@ -9448,11 +8404,6 @@
     "rationale": "ARBs commonly cause low blood pressure and dizziness.",
     "clinicalPearl": "Monitor for orthostatic hypotension when initiating therapy."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-467",
@@ -9471,9 +8422,6 @@
     "rationale": "Orthostatic hypotension is common when starting therapy.",
     "clinicalPearl": "Advise patients to sit or lie down if dizziness occurs."
   },
- 
-
-
 
  {
     "id": "rn-q-468",
@@ -9492,11 +8440,6 @@
     "rationale": "Elevated potassium indicates hyperkalemia risk.",
     "clinicalPearl": "Report muscle weakness or palpitations promptly."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-469",
@@ -9516,9 +8459,6 @@
     "clinicalPearl": "Monitor blood pressure and serum potassium levels."
   },
  
-
-
-
  {
     "id": "rn-q-470",
     "scope": ["RN"],
@@ -9536,11 +8476,6 @@
     "rationale": "ARBs are teratogenic and contraindicated in pregnancy.",
     "clinicalPearl": "Notify provider immediately if pregnancy is suspected."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-471",
@@ -9560,8 +8495,7 @@
     "clinicalPearl": "Monitor creatinine and potassium levels in at-risk patients."
   },
 
-  
-  {
+   {
     "id": "rn-q-472",
     "scope": ["RN"],
     "medicationId": "rn-165",
@@ -9578,9 +8512,6 @@
     "rationale": "Carvedilol is a beta and alpha blocker that lowers heart rate and blood pressure.",
     "clinicalPearl": "Monitor heart rate and blood pressure before administration."
   },
- 
-
-
 
  {
     "id": "rn-q-473",
@@ -9599,8 +8530,6 @@
     "rationale": "Monitoring HR and BP helps prevent severe bradycardia and hypotension.",
     "clinicalPearl": "Hold dose and notify provider if pulse is below prescribed threshold."
   },
- 
-
 
  {
     "id": "rn-q-474",
@@ -9619,12 +8548,6 @@
     "rationale": "Beta-blockade improves survival by reducing cardiac workload.",
     "clinicalPearl": "Start at low doses and titrate slowly in heart failure."
   },
- 
-
-
-
-
-
 
  {
     "id": "rn-q-475",
@@ -9643,9 +8566,6 @@
     "rationale": "Nadolol is a nonselective beta-blocker causing slowed HR and fatigue.",
     "clinicalPearl": "Assess for signs of excessive beta-blockade."
   },
- 
-
-
 
  {
     "id": "rn-q-476",
@@ -9665,11 +8585,6 @@
     "clinicalPearl": "Monitor respiratory status in patients with reactive airway disease."
   },
 
-
-
-
-
-
   {
     "id": "rn-q-477",
     "scope": ["RN"],
@@ -9687,8 +8602,6 @@
     "rationale": "Sudden withdrawal may cause rebound hypertension or angina.",
     "clinicalPearl": "Taper dose gradually under provider supervision."
   },
-
-
 
   {
     "id": "rn-q-478",
@@ -9708,12 +8621,6 @@
     "clinicalPearl": "Elevate legs to reduce edema if mild."
   },
 
-
-
-
-
-
-
  {
     "id": "rn-q-479",
     "scope": ["RN"],
@@ -9731,9 +8638,6 @@
     "rationale": "Amlodipine may cause hypotension and dizziness.",
     "clinicalPearl": "Report significant swelling or shortness of breath."
   },
- 
-
-
 
  {
     "id": "rn-q-480",
@@ -9752,7 +8656,6 @@
     "rationale": "CCBs improve myocardial oxygen supply via vasodilation.",
     "clinicalPearl": "Reduces afterload and myocardial oxygen demand."
   },
-
   
   {
     "id": "rn-q-481",
@@ -9772,8 +8675,6 @@
     "clinicalPearl": "Monitor for dizziness due to blood pressure reduction."
   },
 
-
-
   {
     "id": "rn-q-482",
     "scope": ["RN"],
@@ -9791,11 +8692,6 @@
     "rationale": "Nicardipine is often used for hypertensive emergencies requiring BP control.",
     "clinicalPearl": "Continuous BP monitoring is recommended during IV administration."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-483",
@@ -9814,9 +8710,6 @@
     "rationale": "Nicardipine is used for rapid BP control.",
     "clinicalPearl": "Often administered IV in critical care settings."
   },
- 
-
-
 
  {
     "id": "rn-q-484",
@@ -9835,11 +8728,6 @@
     "rationale": "Dihydropyridine CCBs cause vasodilation-related effects.",
     "clinicalPearl": "Edema is dose-related and may improve with dose adjustment."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-485",
@@ -9858,9 +8746,6 @@
     "rationale": "Rapid BP drops can trigger dangerous reflex responses.",
     "clinicalPearl": "Extended-release formulations are preferred for chronic hypertension."
   },
-  
-
-
 
 {
     "id": "rn-q-486",
@@ -9879,11 +8764,6 @@
     "rationale": "Grapefruit increases CCB blood levels and toxicity.",
     "clinicalPearl": "Report significant dizziness or palpitations."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-487",
@@ -9903,9 +8783,6 @@
     "clinicalPearl": "Monitor potassium levels regularly."
   },
 
-
-
-
   {
     "id": "rn-q-488",
     "scope": ["RN"],
@@ -9923,11 +8800,6 @@
     "rationale": "Volume depletion may occur due to diuresis.",
     "clinicalPearl": "Monitor blood pressure and daily weights."
   },
-
-
-
-
-
 
   {
     "id": "rn-q-489",
@@ -9964,9 +8836,6 @@
     "rationale": "HCTZ commonly causes hypokalemia.",
     "clinicalPearl": "Monitor electrolytes periodically during therapy."
   },
- 
-
-
 
  {
     "id": "rn-q-491",
@@ -9985,9 +8854,6 @@
     "rationale": "Thiazides increase uric acid levels.",
     "clinicalPearl": "Use cautiously in patients with a history of gout."
   },
-  
-
-
 
 {
     "id": "rn-q-492",
@@ -10006,11 +8872,6 @@
     "rationale": "Morning dosing prevents nocturia.",
     "clinicalPearl": "Administer early in the day to reduce nighttime urination."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-493",
@@ -10029,9 +8890,6 @@
     "rationale": "Potassium-sparing diuretics increase potassium levels.",
     "clinicalPearl": "Monitor potassium levels closely during therapy."
   },
- 
-
-
 
  {
     "id": "rn-q-494",
@@ -10050,11 +8908,6 @@
     "rationale": "Combining increases risk of dangerous hyperkalemia.",
     "clinicalPearl": "Avoid salt substitutes containing potassium."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-495",
@@ -10073,9 +8926,6 @@
     "rationale": "It offsets potassium-wasting effects of other diuretics.",
     "clinicalPearl": "Combination therapy balances electrolyte effects."
   },
-  
-
-
 
 {
     "id": "rn-q-496",
@@ -10094,11 +8944,6 @@
     "rationale": "Spironolactone has antiandrogen effects.",
     "clinicalPearl": "May also cause menstrual irregularities in females."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-497",
@@ -10117,9 +8962,6 @@
     "rationale": "Risk of hyperkalemia is significant.",
     "clinicalPearl": "Assess renal function along with potassium levels."
   },
- 
-
-
 
  {
     "id": "rn-q-498",
@@ -10138,11 +8980,6 @@
     "rationale": "Aldosterone blockade improves survival in heart failure.",
     "clinicalPearl": "Commonly added to ACE inhibitors and beta-blockers in HFrEF."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-499",
@@ -10161,9 +8998,6 @@
     "rationale": "Triamterene is potassium-sparing.",
     "clinicalPearl": "Avoid concurrent potassium supplementation."
   },
-  
-
-
 
 {
     "id": "rn-q-500",
@@ -10182,11 +9016,6 @@
     "rationale": "Renal disease increases risk of potassium accumulation.",
     "clinicalPearl": "Monitor renal function and potassium levels closely."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-501",
@@ -10206,7 +9035,6 @@
     "clinicalPearl": "Common fixed-dose combinations improve adherence."
   },
 
-  
   {
     "id": "rn-q-502",
     "scope": ["RN"],
@@ -10224,10 +9052,6 @@
     "rationale": "Nitrates cause vasodilation leading to headache and low blood pressure.",
     "clinicalPearl": "Headaches often decrease with continued therapy."
   },
- 
-
-
-
 
  {
     "id": "rn-q-503",
@@ -10246,9 +9070,6 @@
     "rationale": "Nitrate tolerance develops without drug-free periods.",
     "clinicalPearl": "Schedule doses to provide 10–12 hours nitrate-free each day."
   },
-  
-
-
 
 {
     "id": "rn-q-504",
@@ -10267,11 +9088,6 @@
     "rationale": "Combining nitrates with PDE-5 inhibitors can cause severe hypotension.",
     "clinicalPearl": "Avoid PDE-5 inhibitors within 24–48 hours of nitrate use."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-505",
@@ -10290,9 +9106,6 @@
     "rationale": "It is used for prophylaxis, not acute relief.",
     "clinicalPearl": "Not effective for immediate relief of active chest pain."
   },
- 
-
-
 
  {
     "id": "rn-q-506",
@@ -10311,11 +9124,6 @@
     "rationale": "Vasodilation commonly causes headache.",
     "clinicalPearl": "Analgesics may be used for nitrate-induced headaches."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-507",
@@ -10334,9 +9142,6 @@
     "rationale": "Consistent dosing maintains prophylactic effect.",
     "clinicalPearl": "Extended-release tablets should not be crushed."
   },
- 
-
-
 
  {
     "id": "rn-q-508",
@@ -10356,9 +9161,6 @@
     "clinicalPearl": "May repeat every 5 minutes for up to three doses; call emergency services if pain persists."
   },
  
-
-
-
  {
     "id": "rn-q-509",
     "scope": ["RN"],
@@ -10376,9 +9178,6 @@
     "rationale": "Vasodilation commonly causes headache and lightheadedness.",
     "clinicalPearl": "Sit or lie down when taking to prevent falls."
   },
-  
-
-
 
 {
     "id": "rn-q-510",
@@ -10398,10 +9197,6 @@
     "clinicalPearl": "Always review medication list for PDE-5 inhibitors."
   },
 
-
-
-
-
 {
   "id": "rn-q-511",
   "scope": ["RN"],
@@ -10419,9 +9214,6 @@
   "rationale": "Nitroprusside is used for rapid blood pressure control in hypertensive emergencies.",
   "clinicalPearl": "Nitroprusside requires ICU-level care and continuous blood pressure monitoring."
 },
-
-
-
 
 {
   "id": "rn-q-512",
@@ -10441,8 +9233,6 @@
   "clinicalPearl": "Arterial line monitoring is commonly used during nitroprusside infusion."
 },
 
-
-
 {
   "id": "rn-q-513",
   "scope": ["RN"],
@@ -10460,9 +9250,6 @@
   "rationale": "Nitroprusside metabolizes into cyanide, which can accumulate with prolonged or high-dose infusions.",
   "clinicalPearl": "Unexplained metabolic acidosis during infusion may indicate cyanide toxicity."
 },
-
-
-
 
 {
   "id": "rn-q-514",
@@ -10482,9 +9269,6 @@
   "clinicalPearl": "ARNI therapy is preferred over ACE inhibitors in eligible HFrEF patients."
 },
 
-
-
-
 {
   "id": "rn-q-515",
   "scope": ["RN"],
@@ -10502,9 +9286,6 @@
   "rationale": "Sacubitril/valsartan affects the RAAS system and increases the risk of angioedema and hyperkalemia.",
   "clinicalPearl": "A 36-hour washout period is required when switching from an ACE inhibitor to sacubitril/valsartan."
 },
-
-
-
 
 {
   "id": "rn-q-516",
@@ -10524,8 +9305,6 @@
   "clinicalPearl": "Never combine ACE inhibitors with ARNIs."
 },
 
-
-
 {
   "id": "rn-q-517",
   "scope": ["RN"],
@@ -10543,8 +9322,6 @@
   "rationale": "Eplerenone blocks aldosterone, leading to potassium retention.",
   "clinicalPearl": "Monitor potassium and renal function closely during therapy."
 },
-
-
 
 {
   "id": "rn-q-518",
@@ -10564,11 +9341,6 @@
   "clinicalPearl": "Eplerenone has fewer endocrine side effects than spironolactone."
 },
 
-
-
-
-
-
 {
   "id": "rn-q-519",
   "scope": ["RN"],
@@ -10586,8 +9358,6 @@
   "rationale": "Eplerenone increases potassium levels and may cause hyperkalemia.",
   "clinicalPearl": "Avoid potassium supplements unless directed by the provider."
 },
-
-
 
 {
   "id": "rn-q-520",
@@ -10607,11 +9377,6 @@
   "clinicalPearl": "Dapagliflozin provides cardiovascular and renal protection."
 },
 
-
-
-
-
-
 {
   "id": "rn-q-521",
   "scope": ["RN"],
@@ -10630,9 +9395,6 @@
   "clinicalPearl": "Encourage proper hygiene and hydration during therapy."
 },
 
-
-
-
 {
   "id": "rn-q-522",
   "scope": ["RN"],
@@ -10650,7 +9412,6 @@
   "rationale": "Dapagliflozin increases glucose in the urine, raising the risk of UTIs and genital infections.",
   "clinicalPearl": "Monitor for signs of infection such as dysuria or unusual discharge."
 },
-
   
   {
     "id": "rn-q-523",
@@ -10670,8 +9431,6 @@
     "clinicalPearl": "Empagliflozin provides cardiovascular and renal protection beyond glucose lowering."
   },
 
-
-
   {
     "id": "rn-q-524",
     "scope": ["RN"],
@@ -10690,7 +9449,6 @@
     "clinicalPearl": "Monitor blood pressure and volume status, especially in older adults or those on diuretics."
   },
 
-
   {
     "id": "rn-q-525",
     "scope": ["RN"],
@@ -10708,8 +9466,6 @@
     "rationale": "Adequate hydration helps prevent dehydration and acute kidney injury due to osmotic diuresis.",
     "clinicalPearl": "Encourage patients to report dizziness, weakness, or signs of dehydration promptly."
   },
- 
-
 
  {
     "id": "rn-q-526",
@@ -10728,9 +9484,6 @@
     "rationale": "Bumetanide is a loop diuretic that increases potassium excretion, leading to hypokalemia.",
     "clinicalPearl": "Low potassium levels increase the risk of cardiac dysrhythmias."
   },
- 
-
-
 
  {
     "id": "rn-q-527",
@@ -10749,8 +9502,6 @@
     "rationale": "Loop diuretics such as bumetanide rapidly remove excess fluid and are used in acute pulmonary edema.",
     "clinicalPearl": "IV loop diuretics are first-line for rapid fluid removal in acute heart failure exacerbations."
   },
-  
-
 
 {
     "id": "rn-q-528",
@@ -10769,9 +9520,6 @@
     "rationale": "Hypokalemia from loop diuretics increases the risk of life-threatening arrhythmias.",
     "clinicalPearl": "Monitor electrolytes regularly and replace potassium as prescribed."
   },
- 
-
-
 
 {
     "id": "rn-q-529",
@@ -10790,8 +9538,6 @@
     "rationale": "Furosemide can cause electrolyte loss, especially potassium, and high doses may cause ototoxicity.",
     "clinicalPearl": "Monitor hearing changes and electrolyte levels during high-dose or IV therapy."
   },
- 
-
 
  {
     "id": "rn-q-530",
@@ -10810,9 +9556,6 @@
     "rationale": "Morning dosing helps prevent nighttime urination and sleep disruption.",
     "clinicalPearl": "Consistent daily dosing improves symptom control and prevents fluid rebound."
   },
-  
-
-
 
 {
     "id": "rn-q-531",
@@ -10831,7 +9574,6 @@
     "rationale": "Symptoms of dehydration such as dizziness and dry mouth may indicate overdiuresis.",
     "clinicalPearl": "Monitor daily weights and blood pressure to detect excessive fluid loss early."
   },
-
   
   {
     "id": "rn-q-532",
@@ -10850,8 +9592,6 @@
     "rationale": "Torsemide is a loop diuretic that increases urinary potassium excretion, leading to hypokalemia.",
     "clinicalPearl": "Monitor potassium levels closely to prevent cardiac dysrhythmias."
   },
- 
-
 
  {
     "id": "rn-q-533",
@@ -10870,9 +9610,6 @@
     "rationale": "Torsemide is a loop diuretic used to treat edema associated with heart failure.",
     "clinicalPearl": "Loop diuretics are first-line therapy for rapid fluid removal in volume overload."
   },
- 
-
-
 
  {
     "id": "rn-q-534",
@@ -10891,9 +9628,6 @@
     "rationale": "Hypokalemia is a common adverse effect of loop diuretics and increases arrhythmia risk.",
     "clinicalPearl": "Regular electrolyte monitoring is essential during loop diuretic therapy."
   },
- 
-
-
 
  {
     "id": "rn-q-535",
@@ -10913,8 +9647,6 @@
     "clinicalPearl": "Encourage potassium-rich foods unless contraindicated."
   },
 
-
-
   {
     "id": "rn-q-536",
     "scope": ["RN"],
@@ -10932,12 +9664,6 @@
     "rationale": "Thiazide diuretics increase uric acid levels and may precipitate gout.",
     "clinicalPearl": "Monitor uric acid levels in patients with a history of gout."
   },
-
-
-
-
-
-
 
   {
     "id": "rn-q-537",
@@ -10957,9 +9683,6 @@
     "clinicalPearl": "Taking the medication in the morning can also help prevent nocturia."
   },
 
-
-
-
   {
     "id": "rn-q-538",
     "scope": ["RN"],
@@ -10977,11 +9700,6 @@
     "rationale": "Indapamide works similarly to thiazide diuretics to reduce sodium reabsorption.",
     "clinicalPearl": "Thiazide-like diuretics are commonly used for hypertension management."
   },
-
-
-
-
-
 
   {
     "id": "rn-q-539",
@@ -11001,9 +9719,6 @@
     "clinicalPearl": "Monitor electrolyte levels periodically during therapy."
   },
  
-
-
-
  {
     "id": "rn-q-540",
     "scope": ["RN"],
@@ -11021,7 +9736,6 @@
     "rationale": "Indapamide is primarily used to lower blood pressure in patients with hypertension.",
     "clinicalPearl": "Effective blood pressure control reduces the risk of stroke and cardiovascular events."
   },
-
   
   {
     "id": "rn-q-541",
@@ -11040,9 +9754,6 @@
     "rationale": "Sequential nephron blockade with metolazone and a loop diuretic increases sodium and fluid excretion in resistant edema.",
     "clinicalPearl": "Metolazone is commonly combined with loop diuretics for synergistic diuresis in refractory heart failure."
   },
- 
-
-
 
  {
     "id": "rn-q-542",
@@ -11062,8 +9773,6 @@
     "clinicalPearl": "Monitor potassium closely when metolazone is combined with loop diuretics."
   },
  
-
-
  {
     "id": "rn-q-543",
     "scope": ["RN"],
@@ -11081,9 +9790,6 @@
     "rationale": "Muscle weakness and arrhythmias are signs of hypokalemia, a potentially dangerous adverse effect.",
     "clinicalPearl": "Electrolyte imbalances from aggressive diuresis can precipitate life-threatening dysrhythmias."
   },
- 
-
-
 
  {
     "id": "rn-q-544",
@@ -11102,7 +9808,6 @@
     "rationale": "This combination improves survival in patients with HFrEF, particularly African American patients.",
     "clinicalPearl": "Hydralazine plus nitrate therapy reduces mortality when added to standard therapy in select HFrEF patients."
   },
-
   
   {
     "id": "rn-q-545",
@@ -11122,8 +9827,6 @@
     "clinicalPearl": "Headaches are common early in nitrate therapy and often improve with continued use."
   },
 
-
-
   {
     "id": "rn-q-546",
     "scope": ["RN"],
@@ -11141,8 +9844,6 @@
     "rationale": "Concurrent use of nitrates and PDE-5 inhibitors can cause severe, life-threatening hypotension.",
     "clinicalPearl": "Never combine nitrates with sildenafil or similar medications due to profound vasodilation risk."
   },
- 
-
 
  {
     "id": "rn-q-547",
@@ -11162,8 +9863,6 @@
     "clinicalPearl": "Ivabradine is useful when beta blockers are maximized but heart rate remains elevated."
   },
 
-
-
   {
     "id": "rn-q-548",
     "scope": ["RN"],
@@ -11182,9 +9881,6 @@
     "clinicalPearl": "Ivabradine is ineffective in atrial fibrillation because it acts on the sinus node."
   },
 
-
-
-
   {
     "id": "rn-q-549",
     "scope": ["RN"],
@@ -11202,8 +9898,7 @@
     "rationale": "Ivabradine can cause bradycardia and phosphenes (visual brightness).",
     "clinicalPearl": "Monitor heart rate closely and educate patients about possible transient visual effects."
   },
-
-  
+ 
   {
     "id": "rn-q-550",
     "scope": ["RN"],
@@ -11221,7 +9916,6 @@
     "rationale": "Activated partial thromboplastin time (aPTT) reflects the anticoagulant effect of IV heparin and guides dosing.",
     "clinicalPearl": "Maintain aPTT within the therapeutic range to reduce clotting and bleeding risks."
   },
- 
 
  {
     "id": "rn-q-551",
@@ -11240,8 +9934,6 @@
     "rationale": "Excess anticoagulation significantly increases the risk of bleeding complications.",
     "clinicalPearl": "Monitor for signs of internal bleeding such as hypotension, tachycardia, and decreased hemoglobin."
   },
- 
-
 
  {
     "id": "rn-q-552",
@@ -11260,9 +9952,6 @@
     "rationale": "HIT is a life-threatening immune-mediated reaction that requires immediate discontinuation of heparin.",
     "clinicalPearl": "A sudden drop in platelet count of 50% or more suggests HIT."
   },
-  
-
-
 
 {
     "id": "rn-q-553",
@@ -11281,8 +9970,6 @@
     "rationale": "Argatroban is a direct thrombin inhibitor used in patients with HIT.",
     "clinicalPearl": "Argatroban does not cross-react with heparin antibodies."
   },
- 
-
 
  {
     "id": "rn-q-554",
@@ -11301,12 +9988,6 @@
     "rationale": "aPTT is used to guide dosing of direct thrombin inhibitors like argatroban.",
     "clinicalPearl": "Frequent aPTT monitoring ensures safe and effective anticoagulation."
   },
- 
-
-
-
-
-
 
  {
     "id": "rn-q-555",
@@ -11325,8 +10006,6 @@
     "rationale": "All anticoagulants increase the risk of bleeding.",
     "clinicalPearl": "Assess for overt and occult bleeding during therapy."
   },
- 
-
 
  {
     "id": "rn-q-556",
@@ -11345,11 +10024,6 @@
     "rationale": "Bivalirudin is commonly used as an anticoagulant during invasive cardiac procedures such as PCI.",
     "clinicalPearl": "Bivalirudin is often preferred in patients at risk for HIT undergoing PCI."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-557",
@@ -11368,9 +10042,6 @@
     "rationale": "Direct thrombin inhibitors increase bleeding risk.",
     "clinicalPearl": "Monitor access sites closely following cardiac procedures."
   },
-  
-
-
 
 {
     "id": "rn-q-558",
@@ -11389,11 +10060,6 @@
     "rationale": "Bivalirudin does not trigger immune-mediated HIT like heparin can.",
     "clinicalPearl": "Consider bivalirudin in patients with a history of HIT."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-559",
@@ -11412,9 +10078,6 @@
     "rationale": "Low molecular weight heparins can still cause HIT, so platelet counts must be monitored.",
     "clinicalPearl": "A decreasing platelet count may indicate HIT even with LMWH."
   },
- 
-
-
 
  {
     "id": "rn-q-560",
@@ -11434,10 +10097,6 @@
     "clinicalPearl": "Inject into the abdomen at least 2 inches away from the umbilicus."
   },
 
-
-
-
-
   {
     "id": "rn-q-561",
     "scope": ["RN"],
@@ -11456,7 +10115,6 @@
     "clinicalPearl": "Apply gentle pressure only after injection to minimize bleeding."
   },
 
-  
   {
     "id": "rn-q-562",
     "scope": ["RN"],
@@ -11474,8 +10132,6 @@
     "rationale": "Low molecular weight heparins can cause heparin-induced thrombocytopenia (HIT); platelet counts should be monitored.",
     "clinicalPearl": "A sudden drop in platelets while on LMWH may indicate HIT and requires immediate evaluation."
   },
- 
-
 
  {
     "id": "rn-q-563",
@@ -11494,9 +10150,6 @@
     "rationale": "Dalteparin is administered via subcutaneous injection.",
     "clinicalPearl": "Do not aspirate or massage the injection site to reduce bruising risk."
   },
- 
-
-
 
  {
     "id": "rn-q-564",
@@ -11515,9 +10168,6 @@
     "rationale": "All anticoagulants increase the risk of bleeding, which is the most serious complication.",
     "clinicalPearl": "Monitor for signs of internal bleeding such as bruising, hematuria, or black tarry stools."
   },
-  
-
-
 
 {
     "id": "rn-q-565",
@@ -11536,9 +10186,6 @@
     "rationale": "INR reflects the clotting time affected by warfarin and guides dosing adjustments.",
     "clinicalPearl": "The typical therapeutic INR range for most indications is 2.0–3.0."
   },
- 
-
-
 
  {
     "id": "rn-q-566",
@@ -11557,9 +10204,6 @@
     "rationale": "Vitamin K intake must remain consistent to maintain stable INR levels.",
     "clinicalPearl": "Sudden increases or decreases in vitamin K intake can significantly alter INR."
   },
-  
-
-
 
 {
     "id": "rn-q-567",
@@ -11578,9 +10222,6 @@
     "rationale": "Vitamin K restores clotting factor synthesis and reverses warfarin effects.",
     "clinicalPearl": "Severe warfarin-associated bleeding may also require fresh frozen plasma or prothrombin complex concentrate."
   },
-  
-
-
 
 {
     "id": "rn-q-568",
@@ -11599,9 +10240,6 @@
     "rationale": "Apixaban is a direct oral anticoagulant used to prevent embolic stroke in atrial fibrillation.",
     "clinicalPearl": "Apixaban does not require routine INR monitoring."
   },
- 
-
-
 
  {
     "id": "rn-q-569",
@@ -11620,9 +10258,6 @@
     "rationale": "Direct oral anticoagulants do not require routine laboratory monitoring.",
     "clinicalPearl": "Although routine labs are not required, renal function should be assessed periodically."
   },
-  
-
-
 
 {
     "id": "rn-q-570",
@@ -11642,7 +10277,6 @@
     "clinicalPearl": "Patients should report unusual bruising, prolonged bleeding, or blood in urine or stool."
   },
 
-  
   {
     "id": "rn-q-571",
     "scope": ["RN"],
@@ -11660,8 +10294,6 @@
     "rationale": "Higher doses of rivaroxaban require food to increase absorption and ensure therapeutic effect.",
     "clinicalPearl": "The 15 mg and 20 mg doses of rivaroxaban should be taken with meals."
   },
- 
-
 
  {
     "id": "rn-q-572",
@@ -11680,8 +10312,6 @@
     "rationale": "Rivaroxaban is a direct Factor Xa inhibitor used to prevent and treat venous thromboembolism.",
     "clinicalPearl": "Rivaroxaban is commonly used for both treatment and secondary prevention of DVT and PE."
   },
- 
-
 
  {
     "id": "rn-q-573",
@@ -11701,8 +10331,6 @@
     "clinicalPearl": "Patients should report black stools, hematuria, or prolonged bleeding immediately."
   },
 
-
-
   {
     "id": "rn-q-574",
     "scope": ["RN"],
@@ -11720,11 +10348,6 @@
     "rationale": "Edoxaban is a direct Factor Xa inhibitor that prevents thrombin generation.",
     "clinicalPearl": "Factor Xa inhibitors block the conversion of prothrombin to thrombin."
   },
-
-
-
-
-
 
   {
     "id": "rn-q-575",
@@ -11744,9 +10367,6 @@
     "clinicalPearl": "Consistent daily dosing is critical for DOAC effectiveness."
   },
 
-
-
-
   {
     "id": "rn-q-576",
     "scope": ["RN"],
@@ -11764,11 +10384,6 @@
     "rationale": "Routine coagulation monitoring is not required with edoxaban.",
     "clinicalPearl": "Renal function should still be monitored periodically."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-577",
@@ -11787,8 +10402,6 @@
     "rationale": "Dyspepsia and bleeding are common adverse effects of dabigatran.",
     "clinicalPearl": "Taking dabigatran with a full glass of water may reduce GI discomfort."
   },
- 
-
 
  {
     "id": "rn-q-578",
@@ -11807,12 +10420,6 @@
     "rationale": "Idarucizumab specifically binds to and reverses dabigatran.",
     "clinicalPearl": "Idarucizumab provides rapid reversal in cases of life-threatening bleeding."
   },
- 
-
-
-
-
-
 
  {
     "id": "rn-q-579",
@@ -11832,7 +10439,6 @@
     "clinicalPearl": "Dabigatran capsules should be kept in their original container to protect from moisture."
   },
 
-  
   {
     "id": "rn-q-580",
     "scope": ["RN"],
@@ -11850,8 +10456,6 @@
     "rationale": "Protamine sulfate binds to and neutralizes heparin.",
     "clinicalPearl": "Protamine only partially reverses low molecular weight heparins."
   },
-  
-
 
 {
     "id": "rn-q-581",
@@ -11870,8 +10474,6 @@
     "rationale": "Protamine may cause severe hypotension and hypersensitivity reactions.",
     "clinicalPearl": "Administer protamine slowly IV to reduce risk of hypotension."
   },
- 
-
 
  {
     "id": "rn-q-582",
@@ -11890,10 +10492,6 @@
     "rationale": "Protamine is derived from fish sperm proteins and may cause allergic reactions in patients with fish allergy.",
     "clinicalPearl": "Patients with prior vasectomy or exposure to protamine-containing insulin may also be at higher risk."
   },
- 
-
-
-
 
  {
     "id": "rn-q-583",
@@ -11912,9 +10510,6 @@
     "rationale": "Vitamin K restores clotting factor production inhibited by warfarin.",
     "clinicalPearl": "Vitamin K reversal may take several hours depending on route of administration."
   },
- 
-
-
 
  {
     "id": "rn-q-584",
@@ -11934,9 +10529,6 @@
     "clinicalPearl": "IV vitamin K should be administered slowly to prevent anaphylactoid reactions."
   },
 
-
-
-
   {
     "id": "rn-q-585",
     "scope": ["RN"],
@@ -11954,9 +10546,6 @@
     "rationale": "Vitamin K restores clotting factor synthesis, lowering the INR.",
     "clinicalPearl": "Monitor INR closely after vitamin K administration to guide further therapy."
   },
- 
-
-
 
  {
     "id": "rn-q-586",
@@ -11975,11 +10564,6 @@
     "rationale": "Aspirin inhibits thromboxane A2, preventing platelet aggregation.",
     "clinicalPearl": "Aspirin irreversibly affects platelets for their lifespan (7–10 days)."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-587",
@@ -11999,8 +10583,6 @@
     "clinicalPearl": "Use cautiously in patients with a history of ulcers or GI bleeding."
   },
  
-
-
  {
     "id": "rn-q-588",
     "scope": ["RN"],
@@ -12018,12 +10600,6 @@
     "rationale": "Aspirin increases the risk of GI bleeding, especially in patients with ulcers.",
     "clinicalPearl": "Consider gastroprotective therapy if aspirin is required in high-risk patients."
   },
- 
-
-
-
-
-
 
  {
     "id": "rn-q-589",
@@ -12042,9 +10618,6 @@
     "rationale": "Clopidogrel prevents platelet aggregation and reduces risk of stent thrombosis.",
     "clinicalPearl": "Dual antiplatelet therapy is common after stent placement."
   },
- 
-
-
 
  {
     "id": "rn-q-590",
@@ -12063,10 +10636,6 @@
     "rationale": "Clopidogrel increases bleeding risk and unusual bleeding should be reported promptly.",
     "clinicalPearl": "Monitor for signs of internal bleeding such as black stools or hematuria."
   },
-  
-
-
-
 
 {
     "id": "rn-q-591",
@@ -12086,7 +10655,6 @@
     "clinicalPearl": "Routine INR monitoring is not required for antiplatelet agents."
   },
 
-  
   {
     "id": "rn-q-592",
     "scope": ["RN"],
@@ -12104,9 +10672,6 @@
     "rationale": "Prasugrel is a P2Y12 receptor inhibitor that prevents platelet aggregation.",
     "clinicalPearl": "Prasugrel provides more potent platelet inhibition than clopidogrel."
   },
-  
-
-
 
 {
     "id": "rn-q-593",
@@ -12125,9 +10690,6 @@
     "rationale": "Prasugrel significantly increases bleeding risk in patients with a history of stroke or TIA.",
     "clinicalPearl": "Prasugrel is contraindicated in patients with prior stroke or TIA."
   },
-  
-
-
 
 {
     "id": "rn-q-594",
@@ -12146,10 +10708,6 @@
     "rationale": "All antiplatelet agents increase the risk of bleeding.",
     "clinicalPearl": "Monitor for signs of internal bleeding such as melena or hematuria."
   },
-  
-
-
-
 
 {
     "id": "rn-q-595",
@@ -12168,9 +10726,6 @@
     "rationale": "Ticagrelor reversibly inhibits P2Y12 platelet receptors.",
     "clinicalPearl": "Unlike clopidogrel, ticagrelor does not require metabolic activation."
   },
-  
-
-
 
 {
     "id": "rn-q-596",
@@ -12189,10 +10744,6 @@
     "rationale": "Dyspnea is a known adverse effect associated with ticagrelor.",
     "clinicalPearl": "Dyspnea with ticagrelor is often mild and transient but should still be assessed."
   },
-  
-
-
-
 
 {
     "id": "rn-q-597",
@@ -12211,10 +10762,6 @@
     "rationale": "High-dose aspirin reduces the effectiveness of ticagrelor.",
     "clinicalPearl": "Ticagrelor is typically given with low-dose aspirin (≤100 mg daily)."
   },
- 
-
-
-
 
  {
     "id": "rn-q-598",
@@ -12233,10 +10780,6 @@
     "rationale": "Cangrelor is administered intravenously during procedures.",
     "clinicalPearl": "Cangrelor has a very short half-life and provides rapid platelet inhibition."
   },
- 
-
-
-
 
  {
     "id": "rn-q-599",
@@ -12255,9 +10798,6 @@
     "rationale": "Cangrelor is used during percutaneous coronary intervention (PCI).",
     "clinicalPearl": "It is useful when rapid, short-term platelet inhibition is needed."
   },
- 
-
-
 
  {
     "id": "rn-q-600",
@@ -12277,7 +10817,6 @@
     "clinicalPearl": "Careful monitoring during and after infusion is essential."
   },
 
-  
   {
     "id": "rn-q-601",
     "scope": ["RN"],
@@ -12295,9 +10834,6 @@
     "rationale": "Eptifibatide is a GPIIb/IIIa inhibitor that prevents platelet aggregation.",
     "clinicalPearl": "GPIIb/IIIa inhibitors provide potent, short-term platelet inhibition during ACS and PCI."
   },
- 
-
-
 
  {
     "id": "rn-q-602",
@@ -12316,9 +10852,6 @@
     "rationale": "Eptifibatide is used in acute coronary syndrome and during PCI.",
     "clinicalPearl": "It reduces the risk of thrombotic complications during coronary interventions."
   },
- 
-
-
 
  {
     "id": "rn-q-603",
@@ -12337,9 +10870,6 @@
     "rationale": "Thrombocytopenia may occur with GPIIb/IIIa inhibitors.",
     "clinicalPearl": "Monitor for sudden drops in platelets and signs of bleeding."
   },
-  
-
-
 
 {
     "id": "rn-q-604",
@@ -12358,11 +10888,6 @@
     "rationale": "Alteplase is a thrombolytic that dissolves existing clots.",
     "clinicalPearl": "Thrombolytics convert plasminogen to plasmin to break down fibrin clots."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-605",
@@ -12381,10 +10906,6 @@
     "rationale": "Eligibility for alteplase depends on symptom onset within the approved time window and absence of contraindications.",
     "clinicalPearl": "Time is brain — earlier treatment improves neurologic outcomes."
   },
-  
-
-
-
 
 {
     "id": "rn-q-606",
@@ -12403,7 +10924,6 @@
     "rationale": "Major bleeding, especially intracranial hemorrhage, is the most life-threatening risk.",
     "clinicalPearl": "Frequent neurologic assessments are critical after thrombolytic administration."
   },
- 
 
  {
     "id": "rn-q-607",
@@ -12423,8 +10943,6 @@
     "clinicalPearl": "Tenecteplase is a modified form of alteplase with greater fibrin specificity."
   },
 
-
-
   {
     "id": "rn-q-608",
     "scope": ["RN"],
@@ -12442,10 +10960,6 @@
     "rationale": "Tenecteplase is administered as a single IV bolus, making it easier to deliver.",
     "clinicalPearl": "Single bolus dosing improves speed and simplicity in emergency STEMI care."
   },
-  
-
-
-
 
 {
     "id": "rn-q-609",
@@ -12465,7 +10979,6 @@
     "clinicalPearl": "Monitor IV sites, neurologic status, and vital signs closely after administration."
   },
 
-  
   {
     "id": "rn-q-610",
     "scope": ["RN"],
@@ -12483,7 +10996,6 @@
     "rationale": "Statins may elevate liver enzymes due to hepatic metabolism.",
     "clinicalPearl": "Baseline and periodic liver function tests are recommended during statin therapy."
   },
- 
 
  {
     "id": "rn-q-611",
@@ -12502,9 +11014,6 @@
     "rationale": "Muscle pain and weakness may indicate rhabdomyolysis, a serious complication.",
     "clinicalPearl": "Check creatine kinase (CK) levels if myopathy is suspected."
   },
-  
-
-
 
 {
     "id": "rn-q-612",
@@ -12523,10 +11032,6 @@
     "rationale": "Grapefruit juice increases statin levels and risk of toxicity.",
     "clinicalPearl": "Patients should not abruptly stop statins without provider guidance."
   },
-  
-
-
-
 
 {
     "id": "rn-q-613",
@@ -12545,10 +11050,6 @@
     "rationale": "Statins block HMG-CoA reductase, reducing hepatic cholesterol synthesis.",
     "clinicalPearl": "Reduced cholesterol synthesis increases LDL receptor expression."
   },
-  
-
-
-
 
 {
     "id": "rn-q-614",
@@ -12567,10 +11068,6 @@
     "rationale": "Muscle tenderness may signal statin-induced myopathy.",
     "clinicalPearl": "Early recognition of muscle symptoms can prevent severe rhabdomyolysis."
   },
-  
-
-
-
 
 {
     "id": "rn-q-615",
@@ -12590,9 +11087,6 @@
     "clinicalPearl": "Persistent elevation of liver enzymes may require dosage adjustment."
   },
 
-
-
-
   {
     "id": "rn-q-616",
     "scope": ["RN"],
@@ -12610,11 +11104,6 @@
     "rationale": "Pitavastatin is used to treat dyslipidemia by lowering LDL cholesterol.",
     "clinicalPearl": "Lifestyle changes should accompany statin therapy."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-617",
@@ -12633,9 +11122,6 @@
     "rationale": "Muscle injury risk, including myopathy and rhabdomyolysis, is a class-wide statin effect.",
     "clinicalPearl": "Concurrent use with certain drugs increases myopathy risk."
   },
- 
-
-
 
  {
     "id": "rn-q-618",
@@ -12654,9 +11140,6 @@
     "rationale": "Statins are contraindicated in pregnancy due to risk of fetal harm.",
     "clinicalPearl": "Women of childbearing age should use effective contraception while taking statins."
   },
-  
-
-
 
 {
     "id": "rn-q-619",
@@ -12675,9 +11158,6 @@
     "rationale": "Pravastatin is not heavily metabolized by CYP enzymes, reducing drug interactions.",
     "clinicalPearl": "Pravastatin is often preferred in patients taking multiple medications."
   },
- 
-
-
 
  {
     "id": "rn-q-620",
@@ -12697,10 +11177,6 @@
     "clinicalPearl": "Shorter-acting statins are typically given in the evening."
   },
 
-
-
-
-
   {
     "id": "rn-q-621",
     "scope": ["RN"],
@@ -12719,7 +11195,6 @@
     "clinicalPearl": "Rhabdomyolysis is rare but life-threatening and requires immediate intervention."
   },
 
-  
   {
     "id": "rn-q-622",
     "scope": ["RN"],
@@ -12755,9 +11230,6 @@
     "rationale": "Muscle pain and weakness may indicate myopathy or rhabdomyolysis.",
     "clinicalPearl": "Unexplained muscle symptoms warrant prompt evaluation and possible CK testing."
   },
-  
-
-
 
 {
     "id": "rn-q-624",
@@ -12776,9 +11248,6 @@
     "rationale": "Statins are contraindicated in pregnancy due to potential harm to the fetus.",
     "clinicalPearl": "Women of childbearing age should use reliable contraception while on statins."
   },
- 
-
-
 
  {
     "id": "rn-q-625",
@@ -12797,8 +11266,6 @@
     "rationale": "Statins reduce cholesterol synthesis in the liver by inhibiting HMG-CoA reductase.",
     "clinicalPearl": "Decreased cholesterol synthesis leads to increased LDL receptor expression."
   },
-  
-
 
 {
     "id": "rn-q-626",
@@ -12817,9 +11284,6 @@
     "rationale": "Simvastatin is metabolized by CYP3A4; inhibitors increase statin levels and muscle toxicity risk.",
     "clinicalPearl": "Examples include certain macrolides and azole antifungals."
   },
-  
-
-
 
 {
     "id": "rn-q-627",
@@ -12838,9 +11302,6 @@
     "rationale": "Cholesterol synthesis peaks at night, making evening dosing most effective.",
     "clinicalPearl": "Shorter-acting statins are best administered in the evening."
   },
-  
-
-
 
 {
     "id": "rn-q-628",
@@ -12859,11 +11320,6 @@
     "rationale": "Alirocumab is a PCSK9 inhibitor that increases LDL receptor availability.",
     "clinicalPearl": "PCSK9 inhibitors significantly reduce LDL levels in high-risk patients."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-629",
@@ -12883,9 +11339,6 @@
     "clinicalPearl": "Patients may self-administer injections after proper instruction."
   },
 
-
-
-
   {
     "id": "rn-q-630",
     "scope": ["RN"],
@@ -12903,7 +11356,6 @@
     "rationale": "Local injection site reactions are the most commonly reported adverse effect.",
     "clinicalPearl": "Rotating injection sites can help minimize local irritation."
   },
-
   
   {
     "id": "rn-q-631",
@@ -12922,8 +11374,6 @@
     "rationale": "Evolocumab is a biologic PCSK9 inhibitor that significantly lowers LDL cholesterol.",
     "clinicalPearl": "PCSK9 inhibitors are used in high-risk patients who need additional LDL reduction."
   },
-  
-
 
 {
     "id": "rn-q-632",
@@ -12943,8 +11393,6 @@
     "clinicalPearl": "Extended dosing intervals improve adherence compared with daily oral agents."
   },
 
-
-
   {
     "id": "rn-q-633",
     "scope": ["RN"],
@@ -12962,9 +11410,6 @@
     "rationale": "Evolocumab is indicated for patients with persistently elevated LDL despite statins or statin intolerance.",
     "clinicalPearl": "Often used in familial hypercholesterolemia or established ASCVD."
   },
-
-
-
 
   {
     "id": "rn-q-634",
@@ -12984,10 +11429,6 @@
     "clinicalPearl": "Reduced PCSK9 increases LDL receptor availability and lowers LDL levels."
   },
 
-
-
-
-
   {
     "id": "rn-q-635",
     "scope": ["RN"],
@@ -13005,9 +11446,6 @@
     "rationale": "After initial and 3-month doses, inclisiran is administered every 6 months.",
     "clinicalPearl": "Twice-yearly dosing improves long-term adherence."
   },
- 
-
-
 
  {
     "id": "rn-q-636",
@@ -13026,11 +11464,6 @@
     "rationale": "Inclisiran’s long duration allows dosing only twice per year after initiation.",
     "clinicalPearl": "Reduced dosing frequency can enhance adherence in chronic therapy."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-637",
@@ -13049,9 +11482,6 @@
     "rationale": "Cholestyramine binds bile acids, preventing their reabsorption and promoting cholesterol excretion.",
     "clinicalPearl": "Bile acid sequestrants are not systemically absorbed."
   },
-  
-
-
 
 {
     "id": "rn-q-638",
@@ -13071,9 +11501,6 @@
     "clinicalPearl": "Encourage fluids and fiber to reduce GI discomfort."
   },
 
-
-
-
   {
     "id": "rn-q-639",
     "scope": ["RN"],
@@ -13092,7 +11519,6 @@
     "clinicalPearl": "Administer other drugs at least 1 hour before or 4 hours after cholestyramine."
   },
 
-  
   {
     "id": "rn-q-640",
     "scope": ["RN"],
@@ -13110,8 +11536,6 @@
     "rationale": "Colesevelam is a bile acid sequestrant used to lower LDL cholesterol.",
     "clinicalPearl": "It works in the intestine and is not systemically absorbed."
   },
- 
-
 
  {
     "id": "rn-q-641",
@@ -13131,9 +11555,6 @@
     "clinicalPearl": "Improved tolerability may enhance adherence."
   },
 
-
-
-
   {
     "id": "rn-q-642",
     "scope": ["RN"],
@@ -13151,11 +11572,6 @@
     "rationale": "Constipation is a common side effect of bile acid sequestrants.",
     "clinicalPearl": "Encourage adequate fluid and fiber intake."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-643",
@@ -13174,9 +11590,6 @@
     "rationale": "Colestipol binds bile acids, reducing absorption of fat-soluble vitamins.",
     "clinicalPearl": "Long-term therapy may require vitamin supplementation."
   },
- 
-
-
 
  {
     "id": "rn-q-644",
@@ -13195,10 +11608,6 @@
     "rationale": "Gastrointestinal effects such as constipation are common with bile acid resins.",
     "clinicalPearl": "Gradual dose titration can reduce GI discomfort."
   },
-  
-
-
-
 
 
 {
@@ -13219,9 +11628,6 @@
     "clinicalPearl": "Administer other medications at least 1 hour before or 4 hours after."
   },
 
-
-
-
   {
     "id": "rn-q-646",
     "scope": ["RN"],
@@ -13239,11 +11645,6 @@
     "rationale": "Fibrates are most effective at lowering triglyceride levels.",
     "clinicalPearl": "They also modestly increase HDL cholesterol."
   },
-
-
-
-
-
 
   {
     "id": "rn-q-647",
@@ -13263,10 +11664,6 @@
     "clinicalPearl": "Report unexplained muscle tenderness promptly."
   },
 
-
-
-
-
   {
     "id": "rn-q-648",
     "scope": ["RN"],
@@ -13284,10 +11681,6 @@
     "rationale": "Lowering triglycerides reduces the risk of pancreatitis.",
     "clinicalPearl": "Very high triglycerides (>500 mg/dL) increase pancreatitis risk."
   },
-
-
-
-
 
   {
     "id": "rn-q-649",
@@ -13307,10 +11700,6 @@
     "clinicalPearl": "Avoid concurrent use unless benefits outweigh risks."
   },
 
-
-
-
-
   {
     "id": "rn-q-650",
     "scope": ["RN"],
@@ -13329,10 +11718,6 @@
     "clinicalPearl": "They are particularly useful in severe hypertriglyceridemia."
   },
 
-
-
-
-
   {
     "id": "rn-q-651",
     "scope": ["RN"],
@@ -13350,8 +11735,7 @@
     "rationale": "Gemfibrozil is best absorbed when taken 30 minutes before meals.",
     "clinicalPearl": "Consistent timing improves therapeutic effectiveness."
   },
-
-  
+ 
   {
     "id": "rn-q-652",
     "scope": ["RN"],
@@ -13369,8 +11753,6 @@
     "rationale": "Niacin raises HDL and lowers triglycerides and LDL levels.",
     "clinicalPearl": "Niacin is one of the most effective agents for increasing HDL cholesterol."
   },
- 
-
 
  {
     "id": "rn-q-653",
@@ -13389,9 +11771,6 @@
     "rationale": "Prostaglandin-mediated flushing is a common side effect of niacin.",
     "clinicalPearl": "Flushing is most prominent at therapy initiation and may lessen over time."
   },
- 
-
-
 
  {
     "id": "rn-q-654",
@@ -13411,11 +11790,6 @@
     "clinicalPearl": "Taking niacin with food may also reduce flushing severity."
   },
 
-
-
-
-
-
   {
     "id": "rn-q-655",
     "scope": ["RN"],
@@ -13433,10 +11807,6 @@
     "rationale": "Ezetimibe blocks intestinal absorption of cholesterol at the brush border.",
     "clinicalPearl": "Often combined with statins for additional LDL lowering."
   },
-  
-
-
-
 
 {
     "id": "rn-q-656",
@@ -13455,10 +11825,6 @@
     "rationale": "Ezetimibe primarily lowers LDL cholesterol.",
     "clinicalPearl": "LDL reduction is enhanced when used with a statin."
   },
-  
-
-
-
 
 {
     "id": "rn-q-657",
@@ -13477,9 +11843,6 @@
     "rationale": "Myopathy risk increases when ezetimibe is combined with statins.",
     "clinicalPearl": "Report unexplained muscle tenderness or weakness promptly."
   },
- 
-
-
 
  {
     "id": "rn-q-658",
@@ -13498,9 +11861,6 @@
     "rationale": "Epinephrine rapidly reverses airway edema, bronchoconstriction, and hypotension in anaphylaxis.",
     "clinicalPearl": "Early administration significantly improves survival in severe allergic reactions."
   },
-  
-
-
 
 {
     "id": "rn-q-659",
@@ -13519,10 +11879,6 @@
     "rationale": "Epinephrine stimulates beta-1 receptors (increasing heart rate) and beta-2 receptors (bronchodilation).",
     "clinicalPearl": "Tachycardia and tremors are common expected effects."
   },
-  
-
-
-
 
 {
     "id": "rn-q-660",
@@ -13541,7 +11897,6 @@
     "rationale": "IM injection in the thigh allows rapid absorption and onset of action.",
     "clinicalPearl": "The vastus lateralis muscle provides the fastest systemic absorption."
   },
-
   
   {
     "id": "rn-q-661",
@@ -13560,9 +11915,6 @@
     "rationale": "Dopamine increases cardiac output and blood pressure in hypotensive shock states.",
     "clinicalPearl": "Dose-dependent receptor stimulation affects renal, beta-1, and alpha receptors."
   },
-  
-
-
 
 {
     "id": "rn-q-662",
@@ -13581,8 +11933,6 @@
     "rationale": "At higher doses, dopamine stimulates alpha receptors causing vasoconstriction.",
     "clinicalPearl": "High doses significantly increase systemic vascular resistance."
   },
-  
-
 
 {
     "id": "rn-q-663",
@@ -13601,9 +11951,6 @@
     "rationale": "Dopamine can cause arrhythmias and significant blood pressure changes.",
     "clinicalPearl": "Continuous cardiac monitoring is recommended during infusion."
   },
-  
-
-
 
 {
     "id": "rn-q-664",
@@ -13622,11 +11969,6 @@
     "rationale": "Dobutamine is a beta-1 agonist that increases myocardial contractility.",
     "clinicalPearl": "It improves stroke volume and cardiac output in heart failure."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-665",
@@ -13645,9 +11987,6 @@
     "rationale": "Dobutamine improves cardiac output in patients with decompensated heart failure.",
     "clinicalPearl": "Used short-term in acute heart failure or cardiogenic shock."
   },
-  
-
-
 
 {
     "id": "rn-q-666",
@@ -13666,10 +12005,6 @@
     "rationale": "Beta-1 stimulation increases heart rate and risk of arrhythmias.",
     "clinicalPearl": "Continuous ECG monitoring is recommended during therapy."
   },
-  
-
-
-
 
 {
     "id": "rn-q-667",
@@ -13688,9 +12023,6 @@
     "rationale": "Albuterol is a short-acting beta-2 agonist used for rapid bronchodilation.",
     "clinicalPearl": "Often referred to as a rescue inhaler."
   },
- 
-
-
 
  {
     "id": "rn-q-668",
@@ -13709,10 +12041,6 @@
     "rationale": "Beta stimulation commonly causes tremors and increased heart rate.",
     "clinicalPearl": "These effects are dose-related and usually transient."
   },
-  
-
-
-
 
 
 {
@@ -13733,7 +12061,6 @@
     "clinicalPearl": "Frequent need may indicate poor asthma control."
   },
 
-  
   {
     "id": "rn-q-670",
     "scope": ["RN"],
@@ -13752,7 +12079,6 @@
     "clinicalPearl": "It is considered a first-line vasopressor in septic shock."
   },
 
-
   {
     "id": "rn-q-671",
     "scope": ["RN"],
@@ -13770,9 +12096,6 @@
     "rationale": "Norepinephrine strongly stimulates alpha-1 receptors causing vasoconstriction.",
     "clinicalPearl": "It also has some beta-1 activity increasing cardiac output."
   },
-  
-
-
 
 {
     "id": "rn-q-672",
@@ -13791,10 +12114,6 @@
     "rationale": "Potent vasoconstriction can cause severe tissue damage if extravasation occurs.",
     "clinicalPearl": "Administer via central line when possible and monitor IV site closely."
   },
- 
-
-
-
 
  {
     "id": "rn-q-673",
@@ -13813,9 +12132,6 @@
     "rationale": "Diphenhydramine is a first-generation antihistamine that crosses the blood-brain barrier.",
     "clinicalPearl": "Sedation is common due to central nervous system penetration."
   },
- 
-
-
 
  {
     "id": "rn-q-674",
@@ -13835,10 +12151,6 @@
     "clinicalPearl": "Caution in patients sensitive to anticholinergic effects."
   },
 
-
-
-
-
   {
     "id": "rn-q-675",
     "scope": ["RN"],
@@ -13856,9 +12168,6 @@
     "rationale": "Sedation and dizziness increase fall risk in older adults.",
     "clinicalPearl": "First-generation antihistamines are on the Beers Criteria list."
   },
- 
-
-
 
  {
     "id": "rn-q-676",
@@ -13878,11 +12187,6 @@
     "clinicalPearl": "It selectively blocks peripheral H1 receptors."
   },
 
-
-
-
-
-
   {
     "id": "rn-q-677",
     "scope": ["RN"],
@@ -13901,9 +12205,6 @@
     "clinicalPearl": "Advise caution when driving until response is known."
   },
   
-
-
-
 {
     "id": "rn-q-678",
     "scope": ["RN"],
@@ -13922,11 +12223,6 @@
     "clinicalPearl": "Effective for seasonal and perennial allergies."
   },
   
-
-
-
-
-
 {
     "id": "rn-q-679",
     "scope": ["RN"],
@@ -13944,9 +12240,6 @@
     "rationale": "Levocetirizine is the active enantiomer, making it more potent.",
     "clinicalPearl": "Lower doses achieve similar therapeutic effects."
   },
-
-
-
 
   {
     "id": "rn-q-680",
@@ -13966,11 +12259,6 @@
     "clinicalPearl": "Improved receptor selectivity may reduce side effects."
   },
 
-
-
-
-
-
   {
     "id": "rn-q-681",
     "scope": ["RN"],
@@ -13988,7 +12276,6 @@
     "rationale": "Some sedation may still occur despite improved selectivity.",
     "clinicalPearl": "Advise patients to assess alertness before driving."
   },
-
   
   {
     "id": "rn-q-670",
@@ -14007,9 +12294,6 @@
     "rationale": "Loratadine is a second-generation antihistamine with minimal sedation.",
     "clinicalPearl": "It is commonly used for seasonal allergic rhinitis and urticaria."
   },
- 
-
-
 
  {
     "id": "rn-q-671",
@@ -14028,9 +12312,6 @@
     "rationale": "Second-generation antihistamines like loratadine cause minimal sedation compared to first-generation agents.",
     "clinicalPearl": "Patients who need daytime symptom relief often prefer loratadine."
   },
- 
-
-
 
  {
     "id": "rn-q-672",
@@ -14049,10 +12330,6 @@
     "rationale": "Loratadine is indicated for allergic rhinitis and chronic urticaria.",
     "clinicalPearl": "It does not treat acute asthma symptoms."
   },
- 
-
-
-
 
  {
     "id": "rn-q-673",
@@ -14071,9 +12348,6 @@
     "rationale": "Fexofenadine is a second-generation antihistamine with minimal CNS penetration.",
     "clinicalPearl": "It is preferred for patients who need non-sedating allergy relief."
   },
- 
-
-
 
  {
     "id": "rn-q-674",
@@ -14093,10 +12367,6 @@
     "clinicalPearl": "Take with water for best absorption."
   },
 
-
-
-
-
   {
     "id": "rn-q-675",
     "scope": ["RN"],
@@ -14114,10 +12384,6 @@
     "rationale": "Fexofenadine is indicated for seasonal allergic rhinitis and chronic urticaria.",
     "clinicalPearl": "It does not relieve acute bronchospasm."
   },
-  
-
-
-
 
 {
     "id": "rn-q-676",
@@ -14136,10 +12402,6 @@
     "rationale": "Desloratadine is the primary active metabolite of loratadine.",
     "clinicalPearl": "It provides long-acting antihistamine effects."
   },
- 
-
-
-
 
  {
     "id": "rn-q-677",
@@ -14158,9 +12420,6 @@
     "rationale": "Desloratadine is generally well tolerated, but headache can occur.",
     "clinicalPearl": "Sedation is uncommon but still possible."
   },
- 
-
-
 
  {
     "id": "rn-q-678",
@@ -14180,7 +12439,6 @@
     "clinicalPearl": "Improves adherence due to convenient once-daily dosing."
   },
 
-  
   {
     "id": "rn-q-679",
     "scope": ["RN"],
@@ -14198,8 +12456,6 @@
     "rationale": "Oxymetazoline is a topical alpha-agonist that causes vasoconstriction in nasal blood vessels.",
     "clinicalPearl": "It provides rapid relief of nasal congestion."
   },
- 
-
 
  {
     "id": "rn-q-680",
@@ -14218,9 +12474,6 @@
     "rationale": "Prolonged use can cause rhinitis medicamentosa, leading to rebound congestion.",
     "clinicalPearl": "Limit use to prevent dependence and worsening congestion."
   },
- 
-
-
 
  {
     "id": "rn-q-681",
@@ -14239,8 +12492,6 @@
     "rationale": "Use longer than 3 days increases risk of rebound congestion.",
     "clinicalPearl": "Short-term use prevents rhinitis medicamentosa."
   },
-  
-
 
 {
     "id": "rn-q-682",
@@ -14259,11 +12510,6 @@
     "rationale": "Pseudoephedrine is a sympathomimetic that shrinks swollen nasal mucosa via vasoconstriction.",
     "clinicalPearl": "It reduces nasal airway resistance."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-683",
@@ -14282,9 +12528,6 @@
     "rationale": "Pseudoephedrine can increase blood pressure due to its sympathomimetic effects.",
     "clinicalPearl": "Monitor BP in patients with cardiovascular disease."
   },
- 
-
-
 
  {
     "id": "rn-q-684",
@@ -14303,9 +12546,6 @@
     "rationale": "Pseudoephedrine has stimulant-like effects that can cause nervousness and insomnia.",
     "clinicalPearl": "Advise patients to avoid taking it close to bedtime."
   },
- 
-
-
 
  {
     "id": "rn-q-685",
@@ -14324,9 +12564,6 @@
     "rationale": "Phenylephrine is an alpha-1 agonist that causes vasoconstriction.",
     "clinicalPearl": "Vasoconstriction reduces nasal congestion."
   },
- 
-
-
 
  {
     "id": "rn-q-686",
@@ -14346,11 +12583,6 @@
     "clinicalPearl": "Use cautiously in patients with cardiovascular disease."
   },
  
-
-
-
-
-
  {
     "id": "rn-q-687",
     "scope": ["RN"],
@@ -14369,7 +12601,6 @@
     "clinicalPearl": "Often included in combination cold and flu products."
   },
 
-  
   {
     "id": "rn-q-688",
     "scope": ["RN"],
@@ -14387,9 +12618,6 @@
     "rationale": "Codeine is an opioid that suppresses the cough reflex in the brainstem.",
     "clinicalPearl": "Monitor for sedation and respiratory depression."
   },
- 
-
-
 
  {
     "id": "rn-q-689",
@@ -14408,9 +12636,6 @@
     "rationale": "Guaifenesin is an expectorant that thins and loosens respiratory secretions.",
     "clinicalPearl": "Encourage adequate fluid intake for best effect."
   },
-  
-
-
 
 {
     "id": "rn-q-690",
@@ -14430,11 +12655,6 @@
     "clinicalPearl": "Use cautiously in children and patients with respiratory conditions."
   },
 
-
-
-
-
-
   {
     "id": "rn-q-691",
     "scope": ["RN"],
@@ -14452,10 +12672,6 @@
     "rationale": "Benzonatate acts peripherally by numbing stretch receptors in the respiratory tract.",
     "clinicalPearl": "It is a non-opioid antitussive."
   },
-  
-
-
-
 
 {
     "id": "rn-q-692",
@@ -14474,9 +12690,6 @@
     "rationale": "Chewing benzonatate can cause oral and airway numbness leading to choking.",
     "clinicalPearl": "Capsules must not be broken or chewed."
   },
-  
-
-
 
 {
     "id": "rn-q-693",
@@ -14495,9 +12708,6 @@
     "rationale": "Airway anesthesia can impair protective reflexes and cause life-threatening airway obstruction.",
     "clinicalPearl": "Seek immediate care if breathing difficulty occurs."
   },
- 
-
-
 
  {
     "id": "rn-q-694",
@@ -14517,10 +12727,6 @@
     "clinicalPearl": "It is not an opioid but acts on the cough center."
   },
 
-
-
-
-
   {
     "id": "rn-q-695",
     "scope": ["RN"],
@@ -14538,10 +12744,6 @@
     "rationale": "Combining with MAO inhibitors increases risk of serotonin syndrome.",
     "clinicalPearl": "Avoid use within 14 days of MAOI therapy."
   },
- 
-
-
-
 
  {
     "id": "rn-q-696",
@@ -14560,10 +12762,6 @@
     "rationale": "High doses can produce dissociative and euphoric effects.",
     "clinicalPearl": "Monitor adolescents for misuse."
   },
-  
-
-
-
 
 {
     "id": "rn-q-697",
@@ -14582,10 +12780,6 @@
     "rationale": "Guaifenesin loosens and thins respiratory secretions.",
     "clinicalPearl": "Helps convert dry cough to productive cough."
   },
- 
-
-
-
 
  {
     "id": "rn-q-698",
@@ -14604,10 +12798,6 @@
     "rationale": "Adequate hydration enhances mucus thinning.",
     "clinicalPearl": "Encourage patients to drink plenty of water."
   },
- 
-
-
-
 
  {
     "id": "rn-q-699",
@@ -14627,7 +12817,6 @@
     "clinicalPearl": "Goal is improved airway clearance, not cough elimination."
   },
 
-  
   {
     "id": "rn-q-700",
     "scope": ["RN"],
@@ -14645,8 +12834,6 @@
     "rationale": "Acetylcysteine is a mucolytic and the antidote for acetaminophen toxicity.",
     "clinicalPearl": "It replenishes glutathione to protect the liver."
   },
-  
-
 
 {
     "id": "rn-q-701",
@@ -14665,9 +12852,6 @@
     "rationale": "Inhaled acetylcysteine can irritate airways and has a sulfur-like odor.",
     "clinicalPearl": "Pre-treatment with a bronchodilator may reduce bronchospasm."
   },
-  
-
-
 
 {
     "id": "rn-q-702",
@@ -14686,11 +12870,6 @@
     "rationale": "Risk of bronchospasm requires close monitoring of respiratory status.",
     "clinicalPearl": "Ensure suction equipment is available if secretions increase."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-703",
@@ -14709,9 +12888,6 @@
     "rationale": "Dornase alfa reduces mucus viscosity by cleaving extracellular DNA.",
     "clinicalPearl": "Helps improve lung function in cystic fibrosis."
   },
- 
-
-
 
  {
     "id": "rn-q-704",
@@ -14731,11 +12907,6 @@
     "clinicalPearl": "Used as part of long-term airway clearance therapy."
   },
  
-
-
-
-
-
  {
     "id": "rn-q-705",
     "scope": ["RN"],
@@ -14754,9 +12925,6 @@
     "clinicalPearl": "Monitor pulmonary function tests for improvement."
   },
 
-
-
-
   {
     "id": "rn-q-706",
     "scope": ["RN"],
@@ -14774,10 +12942,6 @@
     "rationale": "Levalbuterol is the R-enantiomer of albuterol and is more selective for beta-2 receptors.",
     "clinicalPearl": "May produce less tachycardia compared to racemic albuterol."
   },
- 
-
-
-
 
  {
     "id": "rn-q-707",
@@ -14796,9 +12960,6 @@
     "rationale": "Beta-2 agonists can still stimulate the cardiovascular system.",
     "clinicalPearl": "Monitor heart rate during frequent dosing."
   },
- 
-
-
 
  {
     "id": "rn-q-708",
@@ -14817,7 +12978,6 @@
     "rationale": "Levalbuterol is a short-acting beta-2 agonist used as a rescue bronchodilator.",
     "clinicalPearl": "Used for quick relief of asthma symptoms."
   },
-
   
   {
     "id": "rn-q-709",
@@ -14837,9 +12997,6 @@
     "clinicalPearl": "It provides maintenance therapy, not rapid relief."
   },
 
-
-
-
   {
     "id": "rn-q-710",
     "scope": ["RN"],
@@ -14858,10 +13015,6 @@
     "clinicalPearl": "Always pair with a rescue inhaler for sudden symptoms."
   },
 
-
-
-
-
   {
     "id": "rn-q-711",
     "scope": ["RN"],
@@ -14879,9 +13032,6 @@
     "rationale": "LABA monotherapy increases asthma-related death risk; combine with ICS.",
     "clinicalPearl": "Combination therapy improves safety and control."
   },
-  
-
-
 
 {
     "id": "rn-q-712",
@@ -14900,10 +13050,6 @@
     "rationale": "Ephedrine stimulates alpha and beta receptors causing bronchodilation and vasoconstriction.",
     "clinicalPearl": "It is a non-selective sympathomimetic."
   },
- 
-
-
-
 
  {
     "id": "rn-q-713",
@@ -14922,10 +13068,6 @@
     "rationale": "Ephedrine can significantly raise blood pressure.",
     "clinicalPearl": "Use caution in patients with cardiovascular disease."
   },
- 
-
-
-
 
  {
     "id": "rn-q-714",
@@ -14944,10 +13086,6 @@
     "rationale": "Sympathomimetic stimulation commonly causes palpitations and anxiety.",
     "clinicalPearl": "Monitor heart rate and blood pressure."
   },
- 
-
-
-
 
  {
     "id": "rn-q-715",
@@ -14966,9 +13104,6 @@
     "rationale": "Ipratropium blocks muscarinic receptors to reduce bronchoconstriction.",
     "clinicalPearl": "Commonly used in COPD management."
   },
- 
-
-
 
  {
     "id": "rn-q-716",
@@ -14987,11 +13122,6 @@
     "rationale": "Anticholinergic effects commonly cause dry mouth.",
     "clinicalPearl": "Advise oral rinsing after inhalation."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-717",
@@ -15010,7 +13140,6 @@
     "rationale": "Ipratropium is a key bronchodilator in COPD treatment.",
     "clinicalPearl": "Often combined with beta-agonists for enhanced effect."
   },
-
   
   {
     "id": "rn-q-718",
@@ -15029,8 +13158,6 @@
     "rationale": "Tiotropium is a long-acting muscarinic antagonist (LAMA) used once daily.",
     "clinicalPearl": "Provides sustained bronchodilation for maintenance therapy."
   },
- 
-
 
  {
     "id": "rn-q-719",
@@ -15050,9 +13177,6 @@
     "clinicalPearl": "Patients should keep a short-acting bronchodilator for rescue use."
   },
 
-
-
-
   {
     "id": "rn-q-720",
     "scope": ["RN"],
@@ -15070,11 +13194,6 @@
     "rationale": "Tiotropium is primarily indicated for maintenance treatment of COPD.",
     "clinicalPearl": "May also be used as add-on therapy in asthma."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-721",
@@ -15093,9 +13212,6 @@
     "rationale": "Beclomethasone is an inhaled corticosteroid that reduces airway inflammation.",
     "clinicalPearl": "Used for long-term asthma control."
   },
- 
-
-
 
  {
     "id": "rn-q-722",
@@ -15115,11 +13231,6 @@
     "clinicalPearl": "Use of a spacer can also reduce oral deposition."
   },
 
-
-
-
-
-
   {
     "id": "rn-q-723",
     "scope": ["RN"],
@@ -15137,10 +13248,6 @@
     "rationale": "It controls chronic airway inflammation but is not a rescue medication.",
     "clinicalPearl": "Effects may take several days to become noticeable."
   },
- 
-
-
-
 
  {
     "id": "rn-q-724",
@@ -15159,9 +13266,6 @@
     "rationale": "Prednisone is a systemic corticosteroid that suppresses inflammatory and immune responses.",
     "clinicalPearl": "Used for acute exacerbations and inflammatory disorders."
   },
- 
-
-
 
  {
     "id": "rn-q-725",
@@ -15180,9 +13284,6 @@
     "rationale": "Chronic steroid use affects glucose metabolism and bone density.",
     "clinicalPearl": "Monitor blood sugar and bone health in long-term therapy."
   },
- 
-
-
 
  {
     "id": "rn-q-726",
@@ -15201,11 +13302,6 @@
     "rationale": "Abrupt discontinuation can cause adrenal insufficiency.",
     "clinicalPearl": "Taper gradually as prescribed."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-727",
@@ -15224,9 +13320,6 @@
     "rationale": "Methylprednisolone is a potent systemic corticosteroid.",
     "clinicalPearl": "Often given IV for severe inflammatory conditions."
   },
-  
-
-
 
 {
     "id": "rn-q-728",
@@ -15246,11 +13339,6 @@
     "clinicalPearl": "Monitor glucose levels and signs of infection."
   },
 
-
-
-
-
-
   {
     "id": "rn-q-729",
     "scope": ["RN"],
@@ -15269,7 +13357,6 @@
     "clinicalPearl": "Patients should promptly report fever or unusual symptoms."
   },
 
-  
   {
     "id": "rn-q-730",
     "scope": ["RN"],
@@ -15287,8 +13374,6 @@
     "rationale": "Fluticasone is an inhaled corticosteroid that reduces airway inflammation.",
     "clinicalPearl": "Used for maintenance therapy, not acute relief."
   },
- 
-
 
  {
     "id": "rn-q-731",
@@ -15308,9 +13393,6 @@
     "clinicalPearl": "Using a spacer may also help reduce local side effects."
   },
 
-
-
-
   {
     "id": "rn-q-732",
     "scope": ["RN"],
@@ -15328,11 +13410,6 @@
     "rationale": "Fluticasone controls chronic airway inflammation but is not a rescue inhaler.",
     "clinicalPearl": "Therapeutic effects may take several days to weeks."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-733",
@@ -15351,10 +13428,6 @@
     "rationale": "Budesonide is an inhaled corticosteroid used for long-term asthma control.",
     "clinicalPearl": "Not effective for immediate symptom relief."
   },
-  
-
-
-
 
 {
     "id": "rn-q-734",
@@ -15373,10 +13446,6 @@
     "rationale": "Inhaled corticosteroids can cause local fungal infections in the mouth.",
     "clinicalPearl": "Rinsing after use reduces this risk."
   },
- 
-
-
-
 
  {
     "id": "rn-q-735",
@@ -15395,10 +13464,6 @@
     "rationale": "Rinsing prevents oral thrush and irritation.",
     "clinicalPearl": "Consistent daily use improves asthma control."
   },
- 
-
-
-
 
  {
     "id": "rn-q-736",
@@ -15417,9 +13482,6 @@
     "rationale": "Theophylline is a methylxanthine that inhibits phosphodiesterase, increasing cAMP.",
     "clinicalPearl": "Leads to bronchodilation and mild anti-inflammatory effects."
   },
-  
-
-
 
 {
     "id": "rn-q-737",
@@ -15438,9 +13500,6 @@
     "rationale": "Theophylline has a narrow therapeutic range requiring level monitoring.",
     "clinicalPearl": "Toxicity risk increases with small dose changes."
   },
- 
-
-
 
  {
     "id": "rn-q-738",
@@ -15460,7 +13519,6 @@
     "clinicalPearl": "Severe toxicity may lead to seizures."
   },
 
-  
   {
     "id": "rn-q-739",
     "scope": ["RN"],
@@ -15478,9 +13536,6 @@
     "rationale": "Aminophylline is an intravenous formulation that is converted to theophylline in the body.",
     "clinicalPearl": "Used for acute bronchospasm when oral therapy is not feasible."
   },
- 
-
-
 
  {
     "id": "rn-q-740",
@@ -15499,9 +13554,6 @@
     "rationale": "Aminophylline can cause cardiac arrhythmias and blood pressure changes.",
     "clinicalPearl": "Continuous cardiac monitoring is recommended during IV administration."
   },
-  
-
-
 
 {
     "id": "rn-q-741",
@@ -15520,10 +13572,6 @@
     "rationale": "Seizures indicate severe aminophylline toxicity and require urgent intervention.",
     "clinicalPearl": "Toxicity risk increases with elevated serum theophylline levels."
   },
-  
-
-
-
 
 {
     "id": "rn-q-742",
@@ -15542,9 +13590,6 @@
     "rationale": "Montelukast blocks leukotriene receptors to reduce inflammatory bronchoconstriction.",
     "clinicalPearl": "Helpful for asthma and allergic rhinitis prevention."
   },
- 
-
-
 
  {
     "id": "rn-q-743",
@@ -15563,9 +13608,6 @@
     "rationale": "Montelukast is used for long-term prevention of asthma and allergic rhinitis.",
     "clinicalPearl": "It is not effective for acute bronchospasm relief."
   },
- 
-
-
 
  {
     "id": "rn-q-744",
@@ -15584,11 +13626,6 @@
     "rationale": "Montelukast has been associated with neuropsychiatric effects.",
     "clinicalPearl": "Patients should report depression, agitation, or suicidal thoughts."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-745",
@@ -15607,9 +13644,6 @@
     "rationale": "Food reduces the absorption of zafirlukast.",
     "clinicalPearl": "Administer 1 hour before or 2 hours after meals."
   },
-  
-
-
 
 {
     "id": "rn-q-746",
@@ -15628,11 +13662,6 @@
     "rationale": "Zafirlukast carries a risk of hepatotoxicity.",
     "clinicalPearl": "Report symptoms such as jaundice or dark urine."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-747",
@@ -15651,8 +13680,7 @@
     "rationale": "Zafirlukast is a leukotriene receptor antagonist used for asthma prevention.",
     "clinicalPearl": "It does not relieve acute asthma symptoms."
   },
-
-  
+ 
   {
     "id": "rn-q-748",
     "scope": ["RN"],
@@ -15688,9 +13716,6 @@
     "rationale": "Zileuton carries a risk of hepatotoxicity requiring liver function monitoring.",
     "clinicalPearl": "Baseline and periodic LFTs are recommended."
   },
- 
-
-
 
  {
     "id": "rn-q-750",
@@ -15709,11 +13734,6 @@
     "rationale": "Alcohol increases the risk of liver injury with zileuton.",
     "clinicalPearl": "Report symptoms such as jaundice or dark urine."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-751",
@@ -15732,10 +13752,6 @@
     "rationale": "Cromolyn stabilizes mast cells to prevent histamine release.",
     "clinicalPearl": "It is preventive and not effective for acute bronchospasm."
   },
-  
-
-
-
 
 {
     "id": "rn-q-752",
@@ -15754,10 +13770,6 @@
     "rationale": "Cromolyn is most effective when used prophylactically before exposure.",
     "clinicalPearl": "Regular use reduces the frequency of asthma exacerbations."
   },
-  
-
-
-
 
 {
     "id": "rn-q-753",
@@ -15776,9 +13788,6 @@
     "rationale": "Local airway irritation is the most frequent side effect.",
     "clinicalPearl": "Using proper inhalation technique reduces irritation."
   },
-  
-
-
 
 {
     "id": "rn-q-754",
@@ -15797,11 +13806,6 @@
     "rationale": "Somatropin is recombinant human growth hormone.",
     "clinicalPearl": "Used to treat growth hormone deficiency."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-755",
@@ -15820,9 +13824,6 @@
     "rationale": "Growth hormone affects glucose metabolism and fluid retention.",
     "clinicalPearl": "Monitor blood glucose and signs of swelling."
   },
- 
-
-
 
  {
     "id": "rn-q-756",
@@ -15842,11 +13843,6 @@
     "clinicalPearl": "Height and growth charts should be monitored regularly."
   },
 
-
-
-
-
-
   {
     "id": "rn-q-757",
     "scope": ["RN"],
@@ -15864,10 +13860,6 @@
     "rationale": "Bromocriptine is a dopamine agonist that suppresses prolactin secretion.",
     "clinicalPearl": "Also used in Parkinson disease and type 2 diabetes."
   },
-  
-
-
-
 
 {
     "id": "rn-q-758",
@@ -15886,10 +13878,6 @@
     "rationale": "Bromocriptine lowers prolactin levels in patients with hyperprolactinemia.",
     "clinicalPearl": "Helps restore ovulation and reduce galactorrhea."
   },
- 
-
-
-
 
  {
     "id": "rn-q-759",
@@ -15909,7 +13897,6 @@
     "clinicalPearl": "Advise patients to rise slowly to prevent falls."
   },
 
-  
   {
     "id": "rn-q-760",
     "scope": ["RN"],
@@ -15945,9 +13932,6 @@
     "rationale": "Lanreotide is given as a long-acting deep subcutaneous injection.",
     "clinicalPearl": "Typically administered every 4 weeks."
   },
- 
-
-
 
  {
     "id": "rn-q-762",
@@ -15966,10 +13950,6 @@
     "rationale": "Somatostatin analogs commonly cause gastrointestinal disturbances and gallstone formation.",
     "clinicalPearl": "Monitor for abdominal pain or signs of cholelithiasis."
   },
-  
-
-
-
 
 {
     "id": "rn-q-763",
@@ -15988,10 +13968,6 @@
     "rationale": "Octreotide suppresses excess hormone secretion in acromegaly and carcinoid syndrome.",
     "clinicalPearl": "It reduces symptoms such as flushing and diarrhea."
   },
- 
-
-
-
 
  {
     "id": "rn-q-764",
@@ -16010,9 +13986,6 @@
     "rationale": "Improvement in carcinoid symptoms indicates effective hormone suppression.",
     "clinicalPearl": "Symptom relief often correlates with reduced serotonin levels."
   },
- 
-
-
 
  {
     "id": "rn-q-765",
@@ -16031,9 +14004,6 @@
     "rationale": "Octreotide alters insulin and glucagon secretion, affecting blood glucose levels.",
     "clinicalPearl": "Monitor glucose levels regularly during therapy."
   },
-  
-
-
 
 {
     "id": "rn-q-766",
@@ -16052,11 +14022,6 @@
     "rationale": "Pegvisomant is a growth hormone receptor antagonist.",
     "clinicalPearl": "It lowers IGF-1 levels without reducing GH secretion."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-767",
@@ -16075,9 +14040,6 @@
     "rationale": "Pegvisomant is used in acromegaly patients not controlled by somatostatin analogs.",
     "clinicalPearl": "Useful when other therapies fail to normalize IGF-1."
   },
- 
-
-
 
  {
     "id": "rn-q-768",
@@ -16097,7 +14059,6 @@
     "clinicalPearl": "Monitor LFTs before and during therapy."
   },
 
-  
   {
     "id": "rn-q-769",
     "scope": ["RN"],
@@ -16115,9 +14076,6 @@
     "rationale": "Desmopressin is a synthetic ADH analog that increases water reabsorption in the kidneys.",
     "clinicalPearl": "It reduces excessive urination and thirst in central diabetes insipidus."
   },
- 
-
-
 
  {
     "id": "rn-q-770",
@@ -16137,9 +14095,6 @@
     "clinicalPearl": "Monitor for headache, confusion, and seizures."
   },
 
-
-
-
   {
     "id": "rn-q-771",
     "scope": ["RN"],
@@ -16158,9 +14113,6 @@
     "clinicalPearl": "Daily weights can also help assess fluid retention."
   },
 
-
-
-
   {
     "id": "rn-q-772",
     "scope": ["RN"],
@@ -16178,11 +14130,6 @@
     "rationale": "Vasopressin acts as ADH and also causes vasoconstriction via V1 receptors.",
     "clinicalPearl": "It has both antidiuretic and vasopressor properties."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-773",
@@ -16201,10 +14148,6 @@
     "rationale": "Vasopressin is used as a vasopressor to increase blood pressure in shock states.",
     "clinicalPearl": "Often used when patients remain hypotensive despite fluid resuscitation."
   },
-  
-
-
-
 
 {
     "id": "rn-q-774",
@@ -16223,9 +14166,6 @@
     "rationale": "Excess vasoconstriction can reduce coronary blood flow.",
     "clinicalPearl": "Monitor chest pain and ECG changes during infusion."
   },
-  
-
-
 
 {
     "id": "rn-q-775",
@@ -16244,9 +14184,6 @@
     "rationale": "Demeclocycline induces nephrogenic diabetes insipidus to counteract SIADH.",
     "clinicalPearl": "It reduces excessive water reabsorption in the kidneys."
   },
-  
-
-
 
 {
     "id": "rn-q-776",
@@ -16265,11 +14202,6 @@
     "rationale": "Effectiveness is shown by increased free water excretion.",
     "clinicalPearl": "Serum sodium levels should improve with therapy."
   },
-  
-
-
-
-
 
 {
     "id": "rn-q-777",
@@ -16289,7 +14221,6 @@
     "clinicalPearl": "Encourage sun protection and monitor renal function."
   },
 
-  
   {
     "id": "rn-q-778",
     "scope": ["RN"],
@@ -16307,7 +14238,6 @@
     "rationale": "Tolvaptan is a vasopressin receptor antagonist used to correct dilutional hyponatremia.",
     "clinicalPearl": "It promotes free water excretion without significant sodium loss."
   },
-  
 
 {
     "id": "rn-q-779",
@@ -16326,9 +14256,6 @@
     "rationale": "Rapid sodium correction can cause osmotic demyelination, and liver injury is a known risk.",
     "clinicalPearl": "Monitor sodium closely, especially during initiation."
   },
- 
-
-
 
  {
     "id": "rn-q-780",
@@ -16347,10 +14274,6 @@
     "rationale": "Tolvaptan causes aquaresis, increasing free water excretion.",
     "clinicalPearl": "Patients should have access to water and restroom facilities."
   },
- 
-
-
-
 
  {
     "id": "rn-q-781",
@@ -16369,9 +14292,6 @@
     "rationale": "Cortisone is a corticosteroid that replaces deficient adrenal hormones.",
     "clinicalPearl": "Used in adrenal insufficiency and inflammatory conditions."
   },
-  
-
-
 
 {
     "id": "rn-q-782",
@@ -16391,11 +14311,6 @@
     "clinicalPearl": "May require lifelong therapy."
   },
 
-
-
-
-
-
   {
     "id": "rn-q-783",
     "scope": ["RN"],
@@ -16414,9 +14329,6 @@
     "clinicalPearl": "Encourage calcium and vitamin D intake."
   },
  
-
-
-
  {
     "id": "rn-q-784",
     "scope": ["RN"],
@@ -16434,10 +14346,6 @@
     "rationale": "Hydrocortisone is used IV for adrenal crisis and shock due to its glucocorticoid and mineralocorticoid effects.",
     "clinicalPearl": "Rapid administration can be life-saving."
   },
-  
-
-
-
 
 {
     "id": "rn-q-785",
@@ -16457,8 +14365,6 @@
     "clinicalPearl": "Monitor for fever and hyperglycemia."
   },
 
-
-
   {
     "id": "rn-q-786",
     "scope": ["RN"],
@@ -16476,12 +14382,6 @@
     "rationale": "Abrupt discontinuation can cause adrenal suppression and crisis.",
     "clinicalPearl": "Taper gradually under medical supervision."
   },
-  
-
-
-
-
-
 
 {
     "id": "rn-q-787",
@@ -16500,9 +14400,6 @@
     "rationale": "Methylprednisolone is a systemic corticosteroid with strong anti-inflammatory properties.",
     "clinicalPearl": "Used for severe inflammatory and autoimmune conditions."
   },
-  
-
-
 
 {
     "id": "rn-q-788",
@@ -16521,10 +14418,6 @@
     "rationale": "IV corticosteroids suppress immunity and raise blood glucose levels.",
     "clinicalPearl": "Frequent glucose monitoring is recommended."
   },
-  
-
-
-
 
 {
     "id": "rn-q-789",
@@ -16544,7 +14437,6 @@
     "clinicalPearl": "Early reporting of infection symptoms is essential."
   },
 
-  
   {
     "id": "rn-q-790",
     "scope": ["RN"],
@@ -16562,8 +14454,6 @@
     "rationale": "Prednisolone is a glucocorticoid that reduces inflammation and suppresses immune response.",
     "clinicalPearl": "Used for autoimmune, allergic, and inflammatory disorders."
   },
-  
-
 
 {
     "id": "rn-q-791",
@@ -16583,9 +14473,6 @@
     "clinicalPearl": "Encourage calcium/vitamin D intake and monitor glucose."
   },
 
-
-
-
   {
     "id": "rn-q-792",
     "scope": ["RN"],
@@ -16603,10 +14490,6 @@
     "rationale": "Abrupt discontinuation can cause adrenal suppression and crisis.",
     "clinicalPearl": "Steroids must be tapered gradually."
   },
- 
-
-
-
 
  {
     "id": "rn-q-793",
@@ -16625,9 +14508,6 @@
     "rationale": "Prednisone is a prodrug converted in the liver to its active form, prednisolone.",
     "clinicalPearl": "Liver impairment may reduce conversion."
   },
- 
-
-
 
  {
     "id": "rn-q-794",
@@ -16646,11 +14526,6 @@
     "rationale": "Prednisone suppresses immune function, increasing infection risk.",
     "clinicalPearl": "Monitor temperature and report early infection symptoms."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-795",
@@ -16669,9 +14544,6 @@
     "rationale": "Taking prednisone with food reduces gastrointestinal irritation.",
     "clinicalPearl": "Morning dosing may reduce insomnia."
   },
- 
-
-
 
  {
     "id": "rn-q-796",
@@ -16690,11 +14562,6 @@
     "rationale": "Betamethasone stimulates surfactant production in premature fetuses.",
     "clinicalPearl": "Reduces risk of neonatal respiratory distress syndrome."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-797",
@@ -16714,9 +14581,6 @@
     "clinicalPearl": "Monitor glucose, especially in diabetic patients."
   },
 
-
-
-
   {
     "id": "rn-q-798",
     "scope": ["RN"],
@@ -16735,7 +14599,6 @@
     "clinicalPearl": "Indicated for severe allergic, dermatologic, and autoimmune conditions."
   },
 
-  
   {
     "id": "rn-q-799",
     "scope": ["RN"],
@@ -16753,9 +14616,6 @@
     "rationale": "Dexamethasone decreases inflammatory swelling in brain tissue, reducing intracranial pressure.",
     "clinicalPearl": "Commonly used in brain tumors and spinal cord compression."
   },
- 
-
-
 
  {
     "id": "rn-q-800",
@@ -16775,8 +14635,6 @@
     "clinicalPearl": "Monitor for behavioral changes, especially at high doses."
   },
   
-
-
 {
     "id": "rn-q-801",
     "scope": ["RN"],
@@ -16794,9 +14652,6 @@
     "rationale": "Glucocorticoids increase the risk of gastrointestinal bleeding.",
     "clinicalPearl": "Take with food to reduce GI irritation."
   },
-  
-
-
 
 {
     "id": "rn-q-802",
@@ -16815,10 +14670,6 @@
     "rationale": "Fludrocortisone primarily acts as a mineralocorticoid promoting sodium and water retention.",
     "clinicalPearl": "Helps maintain blood pressure in adrenal insufficiency."
   },
- 
-
-
-
 
  {
     "id": "rn-q-803",
@@ -16837,9 +14688,6 @@
     "rationale": "Fludrocortisone replaces aldosterone effects in conditions such as Addison disease.",
     "clinicalPearl": "Often combined with a glucocorticoid."
   },
-  
-
-
 
 {
     "id": "rn-q-804",
@@ -16858,10 +14706,6 @@
     "rationale": "Sodium retention increases blood pressure and potassium loss.",
     "clinicalPearl": "Monitor BP and serum potassium regularly."
   },
-  
-
-
-
 
 {
     "id": "rn-q-805",
@@ -16880,9 +14724,6 @@
     "rationale": "Levothyroxine replaces deficient thyroid hormone in hypothyroidism.",
     "clinicalPearl": "Therapy is typically lifelong."
   },
-  
-
-
 
 {
     "id": "rn-q-806",
@@ -16901,11 +14742,6 @@
     "rationale": "Food decreases absorption of levothyroxine.",
     "clinicalPearl": "Take 30–60 minutes before breakfast."
   },
- 
-
-
-
-
 
  {
     "id": "rn-q-807",
@@ -16925,9 +14761,6 @@
     "clinicalPearl": "Monitor TSH levels to guide dosing."
   },
 
-
-
-
 {
   "id": "rn-q-808",
   "scope": ["RN"],
@@ -16945,9 +14778,6 @@
   "rationale": "Methimazole blocks thyroid peroxidase, preventing thyroid hormone synthesis.",
   "clinicalPearl": "First-line therapy for most patients with hyperthyroidism except during first-trimester pregnancy."
 },
-
-
-
 
 {
   "id": "rn-q-809",
@@ -16967,8 +14797,6 @@
   "clinicalPearl": "Instruct patients to report signs of infection immediately."
 },
 
-
-
 {
   "id": "rn-q-810",
   "scope": ["RN"],
@@ -16986,12 +14814,6 @@
   "rationale": "Methimazole can cause bone marrow suppression leading to agranulocytosis.",
   "clinicalPearl": "Baseline and periodic CBC monitoring may be required."
 },
-
-
-
-
-
-
 
 {
   "id": "rn-q-811",
@@ -17011,11 +14833,6 @@
   "clinicalPearl": "Preferred during the first trimester of pregnancy due to lower teratogenic risk."
 },
 
-
-
-
-
-
 {
   "id": "rn-q-812",
   "scope": ["RN"],
@@ -17033,9 +14850,6 @@
   "rationale": "Propylthiouracil carries a risk of severe hepatotoxicity.",
   "clinicalPearl": "Monitor liver function tests during therapy."
 },
-
-
-
 
 {
   "id": "rn-q-813",
@@ -17055,10 +14869,6 @@
   "clinicalPearl": "Educate patients to report signs of hepatotoxicity immediately."
 },
 
-
-
-
-
 {
   "id": "rn-q-814",
   "scope": ["RN"],
@@ -17076,9 +14886,6 @@
   "rationale": "Potassium iodide decreases thyroid hormone release and reduces gland vascularity.",
   "clinicalPearl": "Often used short-term before thyroid surgery."
 },
-
-
-
 
 {
   "id": "rn-q-815",
@@ -17098,9 +14905,6 @@
   "clinicalPearl": "Taking with food or milk can reduce GI discomfort."
 },
 
-
-
-
 {
   "id": "rn-q-816",
   "scope": ["RN"],
@@ -17118,11 +14922,6 @@
   "rationale": "Taking with food or milk helps decrease gastrointestinal irritation.",
   "clinicalPearl": "Do not use long-term unless specifically directed by a provider."
 },
-
-
-
-
-
 
 {
   "id": "rn-q-817",
@@ -17142,9 +14941,6 @@
   "clinicalPearl": "Administer with meals to effectively bind dietary phosphate."
 },
 
-
-
-
 {
   "id": "rn-q-818",
   "scope": ["RN"],
@@ -17162,11 +14958,6 @@
   "rationale": "The goal of therapy is reduction of serum phosphate levels.",
   "clinicalPearl": "Monitor both calcium and phosphate levels during treatment."
 },
-
-
-
-
-
 
 {
   "id": "rn-q-819",
@@ -17186,10 +14977,6 @@
   "clinicalPearl": "Assess for signs of hypercalcemia such as weakness or confusion."
 },
 
-
-
-
-
 {
   "id": "rn-q-820",
   "scope": ["RN"],
@@ -17207,8 +14994,6 @@
   "rationale": "Calcium carbonate supplements calcium levels and is also used as a phosphate binder.",
   "clinicalPearl": "Often used in chronic kidney disease to manage both low calcium and elevated phosphate."
 },
-
-
 
 {
   "id": "rn-q-821",
@@ -17228,9 +15013,6 @@
   "clinicalPearl": "Administering with meals maximizes effectiveness as a phosphate binder."
 },
 
-
-
-
 {
   "id": "rn-q-822",
   "scope": ["RN"],
@@ -17248,11 +15030,6 @@
   "rationale": "Calcium supplements frequently cause constipation.",
   "clinicalPearl": "Encourage adequate fluid and fiber intake unless contraindicated."
 },
-
-
-
-
-
 
 {
   "id": "rn-q-823",
@@ -17272,9 +15049,6 @@
   "clinicalPearl": "Reserved for acute or life-threatening hypocalcemia."
 },
 
-
-
-
 {
   "id": "rn-q-824",
   "scope": ["RN"],
@@ -17292,11 +15066,6 @@
   "rationale": "Calcium chloride stabilizes cardiac membranes during hyperkalemia.",
   "clinicalPearl": "Used emergently to reduce risk of fatal arrhythmias."
 },
-
-
-
-
-
 
 {
   "id": "rn-q-825",
@@ -17316,11 +15085,6 @@
   "clinicalPearl": "Central line administration reduces risk of tissue necrosis."
 },
 
-
-
-
-
-
 {
   "id": "rn-q-826",
   "scope": ["RN"],
@@ -17338,9 +15102,6 @@
   "rationale": "Calcium gluconate has a lower risk of tissue necrosis if extravasation occurs.",
   "clinicalPearl": "Preferred for peripheral IV administration."
 },
-
-
-
 
 {
   "id": "rn-q-827",
@@ -17360,10 +15121,6 @@
   "clinicalPearl": "Also used in hyperkalemia to protect the heart."
 },
 
-
-
-
-
 {
   "id": "rn-q-828",
   "scope": ["RN"],
@@ -17381,10 +15138,6 @@
   "rationale": "Rapid IV calcium infusion can cause arrhythmias.",
   "clinicalPearl": "Administer slowly and continuously monitor ECG."
 },
-
-
-
-
 
 {
   "id": "rn-q-829",
@@ -17404,10 +15157,6 @@
   "clinicalPearl": "Used to treat vitamin D deficiency and certain cases of hypocalcemia."
 },
 
-
-
-
-
 {
   "id": "rn-q-830",
   "scope": ["RN"],
@@ -17425,10 +15174,6 @@
   "rationale": "Ergocalciferol enhances intestinal calcium absorption.",
   "clinicalPearl": "Adequate calcium intake is necessary for optimal vitamin D effectiveness."
 },
-
-
-
-
 
 {
   "id": "rn-q-831",
@@ -17448,10 +15193,6 @@
   "clinicalPearl": "Monitor calcium levels periodically to avoid toxicity."
 },
 
-
-
-
-
 {
   "id": "rn-q-832",
   "scope": ["RN"],
@@ -17469,10 +15210,6 @@
   "rationale": "Calcitriol is the hormonally active form of vitamin D.",
   "clinicalPearl": "Unlike other forms, it does not require renal activation."
 },
-
-
-
-
 
 {
   "id": "rn-q-833",
@@ -17492,11 +15229,6 @@
   "clinicalPearl": "Helps manage hypocalcemia and secondary hyperparathyroidism in CKD."
 },
 
-
-
-
-
-
 {
   "id": "rn-q-834",
   "scope": ["RN"],
@@ -17515,6 +15247,4 @@
   "clinicalPearl": "Monitor calcium and phosphate levels during therapy."
 }
 
-
 ]
-
