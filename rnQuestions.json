@@ -1,4 +1,5 @@
 [
+    
 {
     "id": "rn-q-001",
     "scope": ["RN"],
@@ -15245,6 +15246,3750 @@
   "correctAnswer": "Hypercalcemia",
   "rationale": "Calcitriol increases calcium absorption and can elevate serum calcium levels.",
   "clinicalPearl": "Monitor calcium and phosphate levels during therapy."
-}
+},
+
+{
+  "id": "rn-q-835",
+  "scope": ["RN"],
+  "medicationId": "rn-286",
+  "medication": "Alendronate",
+  "questionType": "multiple-choice",
+  "stem": "Which instruction should the nurse give a patient taking alendronate?",
+  "choices": [
+    "Take at bedtime",
+    "Take with milk",
+    "Take with a full glass of water and remain upright for 30 minutes",
+    "Take with antacids"
+  ],
+  "correctAnswer": "Take with a full glass of water and remain upright for 30 minutes",
+  "rationale": "This prevents esophageal irritation and improves absorption.",
+  "clinicalPearl": "Administer first thing in the morning before food or other medications."
+},
+
+{
+  "id": "rn-q-836",
+  "scope": ["RN"],
+  "medicationId": "rn-286",
+  "medication": "Alendronate",
+  "questionType": "multiple-choice",
+  "stem": "Alendronate is primarily used to treat:",
+  "choices": [
+    "Hypercalcemia",
+    "Osteoporosis",
+    "Hypokalemia",
+    "Anemia"
+  ],
+  "correctAnswer": "Osteoporosis",
+  "rationale": "Alendronate inhibits bone resorption to increase bone density.",
+  "clinicalPearl": "Reduces risk of vertebral and hip fractures."
+},
+
+{
+  "id": "rn-q-837",
+  "scope": ["RN"],
+  "medicationId": "rn-286",
+  "medication": "Alendronate",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is most important to monitor with alendronate?",
+  "choices": [
+    "Bradycardia",
+    "Hyperglycemia",
+    "Peripheral edema",
+    "Esophagitis"
+  ],
+  "correctAnswer": "Esophagitis",
+  "rationale": "Improper administration can cause significant esophageal injury.",
+  "clinicalPearl": "Report difficulty swallowing or chest pain immediately."
+},
+
+{
+  "id": "rn-q-838",
+  "scope": ["RN"],
+  "medicationId": "rn-287",
+  "medication": "Ibandronate",
+  "questionType": "multiple-choice",
+  "stem": "Ibandronate belongs to which drug class?",
+  "choices": [
+    "Bisphosphonate",
+    "Corticosteroid",
+    "Calcimimetic",
+    "Vitamin D analog"
+  ],
+  "correctAnswer": "Bisphosphonate",
+  "rationale": "Ibandronate inhibits osteoclast-mediated bone resorption.",
+  "clinicalPearl": "Given orally monthly or IV every three months."
+},
+
+{
+  "id": "rn-q-839",
+  "scope": ["RN"],
+  "medicationId": "rn-287",
+  "medication": "Ibandronate",
+  "questionType": "multiple-choice",
+  "stem": "Which patient instruction is appropriate for oral ibandronate?",
+  "choices": [
+    "Take with food",
+    "Take lying down",
+    "Take with calcium supplements",
+    "Take on an empty stomach with water"
+  ],
+  "correctAnswer": "Take on an empty stomach with water",
+  "rationale": "Food significantly reduces absorption.",
+  "clinicalPearl": "Remain upright for at least 30–60 minutes after taking."
+},
+
+{
+  "id": "rn-q-840",
+  "scope": ["RN"],
+  "medicationId": "rn-287",
+  "medication": "Ibandronate",
+  "questionType": "multiple-choice",
+  "stem": "Which condition is ibandronate used to prevent?",
+  "choices": [
+    "Hyperthyroidism",
+    "Hypocalcemia",
+    "Postmenopausal osteoporosis",
+    "Renal failure"
+  ],
+  "correctAnswer": "Postmenopausal osteoporosis",
+  "rationale": "Ibandronate reduces fracture risk in postmenopausal women.",
+  "clinicalPearl": "Particularly effective in preventing vertebral fractures."
+},
+
+{
+  "id": "rn-q-841",
+  "scope": ["RN"],
+  "medicationId": "rn-288",
+  "medication": "Risedronate sodium",
+  "questionType": "multiple-choice",
+  "stem": "What is the mechanism of action of risedronate sodium?",
+  "choices": [
+    "Stimulates osteoblast activity",
+    "Inhibits osteoclast activity",
+    "Increases parathyroid hormone",
+    "Decreases calcium absorption"
+  ],
+  "correctAnswer": "Inhibits osteoclast activity",
+  "rationale": "Risedronate reduces bone breakdown by inhibiting osteoclasts.",
+  "clinicalPearl": "Helps maintain bone density and reduce fracture risk."
+},
+
+{
+  "id": "rn-q-842",
+  "scope": ["RN"],
+  "medicationId": "rn-288",
+  "medication": "Risedronate sodium",
+  "questionType": "multiple-choice",
+  "stem": "Which instruction should be included when taking risedronate?",
+  "choices": [
+    "Take with orange juice",
+    "Crush before taking",
+    "Avoid lying down for at least 30 minutes",
+    "Take with high-fat meals"
+  ],
+  "correctAnswer": "Avoid lying down for at least 30 minutes",
+  "rationale": "Remaining upright reduces the risk of esophageal irritation.",
+  "clinicalPearl": "Administer with plain water only."
+},
+
+{
+  "id": "rn-q-843",
+  "scope": ["RN"],
+  "medicationId": "rn-288",
+  "medication": "Risedronate sodium",
+  "questionType": "multiple-choice",
+  "stem": "Which lab value should be assessed before starting therapy?",
+  "choices": [
+    "Hemoglobin",
+    "Platelet count",
+    "White blood cell count",
+    "Serum calcium"
+  ],
+  "correctAnswer": "Serum calcium",
+  "rationale": "Hypocalcemia must be corrected before initiating therapy.",
+  "clinicalPearl": "Ensure adequate vitamin D and calcium levels prior to treatment."
+},
+
+{
+  "id": "rn-q-844",
+  "scope": ["RN"],
+  "medicationId": "rn-289",
+  "medication": "Cinacalcet",
+  "questionType": "multiple-choice",
+  "stem": "Cinacalcet is used to treat which condition?",
+  "choices": [
+    "Hyperthyroidism",
+    "Secondary hyperparathyroidism",
+    "Hypoparathyroidism",
+    "Osteoporosis"
+  ],
+  "correctAnswer": "Secondary hyperparathyroidism",
+  "rationale": "Cinacalcet increases the sensitivity of calcium receptors, lowering PTH levels.",
+  "clinicalPearl": "Commonly used in patients with chronic kidney disease on dialysis."
+},
+
+{
+  "id": "rn-q-845",
+  "scope": ["RN"],
+  "medicationId": "rn-289",
+  "medication": "Cinacalcet",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is commonly associated with cinacalcet?",
+  "choices": [
+    "Hypernatremia",
+    "Hyperglycemia",
+    "Hypertension",
+    "Hypocalcemia"
+  ],
+  "correctAnswer": "Hypocalcemia",
+  "rationale": "Excess suppression of PTH can significantly lower calcium levels.",
+  "clinicalPearl": "Monitor for signs of hypocalcemia such as tingling or muscle cramps."
+},
+
+{
+  "id": "rn-q-846",
+  "scope": ["RN"],
+  "medicationId": "rn-289",
+  "medication": "Cinacalcet",
+  "questionType": "multiple-choice",
+  "stem": "Which lab value requires close monitoring during cinacalcet therapy?",
+  "choices": [
+    "Potassium",
+    "Serum calcium",
+    "Sodium",
+    "Hemoglobin"
+  ],
+  "correctAnswer": "Serum calcium",
+  "rationale": "Cinacalcet can significantly decrease serum calcium levels.",
+  "clinicalPearl": "Check calcium levels within 1 week of dose adjustments."
+},
+
+{
+  "id": "rn-q-846",
+  "scope": ["RN"],
+  "medicationId": "rn-289",
+  "medication": "Cinacalcet",
+  "questionType": "multiple-choice",
+  "stem": "Which lab value requires close monitoring during cinacalcet therapy?",
+  "choices": [
+    "Potassium",
+    "Serum calcium",
+    "Sodium",
+    "Hemoglobin"
+  ],
+  "correctAnswer": "Serum calcium",
+  "rationale": "Cinacalcet can significantly decrease serum calcium levels.",
+  "clinicalPearl": "Check calcium levels within 1 week of dose adjustments."
+},
+
+{
+  "id": "rn-q-847",
+  "scope": ["RN"],
+  "medicationId": "rn-290",
+  "medication": "Calcitonin Salmon",
+  "questionType": "multiple-choice",
+  "stem": "Calcitonin salmon lowers serum calcium by:",
+  "choices": [
+    "Inhibiting osteoclast activity",
+    "Increasing calcium absorption",
+    "Increasing parathyroid hormone",
+    "Stimulating bone breakdown"
+  ],
+  "correctAnswer": "Inhibiting osteoclast activity",
+  "rationale": "Calcitonin decreases bone resorption and lowers serum calcium levels.",
+  "clinicalPearl": "Used in conditions such as hypercalcemia and osteoporosis."
+},
+
+{
+  "id": "rn-q-848",
+  "scope": ["RN"],
+  "medicationId": "rn-290",
+  "medication": "Calcitonin Salmon",
+  "questionType": "multiple-choice",
+  "stem": "Which route is commonly used for calcitonin salmon administration?",
+  "choices": [
+    "Oral",
+    "Subcutaneous patch",
+    "Intranasal",
+    "Topical cream"
+  ],
+  "correctAnswer": "Intranasal",
+  "rationale": "The nasal spray is a common and convenient administration route.",
+  "clinicalPearl": "Alternate nostrils daily to reduce irritation."
+},
+
+{
+  "id": "rn-q-849",
+  "scope": ["RN"],
+  "medicationId": "rn-290",
+  "medication": "Calcitonin Salmon",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is common with intranasal calcitonin?",
+  "choices": [
+    "Bradycardia",
+    "Nasal irritation",
+    "Hyperkalemia",
+    "Visual disturbances"
+  ],
+  "correctAnswer": "Nasal irritation",
+  "rationale": "Local nasal irritation is a frequent side effect of intranasal therapy.",
+  "clinicalPearl": "Report persistent epistaxis or severe irritation."
+},
+
+{
+  "id": "rn-q-850",
+  "scope": ["RN"],
+  "medicationId": "rn-291",
+  "medication": "Insulin lispro",
+  "questionType": "multiple-choice",
+  "stem": "When should insulin lispro be administered?",
+  "choices": [
+    "At bedtime only",
+    "Immediately before meals",
+    "30–60 minutes before meals",
+    "Once weekly"
+  ],
+  "correctAnswer": "Immediately before meals",
+  "rationale": "Rapid-acting insulin should be given right before eating to control postprandial glucose.",
+  "clinicalPearl": "Ensure the patient has food available before administering."
+},
+
+{
+  "id": "rn-q-851",
+  "scope": ["RN"],
+  "medicationId": "rn-291",
+  "medication": "Insulin lispro",
+  "questionType": "multiple-choice",
+  "stem": "Which onset time is expected with insulin lispro?",
+  "choices": [
+    "1 hour",
+    "4 hours",
+    "15 minutes",
+    "12 hours"
+  ],
+  "correctAnswer": "15 minutes",
+  "rationale": "Rapid-acting insulin begins working within about 15 minutes.",
+  "clinicalPearl": "Peak effect occurs in approximately 1 hour."
+},
+
+{
+  "id": "rn-q-852",
+  "scope": ["RN"],
+  "medicationId": "rn-291",
+  "medication": "Insulin lispro",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is most important for patients taking insulin lispro?",
+  "choices": [
+    "Hypercalcemia",
+    "Hypertension",
+    "Hypernatremia",
+    "Hypoglycemia"
+  ],
+  "correctAnswer": "Hypoglycemia",
+  "rationale": "Rapid glucose lowering can cause hypoglycemia.",
+  "clinicalPearl": "Educate patients about symptoms such as shakiness and sweating."
+},
+
+{
+  "id": "rn-q-853",
+  "scope": ["RN"],
+  "medicationId": "rn-292",
+  "medication": "Human regular insulin",
+  "questionType": "multiple-choice",
+  "stem": "Human regular insulin is classified as:",
+  "choices": [
+    "Short-acting insulin",
+    "Long-acting insulin",
+    "Rapid-acting insulin",
+    "Intermediate-acting insulin"
+  ],
+  "correctAnswer": "Short-acting insulin",
+  "rationale": "Regular insulin has an onset of 30–60 minutes, classifying it as short-acting.",
+  "clinicalPearl": "It is the only insulin that can be administered intravenously."
+},
+
+{
+  "id": "rn-q-854",
+  "scope": ["RN"],
+  "medicationId": "rn-292",
+  "medication": "Human regular insulin",
+  "questionType": "multiple-choice",
+  "stem": "When should human regular insulin be administered relative to meals?",
+  "choices": [
+    "Immediately after eating",
+    "At bedtime",
+    "Once weekly",
+    "30 minutes before eating"
+  ],
+  "correctAnswer": "30 minutes before eating",
+  "rationale": "Time is needed for the onset of action before glucose from the meal enters the bloodstream.",
+  "clinicalPearl": "Monitor blood glucose to adjust timing and dosage."
+},
+
+{
+  "id": "rn-q-855",
+  "scope": ["RN"],
+  "medicationId": "rn-292",
+  "medication": "Human regular insulin",
+  "questionType": "multiple-choice",
+  "stem": "Which route is appropriate for emergency treatment of hyperglycemia using regular insulin?",
+  "choices": [
+    "Oral",
+    "Intravenous",
+    "Topical",
+    "Intranasal"
+  ],
+  "correctAnswer": "Intravenous",
+  "rationale": "Regular insulin is the only insulin safe for IV administration.",
+  "clinicalPearl": "Used in diabetic ketoacidosis and hyperosmolar hyperglycemic state."
+},
+
+{
+  "id": "rn-q-856",
+  "scope": ["RN"],
+  "medicationId": "rn-293",
+  "medication": "Insulin isophane NPH",
+  "questionType": "multiple-choice",
+  "stem": "Insulin isophane NPH is best described as which type of insulin?",
+  "choices": [
+    "Rapid-acting",
+    "Intermediate-acting",
+    "Long-acting",
+    "Ultra-rapid acting"
+  ],
+  "correctAnswer": "Intermediate-acting",
+  "rationale": "NPH provides basal insulin coverage.",
+  "clinicalPearl": "Often combined with rapid- or short-acting insulin."
+},
+
+{
+  "id": "rn-q-857",
+  "scope": ["RN"],
+  "medicationId": "rn-293",
+  "medication": "Insulin isophane NPH",
+  "questionType": "multiple-choice",
+  "stem": "Which characteristic is associated with NPH insulin?",
+  "choices": [
+    "Clear solution",
+    "Weekly dosing",
+    "Cloudy suspension",
+    "IV administration"
+  ],
+  "correctAnswer": "Cloudy suspension",
+  "rationale": "Protamine gives NPH insulin its cloudy appearance.",
+  "clinicalPearl": "Gently roll the vial to mix before administration."
+},
+
+{
+  "id": "rn-q-858",
+  "scope": ["RN"],
+  "medicationId": "rn-293",
+  "medication": "Insulin isophane NPH",
+  "questionType": "multiple-choice",
+  "stem": "When mixing insulin, which insulin should be drawn into the syringe first?",
+  "choices": [
+    "NPH insulin",
+    "Glargine insulin",
+    "Regular insulin",
+    "Detemir insulin"
+  ],
+  "correctAnswer": "Regular insulin",
+  "rationale": "Clear insulin is drawn up before cloudy insulin to prevent contamination.",
+  "clinicalPearl": "Remember: clear before cloudy."
+},
+
+{
+  "id": "rn-q-859",
+  "scope": ["RN"],
+  "medicationId": "rn-294",
+  "medication": "Insulin glargine",
+  "questionType": "multiple-choice",
+  "stem": "Insulin glargine is primarily used for:",
+  "choices": [
+    "Mealtime glucose control",
+    "Basal glucose control",
+    "Emergency hyperglycemia",
+    "Diabetic ketoacidosis"
+  ],
+  "correctAnswer": "Basal glucose control",
+  "rationale": "Insulin glargine provides steady long-acting insulin coverage.",
+  "clinicalPearl": "Typically administered once daily at the same time each day."
+},
+
+{
+  "id": "rn-q-860",
+  "scope": ["RN"],
+  "medicationId": "rn-294",
+  "medication": "Insulin glargine",
+  "questionType": "multiple-choice",
+  "stem": "Which instruction is important for insulin glargine administration?",
+  "choices": [
+    "Mix with NPH insulin",
+    "Give IV only",
+    "Do not mix with other insulins",
+    "Give only before meals"
+  ],
+  "correctAnswer": "Do not mix with other insulins",
+  "rationale": "Mixing insulin glargine with other insulins alters its release characteristics.",
+  "clinicalPearl": "Administer subcutaneously and never intravenously."
+},
+
+{
+  "id": "rn-q-861",
+  "scope": ["RN"],
+  "medicationId": "rn-294",
+  "medication": "Insulin glargine",
+  "questionType": "multiple-choice",
+  "stem": "What is a key characteristic of insulin glargine?",
+  "choices": [
+    "Immediate onset",
+    "Short duration",
+    "Requires meal timing",
+    "No pronounced peak"
+  ],
+  "correctAnswer": "No pronounced peak",
+  "rationale": "Insulin glargine provides steady insulin levels over approximately 24 hours.",
+  "clinicalPearl": "Helps reduce risk of nocturnal hypoglycemia compared to peak insulins."
+},
+
+{
+  "id": "rn-q-862",
+  "scope": ["RN"],
+  "medicationId": "rn-295",
+  "medication": "Pramlintide",
+  "questionType": "multiple-choice",
+  "stem": "Pramlintide is used as an adjunct treatment for patients with:",
+  "choices": [
+    "Hyperthyroidism",
+    "Hypertension",
+    "Type 1 or Type 2 diabetes",
+    "Hyperlipidemia"
+  ],
+  "correctAnswer": "Type 1 or Type 2 diabetes",
+  "rationale": "Pramlintide slows gastric emptying and reduces glucagon release.",
+  "clinicalPearl": "Used in patients already taking mealtime insulin."
+},
+
+{
+  "id": "rn-q-863",
+  "scope": ["RN"],
+  "medicationId": "rn-295",
+  "medication": "Pramlintide",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is common with pramlintide?",
+  "choices": [
+    "Constipation",
+    "Hypertension",
+    "Tachycardia",
+    "Nausea"
+  ],
+  "correctAnswer": "Nausea",
+  "rationale": "Gastrointestinal effects such as nausea are common.",
+  "clinicalPearl": "Symptoms often improve with gradual dose titration."
+},
+
+{
+  "id": "rn-q-864",
+  "scope": ["RN"],
+  "medicationId": "rn-295",
+  "medication": "Pramlintide",
+  "questionType": "multiple-choice",
+  "stem": "Which instruction should be given when starting pramlintide therapy?",
+  "choices": [
+    "Increase carbohydrate intake",
+    "Avoid glucose monitoring",
+    "Reduce mealtime insulin dose",
+    "Take without insulin"
+  ],
+  "correctAnswer": "Reduce mealtime insulin dose",
+  "rationale": "Reducing mealtime insulin helps decrease the risk of severe hypoglycemia.",
+  "clinicalPearl": "Frequent blood glucose monitoring is essential during initiation."
+},
+
+{
+  "id": "rn-q-865",
+  "scope": ["RN"],
+  "medicationId": "rn-296",
+  "medication": "Dulaglutide",
+  "questionType": "multiple-choice",
+  "stem": "Dulaglutide belongs to which drug class?",
+  "choices": [
+    "SGLT2 inhibitor",
+    "GLP-1 receptor agonist",
+    "Sulfonylurea",
+    "Biguanide"
+  ],
+  "correctAnswer": "GLP-1 receptor agonist",
+  "rationale": "Dulaglutide stimulates glucose-dependent insulin secretion, suppresses glucagon, and slows gastric emptying.",
+  "clinicalPearl": "Weekly dosing may improve adherence for many patients."
+},
+
+{
+  "id": "rn-q-866",
+  "scope": ["RN"],
+  "medicationId": "rn-296",
+  "medication": "Dulaglutide",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is most common with dulaglutide?",
+  "choices": [
+    "Hypoglycemia",
+    "Bradycardia",
+    "Nausea",
+    "Hyperkalemia"
+  ],
+  "correctAnswer": "Nausea",
+  "rationale": "GLP-1 receptor agonists commonly cause gastrointestinal symptoms, especially when therapy is initiated.",
+  "clinicalPearl": "Starting at a lower dose can help reduce gastrointestinal side effects."
+},
+
+{
+  "id": "rn-q-867",
+  "scope": ["RN"],
+  "medicationId": "rn-296",
+  "medication": "Dulaglutide",
+  "questionType": "multiple-choice",
+  "stem": "Which patient teaching is most important for dulaglutide?",
+  "choices": [
+    "Increase carbohydrate intake",
+    "Avoid exercise",
+    "Report severe abdominal pain immediately",
+    "Limit fluid intake"
+  ],
+  "correctAnswer": "Report severe abdominal pain immediately",
+  "rationale": "Severe abdominal pain may indicate pancreatitis, a rare but serious adverse effect.",
+  "clinicalPearl": "Avoid use in patients with a history of medullary thyroid carcinoma."
+},
+
+{
+  "id": "rn-q-868",
+  "scope": ["RN"],
+  "medicationId": "rn-297",
+  "medication": "Exenatide",
+  "questionType": "multiple-choice",
+  "stem": "Exenatide lowers blood glucose primarily by:",
+  "choices": [
+    "Increasing renal glucose excretion",
+    "Stimulating cortisol release",
+    "Increasing insulin release and decreasing glucagon",
+    "Reducing hepatic glycogen storage"
+  ],
+  "correctAnswer": "Increasing insulin release and decreasing glucagon",
+  "rationale": "Exenatide enhances glucose-dependent insulin secretion and suppresses glucagon.",
+  "clinicalPearl": "Avoid use in patients with severe renal impairment."
+},
+
+{
+  "id": "rn-q-869",
+  "scope": ["RN"],
+  "medicationId": "rn-297",
+  "medication": "Exenatide",
+  "questionType": "multiple-choice",
+  "stem": "When is immediate-release exenatide typically administered?",
+  "choices": [
+    "After meals",
+    "At bedtime",
+    "Before meals",
+    "Once weekly"
+  ],
+  "correctAnswer": "Before meals",
+  "rationale": "Immediate-release exenatide is given prior to meals to control postprandial glucose.",
+  "clinicalPearl": "Do not administer after meals, as effectiveness is reduced."
+},
+
+{
+  "id": "rn-q-870",
+  "scope": ["RN"],
+  "medicationId": "rn-297",
+  "medication": "Exenatide",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect requires monitoring with exenatide?",
+  "choices": [
+    "Hypernatremia",
+    "Neutropenia",
+    "Pancreatitis",
+    "Tachycardia"
+  ],
+  "correctAnswer": "Pancreatitis",
+  "rationale": "GLP-1 receptor agonists have been associated with pancreatitis.",
+  "clinicalPearl": "Teach patients to report persistent, severe abdominal pain."
+},
+
+{
+  "id": "rn-q-871",
+  "scope": ["RN"],
+  "medicationId": "rn-298",
+  "medication": "Liraglutide",
+  "questionType": "multiple-choice",
+  "stem": "Liraglutide is used to treat which condition?",
+  "choices": [
+    "Type 1 diabetes",
+    "Hyperthyroidism",
+    "Type 2 diabetes and weight management",
+    "Adrenal insufficiency"
+  ],
+  "correctAnswer": "Type 2 diabetes and weight management",
+  "rationale": "Liraglutide improves glycemic control and promotes weight loss.",
+  "clinicalPearl": "Also reduces cardiovascular risk in high-risk patients."
+},
+
+{
+  "id": "rn-q-872",
+  "scope": ["RN"],
+  "medicationId": "rn-298",
+  "medication": "Liraglutide",
+  "questionType": "multiple-choice",
+  "stem": "Which administration schedule is correct for liraglutide?",
+  "choices": [
+    "Once weekly injection",
+    "Three times daily",
+    "Once daily injection",
+    "Monthly injection"
+  ],
+  "correctAnswer": "Once daily injection",
+  "rationale": "Liraglutide is administered once daily regardless of meals.",
+  "clinicalPearl": "Administer at the same time each day for consistency."
+},
+
+{
+  "id": "rn-q-873",
+  "scope": ["RN"],
+  "medicationId": "rn-298",
+  "medication": "Liraglutide",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is most common when starting liraglutide?",
+  "choices": [
+    "Hypoglycemia",
+    "Constipation",
+    "Nausea",
+    "Hypertension"
+  ],
+  "correctAnswer": "Nausea",
+  "rationale": "Gastrointestinal upset commonly occurs when initiating therapy.",
+  "clinicalPearl": "Symptoms usually decrease with continued use."
+},
+
+{
+  "id": "rn-q-874",
+  "scope": ["RN"],
+  "medicationId": "rn-299",
+  "medication": "Tirzepatide",
+  "questionType": "multiple-choice",
+  "stem": "Tirzepatide differs from GLP-1 agonists because it also targets which receptor?",
+  "choices": [
+    "Insulin receptor",
+    "Cortisol receptor",
+    "GIP receptor",
+    "Dopamine receptor"
+  ],
+  "correctAnswer": "GIP receptor",
+  "rationale": "Tirzepatide has dual GIP and GLP-1 receptor activity, improving glucose control.",
+  "clinicalPearl": "Often produces significant weight loss."
+},
+
+{
+  "id": "rn-q-875",
+  "scope": ["RN"],
+  "medicationId": "rn-299",
+  "medication": "Tirzepatide",
+  "questionType": "multiple-choice",
+  "stem": "Which patient outcome indicates tirzepatide effectiveness?",
+  "choices": [
+    "Reduced potassium",
+    "Increased blood pressure",
+    "Lower HbA1c",
+    "Reduced sodium"
+  ],
+  "correctAnswer": "Lower HbA1c",
+  "rationale": "Tirzepatide improves long-term glycemic control as reflected by HbA1c levels.",
+  "clinicalPearl": "Titrate gradually to minimize gastrointestinal intolerance."
+},
+
+{
+  "id": "rn-q-876",
+  "scope": ["RN"],
+  "medicationId": "rn-299",
+  "medication": "Tirzepatide",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is common with tirzepatide?",
+  "choices": [
+    "Hyperkalemia",
+    "Bradycardia",
+    "Nausea",
+    "Hypertension"
+  ],
+  "correctAnswer": "Nausea",
+  "rationale": "Gastrointestinal symptoms are common with tirzepatide.",
+  "clinicalPearl": "Monitor for hypoglycemia if used with insulin or sulfonylureas."
+},
+
+{
+  "id": "rn-q-877",
+  "scope": ["RN"],
+  "medicationId": "rn-300",
+  "medication": "Semaglutide",
+  "questionType": "multiple-choice",
+  "stem": "Semaglutide is unique because it is available in which dosage form?",
+  "choices": [
+    "Topical only",
+    "Intranasal only",
+    "Oral and injectable",
+    "IV infusion"
+  ],
+  "correctAnswer": "Oral and injectable",
+  "rationale": "Semaglutide is available as a weekly injection and as an oral tablet.",
+  "clinicalPearl": "Oral semaglutide must be taken on an empty stomach with minimal water."
+},
+
+{
+  "id": "rn-q-878",
+  "scope": ["RN"],
+  "medicationId": "rn-300",
+  "medication": "Semaglutide",
+  "questionType": "multiple-choice",
+  "stem": "Which instruction is correct for oral semaglutide administration?",
+  "choices": [
+    "Take with meals",
+    "Take at bedtime",
+    "Take 30 minutes before food or other medications",
+    "Take with calcium supplements"
+  ],
+  "correctAnswer": "Take 30 minutes before food or other medications",
+  "rationale": "Food significantly reduces absorption of oral semaglutide.",
+  "clinicalPearl": "Patients must wait at least 30 minutes before eating, drinking, or taking other medications."
+},
+
+{
+  "id": "rn-q-879",
+  "scope": ["RN"],
+  "medicationId": "rn-300",
+  "medication": "Semaglutide",
+  "questionType": "multiple-choice",
+  "stem": "Which serious adverse effect should patients report immediately?",
+  "choices": [
+    "Hair loss",
+    "Blurred vision",
+    "Persistent abdominal pain",
+    "Dry mouth"
+  ],
+  "correctAnswer": "Persistent abdominal pain",
+  "rationale": "Persistent abdominal pain may indicate pancreatitis.",
+  "clinicalPearl": "Semaglutide carries a warning for thyroid C-cell tumors in animal studies."
+},
+
+{
+  "id": "rn-q-880",
+  "scope": ["RN"],
+  "medicationId": "rn-301",
+  "medication": "Glipizide",
+  "questionType": "multiple-choice",
+  "stem": "Glipizide belongs to which drug class?",
+  "choices": [
+    "Biguanide",
+    "Sulfonylurea",
+    "GLP-1 agonist",
+    "SGLT2 inhibitor"
+  ],
+  "correctAnswer": "Sulfonylurea",
+  "rationale": "Glipizide is a sulfonylurea that stimulates pancreatic insulin secretion.",
+  "clinicalPearl": "Best taken 30 minutes before meals for optimal effect."
+},
+
+{
+  "id": "rn-q-881",
+  "scope": ["RN"],
+  "medicationId": "rn-301",
+  "medication": "Glipizide",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is most associated with glipizide?",
+  "choices": [
+    "Hyperkalemia",
+    "Hypertension",
+    "Constipation",
+    "Hypoglycemia"
+  ],
+  "correctAnswer": "Hypoglycemia",
+  "rationale": "Glipizide increases insulin release, which may lower blood glucose excessively.",
+  "clinicalPearl": "Older adults have a higher risk of hypoglycemia."
+},
+
+{
+  "id": "rn-q-882",
+  "scope": ["RN"],
+  "medicationId": "rn-301",
+  "medication": "Glipizide",
+  "questionType": "multiple-choice",
+  "stem": "Which patient teaching is most important for glipizide?",
+  "choices": [
+    "Limit protein intake",
+    "Avoid skipping meals",
+    "Avoid water intake",
+    "Increase sodium intake"
+  ],
+  "correctAnswer": "Avoid skipping meals",
+  "rationale": "Skipping meals increases the risk of hypoglycemia when taking sulfonylureas.",
+  "clinicalPearl": "Carry a rapid source of glucose such as tablets or juice."
+},
+
+{
+  "id": "rn-q-883",
+  "scope": ["RN"],
+  "medicationId": "rn-302",
+  "medication": "Glyburide",
+  "questionType": "multiple-choice",
+  "stem": "Which characteristic differentiates glyburide from glipizide?",
+  "choices": [
+    "Shorter onset time",
+    "Weekly dosing",
+    "IV administration",
+    "Longer duration of action"
+  ],
+  "correctAnswer": "Longer duration of action",
+  "rationale": "Glyburide has a longer duration of action and prolonged hypoglycemic effects.",
+  "clinicalPearl": "Not preferred in older adults due to prolonged hypoglycemia risk."
+},
+
+{
+  "id": "rn-q-884",
+  "scope": ["RN"],
+  "medicationId": "rn-302",
+  "medication": "Glyburide",
+  "questionType": "multiple-choice",
+  "stem": "Which patient is at highest risk for adverse effects from glyburide?",
+  "choices": [
+    "Young athlete",
+    "Older adult with renal impairment",
+    "Pregnant patient",
+    "Patient with hyperthyroidism"
+  ],
+  "correctAnswer": "Older adult with renal impairment",
+  "rationale": "Reduced renal clearance increases the risk of prolonged hypoglycemia.",
+  "clinicalPearl": "Avoid or use cautiously in patients with kidney disease."
+},
+
+{
+  "id": "rn-q-885",
+  "scope": ["RN"],
+  "medicationId": "rn-302",
+  "medication": "Glyburide",
+  "questionType": "multiple-choice",
+  "stem": "Which symptom indicates glyburide-induced hypoglycemia?",
+  "choices": [
+    "Dry skin",
+    "Hypertension",
+    "Confusion and sweating",
+    "Polyuria"
+  ],
+  "correctAnswer": "Confusion and sweating",
+  "rationale": "Confusion and diaphoresis are common manifestations of hypoglycemia.",
+  "clinicalPearl": "Beta blockers may mask some hypoglycemia symptoms."
+},
+
+{
+  "id": "rn-q-886",
+  "scope": ["RN"],
+  "medicationId": "rn-303",
+  "medication": "Glimepiride",
+  "questionType": "multiple-choice",
+  "stem": "Glimepiride works primarily by:",
+  "choices": [
+    "Increasing renal glucose excretion",
+    "Reducing carbohydrate absorption",
+    "Stimulating insulin release from pancreas",
+    "Increasing insulin sensitivity"
+  ],
+  "correctAnswer": "Stimulating insulin release from pancreas",
+  "rationale": "Glimepiride is a sulfonylurea that increases insulin secretion from pancreatic beta cells.",
+  "clinicalPearl": "May be used once daily due to its longer duration of action."
+},
+
+{
+  "id": "rn-q-887",
+  "scope": ["RN"],
+  "medicationId": "rn-303",
+  "medication": "Glimepiride",
+  "questionType": "multiple-choice",
+  "stem": "Which lab value indicates glimepiride effectiveness?",
+  "choices": [
+    "Increased sodium",
+    "Decreased hemoglobin",
+    "Increased potassium",
+    "Lower fasting blood glucose"
+  ],
+  "correctAnswer": "Lower fasting blood glucose",
+  "rationale": "Improved fasting blood glucose reflects therapeutic effectiveness.",
+  "clinicalPearl": "Monitor HbA1c every 3 months for long-term glycemic control."
+},
+
+{
+  "id": "rn-q-888",
+  "scope": ["RN"],
+  "medicationId": "rn-303",
+  "medication": "Glimepiride",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is most common with glimepiride?",
+  "choices": [
+    "Tachycardia",
+    "Hypoglycemia",
+    "Hypercalcemia",
+    "Hypertension"
+  ],
+  "correctAnswer": "Hypoglycemia",
+  "rationale": "Increased insulin secretion can lead to hypoglycemia.",
+  "clinicalPearl": "Take with breakfast to reduce hypoglycemia risk."
+},
+
+{
+  "id": "rn-q-889",
+  "scope": ["RN"],
+  "medicationId": "rn-304",
+  "medication": "Metformin",
+  "questionType": "multiple-choice",
+  "stem": "Metformin primarily lowers glucose by:",
+  "choices": [
+    "Increasing insulin secretion",
+    "Decreasing hepatic glucose production",
+    "Stimulating glucagon release",
+    "Increasing intestinal glucose absorption"
+  ],
+  "correctAnswer": "Decreasing hepatic glucose production",
+  "rationale": "Metformin reduces hepatic glucose output and improves insulin sensitivity.",
+  "clinicalPearl": "Considered first-line therapy for type 2 diabetes."
+},
+
+{
+  "id": "rn-q-890",
+  "scope": ["RN"],
+  "medicationId": "rn-304",
+  "medication": "Metformin",
+  "questionType": "multiple-choice",
+  "stem": "Which serious adverse effect is associated with metformin?",
+  "choices": [
+    "Neutropenia",
+    "Hyperkalemia",
+    "Pancreatitis",
+    "Lactic acidosis"
+  ],
+  "correctAnswer": "Lactic acidosis",
+  "rationale": "Lactic acidosis is a rare but potentially fatal complication of metformin therapy.",
+  "clinicalPearl": "Hold metformin before iodinated contrast studies to reduce risk."
+},
+
+{
+  "id": "rn-q-891",
+  "scope": ["RN"],
+  "medicationId": "rn-304",
+  "medication": "Metformin",
+  "questionType": "multiple-choice",
+  "stem": "Which patient instruction is appropriate for metformin?",
+  "choices": [
+    "Take on an empty stomach",
+    "Take once weekly",
+    "Take with meals",
+    "Take with antacids only"
+  ],
+  "correctAnswer": "Take with meals",
+  "rationale": "Taking metformin with meals helps reduce gastrointestinal upset.",
+  "clinicalPearl": "Metformin is generally weight neutral and may cause modest weight loss."
+},
+
+{
+  "id": "rn-q-892",
+  "scope": ["RN"],
+  "medicationId": "rn-305",
+  "medication": "Acarbose",
+  "questionType": "multiple-choice",
+  "stem": "Acarbose lowers blood glucose by:",
+  "choices": [
+    "Increasing insulin secretion",
+    "Enhancing renal glucose elimination",
+    "Delaying carbohydrate absorption in the intestine",
+    "Increasing hepatic glycogen storage"
+  ],
+  "correctAnswer": "Delaying carbohydrate absorption in the intestine",
+  "rationale": "Acarbose inhibits alpha-glucosidase enzymes, slowing carbohydrate breakdown and absorption.",
+  "clinicalPearl": "Most effective for controlling postprandial blood glucose."
+},
+
+{
+  "id": "rn-q-893",
+  "scope": ["RN"],
+  "medicationId": "rn-305",
+  "medication": "Acarbose",
+  "questionType": "multiple-choice",
+  "stem": "When should acarbose be taken?",
+  "choices": [
+    "At bedtime",
+    "With the first bite of each meal",
+    "Before exercise",
+    "Once daily while fasting"
+  ],
+  "correctAnswer": "With the first bite of each meal",
+  "rationale": "Acarbose must be present in the intestine during carbohydrate digestion to be effective.",
+  "clinicalPearl": "If hypoglycemia occurs, treat with glucose rather than sucrose."
+},
+
+{
+  "id": "rn-q-894",
+  "scope": ["RN"],
+  "medicationId": "rn-305",
+  "medication": "Acarbose",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is most common with acarbose?",
+  "choices": [
+    "Hypoglycemia",
+    "Hypertension",
+    "Weight gain",
+    "Flatulence and diarrhea"
+  ],
+  "correctAnswer": "Flatulence and diarrhea",
+  "rationale": "Undigested carbohydrates ferment in the intestine, causing gastrointestinal symptoms.",
+  "clinicalPearl": "GI effects usually improve with continued therapy."
+},
+
+{
+  "id": "rn-q-895",
+  "scope": ["RN"],
+  "medicationId": "rn-306",
+  "medication": "Miglitol",
+  "questionType": "multiple-choice",
+  "stem": "Miglitol lowers blood glucose primarily by which mechanism?",
+  "choices": [
+    "Increasing insulin secretion",
+    "Delaying carbohydrate absorption",
+    "Increasing renal glucose excretion",
+    "Stimulating hepatic glucose production"
+  ],
+  "correctAnswer": "Delaying carbohydrate absorption",
+  "rationale": "Miglitol inhibits intestinal alpha-glucosidase enzymes to slow carbohydrate digestion.",
+  "clinicalPearl": "Most effective at controlling post-meal glucose spikes."
+},
+
+{
+  "id": "rn-q-896",
+  "scope": ["RN"],
+  "medicationId": "rn-306",
+  "medication": "Miglitol",
+  "questionType": "multiple-choice",
+  "stem": "When should miglitol be administered?",
+  "choices": [
+    "At bedtime",
+    "On an empty stomach",
+    "With the first bite of each meal",
+    "Once weekly"
+  ],
+  "correctAnswer": "With the first bite of each meal",
+  "rationale": "The drug must be present during carbohydrate digestion to work effectively.",
+  "clinicalPearl": "If hypoglycemia occurs, treat with glucose tablets rather than table sugar."
+},
+
+{
+  "id": "rn-q-897",
+  "scope": ["RN"],
+  "medicationId": "rn-306",
+  "medication": "Miglitol",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is most common with miglitol?",
+  "choices": [
+    "Hypoglycemia",
+    "Weight gain",
+    "Hypertension",
+    "Flatulence and diarrhea"
+  ],
+  "correctAnswer": "Flatulence and diarrhea",
+  "rationale": "Undigested carbohydrates ferment in the colon causing gastrointestinal symptoms.",
+  "clinicalPearl": "GI effects typically lessen with continued therapy."
+},
+
+{
+  "id": "rn-q-898",
+  "scope": ["RN"],
+  "medicationId": "rn-307",
+  "medication": "Pioglitazone hydrochloride",
+  "questionType": "multiple-choice",
+  "stem": "Pioglitazone belongs to which drug class?",
+  "choices": [
+    "Sulfonylurea",
+    "GLP-1 agonist",
+    "Thiazolidinedione",
+    "SGLT2 inhibitor"
+  ],
+  "correctAnswer": "Thiazolidinedione",
+  "rationale": "Pioglitazone improves insulin sensitivity in muscle and adipose tissue.",
+  "clinicalPearl": "Contraindicated in patients with symptomatic heart failure."
+},
+
+{
+  "id": "rn-q-899",
+  "scope": ["RN"],
+  "medicationId": "rn-307",
+  "medication": "Pioglitazone hydrochloride",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is most concerning with pioglitazone therapy?",
+  "choices": [
+    "Hypoglycemia",
+    "Fluid retention and heart failure",
+    "Neutropenia",
+    "Bradycardia"
+  ],
+  "correctAnswer": "Fluid retention and heart failure",
+  "rationale": "Pioglitazone can cause fluid retention that may worsen heart failure.",
+  "clinicalPearl": "Monitor for weight gain and peripheral edema."
+},
+
+{
+  "id": "rn-q-900",
+  "scope": ["RN"],
+  "medicationId": "rn-307",
+  "medication": "Pioglitazone hydrochloride",
+  "questionType": "multiple-choice",
+  "stem": "Which lab value indicates effectiveness of pioglitazone?",
+  "choices": [
+    "Increased potassium",
+    "Decreased hemoglobin",
+    "Increased sodium",
+    "Decreased HbA1c"
+  ],
+  "correctAnswer": "Decreased HbA1c",
+  "rationale": "A reduction in HbA1c reflects improved long-term glycemic control.",
+  "clinicalPearl": "May increase fracture risk in some patients."
+},
+
+{
+  "id": "rn-q-901",
+  "scope": ["RN"],
+  "medicationId": "rn-308",
+  "medication": "Repaglinide",
+  "questionType": "multiple-choice",
+  "stem": "Repaglinide lowers blood glucose by:",
+  "choices": [
+    "Increasing renal glucose excretion",
+    "Stimulating rapid insulin release",
+    "Reducing carbohydrate absorption",
+    "Inhibiting glucagon release"
+  ],
+  "correctAnswer": "Stimulating rapid insulin release",
+  "rationale": "Repaglinide stimulates pancreatic beta cells to release insulin quickly.",
+  "clinicalPearl": "Useful for controlling postprandial glucose."
+},
+
+{
+  "id": "rn-q-902",
+  "scope": ["RN"],
+  "medicationId": "rn-308",
+  "medication": "Repaglinide",
+  "questionType": "multiple-choice",
+  "stem": "When should repaglinide be taken?",
+  "choices": [
+    "At bedtime",
+    "Once weekly",
+    "Before meals",
+    "After exercise"
+  ],
+  "correctAnswer": "Before meals",
+  "rationale": "Timing the dose before meals helps control post-meal glucose elevations.",
+  "clinicalPearl": "Skip the dose if a meal is skipped to avoid hypoglycemia."
+},
+
+{
+  "id": "rn-q-903",
+  "scope": ["RN"],
+  "medicationId": "rn-308",
+  "medication": "Repaglinide",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is most common with repaglinide?",
+  "choices": [
+    "Hypernatremia",
+    "Hypertension",
+    "Peripheral edema",
+    "Hypoglycemia"
+  ],
+  "correctAnswer": "Hypoglycemia",
+  "rationale": "Rapid insulin release can lower blood glucose excessively.",
+  "clinicalPearl": "Short duration reduces risk of prolonged hypoglycemia."
+},
+
+{
+  "id": "rn-q-904",
+  "scope": ["RN"],
+  "medicationId": "rn-309",
+  "medication": "Sitagliptin",
+  "questionType": "multiple-choice",
+  "stem": "Sitagliptin works by inhibiting which enzyme?",
+  "choices": [
+    "GLP-1 receptor",
+    "DPP-4",
+    "SGLT2",
+    "Alpha-glucosidase"
+  ],
+  "correctAnswer": "DPP-4",
+  "rationale": "Sitagliptin inhibits the DPP-4 enzyme, increasing incretin levels and enhancing insulin secretion.",
+  "clinicalPearl": "Low risk of hypoglycemia when used alone."
+},
+
+{
+  "id": "rn-q-905",
+  "scope": ["RN"],
+  "medicationId": "rn-309",
+  "medication": "Sitagliptin",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is associated with sitagliptin?",
+  "choices": [
+    "Hyperkalemia",
+    "Hypertension",
+    "Pancreatitis",
+    "Tachycardia"
+  ],
+  "correctAnswer": "Pancreatitis",
+  "rationale": "DPP-4 inhibitors have a rare association with pancreatic inflammation.",
+  "clinicalPearl": "Monitor for severe persistent abdominal pain."
+},
+
+{
+  "id": "rn-q-906",
+  "scope": ["RN"],
+  "medicationId": "rn-309",
+  "medication": "Sitagliptin",
+  "questionType": "multiple-choice",
+  "stem": "Which patient requires dose adjustment for sitagliptin?",
+  "choices": [
+    "Patient with mild hypertension",
+    "Patient with anemia",
+    "Patient with renal impairment",
+    "Patient with hyperlipidemia"
+  ],
+  "correctAnswer": "Patient with renal impairment",
+  "rationale": "Sitagliptin is primarily excreted through the kidneys and requires renal dosing adjustments.",
+  "clinicalPearl": "Assess renal function before initiating therapy."
+},
+
+{
+  "id": "rn-q-907",
+  "scope": ["RN"],
+  "medicationId": "rn-310",
+  "medication": "Linagliptin",
+  "questionType": "multiple-choice",
+  "stem": "Which characteristic distinguishes linagliptin from other DPP-4 inhibitors?",
+  "choices": [
+    "Causes significant hypoglycemia",
+    "Does not require renal dose adjustment",
+    "Is administered intravenously",
+    "Is long-acting insulin"
+  ],
+  "correctAnswer": "Does not require renal dose adjustment",
+  "rationale": "Linagliptin is primarily eliminated via bile rather than kidneys.",
+  "clinicalPearl": "Preferred DPP-4 inhibitor in patients with renal impairment."
+},
+
+{
+  "id": "rn-q-908",
+  "scope": ["RN"],
+  "medicationId": "rn-310",
+  "medication": "Linagliptin",
+  "questionType": "multiple-choice",
+  "stem": "Linagliptin improves glucose control by:",
+  "choices": [
+    "Increasing hepatic glucose production",
+    "Blocking insulin receptors",
+    "Enhancing carbohydrate absorption",
+    "Increasing incretin hormone activity"
+  ],
+  "correctAnswer": "Increasing incretin hormone activity",
+  "rationale": "Linagliptin enhances glucose-dependent insulin release by increasing incretin activity.",
+  "clinicalPearl": "Associated with low risk of weight gain."
+},
+
+{
+  "id": "rn-q-909",
+  "scope": ["RN"],
+  "medicationId": "rn-310",
+  "medication": "Linagliptin",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect should be monitored with linagliptin?",
+  "choices": [
+    "Joint pain",
+    "Hypercalcemia",
+    "Hypertension",
+    "Hair loss"
+  ],
+  "correctAnswer": "Joint pain",
+  "rationale": "DPP-4 inhibitors have been linked to severe arthralgia.",
+  "clinicalPearl": "Advise patients to report severe or persistent joint pain."
+},
+
+{
+  "id": "rn-q-910",
+  "scope": ["RN"],
+  "medicationId": "rn-311",
+  "medication": "Glucagon",
+  "questionType": "multiple-choice",
+  "stem": "Glucagon is primarily used to treat which condition?",
+  "choices": [
+    "Hyperglycemia",
+    "Severe hypoglycemia",
+    "Hyperkalemia",
+    "Diabetic ketoacidosis"
+  ],
+  "correctAnswer": "Severe hypoglycemia",
+  "rationale": "Glucagon stimulates hepatic glycogen breakdown to raise blood glucose levels.",
+  "clinicalPearl": "Teach family members how to administer emergency glucagon kits."
+},
+
+{
+  "id": "rn-q-911",
+  "scope": ["RN"],
+  "medicationId": "rn-311",
+  "medication": "Glucagon",
+  "questionType": "multiple-choice",
+  "stem": "Which route is commonly used for emergency glucagon administration?",
+  "choices": [
+    "Oral",
+    "Topical",
+    "Intramuscular",
+    "Subcutaneous patch"
+  ],
+  "correctAnswer": "Intramuscular",
+  "rationale": "Intramuscular injection allows rapid absorption during hypoglycemic emergencies.",
+  "clinicalPearl": "Once the patient awakens, provide carbohydrates to replenish glycogen stores."
+},
+
+{
+  "id": "rn-q-912",
+  "scope": ["RN"],
+  "medicationId": "rn-311",
+  "medication": "Glucagon",
+  "questionType": "multiple-choice",
+  "stem": "Which side effect may occur after glucagon administration?",
+  "choices": [
+    "Hypertension",
+    "Nausea and vomiting",
+    "Hyperkalemia",
+    "Bradycardia"
+  ],
+  "correctAnswer": "Nausea and vomiting",
+  "rationale": "Rapid glucose changes commonly cause nausea and vomiting after glucagon administration.",
+  "clinicalPearl": "Turn unconscious patients on their side to prevent aspiration."
+},
+
+{
+  "id": "rn-q-913",
+  "scope": ["RN"],
+  "medicationId": "rn-312",
+  "medication": "Diazoxide",
+  "questionType": "multiple-choice",
+  "stem": "Diazoxide raises blood glucose levels by:",
+  "choices": [
+    "Stimulating insulin secretion",
+    "Increasing glucose absorption",
+    "Enhancing glucagon breakdown",
+    "Inhibiting insulin release"
+  ],
+  "correctAnswer": "Inhibiting insulin release",
+  "rationale": "Diazoxide suppresses pancreatic insulin secretion, increasing blood glucose levels.",
+  "clinicalPearl": "Used in management of hyperinsulinism or insulinoma."
+},
+
+{
+  "id": "rn-q-914",
+  "scope": ["RN"],
+  "medicationId": "rn-312",
+  "medication": "Diazoxide",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is associated with diazoxide therapy?",
+  "choices": [
+    "Fluid retention",
+    "Hypoglycemia",
+    "Constipation",
+    "Bradycardia"
+  ],
+  "correctAnswer": "Fluid retention",
+  "rationale": "Diazoxide can cause sodium and fluid retention.",
+  "clinicalPearl": "Monitor blood pressure and fluid status during therapy."
+},
+
+{
+  "id": "rn-q-915",
+  "scope": ["RN"],
+  "medicationId": "rn-312",
+  "medication": "Diazoxide",
+  "questionType": "multiple-choice",
+  "stem": "Which patient condition is diazoxide most commonly prescribed for?",
+  "choices": [
+    "Type 1 diabetes",
+    "Hyperthyroidism",
+    "Hyperinsulinism",
+    "Hypoparathyroidism"
+  ],
+  "correctAnswer": "Hyperinsulinism",
+  "rationale": "Diazoxide reduces excessive insulin secretion in hyperinsulinism.",
+  "clinicalPearl": "Often combined with diuretics to manage fluid retention."
+},
+
+{
+  "id": "rn-q-916",
+  "scope": ["RN"],
+  "medicationId": "rn-313",
+  "medication": "Promethazine",
+  "questionType": "multiple-choice",
+  "stem": "Promethazine is primarily used for:",
+  "choices": [
+    "Hypertension",
+    "Hypoglycemia",
+    "Nausea and motion sickness",
+    "Bacterial infections"
+  ],
+  "correctAnswer": "Nausea and motion sickness",
+  "rationale": "Promethazine blocks histamine and dopamine receptors, reducing nausea.",
+  "clinicalPearl": "Can cause significant sedation; caution patients about driving."
+},
+
+{
+  "id": "rn-q-917",
+  "scope": ["RN"],
+  "medicationId": "rn-313",
+  "medication": "Promethazine",
+  "questionType": "multiple-choice",
+  "stem": "Which serious adverse effect is associated with promethazine in children?",
+  "choices": [
+    "Hyperglycemia",
+    "Respiratory depression",
+    "Tachycardia",
+    "Hypertension"
+  ],
+  "correctAnswer": "Respiratory depression",
+  "rationale": "Promethazine can suppress respiratory drive in young children.",
+  "clinicalPearl": "Contraindicated in children under 2 years old."
+},
+
+{
+  "id": "rn-q-918",
+  "scope": ["RN"],
+  "medicationId": "rn-313",
+  "medication": "Promethazine",
+  "questionType": "multiple-choice",
+  "stem": "Which instruction should be included when administering IV promethazine?",
+  "choices": [
+    "Inject rapidly into small vein",
+    "Mix with calcium solutions",
+    "Give as IV push without dilution",
+    "Administer through a large vein and monitor closely"
+  ],
+  "correctAnswer": "Administer through a large vein and monitor closely",
+  "rationale": "IV promethazine carries risk of severe tissue injury and necrosis if extravasation occurs.",
+  "clinicalPearl": "Many facilities prefer deep IM administration instead of IV due to tissue injury risk."
+},
+
+{
+  "id": "rn-q-919",
+  "scope": ["RN"],
+  "medicationId": "rn-314",
+  "medication": "Prochlorperazine",
+  "questionType": "multiple-choice",
+  "stem": "Prochlorperazine is commonly used to treat:",
+  "choices": [
+    "Hyperlipidemia",
+    "Severe nausea and vomiting",
+    "Hypoglycemia",
+    "Hypertension"
+  ],
+  "correctAnswer": "Severe nausea and vomiting",
+  "rationale": "Prochlorperazine blocks dopamine receptors in the brain’s vomiting center.",
+  "clinicalPearl": "Also has antipsychotic properties."
+},
+
+{
+  "id": "rn-q-920",
+  "scope": ["RN"],
+  "medicationId": "rn-314",
+  "medication": "Prochlorperazine",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is most associated with prochlorperazine?",
+  "choices": [
+    "Hypernatremia",
+    "Hyperglycemia",
+    "Extrapyramidal symptoms",
+    "Hypokalemia"
+  ],
+  "correctAnswer": "Extrapyramidal symptoms",
+  "rationale": "Dopamine blockade can cause movement disorders such as dystonia and akathisia.",
+  "clinicalPearl": "Monitor for dystonia, akathisia, or Parkinson-like symptoms."
+},
+
+{
+  "id": "rn-q-921",
+  "scope": ["RN"],
+  "medicationId": "rn-314",
+  "medication": "Prochlorperazine",
+  "questionType": "multiple-choice",
+  "stem": "Which patient teaching is appropriate for prochlorperazine?",
+  "choices": [
+    "Avoid fluid intake",
+    "Increase sodium intake",
+    "Take with antacids",
+    "Report muscle stiffness or tremors"
+  ],
+  "correctAnswer": "Report muscle stiffness or tremors",
+  "rationale": "Muscle stiffness or tremors may indicate extrapyramidal reactions requiring treatment.",
+  "clinicalPearl": "Anticholinergic medications may be used to treat EPS if they occur."
+},
+
+{
+  "id": "rn-q-922",
+  "scope": ["RN"],
+  "medicationId": "rn-315",
+  "medication": "Chlorpromazine",
+  "questionType": "multiple-choice",
+  "stem": "Chlorpromazine belongs to which drug class?",
+  "choices": [
+    "Selective serotonin reuptake inhibitor",
+    "Typical antipsychotic",
+    "Benzodiazepine",
+    "Beta blocker"
+  ],
+  "correctAnswer": "Typical antipsychotic",
+  "rationale": "Chlorpromazine blocks dopamine receptors producing antipsychotic effects.",
+  "clinicalPearl": "It is a low-potency typical antipsychotic with strong sedative effects."
+},
+
+{
+  "id": "rn-q-923",
+  "scope": ["RN"],
+  "medicationId": "rn-315",
+  "medication": "Chlorpromazine",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is commonly associated with chlorpromazine?",
+  "choices": [
+    "Hypercalcemia",
+    "Orthostatic hypotension",
+    "Hypernatremia",
+    "Hyperglycemia"
+  ],
+  "correctAnswer": "Orthostatic hypotension",
+  "rationale": "Alpha-adrenergic blockade caused by chlorpromazine leads to blood pressure drops.",
+  "clinicalPearl": "Advise patients to rise slowly from sitting or lying positions."
+},
+
+{
+  "id": "rn-q-924",
+  "scope": ["RN"],
+  "medicationId": "rn-315",
+  "medication": "Chlorpromazine",
+  "questionType": "multiple-choice",
+  "stem": "Which serious adverse reaction should be monitored with chlorpromazine?",
+  "choices": [
+    "Hyperthyroidism",
+    "Hypoglycemia",
+    "Pulmonary embolism",
+    "Neuroleptic malignant syndrome"
+  ],
+  "correctAnswer": "Neuroleptic malignant syndrome",
+  "rationale": "Neuroleptic malignant syndrome is a rare but life-threatening reaction characterized by fever, rigidity, and autonomic instability.",
+  "clinicalPearl": "Immediate discontinuation is required if NMS is suspected."
+},
+
+  {
+    "id": "rn-q-925",
+    "scope": ["RN"],
+    "medicationId": "rn-316",
+    "medication": "Hydroxyzine",
+    "questionType": "multiple-choice",
+    "stem": "Hydroxyzine is primarily used for which purpose?",
+    "choices": [
+      "Hypertension",
+      "Anxiety and pruritus",
+      "Bacterial infection",
+      "Hyperglycemia"
+    ],
+    "correctAnswer": "Anxiety and pruritus",
+    "rationale": "Hydroxyzine blocks histamine receptors producing sedative and anti-itch effects.",
+    "clinicalPearl": "Hydroxyzine is commonly used as a non-benzodiazepine option for anxiety."
+  },
+
+ {
+    "id": "rn-q-926",
+    "scope": ["RN"],
+    "medicationId": "rn-316",
+    "medication": "Hydroxyzine",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most common with hydroxyzine?",
+    "choices": [
+      "Hyperkalemia",
+      "Sedation",
+      "Hypertension",
+      "Tachycardia"
+    ],
+    "correctAnswer": "Sedation",
+    "rationale": "Strong antihistamine properties commonly cause drowsiness.",
+    "clinicalPearl": "Advise patients to avoid driving or operating machinery until response is known."
+  },
+  
+{
+    "id": "rn-q-927",
+    "scope": ["RN"],
+    "medicationId": "rn-316",
+    "medication": "Hydroxyzine",
+    "questionType": "multiple-choice",
+    "stem": "Which patient instruction is appropriate for hydroxyzine?",
+    "choices": [
+      "Increase caffeine intake",
+      "Limit fluid intake",
+      "Avoid alcohol use",
+      "Take with potassium supplements"
+    ],
+    "correctAnswer": "Avoid alcohol use",
+    "rationale": "Alcohol increases central nervous system depression when combined with hydroxyzine.",
+    "clinicalPearl": "Hydroxyzine may also cause anticholinergic effects such as dry mouth."
+  },
+
+ {
+    "id": "rn-q-928",
+    "scope": ["RN"],
+    "medicationId": "rn-317",
+    "medication": "Meclizine",
+    "questionType": "multiple-choice",
+    "stem": "Meclizine is most commonly used to treat:",
+    "choices": [
+      "Motion sickness",
+      "Hypoglycemia",
+      "Hypertension",
+      "Hyperlipidemia"
+    ],
+    "correctAnswer": "Motion sickness",
+    "rationale": "Meclizine is an antihistamine that reduces vestibular stimulation to prevent nausea and vertigo.",
+    "clinicalPearl": "Best taken about one hour before travel for prevention."
+  },
+
+{
+    "id": "rn-q-929",
+    "scope": ["RN"],
+    "medicationId": "rn-317",
+    "medication": "Meclizine",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is associated with meclizine?",
+    "choices": [
+      "Hypernatremia",
+      "Bradycardia",
+      "Drowsiness",
+      "Hyperglycemia"
+    ],
+    "correctAnswer": "Drowsiness",
+    "rationale": "Central nervous system depression is common with antihistamines such as meclizine.",
+    "clinicalPearl": "Use caution in older adults due to increased fall risk."
+  },
+
+ {
+    "id": "rn-q-930",
+    "scope": ["RN"],
+    "medicationId": "rn-317",
+    "medication": "Meclizine",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is appropriate when taking meclizine?",
+    "choices": [
+      "Avoid fluid intake",
+      "Avoid activities requiring alertness initially",
+      "Increase sodium intake",
+      "Take with antacids"
+    ],
+    "correctAnswer": "Avoid activities requiring alertness initially",
+    "rationale": "Sedation can impair coordination and concentration when starting meclizine.",
+    "clinicalPearl": "Anticholinergic effects may worsen glaucoma symptoms."
+  },
+
+ {
+    "id": "rn-q-931",
+    "scope": ["RN"],
+    "medicationId": "rn-318",
+    "medication": "Ondansetron",
+    "questionType": "multiple-choice",
+    "stem": "Ondansetron works primarily by blocking which receptor?",
+    "choices": [
+      "Histamine H1",
+      "Muscarinic receptors",
+      "Serotonin 5-HT3",
+      "Dopamine D2"
+    ],
+    "correctAnswer": "Serotonin 5-HT3",
+    "rationale": "Ondansetron blocks serotonin receptors in the vomiting center and gastrointestinal tract.",
+    "clinicalPearl": "Commonly used for chemotherapy-induced and postoperative nausea and vomiting."
+  },
+
+{
+    "id": "rn-q-932",
+    "scope": ["RN"],
+    "medicationId": "rn-318",
+    "medication": "Ondansetron",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is associated with ondansetron?",
+    "choices": [
+      "Hyperglycemia",
+      "QT interval prolongation",
+      "Hypertension",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "QT interval prolongation",
+    "rationale": "Ondansetron can prolong the QT interval and increase risk for serious cardiac arrhythmias.",
+    "clinicalPearl": "Use caution in patients with electrolyte imbalances or existing cardiac disease."
+  },
+
+ {
+    "id": "rn-q-933",
+    "scope": ["RN"],
+    "medicationId": "rn-318",
+    "medication": "Ondansetron",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment is most important before administering ondansetron?",
+    "choices": [
+      "Skin integrity",
+      "Pupil size",
+      "Renal function",
+      "Cardiac history"
+    ],
+    "correctAnswer": "Cardiac history",
+    "rationale": "QT prolongation risk increases in patients with cardiac disease.",
+    "clinicalPearl": "Monitor ECG in high-risk patients receiving ondansetron."
+  },
+
+  {
+    "id": "rn-q-934",
+    "scope": ["RN"],
+    "medicationId": "rn-319",
+    "medication": "Granisetron",
+    "questionType": "multiple-choice",
+    "stem": "Granisetron is primarily used to prevent:",
+    "choices": [
+      "Chemotherapy-induced nausea",
+      "Hypertension",
+      "Hypoglycemia",
+      "Hyperlipidemia"
+    ],
+    "correctAnswer": "Chemotherapy-induced nausea",
+    "rationale": "Granisetron blocks serotonin receptors involved in the vomiting reflex, preventing nausea associated with chemotherapy.",
+    "clinicalPearl": "Its longer duration allows less frequent dosing compared with some antiemetics."
+  },
+
+ {
+    "id": "rn-q-935",
+    "scope": ["RN"],
+    "medicationId": "rn-319",
+    "medication": "Granisetron",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is common with granisetron?",
+    "choices": [
+      "Hypernatremia",
+      "Headache",
+      "Bradycardia",
+      "Hypercalcemia"
+    ],
+    "correctAnswer": "Headache",
+    "rationale": "Serotonin receptor blockade frequently causes headaches in patients receiving granisetron.",
+    "clinicalPearl": "Constipation may also occur during therapy."
+  },
+
+{
+    "id": "rn-q-936",
+    "scope": ["RN"],
+    "medicationId": "rn-319",
+    "medication": "Granisetron",
+    "questionType": "multiple-choice",
+    "stem": "Which route is commonly used for granisetron administration?",
+    "choices": [
+      "Topical cream",
+      "Intranasal only",
+      "Oral or transdermal patch",
+      "Subcutaneous patch"
+    ],
+    "correctAnswer": "Oral or transdermal patch",
+    "rationale": "Granisetron is available in oral and transdermal formulations to improve convenience and adherence.",
+    "clinicalPearl": "The transdermal patch is useful for prolonged nausea prevention."
+  },
+
+{
+    "id": "rn-q-937",
+    "scope": ["RN"],
+    "medicationId": "rn-320",
+    "medication": "Aprepitant",
+    "questionType": "multiple-choice",
+    "stem": "Aprepitant prevents nausea by blocking which receptor?",
+    "choices": [
+      "Histamine receptor",
+      "Dopamine receptor",
+      "Neurokinin-1 (NK1) receptor",
+      "Serotonin receptor"
+    ],
+    "correctAnswer": "Neurokinin-1 (NK1) receptor",
+    "rationale": "Aprepitant blocks substance P at neurokinin-1 receptors within the vomiting pathway.",
+    "clinicalPearl": "It is typically used in combination with other antiemetics for chemotherapy-induced nausea."
+  },
+
+{
+    "id": "rn-q-938",
+    "scope": ["RN"],
+    "medicationId": "rn-320",
+    "medication": "Aprepitant",
+    "questionType": "multiple-choice",
+    "stem": "Which medication interaction is important with aprepitant?",
+    "choices": [
+      "Ibuprofen",
+      "Magnesium hydroxide",
+      "Acetaminophen",
+      "Warfarin"
+    ],
+    "correctAnswer": "Warfarin",
+    "rationale": "Aprepitant affects CYP450 enzymes, which can alter warfarin metabolism and anticoagulant effects.",
+    "clinicalPearl": "It may also reduce the effectiveness of hormonal contraceptives."
+  },
+
+{
+    "id": "rn-q-939",
+    "scope": ["RN"],
+    "medicationId": "rn-320",
+    "medication": "Aprepitant",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is appropriate for aprepitant?",
+    "choices": [
+      "Increase sodium intake",
+      "Avoid fluid intake",
+      "Use backup birth control methods",
+      "Take with calcium supplements"
+    ],
+    "correctAnswer": "Use backup birth control methods",
+    "rationale": "Aprepitant can decrease the effectiveness of hormonal contraceptives.",
+    "clinicalPearl": "The medication is usually given before chemotherapy to maximize nausea prevention."
+  },
+
+  {
+    "id": "rn-q-940",
+    "scope": ["RN"],
+    "medicationId": "rn-321",
+    "medication": "Rolapitant",
+    "questionType": "multiple-choice",
+    "stem": "Rolapitant prevents nausea by blocking which receptor?",
+    "choices": [
+      "Serotonin 5-HT3 receptor",
+      "Neurokinin-1 (NK1) receptor",
+      "Dopamine receptor",
+      "Histamine receptor"
+    ],
+    "correctAnswer": "Neurokinin-1 (NK1) receptor",
+    "rationale": "Rolapitant blocks substance P at neurokinin-1 receptors to prevent delayed chemotherapy-induced nausea.",
+    "clinicalPearl": "It has a very long half-life, providing extended nausea protection."
+  },
+
+ {
+    "id": "rn-q-941",
+    "scope": ["RN"],
+    "medicationId": "rn-321",
+    "medication": "Rolapitant",
+    "questionType": "multiple-choice",
+    "stem": "Which type of nausea is rolapitant most effective at preventing?",
+    "choices": [
+      "Motion sickness",
+      "Pregnancy-related nausea",
+      "Delayed chemotherapy-induced nausea",
+      "Postoperative nausea"
+    ],
+    "correctAnswer": "Delayed chemotherapy-induced nausea",
+    "rationale": "NK1 antagonists primarily target pathways responsible for delayed chemotherapy-induced nausea.",
+    "clinicalPearl": "Often used in combination with serotonin antagonists and corticosteroids."
+  },
+
+  {
+    "id": "rn-q-942",
+    "scope": ["RN"],
+    "medicationId": "rn-321",
+    "medication": "Rolapitant",
+    "questionType": "multiple-choice",
+    "stem": "Which medication consideration is important when administering rolapitant?",
+    "choices": [
+      "Monitor for drug interactions",
+      "Administer only IV",
+      "Check blood glucose frequently",
+      "Avoid use with antihistamines"
+    ],
+    "correctAnswer": "Monitor for drug interactions",
+    "rationale": "Rolapitant interacts with CYP2D6-metabolized medications and may alter their effects.",
+    "clinicalPearl": "Review the patient’s full medication list carefully before prescribing."
+  },
+
+  {
+    "id": "rn-q-943",
+    "scope": ["RN"],
+    "medicationId": "rn-322",
+    "medication": "Scopolamine",
+    "questionType": "multiple-choice",
+    "stem": "Scopolamine is primarily used to prevent:",
+    "choices": [
+      "Chemotherapy nausea",
+      "Motion sickness",
+      "Bacterial diarrhea",
+      "Peptic ulcer disease"
+    ],
+    "correctAnswer": "Motion sickness",
+    "rationale": "Scopolamine is an anticholinergic that blocks vestibular signals triggering vomiting.",
+    "clinicalPearl": "The transdermal patch can provide prevention for up to 72 hours."
+  },
+
+ {
+    "id": "rn-q-944",
+    "scope": ["RN"],
+    "medicationId": "rn-322",
+    "medication": "Scopolamine",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most common with scopolamine?",
+    "choices": [
+      "Hyperglycemia",
+      "Hypertension",
+      "Dry mouth",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Dry mouth",
+    "rationale": "Anticholinergic effects reduce salivary secretions, leading to dry mouth.",
+    "clinicalPearl": "Blurred vision and urinary retention may also occur."
+  },
+
+ {
+    "id": "rn-q-945",
+    "scope": ["RN"],
+    "medicationId": "rn-322",
+    "medication": "Scopolamine",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is important for scopolamine patches?",
+    "choices": [
+      "Cut patch in half",
+      "Apply to abdomen",
+      "Wash hands after handling patch",
+      "Remove daily"
+    ],
+    "correctAnswer": "Wash hands after handling patch",
+    "rationale": "Medication transfer to the eyes can cause pupil dilation and blurred vision.",
+    "clinicalPearl": "Apply the patch behind the ear several hours before travel."
+  },
+
+  {
+    "id": "rn-q-946",
+    "scope": ["RN"],
+    "medicationId": "rn-323",
+    "medication": "Dronabinol",
+    "questionType": "multiple-choice",
+    "stem": "Dronabinol is commonly prescribed for which condition?",
+    "choices": [
+      "Hypertension",
+      "Chemotherapy-induced nausea and appetite stimulation",
+      "Hypothyroidism",
+      "Hyperlipidemia"
+    ],
+    "correctAnswer": "Chemotherapy-induced nausea and appetite stimulation",
+    "rationale": "Dronabinol is a synthetic cannabinoid that stimulates appetite and reduces nausea.",
+    "clinicalPearl": "It is also used to treat AIDS-related anorexia."
+  },
+
+  {
+    "id": "rn-q-947",
+    "scope": ["RN"],
+    "medicationId": "rn-323",
+    "medication": "Dronabinol",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is associated with dronabinol?",
+    "choices": [
+      "Bradycardia",
+      "Hyperkalemia",
+      "Euphoria or mood changes",
+      "Hypertension"
+    ],
+    "correctAnswer": "Euphoria or mood changes",
+    "rationale": "Cannabinoid effects can alter central nervous system function, leading to mood changes.",
+    "clinicalPearl": "Use caution in patients with a psychiatric history."
+  },
+
+ {
+    "id": "rn-q-948",
+    "scope": ["RN"],
+    "medicationId": "rn-323",
+    "medication": "Dronabinol",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is appropriate for dronabinol?",
+    "choices": [
+      "Increase caffeine intake",
+      "Avoid driving until effects are known",
+      "Avoid fluid intake",
+      "Take with antacids"
+    ],
+    "correctAnswer": "Avoid driving until effects are known",
+    "rationale": "Central nervous system effects may impair judgment and coordination.",
+    "clinicalPearl": "Dronabinol may also cause orthostatic hypotension."
+  },
+
+  {
+    "id": "rn-q-949",
+    "scope": ["RN"],
+    "medicationId": "rn-324",
+    "medication": "Diphenoxylate with atropine",
+    "questionType": "multiple-choice",
+    "stem": "The primary purpose of atropine in diphenoxylate combination therapy is to:",
+    "choices": [
+      "Enhance diarrhea control",
+      "Prevent abuse by causing unpleasant side effects",
+      "Reduce nausea",
+      "Increase intestinal motility"
+    ],
+    "correctAnswer": "Prevent abuse by causing unpleasant side effects",
+    "rationale": "Atropine is added to discourage overdose or misuse by producing unpleasant anticholinergic effects at higher doses.",
+    "clinicalPearl": "Diphenoxylate is chemically related to opioids."
+  },
+
+ {
+    "id": "rn-q-950",
+    "scope": ["RN"],
+    "medicationId": "rn-324",
+    "medication": "Diphenoxylate with atropine",
+    "questionType": "multiple-choice",
+    "stem": "Diphenoxylate works by:",
+    "choices": [
+      "Increasing intestinal secretion",
+      "Slowing intestinal motility",
+      "Increasing bile production",
+      "Stimulating gastric emptying"
+    ],
+    "correctAnswer": "Slowing intestinal motility",
+    "rationale": "Diphenoxylate reduces the frequency of diarrhea by slowing bowel activity.",
+    "clinicalPearl": "Use cautiously in infectious diarrhea due to risk of toxin retention."
+  },
+ 
+ {
+    "id": "rn-q-951",
+    "scope": ["RN"],
+    "medicationId": "rn-324",
+    "medication": "Diphenoxylate with atropine",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is associated with diphenoxylate?",
+    "choices": [
+      "Hypernatremia",
+      "Tachycardia",
+      "Drowsiness",
+      "Hyperglycemia"
+    ],
+    "correctAnswer": "Drowsiness",
+    "rationale": "Opioid-like effects may cause central nervous system depression and drowsiness.",
+    "clinicalPearl": "Overdose can lead to respiratory depression."
+  },
+
+ {
+    "id": "rn-q-952",
+    "scope": ["RN"],
+    "medicationId": "rn-325",
+    "medication": "Loperamide",
+    "questionType": "multiple-choice",
+    "stem": "Loperamide treats diarrhea by:",
+    "choices": [
+      "Increasing peristalsis",
+      "Stimulating gastric acid production",
+      "Reducing intestinal motility",
+      "Increasing fluid secretion"
+    ],
+    "correctAnswer": "Reducing intestinal motility",
+    "rationale": "Loperamide acts on opioid receptors in the gut to slow intestinal movement without significant central nervous system effects.",
+    "clinicalPearl": "It is a preferred over-the-counter antidiarrheal medication."
+  },
+
+{
+    "id": "rn-q-953",
+    "scope": ["RN"],
+    "medicationId": "rn-325",
+    "medication": "Loperamide",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect should be monitored with excessive loperamide use?",
+    "choices": [
+      "Hypercalcemia",
+      "Cardiac arrhythmias",
+      "Hypertension",
+      "Hypernatremia"
+    ],
+    "correctAnswer": "Cardiac arrhythmias",
+    "rationale": "High doses of loperamide can prolong the QT interval and cause serious cardiac arrhythmias.",
+    "clinicalPearl": "Patients should not exceed recommended dosing limits."
+  },
+
+  {
+    "id": "rn-q-954",
+    "scope": ["RN"],
+    "medicationId": "rn-325",
+    "medication": "Loperamide",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is appropriate for loperamide therapy?",
+    "choices": [
+      "Increase fiber intake immediately",
+      "Take with antacids only",
+      "Seek medical care if diarrhea persists beyond 48 hours",
+      "Avoid fluid replacement"
+    ],
+    "correctAnswer": "Seek medical care if diarrhea persists beyond 48 hours",
+    "rationale": "Persistent diarrhea may indicate a serious underlying illness requiring medical evaluation.",
+    "clinicalPearl": "Encourage adequate hydration during treatment."
+  },
+
+  {
+    "id": "rn-q-955",
+    "scope": ["RN"],
+    "medicationId": "rn-326",
+    "medication": "Bismuth subsalicylate",
+    "questionType": "multiple-choice",
+    "stem": "Bismuth subsalicylate is commonly used to treat which condition?",
+    "choices": [
+      "Hyperglycemia",
+      "Diarrhea and dyspepsia",
+      "Hypertension",
+      "Hyperlipidemia"
+    ],
+    "correctAnswer": "Diarrhea and dyspepsia",
+    "rationale": "Bismuth subsalicylate provides antimicrobial, anti-inflammatory, and protective gastrointestinal effects.",
+    "clinicalPearl": "It can cause harmless black discoloration of the tongue and stool."
+  },
+
+{
+    "id": "rn-q-956",
+    "scope": ["RN"],
+    "medicationId": "rn-326",
+    "medication": "Bismuth subsalicylate",
+    "questionType": "multiple-choice",
+    "stem": "Which patient should avoid bismuth subsalicylate?",
+    "choices": [
+      "Patient with anemia",
+      "Child with viral illness",
+      "Adult with GERD",
+      "Patient with hypertension"
+    ],
+    "correctAnswer": "Child with viral illness",
+    "rationale": "Bismuth subsalicylate contains a salicylate, which increases the risk of Reye syndrome in children with viral illnesses.",
+    "clinicalPearl": "Avoid use in children and adolescents recovering from viral infections."
+  },
+
+  {
+    "id": "rn-q-957",
+    "scope": ["RN"],
+    "medicationId": "rn-326",
+    "medication": "Bismuth subsalicylate",
+    "questionType": "multiple-choice",
+    "stem": "Which medication interaction is important with bismuth subsalicylate?",
+    "choices": [
+      "Magnesium hydroxide",
+      "Calcium carbonate",
+      "Warfarin",
+      "Acetaminophen"
+    ],
+    "correctAnswer": "Warfarin",
+    "rationale": "Salicylates increase bleeding risk when combined with anticoagulants such as warfarin.",
+    "clinicalPearl": "Use cautiously in patients taking anticoagulants or aspirin-containing products."
+  },
+
+{
+    "id": "rn-q-958",
+    "scope": ["RN"],
+    "medicationId": "rn-327",
+    "medication": "Octreotide acetate",
+    "questionType": "multiple-choice",
+    "stem": "Octreotide is primarily used to treat which condition?",
+    "choices": [
+      "Hypertension",
+      "Hyperlipidemia",
+      "Acromegaly and severe diarrhea",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Acromegaly and severe diarrhea",
+    "rationale": "Octreotide inhibits growth hormone and reduces gastrointestinal secretions.",
+    "clinicalPearl": "It is also used for variceal bleeding and carcinoid syndrome."
+  },
+
+ {
+    "id": "rn-q-959",
+    "scope": ["RN"],
+    "medicationId": "rn-327",
+    "medication": "Octreotide acetate",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is associated with octreotide therapy?",
+    "choices": [
+      "Hypernatremia",
+      "Gallstones",
+      "Bradycardia",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Gallstones",
+    "rationale": "Octreotide decreases gallbladder contractility, increasing the risk of gallstone formation.",
+    "clinicalPearl": "Monitor gallbladder function during long-term therapy."
+  },
+
+  {
+    "id": "rn-q-960",
+    "scope": ["RN"],
+    "medicationId": "rn-327",
+    "medication": "Octreotide acetate",
+    "questionType": "multiple-choice",
+    "stem": "Which lab value should be monitored during octreotide therapy?",
+    "choices": [
+      "Hemoglobin level",
+      "Calcium level",
+      "Blood glucose level",
+      "Sodium level"
+    ],
+    "correctAnswer": "Blood glucose level",
+    "rationale": "Octreotide can cause hypo- or hyperglycemia by altering hormone secretion.",
+    "clinicalPearl": "Adjustment of diabetic medications may be required."
+  },
+
+ {
+    "id": "rn-q-961",
+    "scope": ["RN"],
+    "medicationId": "rn-328",
+    "medication": "Pancreatin",
+    "questionType": "multiple-choice",
+    "stem": "Pancreatin is prescribed to treat:",
+    "choices": [
+      "Hyperlipidemia",
+      "Pancreatic enzyme deficiency",
+      "Hypertension",
+      "Hyperthyroidism"
+    ],
+    "correctAnswer": "Pancreatic enzyme deficiency",
+    "rationale": "Pancreatin provides digestive enzymes such as lipase, protease, and amylase.",
+    "clinicalPearl": "Commonly used in cystic fibrosis or chronic pancreatitis."
+  },
+
+ {
+    "id": "rn-q-962",
+    "scope": ["RN"],
+    "medicationId": "rn-328",
+    "medication": "Pancreatin",
+    "questionType": "multiple-choice",
+    "stem": "When should pancreatin be administered?",
+    "choices": [
+      "At bedtime",
+      "With meals and snacks",
+      "On an empty stomach",
+      "Once weekly"
+    ],
+    "correctAnswer": "With meals and snacks",
+    "rationale": "Pancreatin helps digest fats, proteins, and carbohydrates during food intake.",
+    "clinicalPearl": "Swallow capsules whole or follow specific instructions if opening capsules."
+  },
+
+ {
+    "id": "rn-q-963",
+    "scope": ["RN"],
+    "medicationId": "rn-328",
+    "medication": "Pancreatin",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect may occur with pancreatin therapy?",
+    "choices": [
+      "Hyperglycemia",
+      "Bradycardia",
+      "Oral mucosal irritation",
+      "Hypernatremia"
+    ],
+    "correctAnswer": "Oral mucosal irritation",
+    "rationale": "Pancreatic enzymes may irritate oral tissues if chewed or crushed.",
+    "clinicalPearl": "Avoid crushing or chewing enzyme preparations."
+  },
+
+  {
+    "id": "rn-q-964",
+    "scope": ["RN"],
+    "medicationId": "rn-329",
+    "medication": "Psyllium",
+    "questionType": "multiple-choice",
+    "stem": "Psyllium treats constipation by:",
+    "choices": [
+      "Inhibiting intestinal motility",
+      "Forming bulk in stool",
+      "Increasing gastric acid production",
+      "Stimulating intestinal secretion"
+    ],
+    "correctAnswer": "Forming bulk in stool",
+    "rationale": "Psyllium absorbs water and increases stool mass to promote bowel movements.",
+    "clinicalPearl": "Encourage adequate fluid intake to prevent obstruction."
+  },
+
+{
+    "id": "rn-q-965",
+    "scope": ["RN"],
+    "medicationId": "rn-329",
+    "medication": "Psyllium",
+    "questionType": "multiple-choice",
+    "stem": "Which instruction is important when taking psyllium?",
+    "choices": [
+      "Take on an empty stomach only",
+      "Take with a full glass of water",
+      "Take once weekly",
+      "Avoid fluids after dose"
+    ],
+    "correctAnswer": "Take with a full glass of water",
+    "rationale": "Taking psyllium with adequate water prevents esophageal or intestinal blockage.",
+    "clinicalPearl": "Long-term use may also help lower cholesterol levels."
+  },
+
+ {
+    "id": "rn-q-966",
+    "scope": ["RN"],
+    "medicationId": "rn-329",
+    "medication": "Psyllium",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is associated with psyllium?",
+    "choices": [
+      "Hypertension",
+      "Bloating",
+      "Hyperkalemia",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Bloating",
+    "rationale": "Increased fiber intake may cause gas formation and bloating.",
+    "clinicalPearl": "Introduce gradually to minimize gastrointestinal discomfort."
+  },
+
+ {
+    "id": "rn-q-967",
+    "scope": ["RN"],
+    "medicationId": "rn-330",
+    "medication": "Methylcellulose",
+    "questionType": "multiple-choice",
+    "stem": "Methylcellulose treats constipation by:",
+    "choices": [
+      "Increasing intestinal secretion",
+      "Stimulating bile production",
+      "Increasing stool bulk",
+      "Reducing gastric motility"
+    ],
+    "correctAnswer": "Increasing stool bulk",
+    "rationale": "Methylcellulose is a synthetic fiber that increases stool volume and promotes bowel movement.",
+    "clinicalPearl": "It is less likely to cause gas compared to psyllium."
+  },
+
+ {
+    "id": "rn-q-968",
+    "scope": ["RN"],
+    "medicationId": "rn-330",
+    "medication": "Methylcellulose",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is appropriate for methylcellulose?",
+    "choices": [
+      "Crush tablets before swallowing",
+      "Take only at bedtime",
+      "Drink adequate fluids",
+      "Avoid water intake"
+    ],
+    "correctAnswer": "Drink adequate fluids",
+    "rationale": "Adequate fluid intake prevents bowel obstruction and improves effectiveness.",
+    "clinicalPearl": "Preferred fiber laxative for patients sensitive to gas formation."
+  },
+
+{
+    "id": "rn-q-969",
+    "scope": ["RN"],
+    "medicationId": "rn-330",
+    "medication": "Methylcellulose",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect may occur with methylcellulose?",
+    "choices": [
+      "Hyperglycemia",
+      "Abdominal fullness",
+      "Tachycardia",
+      "Hypernatremia"
+    ],
+    "correctAnswer": "Abdominal fullness",
+    "rationale": "Bulk-forming agents may cause abdominal fullness or mild bloating.",
+    "clinicalPearl": "Safe for long-term constipation management when taken correctly."
+  },
+
+  {
+    "id": "rn-q-970",
+    "scope": ["RN"],
+    "medicationId": "rn-331",
+    "medication": "Calcium Polycarbophil",
+    "questionType": "multiple-choice",
+    "stem": "Calcium polycarbophil belongs to which laxative class?",
+    "choices": [
+      "Stimulant laxative",
+      "Bulk-forming laxative",
+      "Osmotic laxative",
+      "Stool softener"
+    ],
+    "correctAnswer": "Bulk-forming laxative",
+    "rationale": "Bulk-forming laxatives absorb water in the intestine to increase stool mass and promote peristalsis.",
+    "clinicalPearl": "Requires adequate fluid intake to prevent intestinal or esophageal obstruction."
+  },
+
+ {
+    "id": "rn-q-971",
+    "scope": ["RN"],
+    "medicationId": "rn-331",
+    "medication": "Calcium Polycarbophil",
+    "questionType": "multiple-choice",
+    "stem": "How does calcium polycarbophil relieve constipation?",
+    "choices": [
+      "Lubricates intestinal lining",
+      "Absorbs water to increase stool bulk",
+      "Increases bile secretion",
+      "Stimulates enteric nerves"
+    ],
+    "correctAnswer": "Absorbs water to increase stool bulk",
+    "rationale": "Increased stool bulk stretches the intestinal wall, stimulating normal bowel motility.",
+    "clinicalPearl": "Often preferred for chronic constipation due to gentler action compared to stimulant laxatives."
+  },
+
+  {
+    "id": "rn-q-972",
+    "scope": ["RN"],
+    "medicationId": "rn-331",
+    "medication": "Calcium Polycarbophil",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect may occur if calcium polycarbophil is taken without sufficient water?",
+    "choices": [
+      "Electrolyte imbalance",
+      "Bowel or esophageal obstruction",
+      "Hypercalcemia",
+      "Diarrhea"
+    ],
+    "correctAnswer": "Bowel or esophageal obstruction",
+    "rationale": "Insufficient hydration can cause bulk agents to swell before reaching the stomach or colon, leading to obstruction.",
+    "clinicalPearl": "Should always be taken with a full glass of water."
+  },
+
+ {
+    "id": "rn-q-973",
+    "scope": ["RN"],
+    "medicationId": "rn-332",
+    "medication": "Mineral Oil",
+    "questionType": "multiple-choice",
+    "stem": "What is the primary action of mineral oil as a laxative?",
+    "choices": [
+      "Stimulates intestinal smooth muscle",
+      "Lubricates stool and intestinal mucosa",
+      "Increases intestinal chloride secretion",
+      "Increases stool osmolarity"
+    ],
+    "correctAnswer": "Lubricates stool and intestinal mucosa",
+    "rationale": "Mineral oil coats stool and the intestinal lining, reducing water reabsorption and easing stool passage.",
+    "clinicalPearl": "Aspiration risk makes it inappropriate for elderly or bedridden patients."
+  },
+
+{
+    "id": "rn-q-974",
+    "scope": ["RN"],
+    "medicationId": "rn-332",
+    "medication": "Mineral Oil",
+    "questionType": "multiple-choice",
+    "stem": "Which vitamin absorption can be impaired with chronic mineral oil use?",
+    "choices": [
+      "Vitamin B12",
+      "Fat-soluble vitamins",
+      "Folate",
+      "Vitamin C"
+    ],
+    "correctAnswer": "Fat-soluble vitamins",
+    "rationale": "Mineral oil interferes with absorption of vitamins A, D, E, and K by dissolving them within the oil phase.",
+    "clinicalPearl": "Long-term use may lead to deficiencies of vitamins A, D, E, and K."
+  },
+
+ {
+    "id": "rn-q-975",
+    "scope": ["RN"],
+    "medicationId": "rn-332",
+    "medication": "Mineral Oil",
+    "questionType": "multiple-choice",
+    "stem": "Why is mineral oil generally avoided in older adults?",
+    "choices": [
+      "Causes severe electrolyte disturbances",
+      "High risk of aspiration pneumonia",
+      "Leads to rapid tolerance",
+      "Causes severe dehydration"
+    ],
+    "correctAnswer": "High risk of aspiration pneumonia",
+    "rationale": "If aspirated, mineral oil can cause lipid pneumonitis, which is difficult to treat.",
+    "clinicalPearl": "It should not be taken before lying down or at bedtime."
+  },
+
+{
+    "id": "rn-q-976",
+    "scope": ["RN"],
+    "medicationId": "rn-333",
+    "medication": "Bisacodyl",
+    "questionType": "multiple-choice",
+    "stem": "Bisacodyl is classified as which type of laxative?",
+    "choices": [
+      "Bulk-forming",
+      "Stimulant",
+      "Osmotic",
+      "Emollient"
+    ],
+    "correctAnswer": "Stimulant",
+    "rationale": "Stimulant laxatives directly increase intestinal motility and secretion.",
+    "clinicalPearl": "Typically used for short-term treatment or bowel preparation."
+  },
+
+{
+    "id": "rn-q-977",
+    "scope": ["RN"],
+    "medicationId": "rn-333",
+    "medication": "Bisacodyl",
+    "questionType": "multiple-choice",
+    "stem": "What is bisacodyl’s mechanism of action?",
+    "choices": [
+      "Increases stool water via osmotic effect",
+      "Forms gel to soften stool",
+      "Stimulates colonic nerve plexus to increase motility",
+      "Reduces gastric acid secretion"
+    ],
+    "correctAnswer": "Stimulates colonic nerve plexus to increase motility",
+    "rationale": "Activation of enteric nerves increases peristalsis and fluid accumulation in the colon.",
+    "clinicalPearl": "Enteric-coated tablets should not be crushed or taken with milk or antacids."
+  },
+
+ {
+    "id": "rn-q-978",
+    "scope": ["RN"],
+    "medicationId": "rn-333",
+    "medication": "Bisacodyl",
+    "questionType": "multiple-choice",
+    "stem": "What is a potential consequence of chronic bisacodyl use?",
+    "choices": [
+      "Vitamin deficiency",
+      "Severe hypoglycemia",
+      "Laxative dependence",
+      "Renal failure"
+    ],
+    "correctAnswer": "Laxative dependence",
+    "rationale": "Long-term stimulant use can reduce natural bowel motility and worsen constipation.",
+    "clinicalPearl": "Chronic stimulant laxative use may worsen underlying constipation."
+  }.
+
+  {
+    "id": "rn-q-979",
+    "scope": ["RN"],
+    "medicationId": "rn-334",
+    "medication": "Castor Oil",
+    "questionType": "multiple-choice",
+    "stem": "What active metabolite is responsible for castor oil’s laxative effect?",
+    "choices": [
+      "Stearic acid",
+      "Ricinoleic acid",
+      "Oleic acid",
+      "Linoleic acid"
+    ],
+    "correctAnswer": "Ricinoleic acid",
+    "rationale": "Castor oil is hydrolyzed in the small intestine into ricinoleic acid, which stimulates secretion and motility.",
+    "clinicalPearl": "Produces rapid bowel evacuation, often within hours."
+  },
+
+  {
+    "id": "rn-q-980",
+    "scope": ["RN"],
+    "medicationId": "rn-334",
+    "medication": "Castor Oil",
+    "questionType": "multiple-choice",
+    "stem": "How does castor oil produce laxative effects?",
+    "choices": [
+      "Bulk formation",
+      "Inhibits water absorption",
+      "Lubrication",
+      "Stimulates intestinal secretion and motility"
+    ],
+    "correctAnswer": "Stimulates intestinal secretion and motility",
+    "rationale": "Ricinoleic acid irritates intestinal mucosa leading to increased peristalsis and fluid secretion.",
+    "clinicalPearl": "Often causes significant abdominal cramping."
+  },
+
+  {
+    "id": "rn-q-981",
+    "scope": ["RN"],
+    "medicationId": "rn-334",
+    "medication": "Castor Oil",
+    "questionType": "multiple-choice",
+    "stem": "Why is castor oil generally avoided during pregnancy?",
+    "choices": [
+      "May stimulate uterine contractions",
+      "Causes maternal hypotension",
+      "Leads to vitamin deficiency",
+      "Causes fetal toxicity"
+    ],
+    "correctAnswer": "May stimulate uterine contractions",
+    "rationale": "Prostaglandin release from intestinal stimulation may trigger uterine contractions.",
+    "clinicalPearl": "Historically used to induce labor but generally avoided medically."
+  },
+
+{
+    "id": "rn-q-982",
+    "scope": ["RN"],
+    "medicationId": "rn-335",
+    "medication": "Senna",
+    "questionType": "multiple-choice",
+    "stem": "Senna belongs to which laxative class?",
+    "choices": [
+      "Osmotic laxative",
+      "Chloride channel activator",
+      "Stimulant laxative",
+      "Stool softener"
+    ],
+    "correctAnswer": "Stimulant laxative",
+    "rationale": "Senna contains anthraquinone derivatives that stimulate colonic activity.",
+    "clinicalPearl": "Derived from plant anthraquinones."
+  },
+
+ {
+    "id": "rn-q-983",
+    "scope": ["RN"],
+    "medicationId": "rn-335",
+    "medication": "Senna",
+    "questionType": "multiple-choice",
+    "stem": "What is senna’s primary mechanism of action?",
+    "choices": [
+      "Increases stool bulk",
+      "Stimulates colonic motility and fluid secretion",
+      "Lubricates stool",
+      "Decreases intestinal transit"
+    ],
+    "correctAnswer": "Stimulates colonic motility and fluid secretion",
+    "rationale": "Anthraquinones increase peristalsis and decrease water absorption from stool.",
+    "clinicalPearl": "Usually produces bowel movement within 6–12 hours."
+  },
+
+  {
+    "id": "rn-q-984",
+    "scope": ["RN"],
+    "medicationId": "rn-335",
+    "medication": "Senna",
+    "questionType": "multiple-choice",
+    "stem": "Which benign condition can occur with chronic senna use?",
+    "choices": [
+      "Pseudomembranous colitis",
+      "Melanosis coli",
+      "Ulcerative colitis",
+      "Toxic megacolon"
+    ],
+    "correctAnswer": "Melanosis coli",
+    "rationale": "Pigment deposition in colonic macrophages causes dark discoloration but is reversible and benign.",
+    "clinicalPearl": "Melanosis coli is reversible after discontinuation."
+  },
+
+  {
+    "id": "rn-q-985",
+    "scope": ["RN"],
+    "medicationId": "rn-336",
+    "medication": "Magnesium Citrate",
+    "questionType": "multiple-choice",
+    "stem": "Magnesium citrate belongs to which laxative class?",
+    "choices": [
+      "Stimulant laxative",
+      "Bulk-forming laxative",
+      "Osmotic laxative",
+      "Stool softener"
+    ],
+    "correctAnswer": "Osmotic laxative",
+    "rationale": "Osmotic laxatives draw water into the intestinal lumen, increasing stool liquidity and promoting bowel movements.",
+    "clinicalPearl": "Often used for rapid bowel evacuation before procedures."
+  },
+
+ {
+    "id": "rn-q-986",
+    "scope": ["RN"],
+    "medicationId": "rn-336",
+    "medication": "Magnesium Citrate",
+    "questionType": "multiple-choice",
+    "stem": "How does magnesium citrate relieve constipation?",
+    "choices": [
+      "Forms stool bulk",
+      "Stimulates enteric nerves",
+      "Increases intestinal fluid via osmotic activity",
+      "Lubricates stool"
+    ],
+    "correctAnswer": "Increases intestinal fluid via osmotic activity",
+    "rationale": "Magnesium ions attract water into the bowel, softening stool and increasing motility.",
+    "clinicalPearl": "Onset is usually within 30 minutes to 6 hours."
+  },
+
+{
+    "id": "rn-q-987",
+    "scope": ["RN"],
+    "medicationId": "rn-336",
+    "medication": "Magnesium Citrate",
+    "questionType": "multiple-choice",
+    "stem": "Which electrolyte disturbance can occur with excessive magnesium citrate use?",
+    "choices": [
+      "Hypermagnesemia",
+      "Hypernatremia",
+      "Hypocalcemia",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Hypermagnesemia",
+    "rationale": "Magnesium absorption can lead to toxic levels, especially in patients with renal impairment.",
+    "clinicalPearl": "Avoid or use cautiously in patients with kidney disease."
+  },
+
+{
+    "id": "rn-q-988",
+    "scope": ["RN"],
+    "medicationId": "rn-337",
+    "medication": "Polyethylene Glycol",
+    "questionType": "multiple-choice",
+    "stem": "Polyethylene glycol (PEG) works primarily through which mechanism?",
+    "choices": [
+      "Osmotic retention of water in stool",
+      "Stimulation of intestinal smooth muscle",
+      "Increased bile secretion",
+      "Inhibition of sodium absorption"
+    ],
+    "correctAnswer": "Osmotic retention of water in stool",
+    "rationale": "PEG is minimally absorbed and retains water in the intestinal lumen, softening stool.",
+    "clinicalPearl": "Frequently used for chronic constipation and colonoscopy preparation."
+  },
+ 
+{
+    "id": "rn-q-989",
+    "scope": ["RN"],
+    "medicationId": "rn-337",
+    "medication": "Polyethylene Glycol",
+    "questionType": "multiple-choice",
+    "stem": "What is a major advantage of PEG over stimulant laxatives?",
+    "choices": [
+      "Stimulates intestinal nerves",
+      "Lower risk of electrolyte imbalance",
+      "Faster onset",
+      "Greater potency"
+    ],
+    "correctAnswer": "Lower risk of electrolyte imbalance",
+    "rationale": "PEG is iso-osmotic and minimally absorbed, reducing electrolyte disturbances compared with other osmotics.",
+    "clinicalPearl": "Considered one of the safest options for long-term constipation treatment."
+  },
+
+{
+    "id": "rn-q-990",
+    "scope": ["RN"],
+    "medicationId": "rn-337",
+    "medication": "Polyethylene Glycol",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most commonly associated with PEG?",
+    "choices": [
+      "Hypoglycemia",
+      "Bloating and flatulence",
+      "Severe dehydration",
+      "Renal failure"
+    ],
+    "correctAnswer": "Bloating and flatulence",
+    "rationale": "Increased intestinal water can produce gas and abdominal discomfort.",
+    "clinicalPearl": "Large-volume PEG is commonly used in bowel prep solutions."
+  },
+
+{
+    "id": "rn-q-991",
+    "scope": ["RN"],
+    "medicationId": "rn-338",
+    "medication": "Linaclotide",
+    "questionType": "multiple-choice",
+    "stem": "Linaclotide is indicated primarily for which condition?",
+    "choices": [
+      "Peptic ulcer disease",
+      "IBS with constipation",
+      "Opioid-induced constipation",
+      "Acute diarrhea"
+    ],
+    "correctAnswer": "IBS with constipation",
+    "rationale": "It increases intestinal fluid secretion and transit to relieve constipation symptoms.",
+    "clinicalPearl": "Also approved for chronic idiopathic constipation."
+  },
+
+ {
+    "id": "rn-q-992",
+    "scope": ["RN"],
+    "medicationId": "rn-338",
+    "medication": "Linaclotide",
+    "questionType": "multiple-choice",
+    "stem": "What is linaclotide’s mechanism of action?",
+    "choices": [
+      "Enhances bile salt secretion",
+      "Stimulates chloride secretion via guanylate cyclase-C activation",
+      "Inhibits sodium channels",
+      "Stimulates prostaglandin release"
+    ],
+    "correctAnswer": "Stimulates chloride secretion via guanylate cyclase-C activation",
+    "rationale": "Activation increases cyclic GMP leading to chloride and bicarbonate secretion and increased intestinal fluid.",
+    "clinicalPearl": "Should be taken on an empty stomach 30 minutes before breakfast."
+  },
+
+ {
+    "id": "rn-q-993",
+    "scope": ["RN"],
+    "medicationId": "rn-338",
+    "medication": "Linaclotide",
+    "questionType": "multiple-choice",
+    "stem": "What is the most common adverse effect of linaclotide?",
+    "choices": [
+      "Constipation",
+      "Hypernatremia",
+      "Diarrhea",
+      "Severe abdominal cramping"
+    ],
+    "correctAnswer": "Diarrhea",
+    "rationale": "Increased intestinal secretion can lead to excessive stool fluid and diarrhea.",
+    "clinicalPearl": "Contraindicated in pediatric patients due to risk of severe dehydration."
+  },
+
+  {
+    "id": "rn-q-994",
+    "scope": ["RN"],
+    "medicationId": "rn-339",
+    "medication": "Sorbitol",
+    "questionType": "multiple-choice",
+    "stem": "Sorbitol relieves constipation through which mechanism?",
+    "choices": [
+      "Formation of gel stool mass",
+      "Osmotic water retention in the intestine",
+      "Lubrication of stool",
+      "Stimulation of enteric nerves"
+    ],
+    "correctAnswer": "Osmotic water retention in the intestine",
+    "rationale": "As a poorly absorbed sugar alcohol, sorbitol pulls water into the bowel lumen.",
+    "clinicalPearl": "Often used for occasional constipation but may cause significant gas."
+  },
+ 
+ {
+    "id": "rn-q-995",
+    "scope": ["RN"],
+    "medicationId": "rn-339",
+    "medication": "Sorbitol",
+    "questionType": "multiple-choice",
+    "stem": "Which common adverse effect is associated with sorbitol use?",
+    "choices": [
+      "Vitamin deficiency",
+      "Flatulence and abdominal cramping",
+      "Severe electrolyte imbalance",
+      "Hypotension"
+    ],
+    "correctAnswer": "Flatulence and abdominal cramping",
+    "rationale": "Fermentation of sorbitol by intestinal bacteria produces gas and discomfort.",
+    "clinicalPearl": "Excess intake may cause osmotic diarrhea."
+  },
+
+ {
+    "id": "rn-q-996",
+    "scope": ["RN"],
+    "medicationId": "rn-339",
+    "medication": "Sorbitol",
+    "questionType": "multiple-choice",
+    "stem": "Sorbitol is best described pharmacologically as which type of compound?",
+    "choices": [
+      "Fatty acid",
+      "Protein polymer",
+      "Sugar alcohol",
+      "Bile salt"
+    ],
+    "correctAnswer": "Sugar alcohol",
+    "rationale": "Sugar alcohols are poorly absorbed and act as osmotic agents in the bowel.",
+    "clinicalPearl": "Found in many sugar-free products which can contribute to diarrhea if consumed excessively."
+  },
+  
+{
+    "id": "rn-q-997",
+    "scope": ["RN"],
+    "medicationId": "rn-340",
+    "medication": "Docusate Sodium",
+    "questionType": "multiple-choice",
+    "stem": "Docusate sodium belongs to which laxative class?",
+    "choices": [
+      "Stimulant laxative",
+      "Bulk-forming laxative",
+      "Stool softener (emollient)",
+      "Osmotic laxative"
+    ],
+    "correctAnswer": "Stool softener (emollient)",
+    "rationale": "Stool softeners reduce surface tension allowing water and lipids to penetrate stool.",
+    "clinicalPearl": "Often used to prevent constipation rather than treat severe constipation."
+  },
+
+{
+    "id": "rn-q-998",
+    "scope": ["RN"],
+    "medicationId": "rn-340",
+    "medication": "Docusate Sodium",
+    "questionType": "multiple-choice",
+    "stem": "What is the primary mechanism of action of docusate sodium?",
+    "choices": [
+      "Increases osmotic pressure",
+      "Forms bulk gel stool",
+      "Lowers stool surface tension allowing water penetration",
+      "Stimulates intestinal nerves"
+    ],
+    "correctAnswer": "Lowers stool surface tension allowing water penetration",
+    "rationale": "Increased water and fat incorporation softens stool for easier passage.",
+    "clinicalPearl": "Commonly used in patients who should avoid straining (e.g., post-MI or post-surgery)."
+  },
+ 
+ {
+    "id": "rn-q-999",
+    "scope": ["RN"],
+    "medicationId": "rn-340",
+    "medication": "Docusate Sodium",
+    "questionType": "multiple-choice",
+    "stem": "Which limitation is commonly associated with docusate sodium?",
+    "choices": [
+      "Severe electrolyte disturbances",
+      "Minimal effectiveness in severe constipation",
+      "Risk of dependency",
+      "Rapid tolerance"
+    ],
+    "correctAnswer": "Minimal effectiveness in severe constipation",
+    "rationale": "Stool softeners do not stimulate bowel motility, limiting effectiveness in established constipation.",
+    "clinicalPearl": "Best used as prophylaxis rather than active treatment of constipation."
+  },
+
+{
+    "id": "rn-q-1000",
+    "scope": ["RN"],
+    "medicationId": "rn-341",
+    "medication": "Docusate Calcium",
+    "questionType": "multiple-choice",
+    "stem": "Docusate calcium belongs to which laxative class?",
+    "choices": [
+      "Osmotic laxative",
+      "Stool softener (emollient)",
+      "Bulk-forming laxative",
+      "Stimulant laxative"
+    ],
+    "correctAnswer": "Stool softener (emollient)",
+    "rationale": "Stool softeners reduce surface tension allowing water and fats to penetrate stool.",
+    "clinicalPearl": "Used primarily to prevent constipation in patients who should avoid straining."
+  },
+  
+{
+    "id": "rn-q-1001",
+    "scope": ["RN"],
+    "medicationId": "rn-341",
+    "medication": "Docusate Calcium",
+    "questionType": "multiple-choice",
+    "stem": "What is the mechanism of action of docusate calcium?",
+    "choices": [
+      "Forms stool bulk by fiber absorption",
+      "Stimulates intestinal nerve plexus",
+      "Allows water and lipids to mix with stool",
+      "Increases stool osmolarity"
+    ],
+    "correctAnswer": "Allows water and lipids to mix with stool",
+    "rationale": "Increased water penetration softens stool and eases defecation.",
+    "clinicalPearl": "Effects may take 1–3 days to occur."
+  },
+  
+{
+    "id": "rn-q-1002",
+    "scope": ["RN"],
+    "medicationId": "rn-341",
+    "medication": "Docusate Calcium",
+    "questionType": "multiple-choice",
+    "stem": "What is a major limitation of docusate calcium therapy?",
+    "choices": [
+      "Produces rapid diarrhea",
+      "Ineffective for severe constipation",
+      "Causes severe electrolyte disturbances",
+      "Causes dependence"
+    ],
+    "correctAnswer": "Ineffective for severe constipation",
+    "rationale": "It softens stool but does not stimulate bowel motility.",
+    "clinicalPearl": "Best used as prophylaxis rather than treatment of established constipation."
+  },
+  
+{
+    "id": "rn-q-1003",
+    "scope": ["RN"],
+    "medicationId": "rn-342",
+    "medication": "Sodium Bicarbonate",
+    "questionType": "multiple-choice",
+    "stem": "Sodium bicarbonate is primarily used for which condition?",
+    "choices": [
+      "IBS treatment",
+      "Constipation",
+      "Acid indigestion",
+      "Gastric ulcer healing"
+    ],
+    "correctAnswer": "Acid indigestion",
+    "rationale": "It neutralizes gastric acid, providing rapid symptom relief.",
+    "clinicalPearl": "Rapid-acting antacid but short duration of action."
+  },
+  
+{
+    "id": "rn-q-1004",
+    "scope": ["RN"],
+    "medicationId": "rn-342",
+    "medication": "Sodium Bicarbonate",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect can occur with excessive sodium bicarbonate use?",
+    "choices": [
+      "Hypokalemia",
+      "Metabolic alkalosis",
+      "Hypercalcemia",
+      "Metabolic acidosis"
+    ],
+    "correctAnswer": "Metabolic alkalosis",
+    "rationale": "Excess bicarbonate increases blood pH leading to alkalosis.",
+    "clinicalPearl": "Use cautiously in patients with heart failure due to sodium content."
+  },
+ 
+ {
+    "id": "rn-q-1005",
+    "scope": ["RN"],
+    "medicationId": "rn-342",
+    "medication": "Sodium Bicarbonate",
+    "questionType": "multiple-choice",
+    "stem": "Why should sodium bicarbonate be avoided in patients with hypertension?",
+    "choices": [
+      "Causes renal toxicity",
+      "Contains high sodium levels",
+      "Stimulates renin release",
+      "Causes potassium loss"
+    ],
+    "correctAnswer": "Contains high sodium levels",
+    "rationale": "Increased sodium intake can worsen fluid retention and blood pressure.",
+    "clinicalPearl": "May cause belching due to carbon dioxide production."
+  },
+  
+{
+    "id": "rn-q-1006",
+    "scope": ["RN"],
+    "medicationId": "rn-343",
+    "medication": "Calcium Carbonate",
+    "questionType": "multiple-choice",
+    "stem": "Calcium carbonate is commonly used as which therapeutic agent?",
+    "choices": [
+      "Prokinetic agent",
+      "Antacid",
+      "H2 receptor antagonist",
+      "Proton pump inhibitor"
+    ],
+    "correctAnswer": "Antacid",
+    "rationale": "It neutralizes stomach acid by reacting with hydrochloric acid.",
+    "clinicalPearl": "Also commonly used as a calcium supplement."
+  },
+ 
+ {
+    "id": "rn-q-1007",
+    "scope": ["RN"],
+    "medicationId": "rn-343",
+    "medication": "Calcium Carbonate",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is associated with chronic calcium carbonate use?",
+    "choices": [
+      "Severe hypokalemia",
+      "Constipation",
+      "Gastric ulceration",
+      "Diarrhea"
+    ],
+    "correctAnswer": "Constipation",
+    "rationale": "Calcium salts can slow intestinal motility leading to constipation.",
+    "clinicalPearl": "Excessive use may cause milk-alkali syndrome."
+  },
+ 
+ {
+    "id": "rn-q-1008",
+    "scope": ["RN"],
+    "medicationId": "rn-343",
+    "medication": "Calcium Carbonate",
+    "questionType": "multiple-choice",
+    "stem": "Calcium carbonate may interfere with absorption of which medication class?",
+    "choices": [
+      "SSRIs",
+      "Beta blockers",
+      "Tetracycline antibiotics",
+      "Opioids"
+    ],
+    "correctAnswer": "Tetracycline antibiotics",
+    "rationale": "Calcium binds tetracyclines forming insoluble complexes that reduce absorption.",
+    "clinicalPearl": "Separate administration of interacting medications by at least 2 hours."
+  },
+
+  {
+    "id": "rn-q-1009",
+    "scope": ["RN"],
+    "medicationId": "rn-344",
+    "medication": "Aluminum Hydroxide",
+    "questionType": "multiple-choice",
+    "stem": "Aluminum hydroxide is classified as which medication type?",
+    "choices": [
+      "Proton pump inhibitor",
+      "Antacid",
+      "Osmotic laxative",
+      "Stimulant laxative"
+    ],
+    "correctAnswer": "Antacid",
+    "rationale": "It neutralizes gastric acid to relieve heartburn and indigestion.",
+    "clinicalPearl": "Often combined with magnesium antacids to balance bowel effects."
+  },
+  
+{
+    "id": "rn-q-1010",
+    "scope": ["RN"],
+    "medicationId": "rn-344",
+    "medication": "Aluminum Hydroxide",
+    "questionType": "multiple-choice",
+    "stem": "Which gastrointestinal adverse effect is commonly caused by aluminum hydroxide?",
+    "choices": [
+      "GI bleeding",
+      "Constipation",
+      "Severe cramping",
+      "Diarrhea"
+    ],
+    "correctAnswer": "Constipation",
+    "rationale": "Aluminum salts slow intestinal motility leading to harder stools.",
+    "clinicalPearl": "Long-term use may cause phosphate depletion."
+  },
+ 
+ {
+    "id": "rn-q-1011",
+    "scope": ["RN"],
+    "medicationId": "rn-344",
+    "medication": "Aluminum Hydroxide",
+    "questionType": "multiple-choice",
+    "stem": "Which electrolyte abnormality may occur with prolonged aluminum hydroxide use?",
+    "choices": [
+      "Hyperkalemia",
+      "Hypophosphatemia",
+      "Hypernatremia",
+      "Hyperphosphatemia"
+    ],
+    "correctAnswer": "Hypophosphatemia",
+    "rationale": "Aluminum binds dietary phosphate, reducing phosphate absorption.",
+    "clinicalPearl": "Monitor phosphate levels during long-term therapy."
+  },
+ 
+ {
+    "id": "rn-q-1012",
+    "scope": ["RN"],
+    "medicationId": "rn-345",
+    "medication": "Magnesium Hydroxide",
+    "questionType": "multiple-choice",
+    "stem": "Magnesium hydroxide is classified as which type of medication?",
+    "choices": [
+      "Proton pump inhibitor",
+      "Stool softener",
+      "Antacid and osmotic laxative",
+      "Bulk-forming laxative"
+    ],
+    "correctAnswer": "Antacid and osmotic laxative",
+    "rationale": "It neutralizes stomach acid and draws water into the intestines.",
+    "clinicalPearl": "Commonly known as milk of magnesia."
+  },
+ 
+ {
+    "id": "rn-q-1013",
+    "scope": ["RN"],
+    "medicationId": "rn-345",
+    "medication": "Magnesium Hydroxide",
+    "questionType": "multiple-choice",
+    "stem": "What is a potential serious adverse effect of magnesium hydroxide in renal failure patients?",
+    "choices": [
+      "Hypercalcemia",
+      "Hypermagnesemia",
+      "Hyponatremia",
+      "Hypokalemia"
+    ],
+    "correctAnswer": "Hypermagnesemia",
+    "rationale": "Impaired kidney function reduces magnesium excretion, leading to toxicity.",
+    "clinicalPearl": "Avoid or use cautiously in kidney disease."
+  },
+  
+{
+    "id": "rn-q-1014",
+    "scope": ["RN"],
+    "medicationId": "rn-345",
+    "medication": "Magnesium Hydroxide",
+    "questionType": "multiple-choice",
+    "stem": "Which gastrointestinal effect is commonly seen with magnesium hydroxide use?",
+    "choices": [
+      "Severe bloating",
+      "Constipation",
+      "Diarrhea",
+      "Ulcer formation"
+    ],
+    "correctAnswer": "Diarrhea",
+    "rationale": "Osmotic water retention in the bowel increases stool liquidity.",
+    "clinicalPearl": "Often combined with aluminum salts to balance bowel side effects."
+  },
+
+  {
+    "id": "rn-q-1015",
+    "scope": ["RN"],
+    "medicationId": "rn-346",
+    "medication": "Cimetidine",
+    "questionType": "multiple-choice",
+    "stem": "Cimetidine belongs to which drug class?",
+    "choices": [
+      "Antacid",
+      "H2 receptor antagonist",
+      "Prostaglandin analog",
+      "Proton pump inhibitor"
+    ],
+    "correctAnswer": "H2 receptor antagonist",
+    "rationale": "H2 blockers reduce gastric acid secretion by blocking histamine stimulation of parietal cells.",
+    "clinicalPearl": "Cimetidine has significant drug interactions due to CYP450 inhibition."
+  },
+ 
+ {
+    "id": "rn-q-1016",
+    "scope": ["RN"],
+    "medicationId": "rn-346",
+    "medication": "Cimetidine",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is uniquely associated with cimetidine compared to other H2 blockers?",
+    "choices": [
+      "Severe diarrhea",
+      "Hypoglycemia",
+      "Gynecomastia",
+      "Hypokalemia"
+    ],
+    "correctAnswer": "Gynecomastia",
+    "rationale": "Cimetidine has antiandrogen effects that can cause breast enlargement and sexual dysfunction.",
+    "clinicalPearl": "Often avoided when long-term therapy is required due to endocrine side effects."
+  },
+ 
+ {
+    "id": "rn-q-1017",
+    "scope": ["RN"],
+    "medicationId": "rn-346",
+    "medication": "Cimetidine",
+    "questionType": "multiple-choice",
+    "stem": "Why can cimetidine increase levels of drugs like warfarin and phenytoin?",
+    "choices": [
+      "Decreases protein binding",
+      "Inhibits CYP450 enzymes",
+      "Increases renal clearance",
+      "Induces liver enzymes"
+    ],
+    "correctAnswer": "Inhibits CYP450 enzymes",
+    "rationale": "CYP450 inhibition slows metabolism of many medications, increasing toxicity risk.",
+    "clinicalPearl": "Review medication list carefully before prescribing."
+  },
+ 
+ {
+    "id": "rn-q-1018",
+    "scope": ["RN"],
+    "medicationId": "rn-347",
+    "medication": "Famotidine",
+    "questionType": "multiple-choice",
+    "stem": "Famotidine works by which mechanism?",
+    "choices": [
+      "Neutralizes stomach acid",
+      "Blocks histamine H2 receptors on parietal cells",
+      "Stimulates mucus production",
+      "Blocks proton pumps"
+    ],
+    "correctAnswer": "Blocks histamine H2 receptors on parietal cells",
+    "rationale": "Blocking H2 receptors decreases gastric acid secretion and volume.",
+    "clinicalPearl": "Has fewer drug interactions than cimetidine."
+  },
+  
+{
+    "id": "rn-q-1019",
+    "scope": ["RN"],
+    "medicationId": "rn-347",
+    "medication": "Famotidine",
+    "questionType": "multiple-choice",
+    "stem": "Famotidine is primarily used to treat which condition?",
+    "choices": [
+      "IBS with diarrhea",
+      "GERD and peptic ulcer disease",
+      "Gallstones",
+      "Acute pancreatitis"
+    ],
+    "correctAnswer": "GERD and peptic ulcer disease",
+    "rationale": "Reducing gastric acid promotes mucosal healing and symptom relief.",
+    "clinicalPearl": "Often used for stress ulcer prophylaxis in hospitalized patients."
+  },
+  
+{
+    "id": "rn-q-1020",
+    "scope": ["RN"],
+    "medicationId": "rn-347",
+    "medication": "Famotidine",
+    "questionType": "multiple-choice",
+    "stem": "Which adjustment may be required when prescribing famotidine?",
+    "choices": [
+      "Cardiac monitoring",
+      "Renal dose adjustment",
+      "Thyroid monitoring",
+      "Liver dose adjustment"
+    ],
+    "correctAnswer": "Renal dose adjustment",
+    "rationale": "The drug is primarily excreted by the kidneys, so accumulation may occur in renal impairment.",
+    "clinicalPearl": "Dose reduction helps prevent CNS side effects such as confusion in elderly patients."
+  },
+ 
+ {
+    "id": "rn-q-1021",
+    "scope": ["RN"],
+    "medicationId": "rn-348",
+    "medication": "Nizatidine",
+    "questionType": "multiple-choice",
+    "stem": "Nizatidine belongs to which pharmacologic class?",
+    "choices": [
+      "Prokinetic agent",
+      "Antacid",
+      "H2 receptor antagonist",
+      "Proton pump inhibitor"
+    ],
+    "correctAnswer": "H2 receptor antagonist",
+    "rationale": "It decreases gastric acid secretion by blocking histamine stimulation of parietal cells.",
+    "clinicalPearl": "Similar efficacy to other H2 blockers but fewer drug interactions than cimetidine."
+  },
+ 
+ {
+    "id": "rn-q-1022",
+    "scope": ["RN"],
+    "medicationId": "rn-348",
+    "medication": "Nizatidine",
+    "questionType": "multiple-choice",
+    "stem": "Nizatidine is most commonly prescribed for which indication?",
+    "choices": [
+      "Ulcerative colitis",
+      "Peptic ulcer disease",
+      "Gallbladder inflammation",
+      "Crohn disease"
+    ],
+    "correctAnswer": "Peptic ulcer disease",
+    "rationale": "Acid suppression allows ulcer healing and symptom improvement.",
+    "clinicalPearl": "May also be used for GERD management."
+  },
+ 
+ {
+    "id": "rn-q-1023",
+    "scope": ["RN"],
+    "medicationId": "rn-348",
+    "medication": "Nizatidine",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect may occur with nizatidine therapy?",
+    "choices": [
+      "Headache and dizziness",
+      "Hypertension",
+      "Renal failure",
+      "Severe hypoglycemia"
+    ],
+    "correctAnswer": "Headache and dizziness",
+    "rationale": "CNS effects occur occasionally but are usually mild.",
+    "clinicalPearl": "Generally well tolerated compared with older H2 blockers."
+  },
+
+  {
+    "id": "rn-q-1024",
+    "scope": ["RN"],
+    "medicationId": "rn-349",
+    "medication": "Omeprazole",
+    "questionType": "multiple-choice",
+    "stem": "Omeprazole belongs to which drug class?",
+    "choices": [
+      "Antacid",
+      "Proton pump inhibitor",
+      "H2 receptor antagonist",
+      "Prostaglandin analog"
+    ],
+    "correctAnswer": "Proton pump inhibitor",
+    "rationale": "PPIs irreversibly inhibit the H+/K+ ATPase pump in gastric parietal cells, suppressing acid production.",
+    "clinicalPearl": "More potent acid suppression than H2 blockers."
+  },
+ 
+ {
+    "id": "rn-q-1025",
+    "scope": ["RN"],
+    "medicationId": "rn-349",
+    "medication": "Omeprazole",
+    "questionType": "multiple-choice",
+    "stem": "When should omeprazole typically be administered for best effectiveness?",
+    "choices": [
+      "With meals",
+      "Before meals",
+      "At bedtime with food",
+      "Immediately after meals"
+    ],
+    "correctAnswer": "Before meals",
+    "rationale": "PPIs require active proton pumps to bind effectively, which are stimulated before eating.",
+    "clinicalPearl": "Usually taken 30–60 minutes before breakfast."
+  },
+  
+{
+    "id": "rn-q-1026",
+    "scope": ["RN"],
+    "medicationId": "rn-349",
+    "medication": "Omeprazole",
+    "questionType": "multiple-choice",
+    "stem": "Long-term omeprazole use increases risk for which condition?",
+    "choices": [
+      "Severe hypertension",
+      "Osteoporosis-related fractures",
+      "Renal stones",
+      "Hypercalcemia"
+    ],
+    "correctAnswer": "Osteoporosis-related fractures",
+    "rationale": "Chronic acid suppression may reduce calcium absorption, weakening bone density.",
+    "clinicalPearl": "Also associated with increased risk of C. difficile infection."
+  },
+ 
+ {
+    "id": "rn-q-1027",
+    "scope": ["RN"],
+    "medicationId": "rn-350",
+    "medication": "Pantoprazole",
+    "questionType": "multiple-choice",
+    "stem": "Pantoprazole reduces gastric acid through which mechanism?",
+    "choices": [
+      "Neutralization of gastric acid",
+      "Proton pump inhibition",
+      "Increased prostaglandin synthesis",
+      "Histamine receptor blockade"
+    ],
+    "correctAnswer": "Proton pump inhibition",
+    "rationale": "It irreversibly blocks the final step in acid secretion in parietal cells.",
+    "clinicalPearl": "Available in both oral and IV formulations."
+  },
+ 
+ {
+    "id": "rn-q-1028",
+    "scope": ["RN"],
+    "medicationId": "rn-350",
+    "medication": "Pantoprazole",
+    "questionType": "multiple-choice",
+    "stem": "Pantoprazole is commonly used for which hospitalized patient condition?",
+    "choices": [
+      "Acute appendicitis",
+      "Stress ulcer prophylaxis",
+      "Gallstones",
+      "Bowel obstruction"
+    ],
+    "correctAnswer": "Stress ulcer prophylaxis",
+    "rationale": "Critically ill patients have increased risk of stress-related mucosal damage.",
+    "clinicalPearl": "Often preferred IV PPI in hospitalized patients."
+  },
+  
+{
+    "id": "rn-q-1029",
+    "scope": ["RN"],
+    "medicationId": "rn-350",
+    "medication": "Pantoprazole",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is associated with long-term pantoprazole therapy?",
+    "choices": [
+      "Polycythemia",
+      "Vitamin B12 deficiency",
+      "Hyperkalemia",
+      "Hyperglycemia"
+    ],
+    "correctAnswer": "Vitamin B12 deficiency",
+    "rationale": "Reduced gastric acid impairs B12 absorption from food sources.",
+    "clinicalPearl": "Monitor B12 levels in prolonged therapy, especially in elderly patients."
+  },
+
+  {
+    "id": "rn-q-1030",
+    "scope": ["RN"],
+    "medicationId": "rn-351",
+    "medication": "Esomeprazole",
+    "questionType": "multiple-choice",
+    "stem": "Esomeprazole belongs to which medication class?",
+    "choices": [
+      "Antacid",
+      "Proton pump inhibitor",
+      "H2 receptor antagonist",
+      "Prostaglandin analog"
+    ],
+    "correctAnswer": "Proton pump inhibitor",
+    "rationale": "PPIs irreversibly inhibit the H+/K+ ATPase enzyme in gastric parietal cells, reducing acid secretion.",
+    "clinicalPearl": "The S-isomer of omeprazole, often providing more consistent acid suppression."
+  },
+  
+{
+    "id": "rn-q-1031",
+    "scope": ["RN"],
+    "medicationId": "rn-351",
+    "medication": "Esomeprazole",
+    "questionType": "multiple-choice",
+    "stem": "When should esomeprazole be administered for maximum effectiveness?",
+    "choices": [
+      "Immediately after meals",
+      "Before meals",
+      "At bedtime with food",
+      "With antacids"
+    ],
+    "correctAnswer": "Before meals",
+    "rationale": "Proton pumps are most active prior to meals, allowing optimal drug binding.",
+    "clinicalPearl": "Typically taken 30–60 minutes before breakfast."
+  },
+  
+{
+    "id": "rn-q-1032",
+    "scope": ["RN"],
+    "medicationId": "rn-351",
+    "medication": "Esomeprazole",
+    "questionType": "multiple-choice",
+    "stem": "Long-term use of esomeprazole increases risk for which condition?",
+    "choices": [
+      "Severe hypertension",
+      "Osteoporosis-related fractures",
+      "Kidney stones",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Osteoporosis-related fractures",
+    "rationale": "Reduced acid production may impair calcium absorption, weakening bone density.",
+    "clinicalPearl": "Monitor bone health with prolonged therapy."
+  },
+  
+{
+    "id": "rn-q-1033",
+    "scope": ["RN"],
+    "medicationId": "rn-352",
+    "medication": "Lansoprazole",
+    "questionType": "multiple-choice",
+    "stem": "Lansoprazole reduces gastric acid by which mechanism?",
+    "choices": [
+      "Neutralization of gastric acid",
+      "Proton pump inhibition",
+      "Increased mucus production",
+      "Histamine receptor blockade"
+    ],
+    "correctAnswer": "Proton pump inhibition",
+    "rationale": "It blocks the final step in acid secretion within parietal cells.",
+    "clinicalPearl": "Available in orally disintegrating tablet formulation for patients with swallowing difficulty."
+  },
+  
+{
+    "id": "rn-q-1034",
+    "scope": ["RN"],
+    "medicationId": "rn-352",
+    "medication": "Lansoprazole",
+    "questionType": "multiple-choice",
+    "stem": "Lansoprazole is commonly prescribed for which condition?",
+    "choices": [
+      "Acute pancreatitis",
+      "GERD and peptic ulcer disease",
+      "Ulcerative colitis",
+      "Gallstones"
+    ],
+    "correctAnswer": "GERD and peptic ulcer disease",
+    "rationale": "Acid suppression promotes healing of damaged mucosa and reduces reflux symptoms.",
+    "clinicalPearl": "Often used in combination therapy for H. pylori eradication."
+  },
+ 
+ {
+    "id": "rn-q-1035",
+    "scope": ["RN"],
+    "medicationId": "rn-352",
+    "medication": "Lansoprazole",
+    "questionType": "multiple-choice",
+    "stem": "Which nutrient deficiency may occur with prolonged lansoprazole therapy?",
+    "choices": [
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin K",
+      "Folate"
+    ],
+    "correctAnswer": "Vitamin B12",
+    "rationale": "Reduced gastric acid decreases release of B12 from dietary protein.",
+    "clinicalPearl": "Monitor levels in patients receiving long-term therapy."
+  },
+
+  {
+    "id": "rn-q-1036",
+    "scope": ["RN"],
+    "medicationId": "rn-353",
+    "medication": "Sucralfate",
+    "questionType": "multiple-choice",
+    "stem": "Sucralfate promotes ulcer healing through which mechanism?",
+    "choices": [
+      "Neutralizes gastric acid",
+      "Forms protective barrier over ulcers",
+      "Blocks proton pumps",
+      "Stimulates histamine release"
+    ],
+    "correctAnswer": "Forms protective barrier over ulcers",
+    "rationale": "It binds to ulcerated mucosa, protecting tissue from acid and pepsin.",
+    "clinicalPearl": "Must be taken on an empty stomach for effectiveness."
+  },
+  
+{
+    "id": "rn-q-1037",
+    "scope": ["RN"],
+    "medicationId": "rn-353",
+    "medication": "Sucralfate",
+    "questionType": "multiple-choice",
+    "stem": "When should sucralfate be administered to maximize therapeutic effect?",
+    "choices": [
+      "With meals",
+      "After meals",
+      "On an empty stomach",
+      "At bedtime with food"
+    ],
+    "correctAnswer": "On an empty stomach",
+    "rationale": "Acidic environment is required for sucralfate activation and mucosal binding.",
+    "clinicalPearl": "Typically given 1 hour before meals and at bedtime."
+  },
+ 
+ {
+    "id": "rn-q-1038",
+    "scope": ["RN"],
+    "medicationId": "rn-353",
+    "medication": "Sucralfate",
+    "questionType": "multiple-choice",
+    "stem": "Which side effect is most commonly associated with sucralfate therapy?",
+    "choices": [
+      "Diarrhea",
+      "Constipation",
+      "GI bleeding",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Constipation",
+    "rationale": "Aluminum content in sucralfate slows intestinal motility, leading to constipation.",
+    "clinicalPearl": "May interfere with absorption of other medications—separate administration times."
+  },
+  
+{
+    "id": "rn-q-1039",
+    "scope": ["RN"],
+    "medicationId": "rn-354",
+    "medication": "Misoprostol",
+    "questionType": "multiple-choice",
+    "stem": "Misoprostol belongs to which pharmacologic class?",
+    "choices": [
+      "H2 receptor antagonist",
+      "Proton pump inhibitor",
+      "Prostaglandin E1 analog",
+      "Antacid"
+    ],
+    "correctAnswer": "Prostaglandin E1 analog",
+    "rationale": "It increases mucus and bicarbonate production while decreasing gastric acid secretion.",
+    "clinicalPearl": "Often used to prevent NSAID-induced gastric ulcers."
+  },
+ 
+ {
+    "id": "rn-q-1040",
+    "scope": ["RN"],
+    "medicationId": "rn-354",
+    "medication": "Misoprostol",
+    "questionType": "multiple-choice",
+    "stem": "Misoprostol is contraindicated in which patient population?",
+    "choices": [
+      "Elderly patients",
+      "Patients with renal disease",
+      "Pregnant patients",
+      "Patients with GERD"
+    ],
+    "correctAnswer": "Pregnant patients",
+    "rationale": "It stimulates uterine contractions and can induce miscarriage.",
+    "clinicalPearl": "Women of childbearing potential require pregnancy testing and contraception counseling."
+  },
+  
+{
+    "id": "rn-q-1041",
+    "scope": ["RN"],
+    "medicationId": "rn-354",
+    "medication": "Misoprostol",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is commonly associated with misoprostol?",
+    "choices": [
+      "Severe constipation",
+      "Diarrhea and abdominal cramping",
+      "Hypertension",
+      "Renal failure"
+    ],
+    "correctAnswer": "Diarrhea and abdominal cramping",
+    "rationale": "Increased intestinal motility results from prostaglandin activity in the GI tract.",
+    "clinicalPearl": "Adverse GI effects often limit patient adherence."
+  },
 
 ]
