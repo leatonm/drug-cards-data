@@ -3,9 +3,9 @@
 3_ Clinical Associate Badge — Unlocked by reaching Level 21–30.
 4_ Senior Clinician Badge — Unlocked by reaching Level 31–40.
 5_ Master Clinician Badge — Unlocked by reaching Level 41-49.
-6_ Early Rounds — Unlocked by studying before 6:00 AM.
+6_ Early Rounds — Unlocked by studying before 0301-0600.
 7_ Pharmathon — Unlocked by completing 100 study cards in one day.
-8_ Night Shift — Unlocked by studying after midnight.
+8_ Night Shift — Unlocked by studying after 0000-0300.
 9_ Pharmacist - Unlocked by reaching Level 50
 10_Medicow - bla bla blabla
 11_Airway Aresenal - Complete all RSI and airway medications (etomidate, ketamine, succinylcholine)
