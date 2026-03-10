@@ -16,4 +16,5 @@
 16_Nosey AF - complete a quiz under all healthcare providers
 17_Shock Stopper - Master Vasopressors and fluids (norepinephrine, dopamine) 
 18_Study Streak - Study drug cards 30 days in a row
-19_Pain Control Specialist
+19_Pain Control Specialist - Master analgesics
+20_Disease Slayer - Master Immunology
