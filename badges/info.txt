@@ -8,4 +8,12 @@
 8_ Night Shift — Unlocked by studying after midnight.
 9_ Pharmacist - Unlocked by reaching Level 50
 10_Medicow - bla bla blabla
-11_Leet - bla ablaba
+11_Airway Aresenal - Complete all RSI and airway medications (etomidate, ketamine, succinylcholine)
+12_Allergy Annihilator - master anaphylaxis medications (diphenhydramine, epinephrine) 
+13_Code Blue Hero - Master all major cardiac arrest drugs (epinephrine, amiodarone, atropine)
+14_Narcan Ninja - Master Naloxone
+15_Night Shift Zombie - Study after 000-0300 60 times
+16_Nosey AF - complete a quiz under all healthcare providers
+17_Shock Stopper - Master Vasopressors and fluids (norepinephrine, dopamine) 
+18_Study Streak - Study drug cards 30 days in a row
+19_Pain Control Specialist
