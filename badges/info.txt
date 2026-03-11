@@ -10,12 +10,12 @@
 10_Medicow - unknown unlock
 11_Airway Aresenal - Complete all RSI and airway medications (lidocaine, atropine, fentanyl, etomidate, ketamine, propofol, midazolam, succinylcholine, rocuronium, vecuronium)
 12_Allergy Annihilator - master anaphylaxis medications (diphenhydramine, epinephrine, methylprednisolone, hydrocortisone, albuterol) 
-13_Code Blue Hero - Master all major cardiac arrest drugs (epinephrine, amiodarone, lidocaine, magnesium sulfate, atropine, sodium bicarbonate)
-14_Narcan Ninja - Master Naloxone
+13_Code Blue Hero - gain strength in all major cardiac arrest drugs (epinephrine, amiodarone, lidocaine, magnesium sulfate, atropine, sodium bicarbonate)
+14_Narcan Ninja - gain strength in Naloxone
 15_Night Shift Zombie - Study after 000-0300 60 times
 16_Nosey AF - complete a quiz under all healthcare providers
-17_Shock Stopper - Master Vasopressors and fluids (norepinephrine, epinephrine, dopamine, phenylephrine, vasopressin, dobutamine, milrinone, fluids) 
+17_Shock Stopper - gain strength in Vasopressors and fluids (norepinephrine, epinephrine, dopamine, phenylephrine, vasopressin, dobutamine, milrinone, fluids) 
 18_Study Streak - Study drug cards 30 days in a row
-19_Pain Control Specialist - Master analgesics
-20_Disease Slayer - Master Immunology
+19_Pain Control Specialist - gain strength in analgesics
+20_Disease Slayer - gain strength in Immunology
 21_Leet - unknown unlock
