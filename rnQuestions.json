@@ -4,7 +4,7 @@
     "id": "rn-q-001",
     "scope": ["RN"],
     "medicationId": "rn-001",
-    "medication": "Quinidine",
+    "medication": "Quinidine (Quinaglute)",
     "questionType": "multiple-choice",
     "stem": "A nurse is teaching a patient about Quinidine (Quinaglute) therapy. Which symptom should the patient be instructed to report immediately?",
     "choices": [
@@ -22,7 +22,7 @@
     "id": "rn-q-002",
     "scope": ["RN"],
     "medicationId": "rn-001",
-    "medication": "Quinidine",
+    "medication": "Quinidine (Quinaglute)",
     "questionType": "multiple-choice",
     "stem": "Which laboratory value is most important for the nurse to monitor in a patient taking Quinidine (Quinaglute)?",
     "choices": [
@@ -40,7 +40,7 @@
     "id": "rn-q-003",
     "scope": ["RN"],
     "medicationId": "rn-001",
-    "medication": "Quinidine",
+    "medication": "Quinidine (Quinaglute)",
     "questionType": "multiple-choice",
     "stem": "Which ECG change is the nurse most likely to observe in a patient receiving Quinidine (Quinaglute)?",
     "choices": [
@@ -58,7 +58,7 @@
     "id": "rn-q-004",
     "scope": ["RN"],
     "medicationId": "rn-002",
-    "medication": "Procainamide",
+    "medication": "Procainamide (Procan)",
     "questionType": "multiple-choice",
     "stem": "A patient has been taking Procainamide (Procan) for several months. Which assessment finding suggests a serious adverse effect?",
     "choices": [
@@ -76,7 +76,7 @@
     "id": "rn-q-005",
     "scope": ["RN"],
     "medicationId": "rn-002",
-    "medication": "Procainamide",
+    "medication": "Procainamide (Procan)",
     "questionType": "multiple-choice",
     "stem": "Which laboratory test is most important to monitor during long-term Procainamide (Procan) therapy?",
     "choices": [
@@ -94,7 +94,7 @@
     "id": "rn-q-006",
     "scope": ["RN"],
     "medicationId": "rn-002",
-    "medication": "Procainamide",
+    "medication": "Procainamide (Procan)",
     "questionType": "multiple-choice",
     "stem": "Which nursing action is appropriate when administering Procainamide (Procan) IV?",
     "choices": [
@@ -166,7 +166,7 @@
     "id": "rn-q-010",
     "scope": ["RN"],
     "medicationId": "rn-004",
-    "medication": "Mexiletine",
+    "medication": "Mexiletine (Mexitil)",
     "questionType": "multiple-choice",
     "stem": "A nurse is teaching a patient about Mexiletine (Mexitil) therapy. Which instruction is most important?",
     "choices": [
@@ -184,7 +184,7 @@
     "id": "rn-q-011",
     "scope": ["RN"],
     "medicationId": "rn-004",
-    "medication": "Mexiletine",
+    "medication": "Mexiletine (Mexitil)",
     "questionType": "multiple-choice",
     "stem": "Mexiletine (Mexitil) is most commonly prescribed for which dysrhythmia?",
     "choices": [
@@ -202,7 +202,7 @@
     "id": "rn-q-012",
     "scope": ["RN"],
     "medicationId": "rn-004",
-    "medication": "Mexiletine",
+    "medication": "Mexiletine (Mexitil)",
     "questionType": "multiple-choice",
     "stem": "Which comorbidity requires cautious use of Mexiletine (Mexitil)?",
     "choices": [
@@ -220,7 +220,7 @@
     "id": "rn-q-013",
     "scope": ["RN"],
     "medicationId": "rn-005",
-    "medication": "Flecainide",
+    "medication": "Flecainide (Tambocor)",
     "questionType": "multiple-choice",
     "stem": "A nurse is reviewing a patient’s history before administering Flecainide (Tambocor). Which condition would be a contraindication?",
     "choices": [
@@ -237,7 +237,7 @@
     "id": "rn-q-014",
     "scope": ["RN"],
     "medicationId": "rn-005",
-    "medication": "Flecainide",
+    "medication": "Flecainide (Tambocor)",
     "questionType": "multiple-choice",
     "stem": "Which ECG change should the nurse expect in a patient receiving Flecainide (Tambocor)?",
     "choices": [
@@ -255,7 +255,7 @@
     "id": "rn-q-015",
     "scope": ["RN"],
     "medicationId": "rn-005",
-    "medication": "Flecainide",
+    "medication": "Flecainide (Tambocor)",
     "questionType": "multiple-choice",
     "stem": "Which adverse effect should the nurse closely monitor for in a patient taking Flecainide (Tambocor)?",
     "choices": [
@@ -273,7 +273,7 @@
     "id": "rn-q-016",
     "scope": ["RN"],
     "medicationId": "rn-006",
-    "medication": "Propafenone",
+    "medication": "Propafenone (Rythmol)",
     "questionType": "multiple-choice",
     "stem": "Propafenone (Rythmol) differs from other Class IC antiarrhythmics because it also has which additional property?",
     "choices": [
@@ -291,7 +291,7 @@
     "id": "rn-q-017",
     "scope": ["RN"],
     "medicationId": "rn-006",
-    "medication": "Propafenone",
+    "medication": "Propafenone (Rythmol)",
     "questionType": "multiple-choice",
     "stem": "Which patient history would require caution when prescribing Propafenone (Rythmol)?",
     "choices": [
@@ -309,7 +309,7 @@
     "id": "rn-q-018",
     "scope": ["RN"],
     "medicationId": "rn-006",
-    "medication": "Propafenone",
+    "medication": "Propafenone (Rythmol)",
     "questionType": "multiple-choice",
     "stem": "Which assessment finding in a patient taking Propafenone (Rythmol) should be reported to the provider immediately?",
     "choices": [
@@ -327,7 +327,7 @@
     "id": "rn-q-019",
     "scope": ["RN"],
     "medicationId": "rn-007",
-    "medication": "Esmolol",
+    "medication": "Esmolol (Brevibloc)",
     "questionType": "multiple-choice",
     "stem": "A patient receiving IV Esmolol (Brevibloc) for supraventricular tachycardia should be monitored closely for which adverse effect?",
     "choices": [
@@ -345,7 +345,7 @@
     "id": "rn-q-020",
     "scope": ["RN"],
     "medicationId": "rn-007",
-    "medication": "Esmolol",
+    "medication": "Esmolol (Brevibloc)",
     "questionType": "multiple-choice",
     "stem": "Why is Esmolol (Brevibloc) preferred in acute care settings?",
     "choices": [
@@ -363,7 +363,7 @@
     "id": "rn-q-021",
     "scope": ["RN"],
     "medicationId": "rn-007",
-    "medication": "Esmolol",
+    "medication": "Esmolol (Brevibloc)",
     "questionType": "multiple-choice",
     "stem": "Which patient history requires caution before administering Esmolol (Brevibloc)?",
     "choices": [
@@ -381,7 +381,7 @@
     "id": "rn-q-022",
     "scope": ["RN"],
     "medicationId": "rn-008",
-    "medication": "Metoprolol",
+    "medication": "Metoprolol (Lopressor)",
     "questionType": "multiple-choice",
     "stem": "A nurse is teaching a patient about Metoprolol (Lopressor) therapy. Which instruction is most important?",
     "choices": [
@@ -399,7 +399,7 @@
     "id": "rn-q-023",
     "scope": ["RN"],
     "medicationId": "rn-008",
-    "medication": "Metoprolol",
+    "medication": "Metoprolol (Lopressor)",
     "questionType": "multiple-choice",
     "stem": "Metoprolol (Lopressor) is selective for which receptor at therapeutic doses?",
     "choices": [
@@ -417,7 +417,7 @@
     "id": "rn-q-024",
     "scope": ["RN"],
     "medicationId": "rn-008",
-    "medication": "Metoprolol",
+    "medication": "Metoprolol (Lopressor)",
     "questionType": "multiple-choice",
     "stem": "Which adverse effect should the nurse monitor in a patient taking Metoprolol (Lopressor)?",
     "choices": [
@@ -435,7 +435,7 @@
     "id": "rn-q-025",
     "scope": ["RN"],
     "medicationId": "rn-009",
-    "medication": "Atenolol",
+    "medication": "Atenolol (Tenormin)",
     "questionType": "multiple-choice",
     "stem": "A patient prescribed Atenolol (Tenormin) for hypertension should be taught to report which symptom?",
     "choices": [
@@ -453,7 +453,7 @@
     "id": "rn-q-026",
     "scope": ["RN"],
     "medicationId": "rn-009",
-    "medication": "Atenolol",
+    "medication": "Atenolol (Tenormin)",
     "questionType": "multiple-choice",
     "stem": "Which property distinguishes Atenolol (Tenormin) from Metoprolol (Lopressor)?",
     "choices": [
@@ -471,7 +471,7 @@
     "id": "rn-q-027",
     "scope": ["RN"],
     "medicationId": "rn-009",
-    "medication": "Atenolol",
+    "medication": "Atenolol (Tenormin)",
     "questionType": "multiple-choice",
     "stem": "Which condition requires cautious use of Atenolol (Tenormin)?",
     "choices": [
@@ -488,8 +488,8 @@
   {
     "id": "rn-q-028",
     "scope": ["RN"],
-    "medicationId": "rn-010",
-    "medication": "Dronedarone",
+    "medicationId": "rn-013",
+    "medication": "Dronedarone (Multaq)",
     "questionType": "multiple-choice",
     "stem": "Which patient condition is a contraindication to Dronedarone (Multaq) therapy?",
     "choices": [
@@ -506,8 +506,8 @@
   {
     "id": "rn-q-029",
     "scope": ["RN"],
-    "medicationId": "rn-010",
-    "medication": "Dronedarone",
+    "medicationId": "rn-013",
+    "medication": "Dronedarone (Multaq)",
     "questionType": "multiple-choice",
     "stem": "A nurse is teaching a patient about Dronedarone (Multaq). Which instruction is most important?",
     "choices": [
@@ -524,8 +524,8 @@
 {
     "id": "rn-q-030",
     "scope": ["RN"],
-    "medicationId": "rn-010",
-    "medication": "Dronedarone",
+    "medicationId": "rn-013",
+    "medication": "Dronedarone (Multaq)",
     "questionType": "multiple-choice",
     "stem": "Which adverse effect should the nurse monitor for in a patient taking Dronedarone (Multaq)?",
     "choices": [
@@ -538,23 +538,14 @@
     "rationale": "Dronedarone (Multaq) can prolong the QT interval, increasing the risk for torsades de pointes.",
     "clinicalPearl": "Regular ECG monitoring helps detect QT interval changes in patients taking Dronedarone (Multaq)."
   },
-
-
-
-
-
-
-
-
-
-    
+ 
  {
     "id": "rn-q-031",
     "scope": ["RN"],
-    "medicationId": "rn-011",
-    "medication": "Dofetilide",
+    "medicationId": "rn-014",
+    "medication": "Dofetilide (Tikosyn)",
     "questionType": "multiple-choice",
-    "stem": "Why must dofetilide be initiated in a hospital setting?",
+    "stem": "Why must Dofetilide (Tikosyn) be initiated in a hospital setting?",
     "choices": [
       "Need for rapid IV administration",
       "High risk of hepatotoxicity",
@@ -562,17 +553,17 @@
       "Risk of QT prolongation and torsades de pointes"
     ],
     "correctAnswer": "Risk of QT prolongation and torsades de pointes",
-    "rationale": "Dofetilide can cause significant QT prolongation; inpatient initiation allows continuous ECG monitoring.",
+    "rationale": "Dofetilide (Tikosyn) can cause significant QT prolongation; inpatient initiation allows continuous ECG monitoring.",
     "clinicalPearl": "Hospital initiation ensures early detection of dangerous ventricular arrhythmias."
   },
   
 {
     "id": "rn-q-032",
     "scope": ["RN"],
-    "medicationId": "rn-011",
-    "medication": "Dofetilide",
+    "medicationId": "rn-014",
+    "medication": "Dofetilide (Tikosyn)",
     "questionType": "multiple-choice",
-    "stem": "Which laboratory value is most important to assess before administering dofetilide?",
+    "stem": "Which laboratory value is most important to assess before administering Dofetilide (Tikosyn)?",
     "choices": [
       "Serum sodium",
       "Serum potassium",
@@ -587,10 +578,10 @@
   {
     "id": "rn-q-033",
     "scope": ["RN"],
-    "medicationId": "rn-011",
-    "medication": "Dofetilide",
+    "medicationId": "rn-014",
+    "medication": "Dofetilide (Tikosyn)",
     "questionType": "multiple-choice",
-    "stem": "A patient with which condition requires dose adjustment when receiving dofetilide?",
+    "stem": "A patient with which condition requires dose adjustment when receiving Dofetilide (Tikosyn)?",
     "choices": [
       "Liver disease",
       "Asthma",
@@ -598,17 +589,17 @@
       "Renal impairment"
     ],
     "correctAnswer": "Renal impairment",
-    "rationale": "Dofetilide is primarily renally excreted; impaired renal function increases toxicity risk.",
-    "clinicalPearl": "Renal function must be evaluated prior to dosing dofetilide."
+    "rationale": "Dofetilide (Tikosyn) is primarily renally excreted; impaired renal function increases toxicity risk.",
+    "clinicalPearl": "Renal function must be evaluated prior to dosing Dofetilide (Tikosyn)."
   },
 
 {
     "id": "rn-q-034",
     "scope": ["RN"],
-    "medicationId": "rn-012",
-    "medication": "Ibutilide",
+    "medicationId": "rn-015",
+    "medication": "Ibutilide (Corvert)",
     "questionType": "multiple-choice",
-    "stem": "Ibutilide is most commonly used for which purpose?",
+    "stem": "Ibutilide (Corvert) is most commonly used for which purpose?",
     "choices": [
       "Long-term rhythm control",
       "Rate control in atrial fibrillation",
@@ -616,17 +607,17 @@
       "Chemical cardioversion of atrial fibrillation or flutter"
     ],
     "correctAnswer": "Chemical cardioversion of atrial fibrillation or flutter",
-    "rationale": "Ibutilide is an IV Class III antiarrhythmic used for acute cardioversion of atrial arrhythmias.",
-    "clinicalPearl": "Ibutilide is typically administered in monitored settings due to arrhythmia risk."
+    "rationale": "Ibutilide (Corvert) is an IV Class III antiarrhythmic used for acute cardioversion of atrial arrhythmias.",
+    "clinicalPearl": "Ibutilide (Corvert) is typically administered in monitored settings due to arrhythmia risk."
   },
 
   {
     "id": "rn-q-035",
     "scope": ["RN"],
-    "medicationId": "rn-012",
-    "medication": "Ibutilide",
+    "medicationId": "rn-015",
+    "medication": "Ibutilide (Corvert)",
     "questionType": "multiple-choice",
-    "stem": "Which nursing action is priority after administering IV ibutilide?",
+    "stem": "Which nursing action is priority after administering IV Ibutilide (Corvert)?",
     "choices": [
       "Monitor blood glucose",
       "Continuous ECG monitoring for 4 hours",
@@ -634,15 +625,15 @@
       "Assess bowel sounds"
     ],
     "correctAnswer": "Continuous ECG monitoring for 4 hours",
-    "rationale": "Ibutilide carries a high risk of torsades de pointes; prolonged ECG monitoring is required.",
-    "clinicalPearl": "Extended ECG monitoring helps detect delayed arrhythmias after ibutilide administration."
+    "rationale": "Ibutilide (Corvert) carries a high risk of torsades de pointes; prolonged ECG monitoring is required.",
+    "clinicalPearl": "Extended ECG monitoring helps detect delayed arrhythmias after Ibutilide (Corvert) administration."
   },
   
 {
     "id": "rn-q-036",
     "scope": ["RN"],
-    "medicationId": "rn-012",
-    "medication": "Ibutilide",
+    "medicationId": "rn-015",
+    "medication": "Ibutilide (Corvert)",
     "questionType": "multiple-choice",
     "stem": "Which electrolyte imbalance increases the risk of ibutilide-induced dysrhythmias?",
     "choices": [
@@ -652,17 +643,17 @@
       "Hypermagnesemia"
     ],
     "correctAnswer": "Hypokalemia",
-    "rationale": "Low potassium levels increase the risk of QT prolongation and torsades de pointes with ibutilide.",
+    "rationale": "Low potassium levels increase the risk of QT prolongation and torsades de pointes with Ibutilide (Corvert).",
     "clinicalPearl": "Correct potassium deficits before administering medications that prolong the QT interval."
   },
   
   {
     "id": "rn-q-037",
     "scope": ["RN"],
-    "medicationId": "rn-013",
-    "medication": "Sotalol",
+    "medicationId": "rn-016",
+    "medication": "Sotalol (Betapace)",
     "questionType": "multiple-choice",
-    "stem": "Sotalol has properties of which two drug classes?",
+    "stem": "Sotalol (Betapace) has properties of which two drug classes?",
     "choices": [
       "Beta-blocker and calcium channel blocker",
       "Sodium channel blocker and beta-blocker",
@@ -670,17 +661,17 @@
       "Beta-blocker and potassium channel blocker"
     ],
     "correctAnswer": "Beta-blocker and potassium channel blocker",
-    "rationale": "Sotalol is both a nonselective beta-blocker and a Class III antiarrhythmic that prolongs repolarization.",
-    "clinicalPearl": "Sotalol’s dual action requires careful monitoring for bradycardia and QT prolongation."
+    "rationale": "Sotalol (Betapace) is both a nonselective beta-blocker and a Class III antiarrhythmic that prolongs repolarization.",
+    "clinicalPearl": "Sotalol (Betapace)’s dual action requires careful monitoring for bradycardia and QT prolongation."
   },
  
 {
     "id": "rn-q-038",
     "scope": ["RN"],
-    "medicationId": "rn-013",
-    "medication": "Sotalol",
+    "medicationId": "rn-016",
+    "medication": "Sotalol (Betapace)",
     "questionType": "multiple-choice",
-    "stem": "Why is sotalol often initiated in a monitored setting?",
+    "stem": "Why is Sotalol (Betapace) often initiated in a monitored setting?",
     "choices": [
       "Risk of severe hypoglycemia",
       "Risk of QT prolongation and torsades de pointes",
@@ -688,15 +679,15 @@
       "Risk of pulmonary fibrosis"
     ],
     "correctAnswer": "Risk of QT prolongation and torsades de pointes",
-    "rationale": "Sotalol prolongs the QT interval and can cause torsades de pointes, requiring ECG monitoring during initiation.",
-    "clinicalPearl": "Continuous ECG monitoring is critical during the first doses of sotalol."
+    "rationale": "Sotalol (Betapace) prolongs the QT interval and can cause torsades de pointes, requiring ECG monitoring during initiation.",
+    "clinicalPearl": "Continuous ECG monitoring is critical during the first doses of Sotalol (Betapace)."
   },
 
     {
     "id": "rn-q-039",
     "scope": ["RN"],
-    "medicationId": "rn-013",
-    "medication": "Sotalol",
+    "medicationId": "rn-016",
+    "medication": "Sotalol (Betapace)",
     "questionType": "multiple-choice",
     "stem": "Which electrolyte imbalance increases the risk of sotalol-induced dysrhythmias?",
     "choices": [
@@ -713,10 +704,10 @@
 {
     "id": "rn-q-040",
     "scope": ["RN"],
-    "medicationId": "rn-014",
-    "medication": "Diltiazem",
+    "medicationId": "rn-017",
+    "medication": "Diltiazem (Cardizem)",
     "questionType": "multiple-choice",
-    "stem": "Diltiazem primarily affects which part of the heart?",
+    "stem": "Diltiazem (Cardizem) primarily affects which part of the heart?",
     "choices": [
       "Ventricular myocardium",
       "SA node only",
@@ -724,17 +715,17 @@
       "Purkinje fibers"
     ],
     "correctAnswer": "AV node",
-    "rationale": "Diltiazem is a non-dihydropyridine calcium channel blocker that slows conduction through the AV node.",
+    "rationale": "Diltiazem (Cardizem) is a non-dihydropyridine calcium channel blocker that slows conduction through the AV node.",
     "clinicalPearl": "Non-dihydropyridine CCBs are especially useful for rate control in supraventricular tachycardias."
   },
   
   {
     "id": "rn-q-041",
     "scope": ["RN"],
-    "medicationId": "rn-014",
-    "medication": "Diltiazem",
+    "medicationId": "rn-017",
+    "medication": "Diltiazem (Cardizem)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition is a contraindication to diltiazem therapy?",
+    "stem": "Which patient condition is a contraindication to Diltiazem (Cardizem) therapy?",
     "choices": [
       "Atrial fibrillation with rapid ventricular response",
       "Hypertension",
@@ -742,17 +733,17 @@
       "Stable angina"
     ],
     "correctAnswer": "Heart failure with reduced ejection fraction",
-    "rationale": "Diltiazem has negative inotropic effects and can worsen systolic heart failure.",
+    "rationale": "Diltiazem (Cardizem) has negative inotropic effects and can worsen systolic heart failure.",
     "clinicalPearl": "Assess cardiac function before starting non-dihydropyridine calcium channel blockers."
   },
   
 {
     "id": "rn-q-042",
     "scope": ["RN"],
-    "medicationId": "rn-014",
-    "medication": "Diltiazem",
+    "medicationId": "rn-017",
+    "medication": "Diltiazem (Cardizem)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should the nurse monitor for in a patient receiving diltiazem?",
+    "stem": "Which adverse effect should the nurse monitor for in a patient receiving Diltiazem (Cardizem)?",
     "choices": [
       "Tachycardia",
       "Hyperglycemia",
@@ -760,17 +751,17 @@
       "Hypertension"
     ],
     "correctAnswer": "Bradycardia",
-    "rationale": "Diltiazem slows heart rate and AV conduction, increasing the risk of bradycardia.",
+    "rationale": "Diltiazem (Cardizem) slows heart rate and AV conduction, increasing the risk of bradycardia.",
     "clinicalPearl": "Monitor pulse and ECG in patients receiving diltiazem."
   },
 
    {
     "id": "rn-q-043",
     "scope": ["RN"],
-    "medicationId": "rn-015",
-    "medication": "Verapamil",
+    "medicationId": "rn-018",
+    "medication": "Verapamil (Calan)",
     "questionType": "multiple-choice",
-    "stem": "Verapamil differs from other calcium channel blockers because it has which prominent effect?",
+    "stem": "Verapamil (Calan) differs from other calcium channel blockers because it has which prominent effect?",
     "choices": [
       "Peripheral vasodilation",
       "Strong negative inotropic effect",
@@ -778,17 +769,17 @@
       "Bronchodilation"
     ],
     "correctAnswer": "Strong negative inotropic effect",
-    "rationale": "Verapamil strongly decreases myocardial contractility and heart rate.",
-    "clinicalPearl": "Avoid verapamil in patients with reduced left ventricular function."
+    "rationale": "Verapamil (Calan) strongly decreases myocardial contractility and heart rate.",
+    "clinicalPearl": "Avoid Verapamil (Calan) in patients with reduced left ventricular function."
   },
   
 {
     "id": "rn-q-044",
     "scope": ["RN"],
-    "medicationId": "rn-015",
-    "medication": "Verapamil",
+    "medicationId": "rn-018",
+    "medication": "Verapamil (Calan)",
     "questionType": "multiple-choice",
-    "stem": "Which nursing assessment is most important before administering verapamil?",
+    "stem": "Which nursing assessment is most important before administering Verapamil (Calan)?",
     "choices": [
       "Heart rate and blood pressure",
       "Respiratory rate",
@@ -796,17 +787,17 @@
       "Temperature"
     ],
     "correctAnswer": "Heart rate and blood pressure",
-    "rationale": "Verapamil can cause bradycardia and hypotension, so vital signs must be assessed before administration.",
-    "clinicalPearl": "Hold verapamil if systolic BP is <90 mmHg or pulse <50 bpm unless otherwise ordered."
+    "rationale": "Verapamil (Calan) can cause bradycardia and hypotension, so vital signs must be assessed before administration.",
+    "clinicalPearl": "Hold Verapamil (Calan) if systolic BP is <90 mmHg or pulse <50 bpm unless otherwise ordered."
   },
  
   {
     "id": "rn-q-045",
     "scope": ["RN"],
-    "medicationId": "rn-015",
-    "medication": "Verapamil",
+    "medicationId": "rn-018",
+    "medication": "Verapamil (Calan)",
     "questionType": "multiple-choice",
-    "stem": "A patient taking verapamil should be monitored for which common adverse effect?",
+    "stem": "A patient taking Verapamil (Calan) should be monitored for which common adverse effect?",
     "choices": [
       "Diarrhea",
       "Insomnia",
@@ -814,14 +805,14 @@
       "Constipation"
     ],
     "correctAnswer": "Constipation",
-    "rationale": "Verapamil commonly causes constipation due to decreased GI motility.",
+    "rationale": "Verapamil (Calan) commonly causes constipation due to decreased GI motility.",
     "clinicalPearl": "Encourage adequate fluid and fiber intake to reduce constipation risk while on verapamil."
   },
   
   {
     "id": "rn-q-046",
     "scope": ["RN"],
-    "medicationId": "rn-016",
+    "medicationId": "rn-019",
     "medication": "Atropine",
     "questionType": "multiple-choice",
     "stem": "Atropine is most appropriately administered for which condition?",
@@ -839,7 +830,7 @@
   {
     "id": "rn-q-047",
     "scope": ["RN"],
-    "medicationId": "rn-016",
+    "medicationId": "rn-019",
     "medication": "Atropine",
     "questionType": "multiple-choice",
     "stem": "Which adverse effect should the nurse expect after administering atropine?",
@@ -857,7 +848,7 @@
 {
     "id": "rn-q-048",
     "scope": ["RN"],
-    "medicationId": "rn-016",
+    "medicationId": "rn-019",
     "medication": "Atropine",
     "questionType": "multiple-choice",
     "stem": "Which patient condition would require caution when administering atropine?",
@@ -875,7 +866,7 @@
   {
     "id": "rn-q-049",
     "scope": ["RN"],
-    "medicationId": "rn-017",
+    "medicationId": "rn-020",
     "medication": "Digoxin",
     "questionType": "multiple-choice",
     "stem": "Which assessment finding suggests digoxin toxicity?",
@@ -893,7 +884,7 @@
 {
     "id": "rn-q-050",
     "scope": ["RN"],
-    "medicationId": "rn-017",
+    "medicationId": "rn-020",
     "medication": "Digoxin",
     "questionType": "multiple-choice",
     "stem": "Which laboratory value is most important to monitor in a patient taking digoxin?",
@@ -911,7 +902,7 @@
   {
     "id": "rn-q-051",
     "scope": ["RN"],
-    "medicationId": "rn-017",
+    "medicationId": "rn-020",
     "medication": "Digoxin",
     "questionType": "multiple-choice",
     "stem": "A nurse is teaching a patient about digoxin therapy. Which instruction is most important?",
@@ -930,7 +921,7 @@
  {
     "id": "rn-q-052",
     "scope": ["RN"],
-    "medicationId": "rn-018",
+    "medicationId": "rn-021",
     "medication": "Adenosine",
     "questionType": "multiple-choice",
     "stem": "Adenosine is the drug of choice for which dysrhythmia?",
@@ -948,7 +939,7 @@
   {
     "id": "rn-q-053",
     "scope": ["RN"],
-    "medicationId": "rn-018",
+    "medicationId": "rn-021",
     "medication": "Adenosine",
     "questionType": "multiple-choice",
     "stem": "Which nursing action is priority when administering adenosine IV?",
@@ -966,7 +957,7 @@
 {
     "id": "rn-q-054",
     "scope": ["RN"],
-    "medicationId": "rn-018",
+    "medicationId": "rn-021",
     "medication": "Adenosine",
     "questionType": "multiple-choice",
     "stem": "What should the nurse tell the patient to expect after receiving adenosine?",
@@ -984,10 +975,10 @@
   {
     "id": "rn-q-055",
     "scope": ["RN"],
-    "medicationId": "rn-019",
+    "medicationId": "rn-022",
     "medication": "Lactated Ringer's",
     "questionType": "multiple-choice",
-    "stem": "Lactated Ringer’s solution is most appropriate for which patient?",
+    "stem": "Lactated Ringer’s (LR) solution is most appropriate for which patient?",
     "choices": [
       "Patient with severe hyperkalemia",
       "Burn patient with fluid loss",
@@ -1002,10 +993,10 @@
 {
     "id": "rn-q-056",
     "scope": ["RN"],
-    "medicationId": "rn-019",
+    "medicationId": "rn-022",
     "medication": "Lactated Ringer's",
     "questionType": "multiple-choice",
-    "stem": "Why should Lactated Ringer’s be used cautiously in patients with liver disease?",
+    "stem": "Why should Lactated Ringer’s (LR) be used cautiously in patients with liver disease?",
     "choices": [
       "It increases sodium levels",
       "It contains glucose",
@@ -1020,10 +1011,10 @@
   {
     "id": "rn-q-057",
     "scope": ["RN"],
-    "medicationId": "rn-19",
+    "medicationId": "rn-022",
     "medication": "Lactated Ringer's",
     "questionType": "multiple-choice",
-    "stem": "Which electrolyte is present in Lactated Ringer’s but not in normal saline?",
+    "stem": "Which electrolyte is present in Lactated Ringer’s (LR)  but not in normal saline?",
     "choices": [
       "Sodium",
       "Chloride",
@@ -1038,10 +1029,10 @@
 {
     "id": "rn-q-058",
     "scope": ["RN"],
-    "medicationId": "rn-020",
+    "medicationId": "rn-023",
     "medication": "Normal Saline",
     "questionType": "multiple-choice",
-    "stem": "Which acid–base imbalance is associated with large-volume normal saline administration?",
+    "stem": "Which acid–base imbalance is associated with large-volume Normal Saline (NS) administration?",
     "choices": [
       "Metabolic alkalosis",
       "Respiratory acidosis",
@@ -1056,10 +1047,10 @@
 {
     "id": "rn-q-059",
     "scope": ["RN"],
-    "medicationId": "rn-020",
+    "medicationId": "rn-023",
     "medication": "Normal Saline",
     "questionType": "multiple-choice",
-    "stem": "Normal saline is most appropriate for which patient condition?",
+    "stem": "Normal Saline (NS) is most appropriate for which patient condition?",
     "choices": [
       "Cerebral edema",
       "Hypernatremia",
@@ -1074,10 +1065,10 @@
  {
     "id": "rn-q-060",
     "scope": ["RN"],
-    "medicationId": "rn-020",
+    "medicationId": "rn-023",
     "medication": "Normal Saline",
     "questionType": "multiple-choice",
-    "stem": "Which electrolyte imbalance should the nurse monitor for in a patient receiving large amounts of normal saline?",
+    "stem": "Which electrolyte imbalance should the nurse monitor for in a patient receiving large amounts of Normal Saline (NS)?",
     "choices": [
       "Hypocalcemia",
       "Hyperchloremia",
@@ -1092,10 +1083,10 @@
 {
     "id": "rn-q-061",
     "scope": ["RN"],
-    "medicationId": "rn-021",
+    "medicationId": "rn-024",
     "medication": "5% Dextrose in Water",
     "questionType": "multiple-choice",
-    "stem": "D5W is best described as which type of IV solution?",
+    "stem": "5% Dextrose in Water (D5W) is best described as which type of IV solution?",
     "choices": [
       "Hypertonic",
       "Isotonic only",
@@ -1110,10 +1101,10 @@
 {
     "id": "rn-q-062",
     "scope": ["RN"],
-    "medicationId": "rn-021",
+    "medicationId": "rn-024",
     "medication": "5% Dextrose in Water",
     "questionType": "multiple-choice",
-    "stem": "Which patient should NOT receive D5W?",
+    "stem": "Which patient should NOT receive 5% Dextrose in Water (D5W)?",
     "choices": [
       "Patient with hypernatremia",
       "Patient with diabetic ketoacidosis",
@@ -1128,10 +1119,10 @@
  {
     "id": "rn-q-063",
     "scope": ["RN"],
-    "medicationId": "rn-021",
+    "medicationId": "rn-024",
     "medication": "5% Dextrose in Water",
     "questionType": "multiple-choice",
-    "stem": "Which effect should the nurse expect when administering D5W?",
+    "stem": "Which effect should the nurse expect when administering 5% Dextrose in Water (D5W)?",
     "choices": [
       "Expansion of intravascular volume only",
       "Movement of fluid into cells",
@@ -1146,10 +1137,10 @@
   {
     "id": "rn-q-064",
     "scope": ["RN"],
-    "medicationId": "rn-022",
+    "medicationId": "rn-025",
     "medication": "0.45% Normal Saline",
     "questionType": "multiple-choice",
-    "stem": "0.45% normal saline is best classified as which type of IV solution?",
+    "stem": "0.45% normal saline (1/2 NS) is best classified as which type of IV solution?",
     "choices": [
       "Isotonic",
       "Hypertonic",
@@ -1164,10 +1155,10 @@
  {
     "id": "rn-q-065",
     "scope": ["RN"],
-    "medicationId": "rn-022",
+    "medicationId": "rn-025",
     "medication": "0.45% Normal Saline",
     "questionType": "multiple-choice",
-    "stem": "Which patient would most benefit from 0.45% normal saline?",
+    "stem": "Which patient would most benefit from 0.45% normal saline (1/2 NS)?",
     "choices": [
       "Patient with increased intracranial pressure",
       "Patient with severe burns",
@@ -1182,10 +1173,10 @@
  {
     "id": "rn-q-066",
     "scope": ["RN"],
-    "medicationId": "rn-022",
+    "medicationId": "rn-025",
     "medication": "0.45% Normal Saline",
     "questionType": "multiple-choice",
-    "stem": "Which complication should the nurse monitor for when administering 0.45% normal saline?",
+    "stem": "Which complication should the nurse monitor for when administering 0.45% normal saline (1/2 NS)?",
     "choices": [
       "Pulmonary edema",
       "Cerebral edema",
@@ -1200,10 +1191,10 @@
  {
     "id": "rn-q-067",
     "scope": ["RN"],
-    "medicationId": "rn-023",
+    "medicationId": "rn-026",
     "medication": "10% Dextrose in Water",
     "questionType": "multiple-choice",
-    "stem": "D10W is best described as which type of IV solution?",
+    "stem": "10% Dextrose in Water (D10W) is best described as which type of IV solution?",
     "choices": [
       "Hypotonic",
       "Isotonic",
@@ -1218,10 +1209,10 @@
 {
     "id": "rn-q-068",
     "scope": ["RN"],
-    "medicationId": "rn-023",
+    "medicationId": "rn-026",
     "medication": "10% Dextrose in Water",
     "questionType": "multiple-choice",
-    "stem": "D10W is most commonly prescribed for which condition?",
+    "stem": "10% Dextrose in Water (D10W) is most commonly prescribed for which condition?",
     "choices": [
       "Long-term hydration",
       "Fluid resuscitation",
@@ -1236,10 +1227,10 @@
 {
     "id": "rn-q-069",
     "scope": ["RN"],
-    "medicationId": "rn-023",
+    "medicationId": "rn-026",
     "medication": "10% Dextrose in Water",
     "questionType": "multiple-choice",
-    "stem": "Which nursing action is priority when administering D10W?",
+    "stem": "Which nursing action is priority when administering 10% Dextrose in Water (D10W)?",
     "choices": [
       "Monitor blood glucose levels",
       "Restrict fluids",
@@ -1254,7 +1245,7 @@
  {
     "id": "rn-q-070",
     "scope": ["RN"],
-    "medicationId": "rn-024",
+    "medicationId": "rn-027",
     "medication": "Albumin",
     "questionType": "multiple-choice",
     "stem": "Albumin is classified as which type of IV fluid?",
@@ -1272,7 +1263,7 @@
 {
     "id": "rn-q-071",
     "scope": ["RN"],
-    "medicationId": "rn-024",
+    "medicationId": "rn-027",
     "medication": "Albumin",
     "questionType": "multiple-choice",
     "stem": "Albumin is most appropriate for which patient?",
@@ -1290,7 +1281,7 @@
 {
     "id": "rn-q-072",
     "scope": ["RN"],
-    "medicationId": "rn-024",
+    "medicationId": "rn-027",
     "medication": "Albumin",
     "questionType": "multiple-choice",
     "stem": "Which adverse effect should the nurse monitor for during albumin administration?",
@@ -1308,10 +1299,10 @@
   {
     "id": "rn-q-073",
     "scope": ["RN"],
-    "medicationId": "rn-025",
-    "medication": "Pyridostigmine bromide",
+    "medicationId": "rn-028",
+    "medication": "Pyridostigmine bromide (Mestinon)",
     "questionType": "multiple-choice",
-    "stem": "Pyridostigmine is primarily prescribed for which condition?",
+    "stem": "Pyridostigmine bromide (Mestinon) is primarily prescribed for which condition?",
     "choices": [
       "Alzheimer disease",
       "Myasthenia gravis",
@@ -1319,17 +1310,17 @@
       "Multiple sclerosis"
     ],
     "correctAnswer": "Myasthenia gravis",
-    "rationale": "Pyridostigmine is a cholinesterase inhibitor used to improve neuromuscular transmission in myasthenia gravis.",
-    "clinicalPearl": "Pyridostigmine increases acetylcholine at the neuromuscular junction to improve muscle strength."
+    "rationale": "Pyridostigmine bromide (Mestinon) is a cholinesterase inhibitor used to improve neuromuscular transmission in myasthenia gravis.",
+    "clinicalPearl": "Pyridostigmine bromide (Mestinon) increases acetylcholine at the neuromuscular junction to improve muscle strength."
   },
 
 {
     "id": "rn-q-074",
     "scope": ["RN"],
-    "medicationId": "rn-025",
-    "medication": "Pyridostigmine bromide",
+    "medicationId": "rn-028",
+    "medication": "Pyridostigmine bromide (Mestinon)",
     "questionType": "multiple-choice",
-    "stem": "Which finding indicates a therapeutic effect of pyridostigmine?",
+    "stem": "Which finding indicates a therapeutic effect of Pyridostigmine bromide (Mestinon)?",
     "choices": [
       "Increased muscle weakness",
       "Improved muscle strength",
@@ -1344,10 +1335,10 @@
  {
     "id": "rn-q-075",
     "scope": ["RN"],
-    "medicationId": "rn-025",
-    "medication": "Pyridostigmine bromide",
+    "medicationId": "rn-028",
+    "medication": "Pyridostigmine bromide (Mestinon)",
     "questionType": "multiple-choice",
-    "stem": "Which symptom suggests pyridostigmine overdose (cholinergic crisis)?",
+    "stem": "Which symptom suggests Pyridostigmine bromide (Mestinon) overdose (cholinergic crisis)?",
     "choices": [
       "Tachycardia",
       "Dry skin",
@@ -1362,10 +1353,10 @@
 {
     "id": "rn-q-076",
     "scope": ["RN"],
-    "medicationId": "rn-026",
-    "medication": "Neostigmine",
+    "medicationId": "rn-029",
+    "medication": "Neostigmine (Bloxiverz)",
     "questionType": "multiple-choice",
-    "stem": "Neostigmine is most commonly used for which purpose?",
+    "stem": "Neostigmine (Bloxiverz) is most commonly used for which purpose?",
     "choices": [
       "Treatment of dementia",
       "Reversal of neuromuscular blockade",
@@ -1373,17 +1364,17 @@
       "Long-term myasthenia gravis therapy"
     ],
     "correctAnswer": "Reversal of neuromuscular blockade",
-    "rationale": "Neostigmine is used postoperatively to reverse nondepolarizing neuromuscular blocking agents.",
-    "clinicalPearl": "Neostigmine restores muscle function after surgery by increasing acetylcholine."
+    "rationale": "Neostigmine (Bloxiverz) is used postoperatively to reverse nondepolarizing neuromuscular blocking agents.",
+    "clinicalPearl": "Neostigmine (Bloxiverz) restores muscle function after surgery by increasing acetylcholine."
   },
   
 {
     "id": "rn-q-077",
     "scope": ["RN"],
-    "medicationId": "rn-026",
-    "medication": "Neostigmine",
+    "medicationId": "rn-029",
+    "medication": "Neostigmine (Bloxiverz)",
     "questionType": "multiple-choice",
-    "stem": "Which medication should be readily available when administering neostigmine?",
+    "stem": "Which medication should be readily available when administering Neostigmine (Bloxiverz)?",
     "choices": [
       "Epinephrine",
       "Naloxone",
@@ -1398,10 +1389,10 @@
  {
     "id": "rn-q-078",
     "scope": ["RN"],
-    "medicationId": "rn-026",
+    "medicationId": "rn-029",
     "medication": "Neostigmine",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should the nurse monitor for after neostigmine administration?",
+    "stem": "Which adverse effect should the nurse monitor for after Neostigmine (Bloxiverz) administration?",
     "choices": [
       "Hypertension",
       "Bradycardia",
@@ -1409,17 +1400,17 @@
       "Urinary retention"
     ],
     "correctAnswer": "Bradycardia",
-    "rationale": "Neostigmine increases acetylcholine, which can slow heart rate.",
+    "rationale": "Neostigmine (Bloxiverz) increases acetylcholine, which can slow heart rate.",
     "clinicalPearl": "Cholinergic stimulation increases parasympathetic effects, including decreased heart rate."
   },
  
  {
     "id": "rn-q-079",
     "scope": ["RN"],
-    "medicationId": "rn-027",
-    "medication": "Donepezil",
+    "medicationId": "rn-030",
+    "medication": "Donepezil (Aricept)",
     "questionType": "multiple-choice",
-    "stem": "Donepezil is prescribed for which condition?",
+    "stem": "Donepezil (Aricept) is prescribed for which condition?",
     "choices": [
       "Myasthenia gravis",
       "Parkinson disease",
@@ -1427,17 +1418,17 @@
       "Huntington disease"
     ],
     "correctAnswer": "Alzheimer disease",
-    "rationale": "Donepezil is a cholinesterase inhibitor used to slow cognitive decline in Alzheimer disease.",
-    "clinicalPearl": "Donepezil does not cure Alzheimer disease but may temporarily improve cognition."
+    "rationale": "Donepezil (Aricept) is a cholinesterase inhibitor used to slow cognitive decline in Alzheimer disease.",
+    "clinicalPearl": "Donepezil (Aricept) does not cure Alzheimer disease but may temporarily improve cognition."
   },
 
  {
     "id": "rn-q-080",
     "scope": ["RN"],
-    "medicationId": "rn-027",
-    "medication": "Donepezil",
+    "medicationId": "rn-030",
+    "medication": "Donepezil (Aricept)",
     "questionType": "multiple-choice",
-    "stem": "Which common adverse effect should the nurse monitor in a patient taking donepezil?",
+    "stem": "Which common adverse effect should the nurse monitor in a patient taking Donepezil (Aricept)?",
     "choices": [
       "Constipation",
       "Bradycardia",
@@ -1445,17 +1436,17 @@
       "Hypertension"
     ],
     "correctAnswer": "Bradycardia",
-    "rationale": "Donepezil enhances parasympathetic activity, which can cause bradycardia.",
+    "rationale": "Donepezil (Aricept) enhances parasympathetic activity, which can cause bradycardia.",
     "clinicalPearl": "Monitor pulse regularly in older adults taking cholinesterase inhibitors."
   },
   
 {
     "id": "rn-q-081",
     "scope": ["RN"],
-    "medicationId": "rn-027",
-    "medication": "Donepezil",
+    "medicationId": "rn-030",
+    "medication": "Donepezil (Aricept)",
     "questionType": "multiple-choice",
-    "stem": "A nurse is teaching a patient about donepezil therapy. Which instruction is most appropriate?",
+    "stem": "A nurse is teaching a patient about Donepezil (Aricept) therapy. Which instruction is most appropriate?",
     "choices": [
       "Take the medication in the morning",
       "Take with antacids",
@@ -1463,17 +1454,17 @@
       "Avoid all protein-rich foods"
     ],
     "correctAnswer": "Take at bedtime",
-    "rationale": "Donepezil is commonly taken at bedtime to reduce dizziness and GI side effects.",
+    "rationale": "Donepezil (Aricept) is commonly taken at bedtime to reduce dizziness and GI side effects.",
     "clinicalPearl": "Bedtime dosing may reduce awareness of mild nausea or dizziness."
   },
 
   {
     "id": "rn-q-082",
     "scope": ["RN"],
-    "medicationId": "rn-028",
-    "medication": "Donepezil transdermal",
+    "medicationId": "rn-031",
+    "medication": "Donepezil transdermal (Aricept)",
     "questionType": "multiple-choice",
-    "stem": "Donepezil transdermal is prescribed for which condition?",
+    "stem": "Donepezil transdermal (Aricept) is prescribed for which condition?",
     "choices": [
       "Parkinson disease",
       "Myasthenia gravis",
@@ -1481,15 +1472,15 @@
       "Multiple sclerosis"
     ],
     "correctAnswer": "Alzheimer disease",
-    "rationale": "Donepezil (including transdermal form) is a cholinesterase inhibitor used to slow cognitive decline in Alzheimer disease.",
+    "rationale": "Donepezil transdermal (Aricept) (including transdermal form) is a cholinesterase inhibitor used to slow cognitive decline in Alzheimer disease.",
     "clinicalPearl": "Transdermal delivery provides steady drug levels and may improve tolerability."
   },
  
  {
     "id": "rn-q-083",
     "scope": ["RN"],
-    "medicationId": "rn-028",
-    "medication": "Donepezil transdermal",
+    "medicationId": "rn-031",
+    "medication": "Donepezil transdermal (Aricept)",
     "questionType": "multiple-choice",
     "stem": "What is the primary advantage of transdermal donepezil compared with oral therapy?",
     "choices": [
@@ -1506,10 +1497,10 @@
 {
     "id": "rn-q-084",
     "scope": ["RN"],
-    "medicationId": "rn-028",
-    "medication": "Donepezil transdermal",
+    "medicationId": "rn-031",
+    "medication": "Donepezil transdermal (Aricept)",
     "questionType": "multiple-choice",
-    "stem": "Which instruction is most important when teaching a patient to use donepezil transdermal?",
+    "stem": "Which instruction is most important when teaching a patient to use Donepezil transdermal (Aricept)?",
     "choices": [
       "Apply to broken skin",
       "Rotate application sites daily",
@@ -1524,10 +1515,10 @@
  {
     "id": "rn-q-085",
     "scope": ["RN"],
-    "medicationId": "rn-029",
-    "medication": "Galantamine",
+    "medicationId": "rn-032",
+    "medication": "Galantamine (Razadyne)",
     "questionType": "multiple-choice",
-    "stem": "Galantamine works by which mechanism of action?",
+    "stem": "Galantamine (Razadyne) works by which mechanism of action?",
     "choices": [
       "Blocking dopamine receptors",
       "Inhibiting acetylcholinesterase",
@@ -1535,17 +1526,17 @@
       "Enhancing serotonin reuptake"
     ],
     "correctAnswer": "Inhibiting acetylcholinesterase",
-    "rationale": "Galantamine is a cholinesterase inhibitor that increases acetylcholine levels in the brain.",
+    "rationale": "Galantamine (Razadyne) is a cholinesterase inhibitor that increases acetylcholine levels in the brain.",
     "clinicalPearl": "Increased acetylcholine may temporarily improve cognition in Alzheimer disease."
   },
 
 {
     "id": "rn-q-086",
     "scope": ["RN"],
-    "medicationId": "rn-029",
-    "medication": "Galantamine",
+    "medicationId": "rn-032",
+    "medication": "Galantamine (Razadyne)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should the nurse monitor in a patient taking galantamine?",
+    "stem": "Which adverse effect should the nurse monitor in a patient taking Galantamine (Razadyne)?",
     "choices": [
       "Constipation",
       "Bradycardia",
@@ -1560,10 +1551,10 @@
 {
     "id": "rn-q-087",
     "scope": ["RN"],
-    "medicationId": "rn-029",
-    "medication": "Galantamine",
+    "medicationId": "rn-032",
+    "medication": "Galantamine (Razadyne)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires cautious use of galantamine?",
+    "stem": "Which patient condition requires cautious use of Galantamine (Razadyne)?",
     "choices": [
       "Asthma or COPD",
       "Hyperlipidemia",
@@ -1571,10 +1562,17 @@
       "Osteoporosis"
     ],
     "correctAnswer": "Asthma or COPD",
-    "rationale": "Galantamine may increase bronchoconstriction due to cholinergic effects.",
+    "rationale": "Galantamine (Razadyne) may increase bronchoconstriction due to cholinergic effects.",
     "clinicalPearl": "Cholinergic medications can increase secretions and bronchial constriction."
   },
 
+
+
+
+
+
+
+    
 {
     "id": "rn-q-088",
     "scope": ["RN"],
