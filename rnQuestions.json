@@ -6,7 +6,7 @@
     "medicationId": "rn-001",
     "medication": "Quinidine",
     "questionType": "multiple-choice",
-    "stem": "A nurse is teaching a patient about quinidine therapy. Which symptom should the patient be instructed to report immediately?",
+    "stem": "A nurse is teaching a patient about Quinidine (Quinaglute) therapy. Which symptom should the patient be instructed to report immediately?",
     "choices": [
       "Tinnitus",
       "Mild nausea",
@@ -24,7 +24,7 @@
     "medicationId": "rn-001",
     "medication": "Quinidine",
     "questionType": "multiple-choice",
-    "stem": "Which laboratory value is most important for the nurse to monitor in a patient taking quinidine?",
+    "stem": "Which laboratory value is most important for the nurse to monitor in a patient taking Quinidine (Quinaglute)?",
     "choices": [
       "Blood glucose",
       "Serum potassium",
@@ -33,7 +33,7 @@
     ],
     "correctAnswer": "Serum potassium",
     "rationale": "Hypokalemia increases the risk of quinidine-induced dysrhythmias, so potassium levels must be closely monitored.",
-    "clinicalPearl": "Maintaining normal potassium levels reduces the risk of serious ventricular dysrhythmias when taking quinidine."
+    "clinicalPearl": "Maintaining normal potassium levels reduces the risk of serious ventricular dysrhythmias when taking Quinidine (Quinaglute)."
   },
 
  {
@@ -42,7 +42,7 @@
     "medicationId": "rn-001",
     "medication": "Quinidine",
     "questionType": "multiple-choice",
-    "stem": "Which ECG change is the nurse most likely to observe in a patient receiving quinidine?",
+    "stem": "Which ECG change is the nurse most likely to observe in a patient receiving Quinidine (Quinaglute)?",
     "choices": [
       "Shortened QT interval",
       "Peaked T waves",
@@ -51,7 +51,7 @@
     ],
     "correctAnswer": "Prolonged QT interval",
     "rationale": "Quinidine prolongs the QT interval, increasing the risk of torsades de pointes.",
-    "clinicalPearl": "Monitoring QT interval is essential during quinidine therapy to prevent life-threatening arrhythmias."
+    "clinicalPearl": "Monitoring QT interval is essential during Quinidine (Quinaglute) therapy to prevent life-threatening arrhythmias."
   },
  
  {
@@ -60,7 +60,7 @@
     "medicationId": "rn-002",
     "medication": "Procainamide",
     "questionType": "multiple-choice",
-    "stem": "A patient has been taking procainamide for several months. Which assessment finding suggests a serious adverse effect?",
+    "stem": "A patient has been taking Procainamide (Procan) for several months. Which assessment finding suggests a serious adverse effect?",
     "choices": [
       "Weight gain",
       "Joint pain and fever",
@@ -68,8 +68,8 @@
       "Dry mouth"
     ],
     "correctAnswer": "Joint pain and fever",
-    "rationale": "Long-term procainamide therapy can cause drug-induced lupus, presenting with joint pain, fever, and chest discomfort.",
-    "clinicalPearl": "Drug-induced lupus is a well-known complication of long-term procainamide therapy and requires prompt evaluation."
+    "rationale": "Long-term Procainamide (Procan) therapy can cause drug-induced lupus, presenting with joint pain, fever, and chest discomfort.",
+    "clinicalPearl": "Drug-induced lupus is a well-known complication of long-term Procainamide (Procan) therapy and requires prompt evaluation."
   },
 
   {
@@ -78,7 +78,7 @@
     "medicationId": "rn-002",
     "medication": "Procainamide",
     "questionType": "multiple-choice",
-    "stem": "Which laboratory test is most important to monitor during long-term procainamide therapy?",
+    "stem": "Which laboratory test is most important to monitor during long-term Procainamide (Procan) therapy?",
     "choices": [
       "Hemoglobin A1c",
       "Antinuclear antibody (ANA) levels",
@@ -96,7 +96,7 @@
     "medicationId": "rn-002",
     "medication": "Procainamide",
     "questionType": "multiple-choice",
-    "stem": "Which nursing action is appropriate when administering procainamide IV?",
+    "stem": "Which nursing action is appropriate when administering Procainamide (Procan) IV?",
     "choices": [
       "Administer as a rapid IV push",
       "Monitor blood pressure and ECG continuously",
@@ -104,8 +104,8 @@
       "Withhold food for 8 hours"
     ],
     "correctAnswer": "Monitor blood pressure and ECG continuously",
-    "rationale": "Procainamide can cause hypotension and new dysrhythmias, especially when given IV, requiring continuous monitoring.",
-    "clinicalPearl": "Continuous cardiac and hemodynamic monitoring is essential during IV procainamide administration."
+    "rationale": "Procainamide (Procan) can cause hypotension and new dysrhythmias, especially when given IV, requiring continuous monitoring.",
+    "clinicalPearl": "Continuous cardiac and hemodynamic monitoring is essential during IV Procainamide (Procan) administration."
   },
 
   {
@@ -114,7 +114,7 @@
     "medicationId": "rn-003",
     "medication": "Lidocaine",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition would cause the nurse to use lidocaine with caution?",
+    "stem": "Which patient condition would cause the nurse to use Lidocaine with caution?",
     "choices": [
       "Renal failure",
       "Liver disease",
@@ -168,7 +168,7 @@
     "medicationId": "rn-004",
     "medication": "Mexiletine",
     "questionType": "multiple-choice",
-    "stem": "A nurse is teaching a patient about mexiletine therapy. Which instruction is most important?",
+    "stem": "A nurse is teaching a patient about Mexiletine (Mexitil) therapy. Which instruction is most important?",
     "choices": [
       "Take the medication on an empty stomach",
       "Report tremors or dizziness",
@@ -176,7 +176,7 @@
       "Avoid taking the medication at bedtime"
     ],
     "correctAnswer": "Report tremors or dizziness",
-    "rationale": "Mexiletine can cause CNS adverse effects similar to lidocaine, including tremors, dizziness, and confusion, which may indicate toxicity.",
+    "rationale": "Mexiletine (Mexitil) can cause CNS adverse effects similar to lidocaine, including tremors, dizziness, and confusion, which may indicate toxicity.",
     "clinicalPearl": "Neurologic symptoms are common early indicators of mexiletine toxicity and should be reported immediately."
   },
  
@@ -186,7 +186,7 @@
     "medicationId": "rn-004",
     "medication": "Mexiletine",
     "questionType": "multiple-choice",
-    "stem": "Mexiletine is most commonly prescribed for which dysrhythmia?",
+    "stem": "Mexiletine (Mexitil) is most commonly prescribed for which dysrhythmia?",
     "choices": [
       "Atrial flutter",
       "Supraventricular tachycardia",
@@ -194,8 +194,8 @@
       "Ventricular dysrhythmias"
     ],
     "correctAnswer": "Ventricular dysrhythmias",
-    "rationale": "Mexiletine is an oral Class IB antiarrhythmic used for chronic ventricular dysrhythmias.",
-    "clinicalPearl": "Mexiletine is often used as a long-term oral alternative to lidocaine for ventricular arrhythmia management."
+    "rationale": "Mexiletine (Mexitil) is an oral Class IB antiarrhythmic used for chronic ventricular dysrhythmias.",
+    "clinicalPearl": "Mexiletine (Mexitil) is often used as a long-term oral alternative to lidocaine for ventricular arrhythmia management."
   },
  
  {
@@ -204,7 +204,7 @@
     "medicationId": "rn-004",
     "medication": "Mexiletine",
     "questionType": "multiple-choice",
-    "stem": "Which comorbidity requires cautious use of mexiletine?",
+    "stem": "Which comorbidity requires cautious use of Mexiletine (Mexitil)?",
     "choices": [
       "Liver disease",
       "Renal failure",
@@ -212,8 +212,8 @@
       "Asthma"
     ],
     "correctAnswer": "Liver disease",
-    "rationale": "Mexiletine is metabolized by the liver, increasing the risk of drug accumulation and toxicity in hepatic impairment.",
-    "clinicalPearl": "Patients with hepatic dysfunction may require dosage adjustments and closer monitoring during mexiletine therapy."
+    "rationale": "Mexiletine (Mexitil) is metabolized by the liver, increasing the risk of drug accumulation and toxicity in hepatic impairment.",
+    "clinicalPearl": "Patients with hepatic dysfunction may require dosage adjustments and closer monitoring during Mexiletine (Mexitil) therapy."
   },
 
   {
@@ -222,7 +222,7 @@
     "medicationId": "rn-005",
     "medication": "Flecainide",
     "questionType": "multiple-choice",
-    "stem": "A nurse is reviewing a patient’s history before administering flecainide. Which condition would be a contraindication?",
+    "stem": "A nurse is reviewing a patient’s history before administering Flecainide (Tambocor). Which condition would be a contraindication?",
     "choices": [
       "Atrial fibrillation",
       "Structural heart disease",
@@ -230,7 +230,7 @@
       "Hyperlipidemia"
     ],
     "correctAnswer": "Structural heart disease",
-    "rationale": "Flecainide has a high risk of proarrhythmia and should not be used in patients with structural heart disease or post-MI.",
+    "rationale": "Flecainide (Tambocor) has a high risk of proarrhythmia and should not be used in patients with structural heart disease or post-MI.",
     "clinicalPearl": "Class IC antiarrhythmics significantly increase mortality risk in patients with structural heart disease."
   },
   {
@@ -239,7 +239,7 @@
     "medicationId": "rn-005",
     "medication": "Flecainide",
     "questionType": "multiple-choice",
-    "stem": "Which ECG change should the nurse expect in a patient receiving flecainide?",
+    "stem": "Which ECG change should the nurse expect in a patient receiving Flecainide (Tambocor)?",
     "choices": [
       "Shortened PR interval",
       "ST-segment elevation",
@@ -247,7 +247,7 @@
       "Peaked T waves"
     ],
     "correctAnswer": "Prolonged QRS complex",
-    "rationale": "Flecainide slows conduction through the ventricles, resulting in QRS widening.",
+    "rationale": "Flecainide (Tambocor) slows conduction through the ventricles, resulting in QRS widening.",
     "clinicalPearl": "Monitoring QRS duration helps detect early flecainide toxicity."
   },
   
@@ -257,7 +257,7 @@
     "medicationId": "rn-005",
     "medication": "Flecainide",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should the nurse closely monitor for in a patient taking flecainide?",
+    "stem": "Which adverse effect should the nurse closely monitor for in a patient taking Flecainide (Tambocor)?",
     "choices": [
       "Pulmonary fibrosis",
       "Severe hypoglycemia",
@@ -266,7 +266,7 @@
     ],
     "correctAnswer": "New or worsening dysrhythmias",
     "rationale": "Class IC drugs have a significant proarrhythmic risk, requiring careful ECG monitoring.",
-    "clinicalPearl": "Patients taking flecainide require ongoing cardiac monitoring to detect potentially life-threatening arrhythmias."
+    "clinicalPearl": "Patients taking Flecainide (Tambocor) require ongoing cardiac monitoring to detect potentially life-threatening arrhythmias."
   },
 
   {
@@ -275,7 +275,7 @@
     "medicationId": "rn-006",
     "medication": "Propafenone",
     "questionType": "multiple-choice",
-    "stem": "Propafenone differs from other Class IC antiarrhythmics because it also has which additional property?",
+    "stem": "Propafenone (Rythmol) differs from other Class IC antiarrhythmics because it also has which additional property?",
     "choices": [
       "Alpha-adrenergic blockade",
       "Calcium channel blockade",
@@ -283,7 +283,7 @@
       "Potassium channel blockade"
     ],
     "correctAnswer": "Beta-adrenergic blocking effects",
-    "rationale": "Propafenone has weak beta-blocker activity, which can cause bradycardia and bronchoconstriction.",
+    "rationale": "Propafenone (Rythmol) has weak beta-blocker activity, which can cause bradycardia and bronchoconstriction.",
     "clinicalPearl": "Because of its beta-blocking properties, propafenone can affect heart rate and respiratory status."
   },
   
@@ -293,7 +293,7 @@
     "medicationId": "rn-006",
     "medication": "Propafenone",
     "questionType": "multiple-choice",
-    "stem": "Which patient history would require caution when prescribing propafenone?",
+    "stem": "Which patient history would require caution when prescribing Propafenone (Rythmol)?",
     "choices": [
       "Chronic obstructive pulmonary disease (COPD)",
       "Hypothyroidism",
@@ -301,7 +301,7 @@
       "Iron-deficiency anemia"
     ],
     "correctAnswer": "Chronic obstructive pulmonary disease (COPD)",
-    "rationale": "Due to its beta-blocking properties, propafenone may worsen bronchospasm in patients with COPD or asthma.",
+    "rationale": "Due to its beta-blocking properties, Propafenone (Rythmol) may worsen bronchospasm in patients with COPD or asthma.",
     "clinicalPearl": "Assess respiratory history carefully before initiating propafenone therapy."
   },
 
@@ -311,7 +311,7 @@
     "medicationId": "rn-006",
     "medication": "Propafenone",
     "questionType": "multiple-choice",
-    "stem": "Which assessment finding in a patient taking propafenone should be reported to the provider immediately?",
+    "stem": "Which assessment finding in a patient taking Propafenone (Rythmol) should be reported to the provider immediately?",
     "choices": [
       "Metallic taste",
       "Mild nausea",
@@ -319,7 +319,7 @@
       "Bradycardia"
     ],
     "correctAnswer": "Bradycardia",
-    "rationale": "Propafenone’s beta-blocking effects can cause clinically significant bradycardia, requiring prompt evaluation.",
+    "rationale": "Propafenone (Rythmol)’s beta-blocking effects can cause clinically significant bradycardia, requiring prompt evaluation.",
     "clinicalPearl": "Monitor heart rate closely in patients receiving propafenone to detect potentially dangerous bradycardia."
   },
  
@@ -329,7 +329,7 @@
     "medicationId": "rn-007",
     "medication": "Esmolol",
     "questionType": "multiple-choice",
-    "stem": "A patient receiving IV esmolol for supraventricular tachycardia should be monitored closely for which adverse effect?",
+    "stem": "A patient receiving IV Esmolol (Brevibloc) for supraventricular tachycardia should be monitored closely for which adverse effect?",
     "choices": [
       "Hypertension",
       "Bradycardia",
@@ -337,7 +337,7 @@
       "Tachypnea"
     ],
     "correctAnswer": "Bradycardia",
-    "rationale": "Esmolol is a short-acting beta-1 blocker that can cause bradycardia and hypotension, requiring continuous monitoring.",
+    "rationale": "Esmolol (Brevibloc) is a short-acting beta-1 blocker that can cause bradycardia and hypotension, requiring continuous monitoring.",
     "clinicalPearl": "Continuous ECG and blood pressure monitoring are essential during IV esmolol therapy."
   },
  
@@ -347,7 +347,7 @@
     "medicationId": "rn-007",
     "medication": "Esmolol",
     "questionType": "multiple-choice",
-    "stem": "Why is esmolol preferred in acute care settings?",
+    "stem": "Why is Esmolol (Brevibloc) preferred in acute care settings?",
     "choices": [
       "Minimal cardiac effects",
       "Long duration of action",
@@ -355,8 +355,8 @@
       "Rapid onset and short half-life"
     ],
     "correctAnswer": "Rapid onset and short half-life",
-    "rationale": "Esmolol has a very short half-life, allowing rapid titration and quick discontinuation if adverse effects occur.",
-    "clinicalPearl": "Esmolol’s short duration makes it ideal for temporary rate control in emergency settings."
+    "rationale": "Esmolol (Brevibloc) has a very short half-life, allowing rapid titration and quick discontinuation if adverse effects occur.",
+    "clinicalPearl": "Esmolol (Brevibloc)’s short duration makes it ideal for temporary rate control in emergency settings."
   },
   
   {
@@ -365,7 +365,7 @@
     "medicationId": "rn-007",
     "medication": "Esmolol",
     "questionType": "multiple-choice",
-    "stem": "Which patient history requires caution before administering esmolol?",
+    "stem": "Which patient history requires caution before administering Esmolol (Brevibloc)?",
     "choices": [
       "Sinus bradycardia",
       "Diabetes mellitus",
@@ -373,7 +373,7 @@
       "Hyperlipidemia"
     ],
     "correctAnswer": "Sinus bradycardia",
-    "rationale": "Esmolol can worsen bradycardia and may lead to heart block in patients with low heart rates.",
+    "rationale": "Esmolol (Brevibloc) can worsen bradycardia and may lead to heart block in patients with low heart rates.",
     "clinicalPearl": "Assess baseline heart rate carefully before initiating beta-blocker therapy."
   },
  
@@ -383,7 +383,7 @@
     "medicationId": "rn-008",
     "medication": "Metoprolol",
     "questionType": "multiple-choice",
-    "stem": "A nurse is teaching a patient about metoprolol therapy. Which instruction is most important?",
+    "stem": "A nurse is teaching a patient about Metoprolol (Lopressor) therapy. Which instruction is most important?",
     "choices": [
       "Stop the drug abruptly if dizzy",
       "Check heart rate before taking",
@@ -391,7 +391,7 @@
       "Take only at bedtime"
     ],
     "correctAnswer": "Check heart rate before taking",
-    "rationale": "Metoprolol can cause bradycardia; patients should check their pulse and hold the medication if prescribed parameters are not met.",
+    "rationale": "Metoprolol (Lopressor) can cause bradycardia; patients should check their pulse and hold the medication if prescribed parameters are not met.",
     "clinicalPearl": "Patients taking beta-blockers should understand how to monitor their pulse at home."
   },
  
@@ -401,7 +401,7 @@
     "medicationId": "rn-008",
     "medication": "Metoprolol",
     "questionType": "multiple-choice",
-    "stem": "Metoprolol is selective for which receptor at therapeutic doses?",
+    "stem": "Metoprolol (Lopressor) is selective for which receptor at therapeutic doses?",
     "choices": [
       "Beta-2 receptors",
       "Alpha-1 receptors",
@@ -409,7 +409,7 @@
       "Muscarinic receptors"
     ],
     "correctAnswer": "Beta-1 receptors",
-    "rationale": "Metoprolol is a cardioselective beta-1 blocker that primarily affects heart rate and contractility.",
+    "rationale": "Metoprolol (Lopressor) is a cardioselective beta-1 blocker that primarily affects heart rate and contractility.",
     "clinicalPearl": "Cardioselective beta-blockers have less effect on bronchial smooth muscle compared with nonselective agents."
   },
  
@@ -419,7 +419,7 @@
     "medicationId": "rn-008",
     "medication": "Metoprolol",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should the nurse monitor in a patient taking metoprolol?",
+    "stem": "Which adverse effect should the nurse monitor in a patient taking Metoprolol (Lopressor)?",
     "choices": [
       "Hyperkalemia",
       "Hyperthermia",
@@ -437,7 +437,7 @@
     "medicationId": "rn-009",
     "medication": "Atenolol",
     "questionType": "multiple-choice",
-    "stem": "A patient prescribed atenolol for hypertension should be taught to report which symptom?",
+    "stem": "A patient prescribed Atenolol (Tenormin) for hypertension should be taught to report which symptom?",
     "choices": [
       "Weight gain",
       "Fatigue and dizziness",
@@ -445,7 +445,7 @@
       "Insomnia"
     ],
     "correctAnswer": "Fatigue and dizziness",
-    "rationale": "Atenolol can cause bradycardia and hypotension, leading to dizziness and fatigue.",
+    "rationale": "Atenolol (Tenormin) can cause bradycardia and hypotension, leading to dizziness and fatigue.",
     "clinicalPearl": "Patients should report symptoms of low heart rate or blood pressure promptly."
   },
 
@@ -455,7 +455,7 @@
     "medicationId": "rn-009",
     "medication": "Atenolol",
     "questionType": "multiple-choice",
-    "stem": "Which property distinguishes atenolol from metoprolol?",
+    "stem": "Which property distinguishes Atenolol (Tenormin) from Metoprolol (Lopressor)?",
     "choices": [
       "Nonselective beta blockade",
       "Short half-life",
@@ -463,7 +463,7 @@
       "Hepatic metabolism"
     ],
     "correctAnswer": "Renal excretion",
-    "rationale": "Atenolol is primarily excreted by the kidneys, unlike metoprolol, which is hepatically metabolized.",
+    "rationale": "Atenolol (Tenormin) is primarily excreted by the kidneys, unlike Metoprolol (Lopressor), which is hepatically metabolized.",
     "clinicalPearl": "Renal function should be assessed when prescribing atenolol due to renal drug clearance."
   },
   
@@ -473,7 +473,7 @@
     "medicationId": "rn-009",
     "medication": "Atenolol",
     "questionType": "multiple-choice",
-    "stem": "Which condition requires cautious use of atenolol?",
+    "stem": "Which condition requires cautious use of Atenolol (Tenormin)?",
     "choices": [
       "Liver disease",
       "Hyperthyroidism",
@@ -481,7 +481,7 @@
       "Renal impairment"
     ],
     "correctAnswer": "Renal impairment",
-    "rationale": "Dose adjustment may be required because atenolol is cleared renally.",
+    "rationale": "Dose adjustment may be required because Atenolol (Tenormin) is cleared renally.",
     "clinicalPearl": "Monitor renal function to avoid atenolol accumulation and toxicity."
   },
 
@@ -491,7 +491,7 @@
     "medicationId": "rn-010",
     "medication": "Dronedarone",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition is a contraindication to dronedarone therapy?",
+    "stem": "Which patient condition is a contraindication to Dronedarone (Multaq) therapy?",
     "choices": [
       "Paroxysmal atrial fibrillation",
       "Stable coronary artery disease",
@@ -499,8 +499,8 @@
       "Hypertension"
     ],
     "correctAnswer": "Heart failure with recent decompensation",
-    "rationale": "Dronedarone increases mortality in patients with symptomatic or recently decompensated heart failure.",
-    "clinicalPearl": "Avoid dronedarone in patients with unstable or recently worsened heart failure."
+    "rationale": "Dronedarone (Multaq) increases mortality in patients with symptomatic or recently decompensated heart failure.",
+    "clinicalPearl": "Avoid Dronedarone (Multaq) in patients with unstable or recently worsened heart failure."
   },
  
   {
@@ -509,7 +509,7 @@
     "medicationId": "rn-010",
     "medication": "Dronedarone",
     "questionType": "multiple-choice",
-    "stem": "A nurse is teaching a patient about dronedarone. Which instruction is most important?",
+    "stem": "A nurse is teaching a patient about Dronedarone (Multaq). Which instruction is most important?",
     "choices": [
       "Take with grapefruit juice",
       "Take with meals",
@@ -517,8 +517,8 @@
       "Limit potassium intake"
     ],
     "correctAnswer": "Take with meals",
-    "rationale": "Dronedarone should be taken with meals to improve absorption; grapefruit juice should be avoided.",
-    "clinicalPearl": "Taking dronedarone with food enhances absorption and improves therapeutic effectiveness."
+    "rationale": "Dronedarone (Multaq) should be taken with meals to improve absorption; grapefruit juice should be avoided.",
+    "clinicalPearl": "Taking Dronedarone (Multaq) with food enhances absorption and improves therapeutic effectiveness."
   },
 
 {
@@ -527,7 +527,7 @@
     "medicationId": "rn-010",
     "medication": "Dronedarone",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should the nurse monitor for in a patient taking dronedarone?",
+    "stem": "Which adverse effect should the nurse monitor for in a patient taking Dronedarone (Multaq)?",
     "choices": [
       "Pulmonary fibrosis",
       "Drug-induced lupus",
@@ -535,8 +535,8 @@
       "Ototoxicity"
     ],
     "correctAnswer": "QT prolongation",
-    "rationale": "Dronedarone can prolong the QT interval, increasing the risk for torsades de pointes.",
-    "clinicalPearl": "Regular ECG monitoring helps detect QT interval changes in patients taking dronedarone."
+    "rationale": "Dronedarone (Multaq) can prolong the QT interval, increasing the risk for torsades de pointes.",
+    "clinicalPearl": "Regular ECG monitoring helps detect QT interval changes in patients taking Dronedarone (Multaq)."
   },
  
  {
