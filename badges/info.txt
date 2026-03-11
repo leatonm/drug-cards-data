@@ -7,7 +7,7 @@
 7_ Pharmathon — Unlocked by completing 100 study cards in one day.
 8_ Night Shift — Unlocked by studying after 0000-0300.
 9_ Pharmacist - Unlocked by reaching Level 50
-10_Medicow - bla bla blabla
+10_Medicow - unknown unlock
 11_Airway Aresenal - Complete all RSI and airway medications (lidocaine, atropine, fentanyl, etomidate, ketamine, propofol, midazolam, succinylcholine, rocuronium, vecuronium)
 12_Allergy Annihilator - master anaphylaxis medications (diphenhydramine, epinephrine, methylprednisolone, hydrocortisone, albuterol) 
 13_Code Blue Hero - Master all major cardiac arrest drugs (epinephrine, amiodarone, lidocaine, magnesium sulfate, atropine, sodium bicarbonate)
@@ -18,3 +18,4 @@
 18_Study Streak - Study drug cards 30 days in a row
 19_Pain Control Specialist - Master analgesics
 20_Disease Slayer - Master Immunology
+21_Leet - unknown unlock
