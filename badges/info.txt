@@ -20,3 +20,4 @@
 20_Disease Slayer - gain strength in Immunology
 21_Leet - unknown unlock
 22_HomeGirlFlo - Take 10 question RN Quiz on May 12
+23_FirstOnScene - Take 10 question EMS Quiz on Feb 1
