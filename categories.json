@@ -240,7 +240,8 @@
     "Prostaglandin Analog",
     "Anorexiant",
     "Lipase Inhibitor",
-    "GLP-1 Receptor Agonist; Incretin Mimetic"
+    "GLP-1 Receptor Agonist; Incretin Mimetic",
+    "Osmotic laxative / ammonia-reducing agent"
   ],
 
   "Renal": [
@@ -259,7 +260,8 @@
     "Loop diuretic",
     "Carbonic Anhydrase Inhibitor",
     "Osmotic Diuretic",
-    "Electrolyte / Tocolytic"
+    "Electrolyte / Tocolytic",
+    "Phosphate Binder"
   ],
 
   "Reproductive": [
@@ -331,6 +333,7 @@
     "Immune Checkpoint Inhibitor - PD-L1",
     "Monoclonal Antibody - CD20",
     "Tyrosine Kinase Inhibitor - EGFR",
-    "Bruton Tyrosine Kinase Inhibitor"
+    "Bruton Tyrosine Kinase Inhibitor",
+    "Non-absorbable antibiotic",
   ]
 }
