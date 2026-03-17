@@ -2772,27 +2772,13 @@
   "clinicalPearl": "Alemtuzumab (Lemtrada) requires extended post-treatment surveillance to detect late-onset complications."
 },
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 {
   "id": "rn-q-154",
   "scope": ["RN"],
-  "medicationId": "rn-052",
-  "medication": "Ocrelizumab",
+  "medicationId": "rn-055",
+  "medication": "Ocrelizumab (Ocrevus)",
   "questionType": "multiple-choice",
-  "stem": "Before initiating ocrelizumab therapy, which screening is most important?",
+  "stem": "Before initiating Ocrelizumab (Ocrevus) therapy, which screening is most important?",
   "choices": [
     "Hepatitis B virus screening",
     "PPD tuberculosis test",
@@ -2800,17 +2786,17 @@
     "Pregnancy test only"
   ],
   "correctAnswer": "Hepatitis B virus screening",
-  "rationale": "Ocrelizumab can reactivate hepatitis B virus infection; patients must be screened prior to treatment initiation.",
+  "rationale": "Ocrelizumab (Ocrevus) can reactivate hepatitis B virus infection; patients must be screened prior to treatment initiation.",
   "clinicalPearl": "Always screen for hepatitis B before starting B-cell–depleting therapies."
 },
 
 {
   "id": "rn-q-155",
   "scope": ["RN"],
-  "medicationId": "rn-052",
-  "medication": "Ocrelizumab",
+  "medicationId": "rn-055",
+  "medication": "Ocrelizumab (Ocrevus)",
   "questionType": "multiple-choice",
-  "stem": "A patient receiving ocrelizumab develops itching, throat tightness, and flushing during infusion. What is the priority nursing action?",
+  "stem": "A patient receiving Ocrelizumab (Ocrevus) develops itching, throat tightness, and flushing during infusion. What is the priority nursing action?",
   "choices": [
     "Increase the infusion rate",
     "Stop the infusion and notify the provider",
@@ -2825,10 +2811,10 @@
 {
   "id": "rn-q-156",
   "scope": ["RN"],
-  "medicationId": "rn-052",
-  "medication": "Ocrelizumab",
+  "medicationId": "rn-055",
+  "medication": "Ocrelizumab (Ocrevus)",
   "questionType": "multiple-choice",
-  "stem": "Which finding places a patient at greatest risk while receiving ocrelizumab?",
+  "stem": "Which finding places a patient at greatest risk while receiving Ocrelizumab (Ocrevus)?",
   "choices": [
     "Recent live vaccination",
     "History of migraine headaches",
@@ -2836,17 +2822,17 @@
     "Controlled hypertension"
   ],
   "correctAnswer": "Recent live vaccination",
-  "rationale": "Ocrelizumab causes immunosuppression; live vaccines are contraindicated during and after therapy due to infection risk.",
+  "rationale": "Ocrelizumab (Ocrevus) causes immunosuppression; live vaccines are contraindicated during and after therapy due to infection risk.",
   "clinicalPearl": "Ensure required vaccinations are completed before starting immunosuppressive therapy."
 },
 
 {
   "id": "rn-q-157",
   "scope": ["RN"],
-  "medicationId": "rn-053",
-  "medication": "Natalizumab",
+  "medicationId": "rn-056",
+  "medication": "Natalizumab (Tysabri)",
   "questionType": "multiple-choice",
-  "stem": "A patient receiving natalizumab is at highest risk for developing which serious adverse effect?",
+  "stem": "A patient receiving Natalizumab (Tysabri) is at highest risk for developing which serious adverse effect?",
   "choices": [
     "Progressive multifocal leukoencephalopathy (PML)",
     "Acute kidney injury",
@@ -2854,17 +2840,17 @@
     "Myocardial infarction"
   ],
   "correctAnswer": "Progressive multifocal leukoencephalopathy (PML)",
-  "rationale": "Natalizumab increases the risk of progressive multifocal leukoencephalopathy due to JC virus reactivation.",
+  "rationale": "Natalizumab (Tysabri) increases the risk of progressive multifocal leukoencephalopathy due to JC virus reactivation.",
   "clinicalPearl": "Monitor for new neurologic symptoms and evaluate promptly for possible PML."
 },
 
 {
   "id": "rn-q-158",
   "scope": ["RN"],
-  "medicationId": "rn-053",
-  "medication": "Natalizumab",
+  "medicationId": "rn-056",
+  "medication": "Natalizumab (Tysabri)",
   "questionType": "multiple-choice",
-  "stem": "Which symptom should the nurse instruct a patient on natalizumab to report immediately?",
+  "stem": "Which symptom should the nurse instruct a patient on Natalizumab (Tysabri) to report immediately?",
   "choices": [
     "New onset weakness or vision changes",
     "Mild headache after infusion",
@@ -2873,16 +2859,16 @@
   ],
   "correctAnswer": "New onset weakness or vision changes",
   "rationale": "New neurologic changes may indicate progressive multifocal leukoencephalopathy and require immediate evaluation.",
-  "clinicalPearl": "Any new or worsening neurologic symptom in a patient on natalizumab is an emergency."
+  "clinicalPearl": "Any new or worsening neurologic symptom in a patient on Natalizumab (Tysabri) is an emergency."
 },
 
 {
   "id": "rn-q-159",
   "scope": ["RN"],
-  "medicationId": "rn-053",
-  "medication": "Natalizumab",
+  "medicationId": "rn-056",
+  "medication": "Natalizumab (Tysabri)",
   "questionType": "multiple-choice",
-  "stem": "Which program must patients be enrolled in to receive natalizumab?",
+  "stem": "Which program must patients be enrolled in to receive Natalizumab (Tysabri)?",
   "choices": [
     "REMS (risk evaluation and mitigation strategy) program",
     "Vaccine injury compensation program",
@@ -2890,17 +2876,17 @@
     "Medicare Part D formulary exception"
   ],
   "correctAnswer": "REMS (risk evaluation and mitigation strategy) program",
-  "rationale": "Natalizumab is restricted through a REMS program due to the risk of progressive multifocal leukoencephalopathy.",
-  "clinicalPearl": "Enrollment in the REMS program is mandatory before initiating natalizumab therapy."
+  "rationale": "Natalizumab (Tysabri) is restricted through a REMS program due to the risk of progressive multifocal leukoencephalopathy.",
+  "clinicalPearl": "Enrollment in the REMS program is mandatory before initiating Natalizumab (Tysabri) therapy."
 },
 
 {
   "id": "rn-q-160",
   "scope": ["RN"],
-  "medicationId": "rn-054",
-  "medication": "Siponimod",
+  "medicationId": "rn-057",
+  "medication": "Siponimod fumaric acid (Mayzent)",
   "questionType": "multiple-choice",
-  "stem": "Which assessment is required before starting siponimod therapy?",
+  "stem": "Which assessment is required before starting Siponimod fumaric acid (Mayzent) therapy?",
   "choices": [
     "CYP2C9 genotype testing",
     "Serum potassium level",
@@ -2908,17 +2894,17 @@
     "Bone density scan"
   ],
   "correctAnswer": "CYP2C9 genotype testing",
-  "rationale": "Siponimod dosing is based on CYP2C9 genotype due to differences in drug metabolism and risk of adverse effects.",
-  "clinicalPearl": "Genotype testing determines appropriate dosing and identifies patients who should not receive siponimod."
+  "rationale": "Siponimod fumaric acid (Mayzent) dosing is based on CYP2C9 genotype due to differences in drug metabolism and risk of adverse effects.",
+  "clinicalPearl": "Genotype testing determines appropriate dosing and identifies patients who should not receive Siponimod fumaric acid (Mayzent)."
 },
 
 {
   "id": "rn-q-161",
   "scope": ["RN"],
-  "medicationId": "rn-054",
-  "medication": "Siponimod",
+  "medicationId": "rn-057",
+  "medication": "Siponimod fumaric acid (Mayzent)",
   "questionType": "multiple-choice",
-  "stem": "A patient taking siponimod should be monitored closely for which adverse effect?",
+  "stem": "A patient taking Siponimod fumaric acid (Mayzent) should be monitored closely for which adverse effect?",
   "choices": [
     "Bradycardia",
     "Hyperglycemia",
@@ -2926,17 +2912,17 @@
     "Hyperkalemia"
   ],
   "correctAnswer": "Bradycardia",
-  "rationale": "Sphingosine-1-phosphate receptor modulators like siponimod can decrease heart rate, particularly when therapy is initiated.",
-  "clinicalPearl": "Monitor heart rate and blood pressure when starting siponimod."
+  "rationale": "Sphingosine-1-phosphate receptor modulators like Siponimod fumaric acid (Mayzent) can decrease heart rate, particularly when therapy is initiated.",
+  "clinicalPearl": "Monitor heart rate and blood pressure when starting Siponimod fumaric acid (Mayzent)."
 },
 
 {
   "id": "rn-q-162",
   "scope": ["RN"],
-  "medicationId": "rn-054",
-  "medication": "Siponimod",
+  "medicationId": "rn-057",
+  "medication": "Siponimod fumaric acid (Mayzent)",
   "questionType": "multiple-choice",
-  "stem": "Which instruction is most important when teaching about siponimod therapy?",
+  "stem": "Which instruction is most important when teaching about Siponimod fumaric acid (Mayzent) therapy?",
   "choices": [
     "Stop the medication abruptly if headaches occur",
     "Avoid all vaccinations permanently",
@@ -2951,10 +2937,10 @@
 {
   "id": "rn-q-163",
   "scope": ["RN"],
-  "medicationId": "rn-055",
-  "medication": "Baclofen",
+  "medicationId": "rn-058",
+  "medication": "Baclofen (Lioresal)",
   "questionType": "multiple-choice",
-  "stem": "A patient taking baclofen for muscle spasticity should be monitored most closely for which adverse effect?",
+  "stem": "A patient taking Baclofen (Lioresal) for muscle spasticity should be monitored most closely for which adverse effect?",
   "choices": [
     "Hypertension",
     "Respiratory depression",
@@ -2962,17 +2948,17 @@
     "Hyperglycemia"
   ],
   "correctAnswer": "Sedation and dizziness",
-  "rationale": "Baclofen is a central nervous system depressant that commonly causes sedation, dizziness, and muscle weakness.",
+  "rationale": "Baclofen (Lioresal) is a central nervous system depressant that commonly causes sedation, dizziness, and muscle weakness.",
   "clinicalPearl": "Advise patients to avoid driving or operating heavy machinery until they know how baclofen affects them."
 },
 
 {
   "id": "rn-q-164",
   "scope": ["RN"],
-  "medicationId": "rn-055",
-  "medication": "Baclofen",
+  "medicationId": "rn-058",
+  "medication": "Baclofen (Lioresal)",
   "questionType": "multiple-choice",
-  "stem": "A patient with an intrathecal baclofen pump reports itching, fever, and increased spasticity. What is the nurse’s priority action?",
+  "stem": "A patient with an intrathecal Baclofen (Lioresal) pump reports itching, fever, and increased spasticity. What is the nurse’s priority action?",
   "choices": [
     "Document as expected findings",
     "Assess pump function and notify the provider",
@@ -2980,17 +2966,17 @@
     "Encourage increased oral fluids"
   ],
   "correctAnswer": "Assess pump function and notify the provider",
-  "rationale": "These symptoms may indicate baclofen withdrawal due to pump malfunction, which is a medical emergency requiring immediate evaluation.",
-  "clinicalPearl": "Intrathecal baclofen withdrawal can cause severe rebound spasticity, seizures, and hyperthermia."
+  "rationale": "These symptoms may indicate Baclofen (Lioresal) withdrawal due to pump malfunction, which is a medical emergency requiring immediate evaluation.",
+  "clinicalPearl": "Intrathecal Baclofen (Lioresal) withdrawal can cause severe rebound spasticity, seizures, and hyperthermia."
 },
 
 {
   "id": "rn-q-165",
   "scope": ["RN"],
-  "medicationId": "rn-055",
-  "medication": "Baclofen",
+  "medicationId": "rn-058",
+  "medication": "Baclofen (Lioresal)",
   "questionType": "multiple-choice",
-  "stem": "Which instruction is most important when teaching a patient about oral baclofen therapy?",
+  "stem": "Which instruction is most important when teaching a patient about oral Baclofen (Lioresal) therapy?",
   "choices": [
     "Stop the medication when muscle tone improves",
     "Avoid abrupt discontinuation of the medication",
@@ -2998,17 +2984,17 @@
     "Take only at bedtime"
   ],
   "correctAnswer": "Avoid abrupt discontinuation of the medication",
-  "rationale": "Abrupt withdrawal of baclofen can cause seizures, hallucinations, and rebound spasticity; the dose must be tapered gradually.",
-  "clinicalPearl": "Never stop baclofen suddenly—taper slowly under provider supervision."
+  "rationale": "Abrupt withdrawal of Baclofen (Lioresal) can cause seizures, hallucinations, and rebound spasticity; the dose must be tapered gradually.",
+  "clinicalPearl": "Never stop Baclofen (Lioresal) suddenly—taper slowly under provider supervision."
 },
 
 {
   "id": "rn-q-166",
   "scope": ["RN"],
-  "medicationId": "rn-056",
-  "medication": "Dantrolene sodium",
+  "medicationId": "rn-059",
+  "medication": "Dantrolene sodium (Dantrium)",
   "questionType": "multiple-choice",
-  "stem": "A patient prescribed dantrolene should be monitored for which serious adverse effect?",
+  "stem": "A patient prescribed Dantrolene sodium (Dantrium) should be monitored for which serious adverse effect?",
   "choices": [
     "Pancreatitis",
     "Hepatotoxicity",
@@ -3016,17 +3002,17 @@
     "Bone marrow suppression"
   ],
   "correctAnswer": "Hepatotoxicity",
-  "rationale": "Dantrolene carries a risk of severe liver injury and requires routine liver function monitoring.",
-  "clinicalPearl": "Obtain baseline and periodic liver function tests during dantrolene therapy."
+  "rationale": "Dantrolene sodium (Dantrium) carries a risk of severe liver injury and requires routine liver function monitoring.",
+  "clinicalPearl": "Obtain baseline and periodic liver function tests during Dantrolene sodium (Dantrium) therapy."
 },
 
 {
   "id": "rn-q-167",
   "scope": ["RN"],
-  "medicationId": "rn-056",
-  "medication": "Dantrolene sodium",
+  "medicationId": "rn-059",
+  "medication": "Dantrolene sodium (Dantrium)",
   "questionType": "multiple-choice",
-  "stem": "Dantrolene improves muscle spasticity by acting at which site?",
+  "stem": "Dantrolene sodium (Dantrium) improves muscle spasticity by acting at which site?",
   "choices": [
     "Neuromuscular junction",
     "Spinal cord reflex arc",
@@ -3034,17 +3020,17 @@
     "Cerebral cortex"
   ],
   "correctAnswer": "Skeletal muscle fibers",
-  "rationale": "Dantrolene acts directly on skeletal muscle by reducing calcium release from the sarcoplasmic reticulum, thereby decreasing muscle contraction.",
+  "rationale": "Dantrolene sodium (Dantrium) acts directly on skeletal muscle by reducing calcium release from the sarcoplasmic reticulum, thereby decreasing muscle contraction.",
   "clinicalPearl": "Unlike many antispasmodics, dantrolene works peripherally at the muscle level."
 },
 
 {
   "id": "rn-q-168",
   "scope": ["RN"],
-  "medicationId": "rn-056",
-  "medication": "Dantrolene sodium",
+  "medicationId": "rn-059",
+  "medication": "Dantrolene sodium (Dantrium)",
   "questionType": "multiple-choice",
-  "stem": "Which finding would require the nurse to hold dantrolene and notify the provider?",
+  "stem": "Which finding would require the nurse to hold Dantrolene sodium (Dantrium) and notify the provider?",
   "choices": [
     "Dark urine and jaundice",
     "Mild muscle weakness",
@@ -3052,17 +3038,17 @@
     "Decreased appetite"
   ],
   "correctAnswer": "Dark urine and jaundice",
-  "rationale": "Dark urine and jaundice suggest liver injury, a serious adverse effect associated with dantrolene.",
+  "rationale": "Dark urine and jaundice suggest liver injury, a serious adverse effect associated with Dantrolene sodium (Dantrium).",
   "clinicalPearl": "Teach patients to report signs of liver dysfunction immediately."
 },
 
 {
   "id": "rn-q-169",
   "scope": ["RN"],
-  "medicationId": "rn-057",
-  "medication": "Gabapentin",
+  "medicationId": "rn-060",
+  "medication": "Gabapentin (Neurontin)",
   "questionType": "multiple-choice",
-  "stem": "A patient prescribed gabapentin for neuropathic pain should be monitored for which common adverse effect?",
+  "stem": "A patient prescribed Gabapentin (Neurontin) for neuropathic pain should be monitored for which common adverse effect?",
   "choices": [
     "Insomnia",
     "Hypertension",
@@ -3070,17 +3056,17 @@
     "Constipation"
   ],
   "correctAnswer": "Dizziness and somnolence",
-  "rationale": "Gabapentin commonly causes central nervous system effects such as dizziness, drowsiness, and fatigue.",
+  "rationale": "Gabapentin (Neurontin) commonly causes central nervous system effects such as dizziness, drowsiness, and fatigue.",
   "clinicalPearl": "Caution patients about fall risk, especially older adults."
 },
 
 {
   "id": "rn-q-170",
   "scope": ["RN"],
-  "medicationId": "rn-057",
-  "medication": "Gabapentin",
+  "medicationId": "rn-060",
+  "medication": "Gabapentin (Neurontin)",
   "questionType": "multiple-choice",
-  "stem": "Which teaching is most important for a patient starting gabapentin therapy?",
+  "stem": "Which teaching is most important for a patient starting Gabapentin (Neurontin) therapy?",
   "choices": [
     "Stop taking the drug if pain improves",
     "Avoid abrupt discontinuation of the medication",
@@ -3088,17 +3074,17 @@
     "Limit fluid intake while taking the drug"
   ],
   "correctAnswer": "Avoid abrupt discontinuation of the medication",
-  "rationale": "Gabapentin should be tapered gradually to avoid withdrawal symptoms and seizure risk, particularly in patients with seizure disorders.",
-  "clinicalPearl": "Always taper gabapentin rather than stopping suddenly."
+  "rationale": "Gabapentin (Neurontin) should be tapered gradually to avoid withdrawal symptoms and seizure risk, particularly in patients with seizure disorders.",
+  "clinicalPearl": "Always taper Gabapentin (Neurontin) rather than stopping suddenly."
 },
 
 {
   "id": "rn-q-171",
   "scope": ["RN"],
-  "medicationId": "rn-057",
-  "medication": "Gabapentin",
+  "medicationId": "rn-060",
+  "medication": "Gabapentin (Neurontin)",
   "questionType": "multiple-choice",
-  "stem": "Which medication interaction is most important for the nurse to consider with gabapentin?",
+  "stem": "Which medication interaction is most important for the nurse to consider with Gabapentin (Neurontin)?",
   "choices": [
     "Aluminum- or magnesium-containing antacids reduce absorption",
     "Acetaminophen increases toxicity",
@@ -3106,17 +3092,17 @@
     "Insulin causes hypoglycemia"
   ],
   "correctAnswer": "Aluminum- or magnesium-containing antacids reduce absorption",
-  "rationale": "Antacids containing aluminum or magnesium can decrease gabapentin absorption; doses should be separated by at least 2 hours.",
-  "clinicalPearl": "Administer gabapentin at least 2 hours after antacids to ensure adequate absorption."
+  "rationale": "Antacids containing aluminum or magnesium can decrease Gabapentin (Neurontin) absorption; doses should be separated by at least 2 hours.",
+  "clinicalPearl": "Administer Gabapentin (Neurontin) at least 2 hours after antacids to ensure adequate absorption."
 },
 
 {
   "id": "rn-q-172",
   "scope": ["RN"],
-  "medicationId": "rn-058",
-  "medication": "Pregabalin",
+  "medicationId": "rn-061",
+  "medication": "Pregabalin (Lyrica)",
   "questionType": "multiple-choice",
-  "stem": "A patient taking pregabalin for neuropathic pain should be monitored most closely for which adverse effect?",
+  "stem": "A patient taking Pregabalin (Lyrica) for neuropathic pain should be monitored most closely for which adverse effect?",
   "choices": [
     "Hearing loss",
     "Peripheral edema and weight gain",
@@ -3124,17 +3110,17 @@
     "Photosensitivity"
   ],
   "correctAnswer": "Peripheral edema and weight gain",
-  "rationale": "Pregabalin commonly causes peripheral edema and weight gain and may worsen heart failure due to fluid retention.",
+  "rationale": "Pregabalin (Lyrica) commonly causes peripheral edema and weight gain and may worsen heart failure due to fluid retention.",
   "clinicalPearl": "Monitor weight and assess for swelling, especially in patients with cardiac disease."
 },
 
 {
   "id": "rn-q-173",
   "scope": ["RN"],
-  "medicationId": "rn-058",
+  "medicationId": "rn-061",
   "medication": "Pregabalin",
   "questionType": "multiple-choice",
-  "stem": "Which instruction is most important when teaching a patient about pregabalin therapy?",
+  "stem": "Which instruction is most important when teaching a patient about Pregabalin (Lyrica) therapy?",
   "choices": [
     "Stop the medication when pain resolves",
     "Avoid abrupt discontinuation of the medication",
@@ -3142,17 +3128,17 @@
     "Limit dietary protein intake"
   ],
   "correctAnswer": "Avoid abrupt discontinuation of the medication",
-  "rationale": "Pregabalin should be tapered gradually to prevent withdrawal symptoms and increased seizure risk.",
-  "clinicalPearl": "Never stop pregabalin suddenly—taper the dose under provider supervision."
+  "rationale": "Pregabalin (Lyrica) should be tapered gradually to prevent withdrawal symptoms and increased seizure risk.",
+  "clinicalPearl": "Never stop Pregabalin (Lyrica) suddenly—taper the dose under provider supervision."
 },
 
 {
   "id": "rn-q-174",
   "scope": ["RN"],
-  "medicationId": "rn-058",
-  "medication": "Pregabalin",
+  "medicationId": "rn-061",
+  "medication": "Pregabalin (Lyrica)",
   "questionType": "multiple-choice",
-  "stem": "Which condition requires caution when prescribing pregabalin?",
+  "stem": "Which condition requires caution when prescribing Pregabalin (Lyrica)?",
   "choices": [
     "Heart failure",
     "Glaucoma",
@@ -3160,17 +3146,17 @@
     "Hyperthyroidism"
   ],
   "correctAnswer": "Heart failure",
-  "rationale": "Pregabalin can cause fluid retention and peripheral edema, which may exacerbate heart failure.",
+  "rationale": "Pregabalin (Lyrica) can cause fluid retention and peripheral edema, which may exacerbate heart failure.",
   "clinicalPearl": "Use caution and monitor closely in patients with cardiac disease."
 },
 
 {
   "id": "rn-q-175",
   "scope": ["RN"],
-  "medicationId": "rn-059",
-  "medication": "Phenytoin",
+  "medicationId": "rn-062",
+  "medication": "Phenytoin (Dilantin)",
   "questionType": "multiple-choice",
-  "stem": "A patient taking phenytoin is at risk for developing which adverse effect with long-term therapy?",
+  "stem": "A patient taking Phenytoin (Dilantin) is at risk for developing which adverse effect with long-term therapy?",
   "choices": [
     "Hearing loss",
     "Gingival hyperplasia",
@@ -3178,17 +3164,17 @@
     "Pulmonary fibrosis"
   ],
   "correctAnswer": "Gingival hyperplasia",
-  "rationale": "Gingival hyperplasia is a classic long-term adverse effect of phenytoin therapy.",
+  "rationale": "Gingival hyperplasia is a classic long-term adverse effect of Phenytoin (Dilantin) therapy.",
   "clinicalPearl": "Encourage meticulous oral hygiene and regular dental visits."
 },
 
 {
   "id": "rn-q-176",
   "scope": ["RN"],
-  "medicationId": "rn-059",
-  "medication": "Phenytoin",
+  "medicationId": "rn-062",
+  "medication": "Phenytoin (Dilantin)",
   "questionType": "multiple-choice",
-  "stem": "Which instruction should the nurse include when teaching about phenytoin therapy?",
+  "stem": "Which instruction should the nurse include when teaching about Phenytoin (Dilantin) therapy?",
   "choices": [
     "Stop taking the drug once seizures are controlled",
     "Maintain good oral hygiene and regular dental visits",
@@ -3196,17 +3182,17 @@
     "Double the dose if a dose is missed"
   ],
   "correctAnswer": "Maintain good oral hygiene and regular dental visits",
-  "rationale": "Good oral hygiene helps reduce the risk and severity of gingival hyperplasia associated with phenytoin.",
+  "rationale": "Good oral hygiene helps reduce the risk and severity of gingival hyperplasia associated with Phenytoin (Dilantin).",
   "clinicalPearl": "Do not stop antiepileptic drugs abruptly; adherence is critical for seizure control."
 },
 
 {
   "id": "rn-q-177",
   "scope": ["RN"],
-  "medicationId": "rn-059",
-  "medication": "Phenytoin",
+  "medicationId": "rn-062",
+  "medication": "Phenytoin (Dilantin)",
   "questionType": "multiple-choice",
-  "stem": "Which laboratory value is most important to monitor in a patient receiving phenytoin?",
+  "stem": "Which laboratory value is most important to monitor in a patient receiving Phenytoin (Dilantin)?",
   "choices": [
     "Serum sodium",
     "Serum phenytoin level",
@@ -3214,17 +3200,17 @@
     "Serum potassium"
   ],
   "correctAnswer": "Serum phenytoin level",
-  "rationale": "Phenytoin has a narrow therapeutic range, so serum drug levels must be monitored to prevent toxicity or subtherapeutic dosing.",
+  "rationale": "Phenytoin (Dilantin) has a narrow therapeutic range, so serum drug levels must be monitored to prevent toxicity or subtherapeutic dosing.",
   "clinicalPearl": "Monitor for signs of toxicity such as nystagmus, ataxia, and confusion."
 },
 
 {
   "id": "rn-q-178",
   "scope": ["RN"],
-  "medicationId": "rn-060",
-  "medication": "Phenobarbital",
+  "medicationId": "rn-063",
+  "medication": "Phenobarbital (Luminal)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect is the greatest concern in a patient receiving phenobarbital?",
+  "stem": "Which adverse effect is the greatest concern in a patient receiving Phenobarbital (Luminal)?",
   "choices": [
     "Hypertension",
     "Respiratory depression",
@@ -3232,17 +3218,17 @@
     "Hearing loss"
   ],
   "correctAnswer": "Respiratory depression",
-  "rationale": "Phenobarbital is a barbiturate that can cause significant central nervous system and respiratory depression.",
+  "rationale": "Phenobarbital (Luminal) is a barbiturate that can cause significant central nervous system and respiratory depression.",
   "clinicalPearl": "Monitor respiratory status closely, especially at initiation or with dose increases."
 },
 
 {
   "id": "rn-q-179",
   "scope": ["RN"],
-  "medicationId": "rn-060",
-  "medication": "Phenobarbital",
+  "medicationId": "rn-063",
+  "medication": "Phenobarbital (Luminal)",
   "questionType": "multiple-choice",
-  "stem": "Which instruction is most important for a patient taking phenobarbital for seizure control?",
+  "stem": "Which instruction is most important for a patient taking Phenobarbital (Luminal) for seizure control?",
   "choices": [
     "Avoid driving until you know how the medication affects you",
     "Stop the medication if drowsiness occurs",
@@ -3250,35 +3236,35 @@
     "Increase caffeine intake to stay alert"
   ],
   "correctAnswer": "Avoid driving until you know how the medication affects you",
-  "rationale": "Phenobarbital causes sedation and impaired alertness; patients should avoid driving or operating machinery until effects are known.",
-  "clinicalPearl": "Do not abruptly discontinue phenobarbital due to risk of withdrawal seizures."
+  "rationale": "Phenobarbital (Luminal) causes sedation and impaired alertness; patients should avoid driving or operating machinery until effects are known.",
+  "clinicalPearl": "Do not abruptly discontinue Phenobarbital (Luminal) due to risk of withdrawal seizures."
 },
 
 {
   "id": "rn-q-180",
   "scope": ["RN"],
-  "medicationId": "rn-060",
-  "medication": "Phenobarbital",
+  "medicationId": "rn-063",
+  "medication": "Phenobarbital (Luminal)",
   "questionType": "multiple-choice",
-  "stem": "Which medication interaction is most important for the nurse to consider with phenobarbital?",
+  "stem": "Which medication interaction is most important for the nurse to consider with Phenobarbital (Luminal)?",
   "choices": [
     "Phenobarbital decreases effectiveness of oral contraceptives",
     "Phenobarbital increases insulin absorption",
     "Phenobarbital reduces acetaminophen metabolism",
     "Phenobarbital prevents antibiotic absorption"
   ],
-  "correctAnswer": "Phenobarbital decreases effectiveness of oral contraceptives",
-  "rationale": "Phenobarbital induces hepatic enzymes, which can reduce the effectiveness of many medications including oral contraceptives.",
+  "correctAnswer": "Phenobarbital (Luminal) decreases effectiveness of oral contraceptives",
+  "rationale": "Phenobarbital (Luminal) induces hepatic enzymes, which can reduce the effectiveness of many medications including oral contraceptives.",
   "clinicalPearl": "Advise patients using hormonal contraception to consider alternative or additional birth control methods."
 },
 
 {
   "id": "rn-q-181",
   "scope": ["RN"],
-  "medicationId": "rn-061",
-  "medication": "Ethosuximide",
+  "medicationId": "rn-064",
+  "medication": "Ethosuximide (Zarontin)",
   "questionType": "multiple-choice",
-  "stem": "Ethosuximide is most effective for treating which type of seizure?",
+  "stem": "Ethosuximide (Zarontin) is most effective for treating which type of seizure?",
   "choices": [
     "Tonic-clonic seizures",
     "Absence (petit mal) seizures",
@@ -3286,15 +3272,15 @@
     "Myoclonic seizures"
   ],
   "correctAnswer": "Absence (petit mal) seizures",
-  "rationale": "Ethosuximide is the drug of choice for absence seizures due to its selective suppression of T-type calcium channels in the thalamus.",
-  "clinicalPearl": "Ethosuximide is not effective for tonic-clonic or focal seizures."
+  "rationale": "Ethosuximide (Zarontin) is the drug of choice for absence seizures due to its selective suppression of T-type calcium channels in the thalamus.",
+  "clinicalPearl": "Ethosuximide (Zarontin) is not effective for tonic-clonic or focal seizures."
 },
 
 {
   "id": "rn-q-182",
   "scope": ["RN"],
-  "medicationId": "rn-061",
-  "medication": "Ethosuximide",
+  "medicationId": "rn-064",
+  "medication": "Ethosuximide (Zarontin)",
   "questionType": "multiple-choice",
   "stem": "Which adverse effect is most commonly associated with ethosuximide therapy?",
   "choices": [
@@ -3304,17 +3290,17 @@
     "Hyperglycemia"
   ],
   "correctAnswer": "Gastrointestinal upset and fatigue",
-  "rationale": "Common side effects of ethosuximide include nausea, vomiting, anorexia, fatigue, and dizziness.",
+  "rationale": "Common side effects of Ethosuximide (Zarontin) include nausea, vomiting, anorexia, fatigue, and dizziness.",
   "clinicalPearl": "Administer with food to reduce gastrointestinal discomfort."
 },
 
 {
   "id": "rn-q-183",
   "scope": ["RN"],
-  "medicationId": "rn-061",
-  "medication": "Ethosuximide",
+  "medicationId": "rn-064",
+  "medication": "Ethosuximide (Zarontin)",
   "questionType": "multiple-choice",
-  "stem": "Which instruction should the nurse give to a patient taking ethosuximide?",
+  "stem": "Which instruction should the nurse give to a patient taking Ethosuximide (Zarontin)?",
   "choices": [
     "Stop the medication once seizures stop",
     "Avoid driving permanently",
@@ -3322,17 +3308,17 @@
     "Double the dose if a dose is missed"
   ],
   "correctAnswer": "Take the medication with food if stomach upset occurs",
-  "rationale": "Taking ethosuximide with food can reduce gastrointestinal irritation; therapy should not be stopped abruptly.",
+  "rationale": "Taking Ethosuximide (Zarontin) with food can reduce gastrointestinal irritation; therapy should not be stopped abruptly.",
   "clinicalPearl": "Do not discontinue antiepileptic drugs suddenly due to risk of seizure recurrence."
 },
 
 {
   "id": "rn-q-184",
   "scope": ["RN"],
-  "medicationId": "rn-062",
-  "medication": "Clonazepam",
+  "medicationId": "rn-065",
+  "medication": "Clonazepam (Klonopin)",
   "questionType": "multiple-choice",
-  "stem": "Clonazepam reduces seizure activity primarily by which mechanism?",
+  "stem": "Clonazepam (Klonopin) reduces seizure activity primarily by which mechanism?",
   "choices": [
     "Blocking sodium channels",
     "Enhancing GABA activity",
@@ -3340,17 +3326,17 @@
     "Blocking glutamate receptors"
   ],
   "correctAnswer": "Enhancing GABA activity",
-  "rationale": "Clonazepam is a benzodiazepine that enhances the inhibitory effects of gamma-aminobutyric acid (GABA) in the central nervous system.",
+  "rationale": "Clonazepam (Klonopin) is a benzodiazepine that enhances the inhibitory effects of gamma-aminobutyric acid (GABA) in the central nervous system.",
   "clinicalPearl": "Benzodiazepines increase the frequency of chloride channel opening, enhancing GABA-mediated inhibition."
 },
 
 {
   "id": "rn-q-185",
   "scope": ["RN"],
-  "medicationId": "rn-062",
-  "medication": "Clonazepam",
+  "medicationId": "rn-065",
+  "medication": "Clonazepam (Klonopin)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect should the nurse monitor for in a patient taking clonazepam?",
+  "stem": "Which adverse effect should the nurse monitor for in a patient taking Clonazepam (Klonopin)?",
   "choices": [
     "Hypertension",
     "Respiratory depression and sedation",
@@ -3358,17 +3344,17 @@
     "Hearing loss"
   ],
   "correctAnswer": "Respiratory depression and sedation",
-  "rationale": "Clonazepam can cause central nervous system and respiratory depression, especially when combined with other sedatives.",
+  "rationale": "Clonazepam (Klonopin) can cause central nervous system and respiratory depression, especially when combined with other sedatives.",
   "clinicalPearl": "Use caution when combined with opioids or alcohol due to additive respiratory depression."
 },
 
 {
   "id": "rn-q-186",
   "scope": ["RN"],
-  "medicationId": "rn-062",
-  "medication": "Clonazepam",
+  "medicationId": "rn-065",
+  "medication": "Clonazepam (Klonopin)",
   "questionType": "multiple-choice",
-  "stem": "Which patient teaching is most important for clonazepam therapy?",
+  "stem": "Which patient teaching is most important for Clonazepam (Klonopin) therapy?",
   "choices": [
     "Avoid alcohol while taking this medication",
     "Stop taking the drug if anxiety improves",
@@ -3380,6 +3366,18 @@
   "clinicalPearl": "Combining benzodiazepines with alcohol or opioids significantly increases overdose risk."
 },
 
+
+
+
+
+
+
+
+
+
+
+
+    
 {
   "id": "rn-q-187",
   "scope": ["RN"],
