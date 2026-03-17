@@ -1566,20 +1566,13 @@
     "clinicalPearl": "Cholinergic medications can increase secretions and bronchial constriction."
   },
 
-
-
-
-
-
-
-    
 {
     "id": "rn-q-088",
     "scope": ["RN"],
-    "medicationId": "rn-030",
-    "medication": "Rivastigmine",
+    "medicationId": "rn-03",
+    "medication": "Rivastigmine (Exelon)",
     "questionType": "multiple-choice",
-    "stem": "Rivastigmine differs from other Alzheimer medications because it is available in which form?",
+    "stem": "Rivastigmine (Exelon) differs from other Alzheimer medications because it is available in which form?",
     "choices": [
       "Intramuscular injection",
       "Sublingual tablet",
@@ -1587,17 +1580,17 @@
       "Rectal suppository"
     ],
     "correctAnswer": "Transdermal patch",
-    "rationale": "Rivastigmine is available as a transdermal patch, which improves tolerability and adherence.",
+    "rationale": "Rivastigmine (Exelon) is available as a transdermal patch, which improves tolerability and adherence.",
     "clinicalPearl": "The patch reduces GI adverse effects compared with oral therapy."
   },
   
 {
     "id": "rn-q-089",
     "scope": ["RN"],
-    "medicationId": "rn-030",
-    "medication": "Rivastigmine",
+    "medicationId": "rn-033",
+    "medication": "Rivastigmine (Exelon)",
     "questionType": "multiple-choice",
-    "stem": "Which finding suggests rivastigmine toxicity?",
+    "stem": "Which finding suggests Rivastigmine (Exelon) toxicity?",
     "choices": [
       "Tachycardia",
       "Dry mouth",
@@ -1612,10 +1605,10 @@
  {
     "id": "rn-q-090",
     "scope": ["RN"],
-    "medicationId": "rn-030",
-    "medication": "Rivastigmine",
+    "medicationId": "rn-033",
+    "medication": "Rivastigmine (Exelon)",
     "questionType": "multiple-choice",
-    "stem": "A nurse is teaching a caregiver about rivastigmine patch use. Which statement indicates correct understanding?",
+    "stem": "A nurse is teaching a caregiver about Rivastigmine (Exelon) patch use. Which statement indicates correct understanding?",
     "choices": [
       "“I will apply the patch to the same site daily.”",
       "“I will remove the old patch before applying a new one.”",
@@ -1630,10 +1623,10 @@
   {
     "id": "rn-q-091",
     "scope": ["RN"],
-    "medicationId": "rn-031",
-    "medication": "Memantine",
+    "medicationId": "rn-034",
+    "medication": "Memantine (Namenda)",
     "questionType": "multiple-choice",
-    "stem": "Memantine is prescribed for which condition?",
+    "stem": "Memantine (Namenda) is prescribed for which condition?",
     "choices": [
       "Mild Alzheimer disease",
       "Moderate to severe Alzheimer disease",
@@ -1641,17 +1634,17 @@
       "Myasthenia gravis"
     ],
     "correctAnswer": "Moderate to severe Alzheimer disease",
-    "rationale": "Memantine is an NMDA receptor antagonist used for moderate to severe Alzheimer disease.",
-    "clinicalPearl": "Memantine is often combined with cholinesterase inhibitors in advanced Alzheimer disease."
+    "rationale": "Memantine (Namenda) is an NMDA receptor antagonist used for moderate to severe Alzheimer disease.",
+    "clinicalPearl": "Memantine (Namenda) is often combined with cholinesterase inhibitors in advanced Alzheimer disease."
   },
 
  {
     "id": "rn-q-092",
     "scope": ["RN"],
-    "medicationId": "rn-031",
+    "medicationId": "rn-034",
     "medication": "Memantine",
     "questionType": "multiple-choice",
-    "stem": "Memantine works by which mechanism of action?",
+    "stem": "Memantine (Namenda) works by which mechanism of action?",
     "choices": [
       "Increasing acetylcholine levels",
       "Blocking dopamine receptors",
@@ -1659,17 +1652,17 @@
       "Inhibiting acetylcholinesterase"
     ],
     "correctAnswer": "Blocking NMDA glutamate receptors",
-    "rationale": "Memantine reduces excitotoxicity by blocking NMDA glutamate receptors.",
-    "clinicalPearl": "By limiting glutamate overstimulation, memantine helps protect neurons from damage."
+    "rationale": "Memantine (Namenda) reduces excitotoxicity by blocking NMDA glutamate receptors.",
+    "clinicalPearl": "By limiting glutamate overstimulation, Memantine (Namenda) helps protect neurons from damage."
   },
   
 {
     "id": "rn-q-093",
     "scope": ["RN"],
-    "medicationId": "rn-031",
-    "medication": "Memantine",
+    "medicationId": "rn-034",
+    "medication": "Memantine (Namenda)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should the nurse monitor in a patient taking memantine?",
+    "stem": "Which adverse effect should the nurse monitor in a patient taking Memantine (Namenda)?",
     "choices": [
       "Severe diarrhea",
       "Bradycardia",
@@ -1677,17 +1670,17 @@
       "Hypotension"
     ],
     "correctAnswer": "Dizziness and confusion",
-    "rationale": "CNS effects such as dizziness, headache, and confusion are common with memantine.",
-    "clinicalPearl": "Assess fall risk in older adults starting memantine."
+    "rationale": "CNS effects such as dizziness, headache, and confusion are common with Memantine (Namenda).",
+    "clinicalPearl": "Assess fall risk in older adults starting Memantine (Namenda)."
   },
 
  {
     "id": "rn-q-094",
     "scope": ["RN"],
-    "medicationId": "rn-032",
-    "medication": "Benztropine mesylate",
+    "medicationId": "rn-035",
+    "medication": "Benztropine mesylate (Cogentin)",
     "questionType": "multiple-choice",
-    "stem": "Benztropine is most commonly prescribed to treat which condition?",
+    "stem": "Benztropine mesylate (Cogentin) is most commonly prescribed to treat which condition?",
     "choices": [
       "Alzheimer disease",
       "Depression",
@@ -1695,17 +1688,17 @@
       "Myasthenia gravis"
     ],
     "correctAnswer": "Parkinson disease symptoms",
-    "rationale": "Benztropine is an anticholinergic used to reduce tremors and rigidity in Parkinson disease.",
-    "clinicalPearl": "Benztropine is particularly effective for tremor-predominant Parkinson symptoms."
+    "rationale": "Benztropine mesylate (Cogentin) is an anticholinergic used to reduce tremors and rigidity in Parkinson disease.",
+    "clinicalPearl": "Benztropine mesylate (Cogentin) is particularly effective for tremor-predominant Parkinson symptoms."
   },
  
  {
     "id": "rn-q-095",
     "scope": ["RN"],
-    "medicationId": "rn-032",
-    "medication": "Benztropine mesylate",
+    "medicationId": "rn-035",
+    "medication": "Benztropine mesylate (Cogentin)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is expected with benztropine therapy?",
+    "stem": "Which adverse effect is expected with Benztropine mesylate (Cogentin) therapy?",
     "choices": [
       "Increased salivation",
       "Diarrhea",
@@ -1713,17 +1706,17 @@
       "Urinary frequency"
     ],
     "correctAnswer": "Dry mouth and blurred vision",
-    "rationale": "Benztropine causes anticholinergic effects such as dry mouth, blurred vision, and urinary retention.",
+    "rationale": "Benztropine mesylate (Cogentin) causes anticholinergic effects such as dry mouth, blurred vision, and urinary retention.",
     "clinicalPearl": "Anticholinergic side effects are common and dose-related."
   },
 
  {
     "id": "rn-q-096",
     "scope": ["RN"],
-    "medicationId": "rn-032",
-    "medication": "Benztropine mesylate",
+    "medicationId": "rn-035",
+    "medication": "Benztropine mesylate (Cogentin)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition would require caution when prescribing benztropine?",
+    "stem": "Which patient condition would require caution when prescribing Benztropine mesylate (Cogentin)?",
     "choices": [
       "Urinary retention",
       "Hypothyroidism",
@@ -1738,10 +1731,10 @@
 {
     "id": "rn-q-097",
     "scope": ["RN"],
-    "medicationId": "rn-033",
-    "medication": "Trihexyphenidyl hydrochloride",
+    "medicationId": "rn-036",
+    "medication": "Trihexyphenidyl hydrochloride (Artane)",
     "questionType": "multiple-choice",
-    "stem": "Trihexyphenidyl is primarily used for which purpose?",
+    "stem": "Trihexyphenidyl hydrochloride (Artane) is primarily used for which purpose?",
     "choices": [
       "Treatment of dementia",
       "Management of Parkinson disease symptoms",
@@ -1749,17 +1742,17 @@
       "Treatment of myasthenia gravis"
     ],
     "correctAnswer": "Management of Parkinson disease symptoms",
-    "rationale": "Trihexyphenidyl is an anticholinergic used to reduce tremor and rigidity in Parkinson disease.",
+    "rationale": "Trihexyphenidyl hydrochloride (Artane) is an anticholinergic used to reduce tremor and rigidity in Parkinson disease.",
     "clinicalPearl": "Most helpful for tremor rather than bradykinesia."
   },
 
  {
     "id": "rn-q-098",
     "scope": ["RN"],
-    "medicationId": "rn-033",
-    "medication": "Trihexyphenidyl hydrochloride",
+    "medicationId": "rn-036",
+    "medication": "Trihexyphenidyl hydrochloride (Artane)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should the nurse teach a patient to expect with trihexyphenidyl?",
+    "stem": "Which adverse effect should the nurse teach a patient to expect with Trihexyphenidyl hydrochloride (Artane)?",
     "choices": [
       "Excessive sweating",
       "Hypersalivation",
@@ -1774,10 +1767,10 @@
 {
     "id": "rn-q-099",
     "scope": ["RN"],
-    "medicationId": "rn-033",
-    "medication": "Trihexyphenidyl hydrochloride",
+    "medicationId": "rn-036",
+    "medication": "Trihexyphenidyl hydrochloride (Artane)",
     "questionType": "multiple-choice",
-    "stem": "Which instruction is most appropriate when teaching a patient about trihexyphenidyl?",
+    "stem": "Which instruction is most appropriate when teaching a patient about Trihexyphenidyl hydrochloride (Artane)?",
     "choices": [
       "Increase fluid and fiber intake",
       "Avoid taking with food",
@@ -1792,10 +1785,10 @@
 {
   "id": "rn-q-100",
   "scope": ["RN"],
-  "medicationId": "rn-034",
-  "medication": "Carbidopa/Levodopa",
+  "medicationId": "rn-037",
+  "medication": "Carbidopa/Levodopa (Sinemet)",
   "questionType": "multiple-choice",
-  "stem": "Carbidopa/levodopa is primarily prescribed for which condition?",
+  "stem": "Carbidopa/Levodopa (Sinemet) is primarily prescribed for which condition?",
   "choices": [
     "Alzheimer disease",
     "Parkinson disease",
@@ -1803,17 +1796,17 @@
     "Myasthenia gravis"
   ],
   "correctAnswer": "Parkinson disease",
-  "rationale": "Carbidopa/levodopa is used to replace dopamine and manage motor symptoms in Parkinson disease.",
+  "rationale": "Carbidopa/Levodopa (Sinemet) is used to replace dopamine and manage motor symptoms in Parkinson disease.",
   "clinicalPearl": "Carbidopa reduces peripheral conversion of levodopa, allowing more medication to reach the brain."
 },
 
 {
   "id": "rn-q-101",
   "scope": ["RN"],
-  "medicationId": "rn-034",
-  "medication": "Carbidopa/Levodopa",
+  "medicationId": "rn-037",
+  "medication": "Carbidopa/Levodopa (Sinemet)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect should the nurse monitor for with carbidopa/levodopa therapy?",
+  "stem": "Which adverse effect should the nurse monitor for with Carbidopa/Levodopa (Sinemet) therapy?",
   "choices": [
     "Bradycardia",
     "Orthostatic hypotension",
@@ -1821,17 +1814,17 @@
     "Hypotension only"
   ],
   "correctAnswer": "Orthostatic hypotension",
-  "rationale": "Carbidopa/levodopa can cause orthostatic hypotension, dyskinesias, and hallucinations.",
+  "rationale": "Carbidopa/Levodopa (Sinemet) can cause orthostatic hypotension, dyskinesias, and hallucinations.",
   "clinicalPearl": "Teach patients to change positions slowly to reduce fall risk."
 },
 
 {
   "id": "rn-q-102",
   "scope": ["RN"],
-  "medicationId": "rn-034",
-  "medication": "Carbidopa/Levodopa",
+  "medicationId": "rn-037",
+  "medication": "Carbidopa/Levodopa (Sinemet)",
   "questionType": "multiple-choice",
-  "stem": "Which patient teaching is most important for carbidopa/levodopa?",
+  "stem": "Which patient teaching is most important for Carbidopa/Levodopa (Sinemet)?",
   "choices": [
     "Take on an empty stomach for best absorption",
     "Avoid high-protein meals at dosing times",
@@ -1846,10 +1839,10 @@
 {
   "id": "rn-q-103",
   "scope": ["RN"],
-  "medicationId": "rn-035",
-  "medication": "Pramipexole",
+  "medicationId": "rn-038",
+  "medication": "Pramipexole (Mirapex)",
   "questionType": "multiple-choice",
-  "stem": "Pramipexole is prescribed for which condition?",
+  "stem": "Pramipexole (Mirapex) is prescribed for which condition?",
   "choices": [
     "Parkinson disease",
     "Alzheimer disease",
@@ -1857,17 +1850,17 @@
     "Myasthenia gravis"
   ],
   "correctAnswer": "Parkinson disease",
-  "rationale": "Pramipexole is a dopamine agonist used to manage Parkinson disease symptoms.",
+  "rationale": "Pramipexole (Mirapex) is a dopamine agonist used to manage Parkinson disease symptoms.",
   "clinicalPearl": "Dopamine agonists directly stimulate dopamine receptors in the CNS."
 },
 
 {
   "id": "rn-q-104",
   "scope": ["RN"],
-  "medicationId": "rn-035",
-  "medication": "Pramipexole",
+  "medicationId": "rn-038",
+  "medication": "Pramipexole (Mirapex)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect should the nurse monitor for in a patient taking pramipexole?",
+  "stem": "Which adverse effect should the nurse monitor for in a patient taking Pramipexole (Mirapex)?",
   "choices": [
     "Hypotension",
     "Impulse control disorders",
@@ -1882,10 +1875,10 @@
 {
   "id": "rn-q-105",
   "scope": ["RN"],
-  "medicationId": "rn-035",
-  "medication": "Pramipexole",
+  "medicationId": "rn-038",
+  "medication": "Pramipexole (Mirapex)",
   "questionType": "multiple-choice",
-  "stem": "Which instruction is most important when teaching a patient about pramipexole?",
+  "stem": "Which instruction is most important when teaching a patient about Pramipexole (Mirapex)?",
   "choices": [
     "Do not drive until response to medication is known",
     "Take only with meals",
@@ -1893,17 +1886,17 @@
     "Discontinue abruptly if nausea occurs"
   ],
   "correctAnswer": "Do not drive until response to medication is known",
-  "rationale": "Pramipexole can cause drowsiness or sudden sleep attacks; patients should not drive until they know how it affects them.",
+  "rationale": "Pramipexole (Mirapex) can cause drowsiness or sudden sleep attacks; patients should not drive until they know how it affects them.",
   "clinicalPearl": "Sudden sleep episodes can occur without warning."
 },
 
 {
   "id": "rn-q-106",
   "scope": ["RN"],
-  "medicationId": "rn-036",
-  "medication": "Bromocriptine mesylate",
+  "medicationId": "rn-039",
+  "medication": "Bromocriptine mesylate (Parlodel)",
   "questionType": "multiple-choice",
-  "stem": "Bromocriptine is used in Parkinson disease primarily to:",
+  "stem": "Bromocriptine mesylate (Parlodel) is used in Parkinson disease primarily to:",
   "choices": [
     "Increase acetylcholine",
     "Stimulate dopamine receptors",
@@ -1911,17 +1904,17 @@
     "Enhance GABA activity"
   ],
   "correctAnswer": "Stimulate dopamine receptors",
-  "rationale": "Bromocriptine is a dopamine agonist that stimulates dopamine receptors in the CNS.",
+  "rationale": "Bromocriptine mesylate (Parlodel) is a dopamine agonist that stimulates dopamine receptors in the CNS.",
   "clinicalPearl": "Dopamine agonists may be used alone or with levodopa."
 },
 
 {
   "id": "rn-q-107",
   "scope": ["RN"],
-  "medicationId": "rn-036",
-  "medication": "Bromocriptine mesylate",
+  "medicationId": "rn-039",
+  "medication": "Bromocriptine mesylate (Parlodel)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect should the nurse monitor for in a patient taking bromocriptine?",
+  "stem": "Which adverse effect should the nurse monitor for in a patient taking Bromocriptine mesylate (Parlodel)?",
   "choices": [
     "Orthostatic hypotension",
     "Hypertension",
@@ -1929,17 +1922,17 @@
     "Hyperkalemia"
   ],
   "correctAnswer": "Orthostatic hypotension",
-  "rationale": "Bromocriptine can cause orthostatic hypotension, nausea, and hallucinations.",
+  "rationale": "Bromocriptine mesylate (Parlodel) can cause orthostatic hypotension, nausea, and hallucinations.",
   "clinicalPearl": "Monitor blood pressure during initiation and dose adjustments."
 },
 
 {
   "id": "rn-q-108",
   "scope": ["RN"],
-  "medicationId": "rn-036",
-  "medication": "Bromocriptine mesylate",
+  "medicationId": "rn-039",
+  "medication": "Bromocriptine mesylate (Parlodel)",
   "questionType": "multiple-choice",
-  "stem": "Which patient teaching is most important for bromocriptine?",
+  "stem": "Which patient teaching is most important for Bromocriptine mesylate (Parlodel)?",
   "choices": [
     "Change positions slowly to prevent dizziness",
     "Avoid all dairy products",
@@ -1954,10 +1947,10 @@
 {
   "id": "rn-q-109",
   "scope": ["RN"],
-  "medicationId": "rn-037",
-  "medication": "Apomorphine hydrochloride",
+  "medicationId": "rn-040",
+  "medication": "Apomorphine hydrochloride (Apokyn)",
   "questionType": "multiple-choice",
-  "stem": "Apomorphine is primarily prescribed for which condition?",
+  "stem": "Apomorphine hydrochloride (Apokyn) is primarily prescribed for which condition?",
   "choices": [
     "Acute “off” episodes in Parkinson disease",
     "Chronic bradykinesia",
@@ -1965,17 +1958,17 @@
     "Essential tremor"
   ],
   "correctAnswer": "Acute “off” episodes in Parkinson disease",
-  "rationale": "Apomorphine is a dopamine agonist used for rapid relief of “off” episodes in advanced Parkinson disease.",
-  "clinicalPearl": "Apomorphine is used as rescue therapy for sudden motor fluctuations."
+  "rationale": "Apomorphine hydrochloride (Apokyn) is a dopamine agonist used for rapid relief of “off” episodes in advanced Parkinson disease.",
+  "clinicalPearl": "Apomorphine hydrochloride (Apokyn) is used as rescue therapy for sudden motor fluctuations."
 },
 
 {
   "id": "rn-q-110",
   "scope": ["RN"],
-  "medicationId": "rn-037",
-  "medication": "Apomorphine hydrochloride",
+  "medicationId": "rn-040",
+  "medication": "Apomorphine hydrochloride (Apokyn)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect should the nurse monitor for with apomorphine?",
+  "stem": "Which adverse effect should the nurse monitor for with Apomorphine hydrochloride (Apokyn)?",
   "choices": [
     "Severe hypotension",
     "Nausea and vomiting",
@@ -1983,17 +1976,17 @@
     "Hypoglycemia"
   ],
   "correctAnswer": "Nausea and vomiting",
-  "rationale": "Apomorphine commonly causes nausea, vomiting, orthostatic hypotension, and somnolence.",
-  "clinicalPearl": "Antiemetic therapy is often prescribed prior to starting apomorphine."
+  "rationale": "Apomorphine hydrochloride (Apokyn) commonly causes nausea, vomiting, orthostatic hypotension, and somnolence.",
+  "clinicalPearl": "Antiemetic therapy is often prescribed prior to starting Apomorphine hydrochloride (Apokyn)."
 },
 
 {
   "id": "rn-q-111",
   "scope": ["RN"],
-  "medicationId": "rn-037",
-  "medication": "Apomorphine hydrochloride",
+  "medicationId": "rn-040",
+  "medication": "Apomorphine hydrochloride (Apokyn)",
   "questionType": "multiple-choice",
-  "stem": "Which instruction is most important when teaching a patient about apomorphine administration?",
+  "stem": "Which instruction is most important when teaching a patient about Apomorphine hydrochloride (Apokyn) administration?",
   "choices": [
     "Inject into muscle only",
     "Avoid taking antiemetics without approval",
@@ -2001,17 +1994,17 @@
     "Apply transdermal patch"
   ],
   "correctAnswer": "Avoid taking antiemetics without approval",
-  "rationale": "Some antiemetics (e.g., ondansetron) can cause severe hypotension or loss of efficacy; only certain antiemetics are safe with apomorphine.",
+  "rationale": "Some antiemetics (e.g., ondansetron) can cause severe hypotension or loss of efficacy; only certain antiemetics are safe with Apomorphine hydrochloride (Apokyn).",
   "clinicalPearl": "Always verify compatible antiemetics before administration."
 },
 
 {
   "id": "rn-q-112",
   "scope": ["RN"],
-  "medicationId": "rn-038",
-  "medication": "Ropinirole",
+  "medicationId": "rn-041",
+  "medication": "Ropinirole (Requip)",
   "questionType": "multiple-choice",
-  "stem": "Ropinirole is prescribed primarily for which purpose?",
+  "stem": "Ropinirole (Requip) is prescribed primarily for which purpose?",
   "choices": [
     "Parkinson disease restless legs syndrome",
     "Alzheimer disease",
@@ -2019,17 +2012,17 @@
     "Seizure disorder"
   ],
   "correctAnswer": "Parkinson disease restless legs syndrome",
-  "rationale": "Ropinirole is a dopamine agonist used for Parkinson disease and restless legs syndrome.",
-  "clinicalPearl": "Ropinirole can be used as monotherapy in early Parkinson disease."
+  "rationale": "Ropinirole (Requip) is a dopamine agonist used for Parkinson disease and restless legs syndrome.",
+  "clinicalPearl": "Ropinirole (Requip) can be used as monotherapy in early Parkinson disease."
 },
 
 {
   "id": "rn-q-113",
   "scope": ["RN"],
-  "medicationId": "rn-038",
-  "medication": "Ropinirole",
+  "medicationId": "rn-041",
+  "medication": "Ropinirole (Requip)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect should the nurse monitor for in a patient taking ropinirole?",
+  "stem": "Which adverse effect should the nurse monitor for in a patient taking Ropinirole (Requip)?",
   "choices": [
     "Impulse control disorders",
     "Hypokalemia",
@@ -2037,17 +2030,17 @@
     "Bradycardia"
   ],
   "correctAnswer": "Impulse control disorders",
-  "rationale": "Dopamine agonists like ropinirole can cause compulsive behaviors, sleep attacks, and hallucinations.",
+  "rationale": "Dopamine agonists like Ropinirole (Requip) can cause compulsive behaviors, sleep attacks, and hallucinations.",
   "clinicalPearl": "Screen regularly for new compulsive gambling, shopping, or hypersexual behavior."
 },
 
 {
   "id": "rn-q-114",
   "scope": ["RN"],
-  "medicationId": "rn-038",
-  "medication": "Ropinirole",
+  "medicationId": "rn-041",
+  "medication": "Ropinirole (Requip)",
   "questionType": "multiple-choice",
-  "stem": "Which teaching is most important for a patient starting ropinirole?",
+  "stem": "Which teaching is most important for a patient starting Ropinirole (Requip)?",
   "choices": [
     "Do not drive until response to medication is known",
     "Take only at bedtime",
@@ -2055,17 +2048,17 @@
     "Increase protein intake"
   ],
   "correctAnswer": "Do not drive until response to medication is known",
-  "rationale": "Ropinirole may cause sudden sleep episodes; patients should avoid driving or operating machinery until they know their response.",
+  "rationale": "Ropinirole (Requip) may cause sudden sleep episodes; patients should avoid driving or operating machinery until they know their response.",
   "clinicalPearl": "Sudden sleep attacks can occur without warning."
 },
 
 {
   "id": "rn-q-115",
   "scope": ["RN"],
-  "medicationId": "rn-039",
-  "medication": "Rotigotine",
+  "medicationId": "rn-042",
+  "medication": "Rotigotine (Neupro)",
   "questionType": "multiple-choice",
-  "stem": "Rotigotine is administered via which route?",
+  "stem": "Rotigotine (Neupro) is administered via which route?",
   "choices": [
     "Oral tablet",
     "Subcutaneous injection",
@@ -2073,17 +2066,17 @@
     "Intravenous infusion"
   ],
   "correctAnswer": "Transdermal patch",
-  "rationale": "Rotigotine is a dopamine agonist delivered via a transdermal patch for continuous drug delivery.",
+  "rationale": "Rotigotine (Neupro) is a dopamine agonist delivered via a transdermal patch for continuous drug delivery.",
   "clinicalPearl": "The patch provides steady dopaminergic stimulation over 24 hours."
 },
 
 {
   "id": "rn-q-116",
   "scope": ["RN"],
-  "medicationId": "rn-039",
-  "medication": "Rotigotine",
+  "medicationId": "rn-042",
+  "medication": "Rotigotine (Neupro)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect should the nurse monitor for with rotigotine?",
+  "stem": "Which adverse effect should the nurse monitor for with Rotigotine (Neupro)?",
   "choices": [
     "Skin irritation at patch site",
     "Severe diarrhea",
@@ -2091,17 +2084,17 @@
     "Bradycardia"
   ],
   "correctAnswer": "Skin irritation at patch site",
-  "rationale": "Rotigotine may cause local skin reactions, in addition to systemic dopamine agonist effects like hypotension or sleepiness.",
+  "rationale": "Rotigotine (Neupro) may cause local skin reactions, in addition to systemic dopamine agonist effects like hypotension or sleepiness.",
   "clinicalPearl": "Rotate patch sites daily to reduce skin reactions."
 },
 
 {
   "id": "rn-q-117",
   "scope": ["RN"],
-  "medicationId": "rn-039",
-  "medication": "Rotigotine",
+  "medicationId": "rn-042",
+  "medication": "Rotigotine (Neupro)",
   "questionType": "multiple-choice",
-  "stem": "Which patient instruction is most important for rotigotine use?",
+  "stem": "Which patient instruction is most important for Rotigotine (Neupro) use?",
   "choices": [
     "Apply to the same site daily",
     "Remove the old patch before applying a new one",
@@ -2109,17 +2102,17 @@
     "Avoid fluids with the patch"
   ],
   "correctAnswer": "Remove the old patch before applying a new one",
-  "rationale": "Rotigotine patch should be rotated, and the old patch removed to prevent overdose and skin irritation.",
+  "rationale": "Rotigotine (Neupro) patch should be rotated, and the old patch removed to prevent overdose and skin irritation.",
   "clinicalPearl": "Only one patch should be worn at a time."
 },
 
 {
   "id": "rn-q-118",
   "scope": ["RN"],
-  "medicationId": "rn-040",
-  "medication": "Selegiline hydrochloride",
+  "medicationId": "rn-043",
+  "medication": "Selegiline hydrochloride (Eldepryl)",
   "questionType": "multiple-choice",
-  "stem": "Selegiline is primarily prescribed for which condition?",
+  "stem": "Selegiline hydrochloride (Eldepryl) is primarily prescribed for which condition?",
   "choices": [
     "Parkinson disease",
     "Alzheimer disease",
@@ -2127,17 +2120,17 @@
     "Essential tremor"
   ],
   "correctAnswer": "Parkinson disease",
-  "rationale": "Selegiline is an MAO-B inhibitor used to increase dopamine availability in Parkinson disease.",
+  "rationale": "Selegiline hydrochloride (Eldepryl) is an MAO-B inhibitor used to increase dopamine availability in Parkinson disease.",
   "clinicalPearl": "MAO-B inhibitors help prolong the effects of levodopa by reducing dopamine breakdown."
 },
 
 {
   "id": "rn-q-119",
   "scope": ["RN"],
-  "medicationId": "rn-040",
-  "medication": "Selegiline hydrochloride",
+  "medicationId": "rn-043",
+  "medication": "Selegiline hydrochloride (Eldepryl)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect should the nurse monitor for in a patient taking selegiline?",
+  "stem": "Which adverse effect should the nurse monitor for in a patient taking Selegiline hydrochloride (Eldepryl)?",
   "choices": [
     "Insomnia",
     "Constipation",
@@ -2145,17 +2138,17 @@
     "Hypokalemia"
   ],
   "correctAnswer": "Insomnia",
-  "rationale": "Selegiline can cause insomnia, orthostatic hypotension, and dizziness due to increased dopamine levels.",
+  "rationale": "Selegiline hydrochloride (Eldepryl) can cause insomnia, orthostatic hypotension, and dizziness due to increased dopamine levels.",
   "clinicalPearl": "Morning dosing may help reduce insomnia."
 },
 
 {
   "id": "rn-q-119",
   "scope": ["RN"],
-  "medicationId": "rn-040",
-  "medication": "Selegiline hydrochloride",
+  "medicationId": "rn-043",
+  "medication": "Selegiline hydrochloride (Eldepryl)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect should the nurse monitor for in a patient taking selegiline?",
+  "stem": "Which adverse effect should the nurse monitor for in a patient taking Selegiline hydrochloride (Eldepryl)?",
   "choices": [
     "Insomnia",
     "Constipation",
@@ -2163,15 +2156,15 @@
     "Hypokalemia"
   ],
   "correctAnswer": "Insomnia",
-  "rationale": "Selegiline can cause insomnia, orthostatic hypotension, and dizziness due to increased dopamine levels.",
+  "rationale": "Selegiline hydrochloride (Eldepryl) can cause insomnia, orthostatic hypotension, and dizziness due to increased dopamine levels.",
   "clinicalPearl": "Morning dosing may help reduce insomnia."
 },
 
 {
   "id": "rn-q-120",
   "scope": ["RN"],
-  "medicationId": "rn-040",
-  "medication": "Selegiline hydrochloride",
+  "medicationId": "rn-043",
+  "medication": "Selegiline hydrochloride (Eldepryl)",
   "questionType": "multiple-choice",
   "stem": "Which dietary instruction is most important for a patient on selegiline?",
   "choices": [
@@ -2188,10 +2181,10 @@
 {
   "id": "rn-q-121",
   "scope": ["RN"],
-  "medicationId": "rn-041",
-  "medication": "Safinamide",
+  "medicationId": "rn-044",
+  "medication": "Safinamide (Xadago)",
   "questionType": "multiple-choice",
-  "stem": "Safinamide is prescribed primarily for which condition?",
+  "stem": "Safinamide (Xadago) is prescribed primarily for which condition?",
   "choices": [
     "Parkinson disease",
     "Alzheimer disease",
@@ -2199,15 +2192,15 @@
     "Myasthenia gravis"
   ],
   "correctAnswer": "Parkinson disease",
-  "rationale": "Safinamide is a selective MAO-B inhibitor used as adjunct therapy for Parkinson disease.",
-  "clinicalPearl": "Safinamide is typically added to levodopa therapy."
+  "rationale": "Safinamide (Xadago) is a selective MAO-B inhibitor used as adjunct therapy for Parkinson disease.",
+  "clinicalPearl": "Safinamide (Xadago) is typically added to levodopa therapy."
 },
 
 {
   "id": "rn-q-122",
   "scope": ["RN"],
-  "medicationId": "rn-041",
-  "medication": "Safinamide",
+  "medicationId": "rn-044",
+  "medication": "Safinamide (Xadago)",
   "questionType": "multiple-choice",
   "stem": "Which adverse effect should the nurse monitor for in a patient taking safinamide?",
   "choices": [
@@ -2217,17 +2210,17 @@
     "Bradycardia"
   ],
   "correctAnswer": "Nausea and dyskinesia",
-  "rationale": "Safinamide may worsen dyskinesias and cause nausea, dizziness, and insomnia.",
+  "rationale": "Safinamide (Xadago) may worsen dyskinesias and cause nausea, dizziness, and insomnia.",
   "clinicalPearl": "Monitor for increased involuntary movements after initiation."
 },
 
 {
   "id": "rn-q-123",
   "scope": ["RN"],
-  "medicationId": "rn-041",
-  "medication": "Safinamide",
+  "medicationId": "rn-044",
+  "medication": "Safinamide (Xadago)",
   "questionType": "multiple-choice",
-  "stem": "Which instruction is most important for a patient starting safinamide?",
+  "stem": "Which instruction is most important for a patient starting Safinamide (Xadago)?",
   "choices": [
     "Report new or worsening dyskinesias",
     "Take only at bedtime",
@@ -2242,10 +2235,10 @@
 {
   "id": "rn-q-124",
   "scope": ["RN"],
-  "medicationId": "rn-042",
-  "medication": "Rasagiline",
+  "medicationId": "rn-045",
+  "medication": "Rasagiline (Azilect)",
   "questionType": "multiple-choice",
-  "stem": "Rasagiline is primarily used for which purpose?",
+  "stem": "Rasagiline (Azilect) is primarily used for which purpose?",
   "choices": [
     "Parkinson disease",
     "Alzheimer disease",
@@ -2253,17 +2246,17 @@
     "Myasthenia gravis"
   ],
   "correctAnswer": "Parkinson disease",
-  "rationale": "Rasagiline is a selective MAO-B inhibitor used for early or adjunct therapy in Parkinson disease.",
-  "clinicalPearl": "Rasagiline may be used alone in early disease or with levodopa in advanced stages."
+  "rationale": "Rasagiline (Azilect) is a selective MAO-B inhibitor used for early or adjunct therapy in Parkinson disease.",
+  "clinicalPearl": "Rasagiline (Azilect) may be used alone in early disease or with levodopa in advanced stages."
 },
 
 {
   "id": "rn-q-125",
   "scope": ["RN"],
-  "medicationId": "rn-042",
-  "medication": "Rasagiline",
+  "medicationId": "rn-045",
+  "medication": "Rasagiline (Azilect)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect should the nurse monitor for in a patient taking rasagiline?",
+  "stem": "Which adverse effect should the nurse monitor for in a patient taking Rasagiline (Azilect)?",
   "choices": [
     "Bradycardia",
     "Hypertension or headache",
@@ -2271,17 +2264,17 @@
     "Constipation"
   ],
   "correctAnswer": "Hypertension or headache",
-  "rationale": "Rasagiline can cause headache, orthostatic hypotension, and potential drug interactions.",
+  "rationale": "Rasagiline (Azilect) can cause headache, orthostatic hypotension, and potential drug interactions.",
   "clinicalPearl": "Monitor blood pressure and review medication interactions."
 },
 
 {
   "id": "rn-q-126",
   "scope": ["RN"],
-  "medicationId": "rn-042",
-  "medication": "Rasagiline",
+  "medicationId": "rn-045",
+  "medication": "Rasagiline (Azilect)",
   "questionType": "multiple-choice",
-  "stem": "Which patient teaching is most important for rasagiline?",
+  "stem": "Which patient teaching is most important for Rasagiline (Azilect)?",
   "choices": [
     "Avoid tyramine-containing foods",
     "Take only at bedtime",
@@ -2296,10 +2289,10 @@
 {
   "id": "rn-q-127",
   "scope": ["RN"],
-  "medicationId": "rn-043",
-  "medication": "Entacapone",
+  "medicationId": "rn-046",
+  "medication": "Entacapone (Comtan)",
   "questionType": "multiple-choice",
-  "stem": "Entacapone is prescribed for which purpose?",
+  "stem": "Entacapone (Comtan) is prescribed for which purpose?",
   "choices": [
     "Increase dopamine availability in Parkinson disease",
     "Prevent Alzheimer disease",
@@ -2307,17 +2300,17 @@
     "Treat restless legs syndrome"
   ],
   "correctAnswer": "Increase dopamine availability in Parkinson disease",
-  "rationale": "Entacapone is a COMT inhibitor used as adjunct therapy with levodopa to prolong its effect.",
+  "rationale": "Entacapone (Comtan) is a COMT inhibitor used as adjunct therapy with levodopa to prolong its effect.",
   "clinicalPearl": "COMT inhibitors extend levodopa’s duration and reduce “wearing-off” episodes."
 },
 
 {
   "id": "rn-q-128",
   "scope": ["RN"],
-  "medicationId": "rn-043",
-  "medication": "Entacapone",
+  "medicationId": "rn-046",
+  "medication": "Entacapone (Comtan)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect should the nurse monitor for in a patient taking entacapone?",
+  "stem": "Which adverse effect should the nurse monitor for in a patient taking Entacapone (Comtan)?",
   "choices": [
     "Urinary retention",
     "Liver toxicity and diarrhea",
@@ -2325,17 +2318,17 @@
     "Hypotension"
   ],
   "correctAnswer": "Liver toxicity and diarrhea",
-  "rationale": "Entacapone can cause diarrhea, urine discoloration, and in rare cases hepatotoxicity.",
+  "rationale": "Entacapone (Comtan) can cause diarrhea, urine discoloration, and in rare cases hepatotoxicity.",
   "clinicalPearl": "Brown-orange urine discoloration is harmless but may alarm patients."
 },
 
 {
   "id": "rn-q-129",
   "scope": ["RN"],
-  "medicationId": "rn-043",
-  "medication": "Entacapone",
+  "medicationId": "rn-046",
+  "medication": "Entacapone (Comtan)",
   "questionType": "multiple-choice",
-  "stem": "Which instruction is most important for patients taking entacapone?",
+  "stem": "Which instruction is most important for patients taking Entacapone (Comtan)?",
   "choices": [
     "Do not skip doses; take with each levodopa dose",
     "Increase protein intake",
@@ -2343,17 +2336,17 @@
     "Avoid high-potassium foods"
   ],
   "correctAnswer": "Do not skip doses; take with each levodopa dose",
-  "rationale": "Entacapone must be taken with each dose of levodopa to prevent “wearing-off” symptoms.",
-  "clinicalPearl": "Entacapone has no effect when given alone."
+  "rationale": "Entacapone (Comtan) must be taken with each dose of levodopa to prevent “wearing-off” symptoms.",
+  "clinicalPearl": "Entacapone (Comtan) has no effect when given alone."
 },
 
 {
   "id": "rn-q-130",
   "scope": ["RN"],
-  "medicationId": "rn-044",
-  "medication": "Tolcapone",
+  "medicationId": "rn-047",
+  "medication": "Tolcapone (Tasmar)",
   "questionType": "multiple-choice",
-  "stem": "Tolcapone differs from entacapone primarily because it:",
+  "stem": "Tolcapone (Tasmar) differs from entacapone primarily because it:",
   "choices": [
     "Is less effective",
     "Is hepatotoxic and requires liver monitoring",
@@ -2361,17 +2354,17 @@
     "Is a dopamine agonist"
   ],
   "correctAnswer": "Is hepatotoxic and requires liver monitoring",
-  "rationale": "Tolcapone carries a risk of hepatotoxicity; liver function must be monitored regularly.",
-  "clinicalPearl": "Baseline and periodic liver function tests are required with tolcapone."
+  "rationale": "Tolcapone (Tasmar) carries a risk of hepatotoxicity; liver function must be monitored regularly.",
+  "clinicalPearl": "Baseline and periodic liver function tests are required with Tolcapone (Tasmar)."
 },
 
 {
   "id": "rn-q-131",
   "scope": ["RN"],
-  "medicationId": "rn-044",
-  "medication": "Tolcapone",
+  "medicationId": "rn-047",
+  "medication": "Tolcapone (Tasmar)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect should the nurse monitor for in a patient taking tolcapone?",
+  "stem": "Which adverse effect should the nurse monitor for in a patient taking Tolcapone (Tasmar)?",
   "choices": [
     "Liver failure and dyskinesia",
     "Bradycardia",
@@ -2379,17 +2372,17 @@
     "Hypokalemia"
   ],
   "correctAnswer": "Liver failure and dyskinesia",
-  "rationale": "Tolcapone may cause hepatotoxicity and worsen dyskinesias when used with levodopa.",
+  "rationale": "Tolcapone (Tasmar) may cause hepatotoxicity and worsen dyskinesias when used with levodopa.",
   "clinicalPearl": "Report fatigue, jaundice, or dark urine immediately."
 },
 
 {
   "id": "rn-q-132",
   "scope": ["RN"],
-  "medicationId": "rn-044",
-  "medication": "Tolcapone",
+  "medicationId": "rn-047",
+  "medication": "Tolcapone (Tasmar)",
   "questionType": "multiple-choice",
-  "stem": "Which patient teaching is most important for tolcapone?",
+  "stem": "Which patient teaching is most important for Tolcapone (Tasmar)?",
   "choices": [
     "Report yellowing of skin or dark urine immediately",
     "Take only at bedtime",
@@ -2404,10 +2397,10 @@
 {
   "id": "rn-q-133",
   "scope": ["RN"],
-  "medicationId": "rn-045",
-  "medication": "Amantadine",
+  "medicationId": "rn-048",
+  "medication": "Amantadine (Gocovri)",
   "questionType": "multiple-choice",
-  "stem": "Amantadine is prescribed primarily for which purpose?",
+  "stem": "Amantadine (Gocovri) is prescribed primarily for which purpose?",
   "choices": [
     "Parkinson disease and dyskinesia",
     "Alzheimer disease",
@@ -2415,17 +2408,17 @@
     "Restless legs syndrome"
   ],
   "correctAnswer": "Parkinson disease and dyskinesia",
-  "rationale": "Amantadine increases dopamine release and is used for mild Parkinson symptoms or levodopa-induced dyskinesia.",
-  "clinicalPearl": "Amantadine may also reduce levodopa-induced involuntary movements."
+  "rationale": "Amantadine (Gocovri) increases dopamine release and is used for mild Parkinson symptoms or levodopa-induced dyskinesia.",
+  "clinicalPearl": "Amantadine (Gocovri) may also reduce levodopa-induced involuntary movements."
 },
 
 {
   "id": "rn-q-134",
   "scope": ["RN"],
-  "medicationId": "rn-045",
-  "medication": "Amantadine",
+  "medicationId": "rn-048",
+  "medication": "Amantadine (Gocovri)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect should the nurse monitor for in a patient taking amantadine?",
+  "stem": "Which adverse effect should the nurse monitor for in a patient taking Amantadine (Gocovri)?",
   "choices": [
     "Livedo reticularis, dizziness, hallucinations",
     "Bradycardia",
@@ -2433,17 +2426,17 @@
     "Constipation"
   ],
   "correctAnswer": "Livedo reticularis, dizziness, hallucinations",
-  "rationale": "Amantadine can cause livedo reticularis (mottled skin), CNS effects, and anticholinergic-like effects.",
+  "rationale": "Amantadine (Gocovri) can cause livedo reticularis (mottled skin), CNS effects, and anticholinergic-like effects.",
   "clinicalPearl": "Livedo reticularis is usually reversible after discontinuation."
 },
 
 {
   "id": "rn-q-135",
   "scope": ["RN"],
-  "medicationId": "rn-045",
+  "medicationId": "rn-048",
   "medication": "Amantadine",
   "questionType": "multiple-choice",
-  "stem": "Which patient instruction is most important when taking amantadine?",
+  "stem": "Which patient instruction is most important when taking Amantadine (Gocovri)?",
   "choices": [
     "Do not abruptly stop the medication",
     "Avoid fluids with the medication",
@@ -2458,8 +2451,8 @@
 {
   "id": "rn-q-136",
   "scope": ["RN"],
-  "medicationId": "rn-046",
-  "medication": "Interferon beta-1a",
+  "medicationId": "rn-049",
+  "medication": "Interferon beta-1a (Avonex)",
   "questionType": "multiple-choice",
   "stem": "A patient with multiple sclerosis is prescribed interferon beta-1a (Avonex). Which statement by the patient indicates correct understanding of medication teaching?",
   "choices": [
@@ -2469,17 +2462,17 @@
     "This medication cures multiple sclerosis if taken long term."
   ],
   "correctAnswer": "Flu-like symptoms may occur after injections, especially early in treatment.",
-  "rationale": "Interferon beta-1a commonly causes flu-like symptoms, especially early in therapy. It is given by injection, not orally. Depression is an adverse effect that must be reported, and the medication does not cure MS.",
+  "rationale": "Interferon beta-1a (Avonex) commonly causes flu-like symptoms, especially early in therapy. It is given by injection, not orally. Depression is an adverse effect that must be reported, and the medication does not cure MS.",
   "clinicalPearl": "Administering interferon in the evening and using antipyretics such as acetaminophen or ibuprofen can help reduce flu-like symptoms."
 },
 
 {
   "id": "rn-q-137",
   "scope": ["RN"],
-  "medicationId": "rn-046",
-  "medication": "Interferon beta-1a",
+  "medicationId": "rn-049",
+  "medication": "Interferon beta-1a (Avonex)",
   "questionType": "multiple-choice",
-  "stem": "Which intervention can help reduce flu-like adverse effects associated with interferon beta-1a therapy?",
+  "stem": "Which intervention can help reduce flu-like adverse effects associated with Interferon beta-1a (Avonex) therapy?",
   "choices": [
     "Administer the injection in the morning on an empty stomach.",
     "Take acetaminophen or ibuprofen around the time of injection.",
@@ -2494,10 +2487,10 @@
 {
   "id": "rn-q-138",
   "scope": ["RN"],
-  "medicationId": "rn-046",
-  "medication": "Interferon beta-1a",
+  "medicationId": "rn-049",
+  "medication": "Interferon beta-1a (Avonex)",
   "questionType": "multiple-choice",
-  "stem": "Which laboratory value should be monitored periodically in patients receiving interferon beta-1a?",
+  "stem": "Which laboratory value should be monitored periodically in patients receiving Interferon beta-1a (Avonex)?",
   "choices": [
     "Serum potassium",
     "Liver function tests",
@@ -2505,15 +2498,15 @@
     "Serum calcium"
   ],
   "correctAnswer": "Liver function tests",
-  "rationale": "Interferon beta-1a can cause hepatotoxicity; therefore, liver enzymes must be monitored periodically during therapy.",
+  "rationale": "Interferon beta-1a (Avonex) can cause hepatotoxicity; therefore, liver enzymes must be monitored periodically during therapy.",
   "clinicalPearl": "Baseline and periodic liver function tests are essential when administering interferon therapy."
 },
 
 {
   "id": "rn-q-139",
   "scope": ["RN"],
-  "medicationId": "rn-047",
-  "medication": "Interferon beta-1b",
+  "medicationId": "rn-050",
+  "medication": "Interferon beta-1b (Betaseron)",
   "questionType": "multiple-choice",
   "stem": "Which nursing action is most appropriate for a patient receiving interferon beta-1b (Betaseron)?",
   "choices": [
@@ -2523,17 +2516,17 @@
     "Encourage increased sodium intake."
   ],
   "correctAnswer": "Rotate injection sites and inspect for skin necrosis.",
-  "rationale": "Interferon beta-1b is given subcutaneously and may cause injection-site reactions including rare necrosis, so site rotation and assessment are essential.",
+  "rationale": "Interferon beta-1b (Betaseron) is given subcutaneously and may cause injection-site reactions including rare necrosis, so site rotation and assessment are essential.",
   "clinicalPearl": "Teach patients proper subcutaneous injection technique and to report severe redness, swelling, or skin breakdown."
 },
 
 {
   "id": "rn-q-140",
   "scope": ["RN"],
-  "medicationId": "rn-047",
-  "medication": "Interferon beta-1b",
+  "medicationId": "rn-050",
+  "medication": "Interferon beta-1b (Betaseron)",
   "questionType": "multiple-choice",
-  "stem": "A patient receiving interferon beta-1b reports feeling hopeless and having trouble sleeping. What is the nurse’s priority action?",
+  "stem": "A patient receiving Interferon beta-1b (Betaseron) reports feeling hopeless and having trouble sleeping. What is the nurse’s priority action?",
   "choices": [
     "Document as expected side effects of therapy.",
     "Encourage rest and hydration.",
@@ -2548,10 +2541,10 @@
 {
   "id": "rn-q-141",
   "scope": ["RN"],
-  "medicationId": "rn-047",
-  "medication": "Interferon beta-1b",
+  "medicationId": "rn-050",
+  "medication": "Interferon beta-1b (Betaseron)",
   "questionType": "multiple-choice",
-  "stem": "Which condition would require caution when prescribing interferon beta-1b?",
+  "stem": "Which condition would require caution when prescribing Interferon beta-1b (Betaseron)?",
   "choices": [
     "History of seizure disorder",
     "Controlled hypothyroidism",
@@ -2559,15 +2552,15 @@
     "Hyperlipidemia"
   ],
   "correctAnswer": "History of seizure disorder",
-  "rationale": "Interferon beta-1b may lower seizure threshold, so seizure disorders require caution and close monitoring.",
+  "rationale": "Interferon beta-1b (Betaseron) may lower seizure threshold, so seizure disorders require caution and close monitoring.",
   "clinicalPearl": "Review neurologic history carefully before initiating interferon therapy."
 },
 
 {
   "id": "rn-q-142",
   "scope": ["RN"],
-  "medicationId": "rn-048",
-  "medication": "Teriflunomide",
+  "medicationId": "rn-051",
+  "medication": "Teriflunomide (Aubagio)",
   "questionType": "multiple-choice",
   "stem": "A patient taking teriflunomide (Aubagio) should be monitored closely for which adverse effect?",
   "choices": [
@@ -2577,17 +2570,17 @@
     "Photosensitivity"
   ],
   "correctAnswer": "Hepatotoxicity",
-  "rationale": "Teriflunomide carries a boxed warning for severe liver injury, requiring routine liver enzyme monitoring.",
-  "clinicalPearl": "Obtain baseline liver function tests before starting teriflunomide and monitor periodically."
+  "rationale": "Teriflunomide (Aubagio) carries a boxed warning for severe liver injury, requiring routine liver enzyme monitoring.",
+  "clinicalPearl": "Obtain baseline liver function tests before starting Teriflunomide (Aubagio) and monitor periodically."
 },
 
 {
   "id": "rn-q-143",
   "scope": ["RN"],
-  "medicationId": "rn-048",
-  "medication": "Teriflunomide",
+  "medicationId": "rn-050",
+  "medication": "Teriflunomide (Aubagio)",
   "questionType": "multiple-choice",
-  "stem": "Which teaching is most important for a female patient prescribed teriflunomide?",
+  "stem": "Which teaching is most important for a female patient prescribed Teriflunomide (Aubagio)?",
   "choices": [
     "Avoid grapefruit juice while taking this medication.",
     "Use reliable contraception during and after treatment.",
@@ -2595,17 +2588,17 @@
     "Limit sun exposure when outdoors."
   ],
   "correctAnswer": "Use reliable contraception during and after treatment.",
-  "rationale": "Teriflunomide is teratogenic; pregnancy must be avoided during therapy and until drug elimination is confirmed.",
+  "rationale": "Teriflunomide (Aubagio) is teratogenic; pregnancy must be avoided during therapy and until drug elimination is confirmed.",
   "clinicalPearl": "Pregnancy must be ruled out before starting teriflunomide, and effective contraception is required during and after treatment."
 },
 
 {
   "id": "rn-q-144",
   "scope": ["RN"],
-  "medicationId": "rn-048",
-  "medication": "Teriflunomide",
+  "medicationId": "rn-050",
+  "medication": "Teriflunomide (Aubagio)",
   "questionType": "multiple-choice",
-  "stem": "Which medication may be prescribed to rapidly eliminate teriflunomide from the body if pregnancy is desired or toxicity occurs?",
+  "stem": "Which medication may be prescribed to rapidly eliminate Teriflunomide (Aubagio) from the body if pregnancy is desired or toxicity occurs?",
   "choices": [
     "Activated charcoal",
     "Cholestyramine",
@@ -2613,17 +2606,17 @@
     "N-acetylcysteine"
   ],
   "correctAnswer": "Cholestyramine",
-  "rationale": "Cholestyramine is used to accelerate teriflunomide elimination because the drug has a very long half-life.",
-  "clinicalPearl": "An accelerated elimination procedure is required if pregnancy occurs while taking teriflunomide."
+  "rationale": "Cholestyramine is used to accelerate Teriflunomide (Aubagio) elimination because the drug has a very long half-life.",
+  "clinicalPearl": "An accelerated elimination procedure is required if pregnancy occurs while taking Teriflunomide (Aubagio)."
 },
 
 {
   "id": "rn-q-145",
   "scope": ["RN"],
-  "medicationId": "rn-049",
-  "medication": "Monomethyl fumarate",
+  "medicationId": "rn-052",
+  "medication": "Monomethyl fumarate (Bafiertam)",
   "questionType": "multiple-choice",
-  "stem": "A patient taking monomethyl fumarate for multiple sclerosis reports flushing and warmth of the face after each dose. What is the best nursing response?",
+  "stem": "A patient taking Monomethyl fumarate (Bafiertam) for multiple sclerosis reports flushing and warmth of the face after each dose. What is the best nursing response?",
   "choices": [
     "This indicates an allergic reaction and the drug must be stopped.",
     "This is a common effect and usually decreases over time.",
@@ -2631,17 +2624,17 @@
     "This indicates liver toxicity."
   ],
   "correctAnswer": "This is a common effect and usually decreases over time.",
-  "rationale": "Flushing is a common, expected adverse effect of fumarates and often improves with continued therapy.",
+  "rationale": "Flushing is a common, expected adverse effect of Monomethyl fumarate (Bafiertam) and often improves with continued therapy.",
   "clinicalPearl": "Taking the medication with food or premedicating with aspirin (if prescribed) may help reduce flushing."
 },
 
 {
   "id": "rn-q-146",
   "scope": ["RN"],
-  "medicationId": "rn-049",
+  "medicationId": "rn-052",
   "medication": "Monomethyl fumarate",
   "questionType": "multiple-choice",
-  "stem": "Which instruction should the nurse include when teaching a patient how to take monomethyl fumarate?",
+  "stem": "Which instruction should the nurse include when teaching a patient how to take Monomethyl fumarate (Bafiertam)?",
   "choices": [
     "Crush the capsule and mix with applesauce.",
     "Take the medication with food to reduce GI upset.",
@@ -2649,17 +2642,17 @@
     "Avoid all dairy products while taking this drug."
   ],
   "correctAnswer": "Take the medication with food to reduce GI upset.",
-  "rationale": "Taking monomethyl fumarate with food can reduce gastrointestinal side effects; capsules should not be crushed.",
+  "rationale": "Taking Monomethyl fumarate (Bafiertam) with food can reduce gastrointestinal side effects; capsules should not be crushed.",
   "clinicalPearl": "Swallow capsules whole and administer with meals to improve tolerability."
 },
 
 {
   "id": "rn-q-147",
   "scope": ["RN"],
-  "medicationId": "rn-049",
-  "medication": "Monomethyl fumarate",
+  "medicationId": "rn-052",
+  "medication": "MMonomethyl fumarate (Bafiertam)",
   "questionType": "multiple-choice",
-  "stem": "Which laboratory value should be monitored in patients taking monomethyl fumarate?",
+  "stem": "Which laboratory value should be monitored in patients taking Monomethyl fumarate (Bafiertam)?",
   "choices": [
     "Platelet count",
     "Absolute lymphocyte count",
@@ -2667,17 +2660,17 @@
     "International normalized ratio (INR)"
   ],
   "correctAnswer": "Absolute lymphocyte count",
-  "rationale": "Monomethyl fumarate can cause lymphopenia, increasing infection risk; lymphocyte counts must be monitored.",
+  "rationale": "Monomethyl fumarate (Bafiertam) can cause lymphopenia, increasing infection risk; lymphocyte counts must be monitored.",
   "clinicalPearl": "Monitor CBC regularly to assess for lymphopenia and reduce infection risk."
 },
 
 {
   "id": "rn-q-148",
   "scope": ["RN"],
-  "medicationId": "rn-050",
-  "medication": "Glatiramer acetate",
+  "medicationId": "rn-053",
+  "medication": "Glatiramer acetate (Copaxone)",
   "questionType": "multiple-choice",
-  "stem": "A patient receiving glatiramer acetate experiences chest tightness, palpitations, and shortness of breath shortly after injection. What is the priority nursing action?",
+  "stem": "A patient receiving Glatiramer acetate (Copaxone) experiences chest tightness, palpitations, and shortness of breath shortly after injection. What is the priority nursing action?",
   "choices": [
     "Administer epinephrine immediately.",
     "Reassure the patient and monitor until symptoms resolve.",
@@ -2685,17 +2678,17 @@
     "Place the patient in Trendelenburg position."
   ],
   "correctAnswer": "Reassure the patient and monitor until symptoms resolve.",
-  "rationale": "Glatiramer acetate can cause transient post-injection reactions that are self-limiting and usually resolve without treatment.",
+  "rationale": "Glatiramer acetate (Copaxone) can cause transient post-injection reactions that are self-limiting and usually resolve without treatment.",
   "clinicalPearl": "Educate patients about possible immediate post-injection reactions to reduce anxiety if they occur."
 },
 
 {
   "id": "rn-q-149",
   "scope": ["RN"],
-  "medicationId": "rn-050",
-  "medication": "Glatiramer acetate",
+  "medicationId": "rn-053",
+  "medication": "Glatiramer acetate (Copaxone)",
   "questionType": "multiple-choice",
-  "stem": "Which instruction is most important for a patient self-administering glatiramer acetate at home?",
+  "stem": "Which instruction is most important for a patient self-administering Glatiramer acetate (Copaxone) at home?",
   "choices": [
     "Use the same injection site daily for best absorption.",
     "Rotate injection sites to prevent lipoatrophy.",
@@ -2710,10 +2703,10 @@
 {
   "id": "rn-q-150",
   "scope": ["RN"],
-  "medicationId": "rn-050",
-  "medication": "Glatiramer acetate",
+  "medicationId": "rn-053",
+  "medication": "Glatiramer acetate (Copaxone)",
   "questionType": "multiple-choice",
-  "stem": "Which statement indicates correct understanding of glatiramer acetate therapy?",
+  "stem": "Which statement indicates correct understanding of Glatiramer acetate (Copaxone) therapy?",
   "choices": [
     "This medication suppresses the immune system significantly.",
     "It is taken orally once daily.",
@@ -2721,17 +2714,17 @@
     "It requires routine liver enzyme monitoring."
   ],
   "correctAnswer": "It reduces relapse frequency but does not cure MS.",
-  "rationale": "Glatiramer acetate reduces relapse rates but does not cure multiple sclerosis and does not cause major systemic immunosuppression.",
+  "rationale": "Glatiramer acetate (Copaxone) reduces relapse rates but does not cure multiple sclerosis and does not cause major systemic immunosuppression.",
   "clinicalPearl": "Set realistic expectations—disease-modifying therapies reduce relapses but are not curative."
 },
 
 {
   "id": "rn-q-151",
   "scope": ["RN"],
-  "medicationId": "rn-051",
-  "medication": "Alemtuzumab",
+  "medicationId": "rn-054",
+  "medication": "Alemtuzumab (Lemtrada)",
   "questionType": "multiple-choice",
-  "stem": "A patient receiving alemtuzumab requires close monitoring for which serious complication?",
+  "stem": "A patient receiving Alemtuzumab (Lemtrada) requires close monitoring for which serious complication?",
   "choices": [
     "Hypoglycemia",
     "Autoimmune disorders",
@@ -2739,17 +2732,17 @@
     "Hyperthyroidism only"
   ],
   "correctAnswer": "Autoimmune disorders",
-  "rationale": "Alemtuzumab can trigger serious autoimmune conditions including thyroid disease, immune thrombocytopenia, and kidney disorders.",
+  "rationale": "Alemtuzumab (Lemtrada) can trigger serious autoimmune conditions including thyroid disease, immune thrombocytopenia, and kidney disorders.",
   "clinicalPearl": "Long-term monitoring is essential due to delayed autoimmune risks."
 },
 
 {
   "id": "rn-q-152",
   "scope": ["RN"],
-  "medicationId": "rn-051",
-  "medication": "Alemtuzumab",
+  "medicationId": "rn-054",
+  "medication": "Alemtuzumab (Lemtrada)",
   "questionType": "multiple-choice",
-  "stem": "Which premedication is commonly administered before alemtuzumab infusion to reduce infusion reactions?",
+  "stem": "Which premedication is commonly administered before Alemtuzumab (Lemtrada) infusion to reduce infusion reactions?",
   "choices": [
     "Antihistamines and corticosteroids",
     "Antibiotics and antivirals",
@@ -2764,8 +2757,8 @@
 {
   "id": "rn-q-153",
   "scope": ["RN"],
-  "medicationId": "rn-051",
-  "medication": "Alemtuzumab",
+  "medicationId": "rn-054",
+  "medication": "Alemtuzumab (Lemtrada)",
   "questionType": "multiple-choice",
   "stem": "For how long should patients continue laboratory monitoring after the last dose of alemtuzumab?",
   "choices": [
@@ -2776,9 +2769,23 @@
   ],
   "correctAnswer": "48 months",
   "rationale": "Due to delayed autoimmune risks, monthly laboratory monitoring is required for 48 months after the final infusion.",
-  "clinicalPearl": "Alemtuzumab requires extended post-treatment surveillance to detect late-onset complications."
+  "clinicalPearl": "Alemtuzumab (Lemtrada) requires extended post-treatment surveillance to detect late-onset complications."
 },
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 {
   "id": "rn-q-154",
   "scope": ["RN"],
