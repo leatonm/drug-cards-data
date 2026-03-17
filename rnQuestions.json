@@ -4554,34 +4554,13 @@
     "clinicalPearl": "Closely observe for behavioral changes and educate caregivers about warning signs."
   },
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
   {
     "id": "rn-q-253",
     "scope": ["RN"],
-    "medicationId": "rn-085",
-    "medication": "Fluoxetine",
+    "medicationId": "rn-088",
+    "medication": "Fluoxetine (Prozac)",
     "questionType": "multiple-choice",
-    "stem": "A patient prescribed fluoxetine should be monitored for which adverse effect?",
+    "stem": "A patient prescribed Fluoxetine (Prozac) should be monitored for which adverse effect?",
     "choices": [
       "Hepatotoxicity",
       "Insomnia, headache, and gastrointestinal upset",
@@ -4596,10 +4575,10 @@
 {
     "id": "rn-q-254",
     "scope": ["RN"],
-    "medicationId": "rn-085",
-    "medication": "Fluoxetine",
+    "medicationId": "rn-088",
+    "medication": "Fluoxetine (Prozac)",
     "questionType": "multiple-choice",
-    "stem": "Which instruction is most important for a patient taking fluoxetine?",
+    "stem": "Which instruction is most important for a patient taking Fluoxetine (Prozac)?",
     "choices": [
       "Take only when depressed",
       "Take the medication in the morning to reduce insomnia",
@@ -4607,17 +4586,17 @@
       "Avoid all fluids"
     ],
     "correctAnswer": "Take the medication in the morning to reduce insomnia",
-    "rationale": "Fluoxetine can cause insomnia; taking in the morning helps minimize sleep disturbances.",
+    "rationale": "Fluoxetine (Prozac) can cause insomnia; taking in the morning helps minimize sleep disturbances.",
     "clinicalPearl": "Encourage patients to take SSRIs consistently at the same time each day."
   },
 
   {
     "id": "rn-q-255",
     "scope": ["RN"],
-    "medicationId": "rn-085",
-    "medication": "Fluoxetine",
+    "medicationId": "rn-088",
+    "medication": "Fluoxetine (Prozac)",
     "questionType": "multiple-choice",
-    "stem": "Which serious adverse effect should the nurse teach the patient to report immediately?",
+    "stem": "Which serious adverse effect should the nurse teach the patient that is taking Fluoxetine (Prozac) to report immediately?",
     "choices": [
       "Signs of serotonin syndrome such as agitation, tremor, and hyperreflexia",
       "Peripheral edema",
@@ -4632,10 +4611,10 @@
   {
     "id": "rn-q-256",
     "scope": ["RN"],
-    "medicationId": "rn-086",
-    "medication": "Paroxetine",
+    "medicationId": "rn-088",
+    "medication": "Paroxetine (Paxil)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition is a contraindication for paroxetine therapy?",
+    "stem": "Which patient condition is a contraindication for Paroxetine (Paxil) therapy?",
     "choices": [
       "Tension headaches",
       "Use of MAO inhibitors within the past 14 days",
@@ -4650,10 +4629,10 @@
   {
     "id": "rn-q-257",
     "scope": ["RN"],
-    "medicationId": "rn-086",
-    "medication": "Paroxetine",
+    "medicationId": "rn-088",
+    "medication": "Paroxetine (Paxil)",
     "questionType": "multiple-choice",
-    "stem": "A patient taking paroxetine reports sexual dysfunction and weight gain. What is the best nursing action?",
+    "stem": "A patient taking Paroxetine (Paxil) reports sexual dysfunction and weight gain. What is the best nursing action?",
     "choices": [
       "Increase the dose",
       "Take only at bedtime",
@@ -4668,10 +4647,10 @@
   {
     "id": "rn-q-258",
     "scope": ["RN"],
-    "medicationId": "rn-086",
-    "medication": "Paroxetine",
+    "medicationId": "rn-088",
+    "medication": "Paroxetine (Paxil)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important regarding missed doses of paroxetine?",
+    "stem": "Which patient teaching is most important regarding missed doses of Paroxetine (Paxil)?",
     "choices": [
       "Take the missed dose as soon as remembered but do not double up",
       "Take two doses together the next day",
@@ -4686,10 +4665,10 @@
  {
     "id": "rn-q-259",
     "scope": ["RN"],
-    "medicationId": "rn-087",
-    "medication": "Sertraline",
+    "medicationId": "rn-090",
+    "medication": "Sertraline (Zoloft)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is common in patients starting sertraline therapy?",
+    "stem": "Which adverse effect is common in patients starting Sertraline (Zoloft) therapy?",
     "choices": [
       "Nausea, diarrhea, and insomnia",
       "Peripheral edema",
@@ -4697,15 +4676,15 @@
       "Hypoglycemia"
     ],
     "correctAnswer": "Nausea, diarrhea, and insomnia",
-    "rationale": "Sertraline commonly causes GI upset, insomnia, and mild CNS effects.",
+    "rationale": "Sertraline (Zoloft) commonly causes GI upset, insomnia, and mild CNS effects.",
     "clinicalPearl": "Side effects are usually mild and transient; taking with food may reduce GI upset."
   },
 
   {
     "id": "rn-q-260",
     "scope": ["RN"],
-    "medicationId": "rn-087",
-    "medication": "Sertraline",
+    "medicationId": "rn-090",
+    "medication": "Sertraline (Zoloft)",
     "questionType": "multiple-choice",
     "stem": "Which teaching point is most important for sertraline therapy?",
     "choices": [
@@ -4722,8 +4701,8 @@
   {
     "id": "rn-q-261",
     "scope": ["RN"],
-    "medicationId": "rn-087",
-    "medication": "Sertraline",
+    "medicationId": "rn-090",
+    "medication": "Sertraline (Zoloft)",
     "questionType": "multiple-choice",
     "stem": "Which assessment is critical in the first weeks of sertraline therapy?",
     "choices": [
@@ -4740,10 +4719,10 @@
   {
     "id": "rn-q-262",
     "scope": ["RN"],
-    "medicationId": "rn-088",
-    "medication": "Venlafaxine",
+    "medicationId": "rn-091",
+    "medication": "Venlafaxine (Effexor)",
     "questionType": "multiple-choice",
-    "stem": "A patient prescribed venlafaxine should be monitored for which adverse effect?",
+    "stem": "A patient prescribed Venlafaxine (Effexor) should be monitored for which adverse effect?",
     "choices": [
       "Hearing loss",
       "Peripheral edema",
@@ -4751,17 +4730,17 @@
       "Hypoglycemia"
     ],
     "correctAnswer": "Hypertension, insomnia, and nausea",
-    "rationale": "Venlafaxine can increase blood pressure, cause insomnia, and gastrointestinal upset.",
+    "rationale": "Venlafaxine (Effexor) can increase blood pressure, cause insomnia, and gastrointestinal upset.",
     "clinicalPearl": "Monitor blood pressure regularly, especially in patients with hypertension."
   },
 
   {
     "id": "rn-q-263",
     "scope": ["RN"],
-    "medicationId": "rn-088",
-    "medication": "Venlafaxine",
+    "medicationId": "rn-091",
+    "medication": "Venlafaxine (Effexor)",
     "questionType": "multiple-choice",
-    "stem": "Which teaching point is most important for venlafaxine therapy?",
+    "stem": "Which teaching point is most important for Venlafaxine (Effexor) therapy?",
     "choices": [
       "Take only at bedtime",
       "Do not stop abruptly; taper gradually to prevent withdrawal symptoms",
@@ -4776,10 +4755,10 @@
 {
     "id": "rn-q-264",
     "scope": ["RN"],
-    "medicationId": "rn-088",
-    "medication": "Venlafaxine",
+    "medicationId": "rn-091",
+    "medication": "Venlafaxine (Effexor)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition is a contraindication for venlafaxine?",
+    "stem": "Which patient condition is a contraindication for Venlafaxine (Effexor)?",
     "choices": [
       "Seasonal allergies",
       "Mild anxiety",
@@ -4794,10 +4773,10 @@
  {
     "id": "rn-q-265",
     "scope": ["RN"],
-    "medicationId": "rn-089",
-    "medication": "Duloxetine",
+    "medicationId": "rn-092",
+    "medication": "Duloxetine (Cymbalta)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is common with duloxetine therapy?",
+    "stem": "Which adverse effect is common with Duloxetine (Cymbalta) therapy?",
     "choices": [
       "Peripheral edema",
       "Nausea, dry mouth, and insomnia",
@@ -4805,17 +4784,17 @@
       "Hypoglycemia"
     ],
     "correctAnswer": "Nausea, dry mouth, and insomnia",
-    "rationale": "Duloxetine commonly causes gastrointestinal upset, dry mouth, and mild CNS effects.",
+    "rationale": "Duloxetine (Cymbalta) commonly causes gastrointestinal upset, dry mouth, and mild CNS effects.",
     "clinicalPearl": "Side effects are often transient and may improve over the first 1–2 weeks."
   },
 
   {
     "id": "rn-q-266",
     "scope": ["RN"],
-    "medicationId": "rn-089",
-    "medication": "Duloxetine",
+    "medicationId": "rn-092",
+    "medication": "Duloxetine (Cymbalta)",
     "questionType": "multiple-choice",
-    "stem": "Which monitoring is most important during duloxetine therapy?",
+    "stem": "Which monitoring is most important during Duloxetine (Cymbalta) therapy?",
     "choices": [
       "Mood changes only",
       "Blood pressure and liver function tests",
@@ -4823,17 +4802,17 @@
       "Hematocrit"
     ],
     "correctAnswer": "Blood pressure and liver function tests",
-    "rationale": "Duloxetine may increase blood pressure and carries risk of hepatotoxicity; monitoring is required.",
+    "rationale": "Duloxetine (Cymbalta) may increase blood pressure and carries risk of hepatotoxicity; monitoring is required.",
     "clinicalPearl": "Check BP regularly and monitor liver enzymes, especially in patients with preexisting liver disease."
   },
 
  {
     "id": "rn-q-267",
     "scope": ["RN"],
-    "medicationId": "rn-089",
-    "medication": "Duloxetine",
+    "medicationId": "rn-092",
+    "medication": "Duloxetine (Cymbalta)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for duloxetine therapy?",
+    "stem": "Which patient teaching is most important for Duloxetine (Cymbalta) therapy?",
     "choices": [
       "Avoid fluids",
       "Take only when depressed",
@@ -4848,10 +4827,10 @@
   {
     "id": "rn-q-268",
     "scope": ["RN"],
-    "medicationId": "rn-090",
-    "medication": "Levomilnacipran",
+    "medicationId": "rn-093",
+    "medication": "Levomilnacipran (Fetzima)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should the nurse monitor for in a patient taking levomilnacipran?",
+    "stem": "Which adverse effect should the nurse monitor for in a patient taking Levomilnacipran (Fetzima)?",
     "choices": [
       "Peripheral edema",
       "Tachycardia, hypertension, and insomnia",
@@ -4859,17 +4838,17 @@
       "Hypoglycemia"
     ],
     "correctAnswer": "Tachycardia, hypertension, and insomnia",
-    "rationale": "Levomilnacipran can increase heart rate and blood pressure and may cause insomnia.",
+    "rationale": "Levomilnacipran (Fetzima) can increase heart rate and blood pressure and may cause insomnia.",
     "clinicalPearl": "Monitor cardiovascular parameters and educate patients on reporting palpitations or sleep disturbances."
   },
 
  {
     "id": "rn-q-269",
     "scope": ["RN"],
-    "medicationId": "rn-090",
-    "medication": "Levomilnacipran",
+    "medicationId": "rn-093",
+    "medication": "Levomilnacipran (Fetzima)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for levomilnacipran therapy?",
+    "stem": "Which patient teaching is most important for Levomilnacipran (Fetzima) therapy?",
     "choices": [
       "Take only when depressed",
       "Avoid all dairy",
@@ -4884,10 +4863,10 @@
   {
     "id": "rn-q-270",
     "scope": ["RN"],
-    "medicationId": "rn-090",
-    "medication": "Levomilnacipran",
+    "medicationId": "rn-093",
+    "medication": "Levomilnacipran (Fetzima)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with levomilnacipran?",
+    "stem": "Which patient condition requires caution with Levomilnacipran (Fetzima)?",
     "choices": [
       "Seasonal allergies",
       "Mild anxiety",
@@ -4895,17 +4874,17 @@
       "Uncontrolled hypertension"
     ],
     "correctAnswer": "Uncontrolled hypertension",
-    "rationale": "Because levomilnacipran increases BP and HR, patients with uncontrolled hypertension require caution.",
+    "rationale": "Because Levomilnacipran (Fetzima) increases BP and HR, patients with uncontrolled hypertension require caution.",
     "clinicalPearl": "Monitor BP and HR during therapy; adjust dose or avoid use in uncontrolled hypertension."
   },
   
   {
     "id": "rn-q-271",
     "scope": ["RN"],
-    "medicationId": "rn-091",
-    "medication": "Bupropion hydrochloride",
+    "medicationId": "rn-094",
+    "medication": "Bupropion hydrochloride (Wellbutrin)",
     "questionType": "multiple-choice",
-    "stem": "A patient taking bupropion should be monitored for which adverse effect?",
+    "stem": "A patient taking Bupropion hydrochloride (Wellbutrin) should be monitored for which adverse effect?",
     "choices": [
       "Insomnia, dry mouth, and weight loss",
       "Peripheral edema",
@@ -4913,17 +4892,17 @@
       "Hepatotoxicity"
     ],
     "correctAnswer": "Insomnia, dry mouth, and weight loss",
-    "rationale": "Bupropion commonly causes CNS stimulation (insomnia), dry mouth, and may reduce appetite leading to weight loss.",
+    "rationale": "Bupropion hydrochloride (Wellbutrin) commonly causes CNS stimulation (insomnia), dry mouth, and may reduce appetite leading to weight loss.",
     "clinicalPearl": "Advise patients to take the medication in the morning to minimize insomnia and monitor weight changes."
   },
 
   {
     "id": "rn-q-272",
     "scope": ["RN"],
-    "medicationId": "rn-091",
-    "medication": "Bupropion hydrochloride",
+    "medicationId": "rn-094",
+    "medication": "Bupropion hydrochloride (Wellbutrin)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for bupropion therapy?",
+    "stem": "Which patient teaching is most important for Bupropion hydrochloride (Wellbutrin) therapy?",
     "choices": [
       "Avoid taking the medication late in the day to reduce insomnia",
       "Abruptly stop once mood improves",
@@ -4931,17 +4910,17 @@
       "Take only when depressed"
     ],
     "correctAnswer": "Avoid taking the medication late in the day to reduce insomnia",
-    "rationale": "Bupropion can cause insomnia; taking it in the morning minimizes sleep disturbances.",
+    "rationale": "Bupropion hydrochloride (Wellbutrin) can cause insomnia; taking it in the morning minimizes sleep disturbances.",
     "clinicalPearl": "Instruct patients to take the medication early in the day and monitor sleep patterns."
   },
 
   {
     "id": "rn-q-273",
     "scope": ["RN"],
-    "medicationId": "rn-091",
-    "medication": "Bupropion hydrochloride",
+    "medicationId": "rn-094",
+    "medication": "Bupropion hydrochloride (Wellbutrin)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition is a contraindication for bupropion?",
+    "stem": "Which patient condition is a contraindication for Bupropion hydrochloride (Wellbutrin)?",
     "choices": [
       "Seizure disorder or history of eating disorders",
       "Tension headaches",
@@ -4949,17 +4928,17 @@
       "Mild anxiety"
     ],
     "correctAnswer": "Seizure disorder or history of eating disorders",
-    "rationale": "Bupropion lowers seizure threshold and is contraindicated in patients with seizure history or bulimia/anorexia.",
+    "rationale": "Bupropion hydrochloride (Wellbutrin) lowers seizure threshold and is contraindicated in patients with seizure history or bulimia/anorexia.",
     "clinicalPearl": "Screen for seizure history or eating disorders before prescribing bupropion."
   },
 
   {
     "id": "rn-q-274",
     "scope": ["RN"],
-    "medicationId": "rn-092",
-    "medication": "Phenelzine sulfate",
+    "medicationId": "rn-095",
+    "medication": "Phenelzine sulfate (Nardil)",
     "questionType": "multiple-choice",
-    "stem": "A patient prescribed phenelzine should avoid which foods?",
+    "stem": "A patient prescribed Phenelzine sulfate (Nardil) should avoid which foods?",
     "choices": [
       "All fruits and vegetables",
       "Low-sodium foods",
@@ -4967,17 +4946,17 @@
       "High-protein shakes"
     ],
     "correctAnswer": "High-tyramine foods such as aged cheese, cured meats, and fermented products",
-    "rationale": "MAOIs like phenelzine can cause hypertensive crisis when combined with tyramine-rich foods.",
+    "rationale": "MAOIs like Phenelzine sulfate (Nardil) can cause hypertensive crisis when combined with tyramine-rich foods.",
     "clinicalPearl": "Educate patients to read labels and avoid aged, fermented, or cured foods."
   },
 
  {
     "id": "rn-q-275",
     "scope": ["RN"],
-    "medicationId": "rn-092",
-    "medication": "Phenelzine sulfate",
+    "medicationId": "rn-095",
+    "medication": "Phenelzine sulfate (Nardil)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for phenelzine therapy?",
+    "stem": "Which patient teaching is most important for Phenelzine sulfate (Nardil) therapy?",
     "choices": [
       "Avoid tyramine-containing foods and report severe headaches or palpitations immediately",
       "Avoid all fluids",
@@ -4992,10 +4971,10 @@
  {
     "id": "rn-q-276",
     "scope": ["RN"],
-    "medicationId": "rn-092",
-    "medication": "Phenelzine sulfate",
+    "medicationId": "rn-095",
+    "medication": "Phenelzine sulfate (Nardil)",
     "questionType": "multiple-choice",
-    "stem": "Which medication is contraindicated with phenelzine?",
+    "stem": "Which medication is contraindicated with Phenelzine sulfate (Nardil)?",
     "choices": [
       "Acetaminophen",
       "SSRIs or other serotonergic drugs",
@@ -5010,10 +4989,10 @@
  {
     "id": "rn-q-277",
     "scope": ["RN"],
-    "medicationId": "rn-093",
-    "medication": "Selegiline hydrochloride",
+    "medicationId": "rn-096",
+    "medication": "Selegiline hydrochloride (Emsam)",
     "questionType": "multiple-choice",
-    "stem": "A patient taking selegiline for depression should be monitored for which adverse effect?",
+    "stem": "A patient taking Selegiline hydrochloride (Emsam) for depression should be monitored for which adverse effect?",
     "choices": [
       "Peripheral edema",
       "Hearing loss",
@@ -5021,17 +5000,17 @@
       "Hypoglycemia"
     ],
     "correctAnswer": "Hypertension and insomnia",
-    "rationale": "Selegiline, an MAOI, can cause hypertensive episodes and insomnia, particularly at higher doses.",
+    "rationale": "Selegiline hydrochloride (Emsam), an MAOI, can cause hypertensive episodes and insomnia, particularly at higher doses.",
     "clinicalPearl": "Monitor BP and educate patients on avoiding stimulants and tyramine-rich foods."
   },
 
   {
     "id": "rn-q-278",
     "scope": ["RN"],
-    "medicationId": "rn-093",
-    "medication": "Selegiline hydrochloride",
+    "medicationId": "rn-096",
+    "medication": "Selegiline hydrochloride (Emsam)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for selegiline therapy?",
+    "stem": "Which patient teaching is most important for Selegiline hydrochloride (Emsam) therapy?",
     "choices": [
       "Take only at bedtime",
       "Abruptly stop the medication when mood improves",
@@ -5046,10 +5025,10 @@
  {
     "id": "rn-q-279",
     "scope": ["RN"],
-    "medicationId": "rn-093",
-    "medication": "Selegiline hydrochloride",
+    "medicationId": "rn-096",
+    "medication": "Selegiline hydrochloride (Emsam)",
     "questionType": "multiple-choice",
-    "stem": "Which drug interaction is most dangerous with selegiline?",
+    "stem": "Which drug interaction is most dangerous with Selegiline hydrochloride (Emsam)?",
     "choices": [
       "NSAIDs",
       "SSRIs, SNRIs, or other serotonergic drugs leading to serotonin syndrome",
@@ -5057,17 +5036,17 @@
       "Insulin"
     ],
     "correctAnswer": "SSRIs, SNRIs, or other serotonergic drugs leading to serotonin syndrome",
-    "rationale": "Concurrent serotonergic drugs can cause life-threatening serotonin syndrome with MAOIs like selegiline.",
+    "rationale": "Concurrent serotonergic drugs can cause life-threatening serotonin syndrome with MAOIs like Selegiline hydrochloride (Emsam).",
     "clinicalPearl": "Check all current medications for serotonergic activity before starting selegiline."
   },
 
   {
     "id": "rn-q-280",
     "scope": ["RN"],
-    "medicationId": "rn-094",
-    "medication": "Mirtazapine",
+    "medicationId": "rn-097",
+    "medication": "Mirtazapine (Remeron)",
     "questionType": "multiple-choice",
-    "stem": "A patient prescribed mirtazapine should be monitored for which common adverse effect?",
+    "stem": "A patient prescribed Mirtazapine (Remeron) should be monitored for which common adverse effect?",
     "choices": [
       "Peripheral edema",
       "Sedation and weight gain",
@@ -5075,17 +5054,17 @@
       "Hypoglycemia"
     ],
     "correctAnswer": "Sedation and weight gain",
-    "rationale": "Mirtazapine commonly causes sedation and increased appetite leading to weight gain.",
+    "rationale": "Mirtazapine (Remeron) commonly causes sedation and increased appetite leading to weight gain.",
     "clinicalPearl": "Monitor weight and assess for daytime drowsiness; bedtime dosing may help."
   },
 
   {
     "id": "rn-q-281",
     "scope": ["RN"],
-    "medicationId": "rn-094",
-    "medication": "Mirtazapine",
+    "medicationId": "rn-097",
+    "medication": "Mirtazapine (Remeron)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for mirtazapine therapy?",
+    "stem": "Which patient teaching is most important for Mirtazapine (Remeron) therapy?",
     "choices": [
       "Take only with food",
       "Avoid all fluids",
@@ -5093,17 +5072,17 @@
       "Take only when feeling depressed"
     ],
     "correctAnswer": "Take at bedtime to reduce daytime sedation",
-    "rationale": "Taking mirtazapine at bedtime helps minimize daytime drowsiness.",
+    "rationale": "Taking Mirtazapine (Remeron) at bedtime helps minimize daytime drowsiness.",
     "clinicalPearl": "Advise patients to take it at night and avoid driving or operating machinery until sedation is known."
   },
 
   {
     "id": "rn-q-282",
     "scope": ["RN"],
-    "medicationId": "rn-094",
-    "medication": "Mirtazapine",
+    "medicationId": "rn-097",
+    "medication": "Mirtazapine (Remeron)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with mirtazapine?",
+    "stem": "Which patient condition requires caution with Mirtazapine (Remeron)?",
     "choices": [
       "History of obesity or excessive sedation",
       "Mild seasonal allergies",
@@ -5111,17 +5090,17 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "History of obesity or excessive sedation",
-    "rationale": "Patients prone to weight gain or excessive sedation require careful monitoring while on mirtazapine.",
+    "rationale": "Patients prone to weight gain or excessive sedation require careful monitoring while on Mirtazapine (Remeron).",
     "clinicalPearl": "Assess baseline weight and sedation risk; adjust lifestyle counseling as needed."
   },
 
   {
     "id": "rn-q-283",
     "scope": ["RN"],
-    "medicationId": "rn-095",
-    "medication": "Trazodone hydrochloride",
+    "medicationId": "rn-098",
+    "medication": "Trazodone hydrochloride (Desyrel)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with trazodone therapy?",
+    "stem": "Which adverse effect is most common with Trazodone hydrochloride (Desyrel) therapy?",
     "choices": [
       "Peripheral edema",
       "Hearing loss",
@@ -5129,17 +5108,17 @@
       "Hyperglycemia"
     ],
     "correctAnswer": "Sedation and orthostatic hypotension",
-    "rationale": "Trazodone often causes sedation and can lower blood pressure, leading to orthostatic hypotension.",
+    "rationale": "Trazodone hydrochloride (Desyrel) often causes sedation and can lower blood pressure, leading to orthostatic hypotension.",
     "clinicalPearl": "Monitor for dizziness and falls; instruct patients to rise slowly from sitting or lying positions."
   },
 
   {
     "id": "rn-q-284",
     "scope": ["RN"],
-    "medicationId": "rn-095",
-    "medication": "Trazodone hydrochloride",
+    "medicationId": "rn-098",
+    "medication": "Trazodone hydrochloride (Desyrel)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for trazodone therapy?",
+    "stem": "Which patient teaching is most important for Trazodone hydrochloride (Desyrel) therapy?",
     "choices": [
       "Take at bedtime to reduce daytime drowsiness and rise slowly to prevent dizziness",
       "Take in the morning",
@@ -5147,17 +5126,17 @@
       "Take only when depressed"
     ],
     "correctAnswer": "Take at bedtime to reduce daytime drowsiness and rise slowly to prevent dizziness",
-    "rationale": "Trazodone causes significant sedation; bedtime dosing and slow position changes prevent falls.",
+    "rationale": "TrazoTrazodone hydrochloride (Desyrel)done causes significant sedation; bedtime dosing and slow position changes prevent falls.",
     "clinicalPearl": "Reinforce safety measures for orthostatic hypotension, especially in older adults."
   },
  
  {
     "id": "rn-q-285",
     "scope": ["RN"],
-    "medicationId": "rn-095",
-    "medication": "Trazodone hydrochloride",
+    "medicationId": "rn-098",
+    "medication": "Trazodone hydrochloride (Desyrel)",
     "questionType": "multiple-choice",
-    "stem": "Which serious adverse effect should the nurse monitor for with trazodone?",
+    "stem": "Which serious adverse effect should the nurse monitor for with Trazodone hydrochloride (Desyrel)?",
     "choices": [
       "Peripheral edema",
       "Hepatotoxicity",
@@ -5165,17 +5144,17 @@
       "Hypoglycemia"
     ],
     "correctAnswer": "Priapism or prolonged erections",
-    "rationale": "Trazodone can rarely cause priapism; patients should report any painful or prolonged erections immediately.",
+    "rationale": "Trazodone hydrochloride (Desyrel) can rarely cause priapism; patients should report any painful or prolonged erections immediately.",
     "clinicalPearl": "Prompt reporting is critical; untreated priapism can cause permanent erectile dysfunction."
   },
 
   {
     "id": "rn-q-286",
     "scope": ["RN"],
-    "medicationId": "rn-096",
-    "medication": "Vortioxetine",
+    "medicationId": "rn-099",
+    "medication": "Vortioxetine (Trintellix)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most commonly reported with vortioxetine?",
+    "stem": "Which adverse effect is most commonly reported with Vortioxetine (Trintellix)?",
     "choices": [
       "Hypoglycemia",
       "Hearing loss",
@@ -5183,17 +5162,17 @@
       "Nausea, headache, and diarrhea"
     ],
     "correctAnswer": "Nausea, headache, and diarrhea",
-    "rationale": "Vortioxetine commonly causes GI upset and headache.",
+    "rationale": "Vortioxetine (Trintellix) commonly causes GI upset and headache.",
     "clinicalPearl": "Most side effects are mild and transient; administer with food if nausea occurs."
   },
 
   {
     "id": "rn-q-287",
     "scope": ["RN"],
-    "medicationId": "rn-096",
-    "medication": "Vortioxetine",
+    "medicationId": "rn-099",
+    "medication": "Vortioxetine (Trintellix)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for vortioxetine therapy?",
+    "stem": "Which patient teaching is most important for Vortioxetine (Trintellix) therapy?",
     "choices": [
       "Take only at bedtime",
       "Avoid all fluids",
@@ -5208,10 +5187,10 @@
   {
     "id": "rn-q-288",
     "scope": ["RN"],
-    "medicationId": "rn-096",
-    "medication": "Vortioxetine",
+    "medicationId": "rn-099",
+    "medication": "Vortioxetine (Trintellix)",
     "questionType": "multiple-choice",
-    "stem": "Which patient assessment is most critical during the first weeks of vortioxetine therapy?",
+    "stem": "Which patient assessment is most critical during the first weeks of Vortioxetine (Trintellix) therapy?",
     "choices": [
       "Peripheral edema",
       "Mood changes, suicidal ideation, and signs of serotonin syndrome",
@@ -5226,10 +5205,10 @@
   {
     "id": "rn-q-289",
     "scope": ["RN"],
-    "medicationId": "rn-097",
-    "medication": "Chlorpromazine",
+    "medicationId": "rn-100",
+    "medication": "Chlorpromazine (Thorazine)",
     "questionType": "multiple-choice",
-    "stem": "A patient taking chlorpromazine should be monitored for which adverse effect?",
+    "stem": "A patient taking Chlorpromazine (Thorazine) should be monitored for which adverse effect?",
     "choices": [
       "Extrapyramidal symptoms (EPS) such as dystonia, akathisia, and parkinsonism",
       "Hypoglycemia",
@@ -5237,17 +5216,17 @@
       "Hearing loss"
     ],
     "correctAnswer": "Extrapyramidal symptoms (EPS) such as dystonia, akathisia, and parkinsonism",
-    "rationale": "Typical antipsychotics like chlorpromazine commonly cause EPS due to dopamine blockade.",
+    "rationale": "Typical antipsychotics like Chlorpromazine (Thorazine) commonly cause EPS due to dopamine blockade.",
     "clinicalPearl": "Monitor patients for early signs of EPS and provide interventions such as anticholinergic medications if needed."
   },
 
   {
     "id": "rn-q-290",
     "scope": ["RN"],
-    "medicationId": "rn-097",
-    "medication": "Chlorpromazine",
+    "medicationId": "rn-100",
+    "medication": "Chlorpromazine (Thorazine)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for chlorpromazine therapy?",
+    "stem": "Which patient teaching is most important for Chlorpromazine (Thorazine) therapy?",
     "choices": [
       "Report any muscle stiffness, tremors, or restlessness immediately",
       "Avoid all fluids",
@@ -5262,10 +5241,10 @@
   {
     "id": "rn-q-291",
     "scope": ["RN"],
-    "medicationId": "rn-097",
-    "medication": "Chlorpromazine",
+    "medicationId": "rn-100",
+    "medication": "Chlorpromazine (Thorazine)",
     "questionType": "multiple-choice",
-    "stem": "Which serious adverse effect is most critical to monitor in a patient taking chlorpromazine?",
+    "stem": "Which serious adverse effect is most critical to monitor in a patient taking Chlorpromazine (Thorazine)?",
     "choices": [
       "Peripheral edema",
       "Hearing loss",
@@ -5280,10 +5259,10 @@
   {
     "id": "rn-q-292",
     "scope": ["RN"],
-    "medicationId": "rn-098",
-    "medication": "Fluphenazine",
+    "medicationId": "rn-101",
+    "medication": "Fluphenazine (Prolixin)",
     "questionType": "multiple-choice",
-    "stem": "A patient prescribed fluphenazine should be monitored for which adverse effect?",
+    "stem": "A patient prescribed Fluphenazine (Prolixin) should be monitored for which adverse effect?",
     "choices": [
       "Extrapyramidal symptoms (EPS) and sedation",
       "Hearing loss",
@@ -5291,17 +5270,17 @@
       "Hypotension"
     ],
     "correctAnswer": "Extrapyramidal symptoms (EPS) and sedation",
-    "rationale": "Fluphenazine, a high-potency typical antipsychotic, commonly causes EPS and sedation.",
+    "rationale": "Fluphenazine (Prolixin), a high-potency typical antipsychotic, commonly causes EPS and sedation.",
     "clinicalPearl": "High-potency antipsychotics have a higher EPS risk; monitor closely for tremors, rigidity, and akathisia."
   },
  
  {
     "id": "rn-q-293",
     "scope": ["RN"],
-    "medicationId": "rn-098",
-    "medication": "Fluphenazine",
+    "medicationId": "rn-101",
+    "medication": "Fluphenazine (Prolixin)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for fluphenazine therapy?",
+    "stem": "Which patient teaching is most important for Fluphenazine (Prolixin) therapy?",
     "choices": [
       "Take only when hallucinations occur",
       "Report involuntary movements such as lip smacking or tremors promptly",
@@ -5316,10 +5295,10 @@
   {
     "id": "rn-q-294",
     "scope": ["RN"],
-    "medicationId": "rn-098",
-    "medication": "Fluphenazine",
+    "medicationId": "rn-101",
+    "medication": "Fluphenazine (Prolixin)",
     "questionType": "multiple-choice",
-    "stem": "Which laboratory or monitoring is most important during long-term fluphenazine therapy?",
+    "stem": "Which laboratory or monitoring is most important during long-term Fluphenazine (Prolixin) therapy?",
     "choices": [
       "Peripheral edema",
       "Blood glucose only",
@@ -5352,10 +5331,10 @@
   {
     "id": "rn-q-296",
     "scope": ["RN"],
-    "medicationId": "rn-099",
-    "medication": "Haloperidol",
+    "medicationId": "rn-102",
+    "medication": "Haloperidol (Haldol)",
     "questionType": "multiple-choice",
-    "stem": "Which patient assessment is most critical during haloperidol therapy?",
+    "stem": "Which patient assessment is most critical during Haloperidol (Haldol) therapy?",
     "choices": [
       "Mental status, motor symptoms, and cardiac monitoring (ECG)",
       "Hepatic function only",
@@ -5363,17 +5342,17 @@
       "Blood glucose"
     ],
     "correctAnswer": "Mental status, motor symptoms, and cardiac monitoring (ECG)",
-    "rationale": "Monitoring for EPS, NMS, and cardiac effects is essential with haloperidol therapy.",
+    "rationale": "Monitoring for EPS, NMS, and cardiac effects is essential with Haloperidol (Haldol) therapy.",
     "clinicalPearl": "Assess for abnormal movements, changes in mood or cognition, and monitor heart rhythm."
   },
 
   {
     "id": "rn-q-297",
     "scope": ["RN"],
-    "medicationId": "rn-099",
-    "medication": "Haloperidol",
+    "medicationId": "rn-102",
+    "medication": "Haloperidol (Haldol)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is important for haloperidol therapy?",
+    "stem": "Which patient teaching is important for Haloperidol (Haldol) therapy?",
     "choices": [
       "Avoid all fluids",
       "Report fever, muscle rigidity, or confusion immediately and avoid abrupt discontinuation",
@@ -5388,10 +5367,10 @@
   {
     "id": "rn-q-298",
     "scope": ["RN"],
-    "medicationId": "rn-100",
-    "medication": "Aripiprazole",
+    "medicationId": "rn-103",
+    "medication": "Aripiprazole (Ability)",
     "questionType": "multiple-choice",
-    "stem": "A patient prescribed aripiprazole should be monitored for which adverse effect?",
+    "stem": "A patient prescribed Aripiprazole (Ability) should be monitored for which adverse effect?",
     "choices": [
       "Hypoglycemia",
       "Peripheral edema",
@@ -5399,17 +5378,17 @@
       "Hepatotoxicity"
     ],
     "correctAnswer": "Akathisia, insomnia, and headache",
-    "rationale": "Aripiprazole can cause akathisia, restlessness, insomnia, and headache due to partial dopamine agonist activity.",
+    "rationale": "Aripiprazole (Ability) can cause akathisia, restlessness, insomnia, and headache due to partial dopamine agonist activity.",
     "clinicalPearl": "Monitor for restlessness and insomnia early to reduce patient distress and prevent nonadherence."
   },
   
   {
     "id": "rn-q-299",
     "scope": ["RN"],
-    "medicationId": "rn-100",
-    "medication": "Aripiprazole",
+    "medicationId": "rn-103",
+    "medication": "Aripiprazole (Ability)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for aripiprazole therapy?",
+    "stem": "Which patient teaching is most important for Aripiprazole (Ability) therapy?",
     "choices": [
       "Take only at bedtime",
       "Report any new restlessness, agitation, or unusual movements",
@@ -5424,10 +5403,10 @@
   {
     "id": "rn-q-300",
     "scope": ["RN"],
-    "medicationId": "rn-100",
-    "medication": "Aripiprazole",
+    "medicationId": "rn-103",
+    "medication": "Aripiprazole (Ability)",
     "questionType": "multiple-choice",
-    "stem": "Which monitoring is most important during aripiprazole therapy?",
+    "stem": "Which monitoring is most important during Aripiprazole (Ability) therapy?",
     "choices": [
       "Peripheral edema",
       "Mental status and metabolic parameters such as weight and glucose",
@@ -5442,10 +5421,10 @@
   {
     "id": "rn-q-301",
     "scope": ["RN"],
-    "medicationId": "rn-101",
-    "medication": "Cariprazine",
+    "medicationId": "rn-104",
+    "medication": "Cariprazine (Vraylar)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should a patient taking cariprazine be monitored for?",
+    "stem": "Which adverse effect should a patient taking Cariprazine (Vraylar) be monitored for?",
     "choices": [
       "Hearing loss",
       "Extrapyramidal symptoms (EPS) and akathisia",
@@ -5453,17 +5432,17 @@
       "Hyperglycemia"
     ],
     "correctAnswer": "Extrapyramidal symptoms (EPS) and akathisia",
-    "rationale": "Cariprazine, like other atypicals, can cause EPS and akathisia due to dopamine receptor activity.",
+    "rationale": "Cariprazine (Vraylar), like other atypicals, can cause EPS and akathisia due to dopamine receptor activity.",
     "clinicalPearl": "Monitor for abnormal movements and restlessness, particularly in the first weeks of therapy."
   },
 
   {
     "id": "rn-q-302",
     "scope": ["RN"],
-    "medicationId": "rn-101",
-    "medication": "Cariprazine",
+    "medicationId": "rn-104",
+    "medication": "Cariprazine (Vraylar)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for cariprazine therapy?",
+    "stem": "Which patient teaching is most important for Cariprazine (Vraylar) therapy?",
     "choices": [
       "Take only when psychotic symptoms appear",
       "Avoid fluids",
@@ -5478,10 +5457,10 @@
  {
     "id": "rn-q-303",
     "scope": ["RN"],
-    "medicationId": "rn-101",
-    "medication": "Cariprazine",
+    "medicationId": "rn-104",
+    "medication": "Cariprazine (Vraylar)",
     "questionType": "multiple-choice",
-    "stem": "Which laboratory or monitoring is essential during cariprazine therapy?",
+    "stem": "Which laboratory or monitoring is essential during Cariprazine (Vraylar) therapy?",
     "choices": [
       "Liver function tests",
       "Mood only",
@@ -5489,17 +5468,17 @@
       "Blood glucose only"
     ],
     "correctAnswer": "Monitor metabolic parameters, including weight, glucose, and lipids",
-    "rationale": "Cariprazine may cause metabolic side effects; periodic monitoring is recommended.",
+    "rationale": "Cariprazine (Vraylar) may cause metabolic side effects; periodic monitoring is recommended.",
     "clinicalPearl": "Baseline and periodic monitoring of metabolic parameters supports safe long-term therapy."
   },
 
   {
     "id": "rn-q-304",
     "scope": ["RN"],
-    "medicationId": "rn-102",
-    "medication": "Clozapine",
+    "medicationId": "rn-105",
+    "medication": "Clozapine (Clozaril)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect requires immediate attention in a patient taking clozapine?",
+    "stem": "Which adverse effect requires immediate attention in a patient taking Clozapine (Clozaril)?",
     "choices": [
       "Severe neutropenia (agranulocytosis)",
       "Peripheral edema",
@@ -5507,17 +5486,17 @@
       "Hypoglycemia"
     ],
     "correctAnswer": "Severe neutropenia (agranulocytosis)",
-    "rationale": "Clozapine can cause life-threatening agranulocytosis; patients must be closely monitored with regular CBCs.",
+    "rationale": "Clozapine (Clozaril) can cause life-threatening agranulocytosis; patients must be closely monitored with regular CBCs.",
     "clinicalPearl": "Monitor WBC and ANC weekly during the initial months and educate patients to report infection signs immediately."
   },
 
   {
     "id": "rn-q-305",
     "scope": ["RN"],
-    "medicationId": "rn-102",
-    "medication": "Clozapine",
+    "medicationId": "rn-105",
+    "medication": "Clozapine (Clozaril)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for clozapine therapy?",
+    "stem": "Which patient teaching is most important for Clozapine (Clozaril) therapy?",
     "choices": [
       "Take only when psychotic symptoms occur",
       "Avoid all fluids",
@@ -5532,10 +5511,10 @@
   {
     "id": "rn-q-306",
     "scope": ["RN"],
-    "medicationId": "rn-102",
-    "medication": "Clozapine",
+    "medicationId": "rn-105",
+    "medication": "Clozapine (Clozaril)",
     "questionType": "multiple-choice",
-    "stem": "Which monitoring is required for a patient on clozapine?",
+    "stem": "Which monitoring is required for a patient on Clozapine (Clozaril)?",
     "choices": [
       "Blood glucose only",
       "CBC with differential regularly, metabolic parameters, and mental status",
@@ -5543,17 +5522,17 @@
       "Liver function tests"
     ],
     "correctAnswer": "CBC with differential regularly, metabolic parameters, and mental status",
-    "rationale": "Clozapine requires frequent CBCs to monitor for neutropenia, and metabolic monitoring due to risk of weight gain, diabetes, and dyslipidemia.",
+    "rationale": "Clozapine (Clozaril) requires frequent CBCs to monitor for neutropenia, and metabolic monitoring due to risk of weight gain, diabetes, and dyslipidemia.",
     "clinicalPearl": "Regular CBCs and metabolic checks are critical for safe long-term clozapine therapy."
   },
   
   {
     "id": "rn-q-307",
     "scope": ["RN"],
-    "medicationId": "rn-103",
-    "medication": "Lurasidone",
+    "medicationId": "rn-106",
+    "medication": "Lurasidone (Latuda)",
     "questionType": "multiple-choice",
-    "stem": "A patient taking lurasidone should be monitored for which adverse effect?",
+    "stem": "A patient taking Lurasidone (Latuda) should be monitored for which adverse effect?",
     "choices": [
       "Peripheral edema",
       "Akathisia, nausea, and somnolence",
@@ -5561,17 +5540,17 @@
       "Hepatotoxicity"
     ],
     "correctAnswer": "Akathisia, nausea, and somnolence",
-    "rationale": "Lurasidone commonly causes akathisia, nausea, and sedation.",
+    "rationale": "Lurasidone (Latuda) commonly causes akathisia, nausea, and sedation.",
     "clinicalPearl": "Monitor for EPS and sedation; educate patients to report restlessness promptly."
   },
 
  {
     "id": "rn-q-308",
     "scope": ["RN"],
-    "medicationId": "rn-103",
-    "medication": "Lurasidone",
+    "medicationId": "rn-106",
+    "medication": "Lurasidone (Latuda)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for lurasidone therapy?",
+    "stem": "Which patient teaching is most important for Lurasidone (Latuda) therapy?",
     "choices": [
       "Take only when hallucinations appear",
       "Take only at bedtime",
@@ -5579,17 +5558,17 @@
       "Avoid all fluids"
     ],
     "correctAnswer": "Take with food to improve absorption and report any restlessness or unusual movements",
-    "rationale": "Lurasidone’s absorption is improved with food, and EPS/akathisia should be reported promptly.",
-    "clinicalPearl": "Educate patients that taking lurasidone with food enhances efficacy and reduces variability in absorption."
+    "rationale": "Lurasidone (Latuda)’s absorption is improved with food, and EPS/akathisia should be reported promptly.",
+    "clinicalPearl": "Educate patients that taking Lurasidone (Latuda) with food enhances efficacy and reduces variability in absorption."
   },
  
  {
     "id": "rn-q-309",
     "scope": ["RN"],
-    "medicationId": "rn-103",
-    "medication": "Lurasidone",
+    "medicationId": "rn-106",
+    "medication": "Lurasidone (Latuda)",
     "questionType": "multiple-choice",
-    "stem": "Which monitoring is important during lurasidone therapy?",
+    "stem": "Which monitoring is important during Lurasidone (Latuda) therapy?",
     "choices": [
       "Blood glucose only",
       "Peripheral edema",
@@ -5597,17 +5576,17 @@
       "Liver function tests only"
     ],
     "correctAnswer": "Mental status, metabolic parameters, and EPS signs",
-    "rationale": "Monitoring for movement disorders, metabolic effects, and mental status is important with lurasidone.",
+    "rationale": "Monitoring for movement disorders, metabolic effects, and mental status is important with Lurasidone (Latuda).",
     "clinicalPearl": "Track weight, blood pressure, and EPS symptoms at baseline and periodically."
   },
  
  {
     "id": "rn-q-310",
     "scope": ["RN"],
-    "medicationId": "rn-104",
-    "medication": "Olanzapine",
+    "medicationId": "rn-107",
+    "medication": "Olanzapine (Zyprexa)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with olanzapine therapy?",
+    "stem": "Which adverse effect is most common with Olanzapine (Zyprexa) therapy?",
     "choices": [
       "Weight gain, sedation, and metabolic changes",
       "Hepatotoxicity",
@@ -5615,17 +5594,17 @@
       "Hypoglycemia"
     ],
     "correctAnswer": "Weight gain, sedation, and metabolic changes",
-    "rationale": "Olanzapine frequently causes weight gain, sedation, and metabolic disturbances (hyperlipidemia, diabetes).",
+    "rationale": "Olanzapine (Zyprexa) frequently causes weight gain, sedation, and metabolic disturbances (hyperlipidemia, diabetes).",
     "clinicalPearl": "Monitor weight and metabolic labs regularly to prevent long-term complications."
   },
 
 {
     "id": "rn-q-311",
     "scope": ["RN"],
-    "medicationId": "rn-104",
-    "medication": "Olanzapine",
+    "medicationId": "rn-107",
+    "medication": "Olanzapine (Zyprexa)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for olanzapine therapy?",
+    "stem": "Which patient teaching is most important for Olanzapine (Zyprexa) therapy?",
     "choices": [
       "Take only when psychotic symptoms appear",
       "Monitor weight, diet, and blood glucose regularly and report excessive sedation",
@@ -5640,10 +5619,10 @@
   {
     "id": "rn-q-312",
     "scope": ["RN"],
-    "medicationId": "rn-104",
-    "medication": "Olanzapine",
+    "medicationId": "rn-107",
+    "medication": "Olanzapine (Zyprexa)",
     "questionType": "multiple-choice",
-    "stem": "Which laboratory or monitoring is required for olanzapine therapy?",
+    "stem": "Which laboratory or monitoring is required for Olanzapine (Zyprexa) therapy?",
     "choices": [
       "Periodic fasting glucose, lipid panel, weight, and mental status",
       "Mood only",
@@ -5652,16 +5631,16 @@
     ],
     "correctAnswer": "Periodic fasting glucose, lipid panel, weight, and mental status",
     "rationale": "Metabolic monitoring is required due to risk of diabetes, dyslipidemia, and weight gain.",
-    "clinicalPearl": "Include baseline labs and ongoing metabolic assessments for all patients on olanzapine."
+    "clinicalPearl": "Include baseline labs and ongoing metabolic assessments for all patients on Olanzapine (Zyprexa)."
   },
 
  {
     "id": "rn-q-313",
     "scope": ["RN"],
-    "medicationId": "rn-105",
-    "medication": "Paliperidone",
+    "medicationId": "rn-108",
+    "medication": "Paliperidone (Invega)",
     "questionType": "multiple-choice",
-    "stem": "A patient taking paliperidone should be monitored for which adverse effect?",
+    "stem": "A patient taking Paliperidone (Invega) should be monitored for which adverse effect?",
     "choices": [
       "Extrapyramidal symptoms (EPS), orthostatic hypotension, and metabolic changes",
       "Hypoglycemia",
@@ -5669,17 +5648,17 @@
       "Hearing loss"
     ],
     "correctAnswer": "Extrapyramidal symptoms (EPS), orthostatic hypotension, and metabolic changes",
-    "rationale": "Paliperidone can cause EPS, orthostatic hypotension, and metabolic disturbances.",
+    "rationale": "Paliperidone (Invega) can cause EPS, orthostatic hypotension, and metabolic disturbances.",
     "clinicalPearl": "Assess BP, weight, and EPS symptoms regularly to prevent complications."
   },
  
  {
     "id": "rn-q-314",
     "scope": ["RN"],
-    "medicationId": "rn-105",
-    "medication": "Paliperidone",
+    "medicationId": "rn-108",
+    "medication": "Paliperidone (Invega)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for paliperidone therapy?",
+    "stem": "Which patient teaching is most important for Paliperidone (Invega) therapy?",
     "choices": [
       "Report any involuntary movements, dizziness, or sudden fainting, and follow diet/weight monitoring",
       "Avoid all fluids",
@@ -5694,10 +5673,10 @@
  {
     "id": "rn-q-315",
     "scope": ["RN"],
-    "medicationId": "rn-105",
-    "medication": "Paliperidone",
+    "medicationId": "rn-108",
+    "medication": "Paliperidone (Invega)",
     "questionType": "multiple-choice",
-    "stem": "Which monitoring is most important for a patient on paliperidone?",
+    "stem": "Which monitoring is most important for a patient on Paliperidone (Invega)?",
     "choices": [
       "Mental status, EPS signs, blood pressure, and metabolic parameters",
       "Blood glucose only",
@@ -5712,10 +5691,10 @@
   {
     "id": "rn-q-316",
     "scope": ["RN"],
-    "medicationId": "rn-106",
-    "medication": "Quetiapine",
+    "medicationId": "rn-109",
+    "medication": "Quetiapine (Seroquel)",
     "questionType": "multiple-choice",
-    "stem": "A patient taking quetiapine should be monitored for which adverse effect?",
+    "stem": "A patient taking Quetiapine (Seroquel) should be monitored for which adverse effect?",
     "choices": [
       "Hypoglycemia",
       "Hepatotoxicity",
@@ -5723,17 +5702,17 @@
       "Hearing loss"
     ],
     "correctAnswer": "Sedation, weight gain, and orthostatic hypotension",
-    "rationale": "Quetiapine commonly causes sedation, metabolic effects, and orthostatic hypotension.",
+    "rationale": "Quetiapine (Seroquel) commonly causes sedation, metabolic effects, and orthostatic hypotension.",
     "clinicalPearl": "Monitor weight, BP, and mental status; educate patients on fall risk."
   },
 
  {
     "id": "rn-q-317",
     "scope": ["RN"],
-    "medicationId": "rn-106",
-    "medication": "Quetiapine",
+    "medicationId": "rn-109",
+    "medication": "Quetiapine (Seroquel)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for quetiapine therapy?",
+    "stem": "Which patient teaching is most important for Quetiapine (Seroquel) therapy?",
     "choices": [
       "Take at bedtime to minimize daytime sedation and rise slowly to prevent dizziness",
       "Avoid all fluids",
@@ -5748,10 +5727,10 @@
   {
     "id": "rn-q-318",
     "scope": ["RN"],
-    "medicationId": "rn-106",
-    "medication": "Quetiapine",
+    "medicationId": "rn-109",
+    "medication": "Quetiapine (Seroquel)",
     "questionType": "multiple-choice",
-    "stem": "Which monitoring is essential for quetiapine therapy?",
+    "stem": "Which monitoring is essential for Quetiapine (Seroquel) therapy?",
     "choices": [
       "Peripheral edema",
       "Blood glucose only",
@@ -5762,7 +5741,20 @@
     "rationale": "Monitoring for sedation, hypotension, and metabolic changes is essential.",
     "clinicalPearl": "Track vitals and metabolic labs regularly to prevent long-term complications."
   },
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 {
     "id": "rn-q-319",
     "scope": ["RN"],
