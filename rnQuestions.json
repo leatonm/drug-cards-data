@@ -3366,25 +3366,13 @@
   "clinicalPearl": "Combining benzodiazepines with alcohol or opioids significantly increases overdose risk."
 },
 
-
-
-
-
-
-
-
-
-
-
-
-    
 {
   "id": "rn-q-187",
   "scope": ["RN"],
-  "medicationId": "rn-063",
-  "medication": "Clorazepate",
+  "medicationId": "rn-066",
+  "medication": "Clorazepate (Tranxene)",
   "questionType": "multiple-choice",
-  "stem": "Clorazepate is classified as which type of medication?",
+  "stem": "Clorazepate (Tranxene) is classified as which type of medication?",
   "choices": [
     "Beta blocker",
     "Barbiturate",
@@ -3392,17 +3380,17 @@
     "Tricyclic antidepressant"
   ],
   "correctAnswer": "Benzodiazepine",
-  "rationale": "Clorazepate is a long-acting benzodiazepine used in the treatment of seizures and anxiety disorders.",
-  "clinicalPearl": "Clorazepate is a prodrug that is converted to an active benzodiazepine metabolite."
+  "rationale": "Clorazepate (Tranxene) is a long-acting benzodiazepine used in the treatment of seizures and anxiety disorders.",
+  "clinicalPearl": "Clorazepate (Tranxene) is a prodrug that is converted to an active benzodiazepine metabolite."
 },
 
 {
   "id": "rn-q-188",
   "scope": ["RN"],
-  "medicationId": "rn-063",
-  "medication": "Clorazepate",
+  "medicationId": "rn-066",
+  "medication": "Clorazepate (Tranxene)",
   "questionType": "multiple-choice",
-  "stem": "Which adverse effect is most likely with clorazepate therapy?",
+  "stem": "Which adverse effect is most likely with Clorazepate (Tranxene) therapy?",
   "choices": [
     "Severe hypertension",
     "Sedation and impaired coordination",
@@ -3417,10 +3405,10 @@
 {
   "id": "rn-q-189",
   "scope": ["RN"],
-  "medicationId": "rn-063",
-  "medication": "Clorazepate",
+  "medicationId": "rn-066",
+  "medication": "Clorazepate (Tranxene)",
   "questionType": "multiple-choice",
-  "stem": "Which instruction is most important when discontinuing clorazepate?",
+  "stem": "Which instruction is most important when discontinuing Clorazepate (Tranxene)?",
   "choices": [
     "The medication can be stopped abruptly",
     "Taper the dose gradually as prescribed",
@@ -3435,10 +3423,10 @@
   {
     "id": "rn-q-190",
     "scope": ["RN"],
-    "medicationId": "rn-064",
-    "medication": "Diazepam",
+    "medicationId": "rn-067",
+    "medication": "Diazepam (Valium)",
     "questionType": "multiple-choice",
-    "stem": "A patient receiving IV diazepam for active seizures should be monitored most closely for which complication?",
+    "stem": "A patient receiving IV Diazepam (Valium) for active seizures should be monitored most closely for which complication?",
     "choices": [
       "Hypertension",
       "Respiratory depression",
@@ -3446,17 +3434,17 @@
       "Urinary retention"
     ],
     "correctAnswer": "Respiratory depression",
-    "rationale": "Diazepam is a benzodiazepine that can cause significant respiratory depression, especially when given IV.",
+    "rationale": "Diazepam (Valium) is a benzodiazepine that can cause significant respiratory depression, especially when given IV.",
     "clinicalPearl": "Always monitor airway, breathing, and oxygen saturation closely when administering IV benzodiazepines."
   },
   
   {
     "id": "rn-q-191",
     "scope": ["RN"],
-    "medicationId": "rn-064",
-    "medication": "Diazepam",
+    "medicationId": "rn-067",
+    "medication": "Diazepam (Valium)",
     "questionType": "multiple-choice",
-    "stem": "Which instruction is most important for a patient taking diazepam at home?",
+    "stem": "Which instruction is most important for a patient taking Diazepam (Valium) at home?",
     "choices": [
       "Avoid alcohol while taking this medication",
       "Stop the medication when symptoms improve",
@@ -3471,10 +3459,10 @@
 {
     "id": "rn-q-192",
     "scope": ["RN"],
-    "medicationId": "rn-064",
-    "medication": "Diazepam",
+    "medicationId": "rn-067",
+    "medication": "Diazepam (Valium)",
     "questionType": "multiple-choice",
-    "stem": "Long-term use of diazepam places the patient at risk for which problem?",
+    "stem": "Long-term use of Diazepam (Valium) places the patient at risk for which problem?",
     "choices": [
       "Hypoglycemia",
       "Physical dependence and tolerance",
@@ -3489,10 +3477,10 @@
   {
     "id": "rn-q-193",
     "scope": ["RN"],
-    "medicationId": "rn-065",
-    "medication": "Lorazepam",
+    "medicationId": "rn-068",
+    "medication": "Lorazepam (Ativan)",
     "questionType": "multiple-choice",
-    "stem": "Which clinical situation is lorazepam most commonly used for in acute care?",
+    "stem": "Which clinical situation is Lorazepam (Ativan) most commonly used for in acute care?",
     "choices": [
       "Treatment of absence seizures",
       "Management of status epilepticus",
@@ -3500,17 +3488,17 @@
       "Treatment of Parkinson disease"
     ],
     "correctAnswer": "Management of status epilepticus",
-    "rationale": "Lorazepam is first-line for acute seizure control in status epilepticus.",
-    "clinicalPearl": "Lorazepam is preferred in status epilepticus due to its rapid onset and longer duration of action compared to diazepam."
+    "rationale": "Lorazepam (Ativan) is first-line for acute seizure control in status epilepticus.",
+    "clinicalPearl": "Lorazepam (Ativan) is preferred in status epilepticus due to its rapid onset and longer duration of action compared to Diazepam (Valium)."
   },
 
   {
     "id": "rn-q-194",
     "scope": ["RN"],
-    "medicationId": "rn-065",
-    "medication": "Lorazepam",
+    "medicationId": "rn-068",
+    "medication": "Lorazepam (Ativan)",
     "questionType": "multiple-choice",
-    "stem": "What is the priority nursing assessment after IV lorazepam administration?",
+    "stem": "What is the priority nursing assessment after IV Lorazepam (Ativan) administration?",
     "choices": [
       "Blood glucose level",
       "Respiratory rate and oxygen saturation",
@@ -3518,17 +3506,17 @@
       "Urine output"
     ],
     "correctAnswer": "Respiratory rate and oxygen saturation",
-    "rationale": "Lorazepam can cause respiratory depression, requiring close airway and breathing monitoring.",
+    "rationale": "Lorazepam (Ativan) can cause respiratory depression, requiring close airway and breathing monitoring.",
     "clinicalPearl": "Airway and breathing always take priority after IV benzodiazepine administration."
   },
 
   {
     "id": "rn-q-195",
     "scope": ["RN"],
-    "medicationId": "rn-065",
-    "medication": "Lorazepam",
+    "medicationId": "rn-068",
+    "medication": "Lorazepam (Ativan)",
     "questionType": "multiple-choice",
-    "stem": "Which teaching is most important for a patient prescribed oral lorazepam?",
+    "stem": "Which teaching is most important for a patient prescribed oral Lorazepam (Ativan)?",
     "choices": [
       "Avoid alcohol and other sedatives",
       "Increase caffeine intake",
@@ -3536,17 +3524,17 @@
       "Stop medication abruptly when feeling better"
     ],
     "correctAnswer": "Avoid alcohol and other sedatives",
-    "rationale": "Lorazepam causes CNS depression that is worsened by alcohol and sedatives.",
-    "clinicalPearl": "Concurrent use of sedatives or alcohol with lorazepam increases risk of respiratory depression and injury."
+    "rationale": "Lorazepam (Ativan) causes CNS depression that is worsened by alcohol and sedatives.",
+    "clinicalPearl": "Concurrent use of sedatives or alcohol with Lorazepam (Ativan) increases risk of respiratory depression and injury."
   },
 
   {
     "id": "rn-q-196",
     "scope": ["RN"],
-    "medicationId": "rn-066",
-    "medication": "Carbamazepine",
+    "medicationId": "rn-069",
+    "medication": "Carbamazepine (Tegretol)",
     "questionType": "multiple-choice",
-    "stem": "Which laboratory test is most important to monitor during carbamazepine therapy?",
+    "stem": "Which laboratory test is most important to monitor during Carbamazepine (Tegretol) therapy?",
     "choices": [
       "Liver function tests and CBC",
       "Serum potassium and sodium",
@@ -3554,17 +3542,17 @@
       "Blood glucose"
     ],
     "correctAnswer": "Liver function tests and CBC",
-    "rationale": "Carbamazepine can cause bone marrow suppression and hepatotoxicity, so CBC and LFTs are required.",
-    "clinicalPearl": "Monitor for agranulocytosis and liver injury during carbamazepine therapy."
+    "rationale": "Carbamazepine (Tegretol) can cause bone marrow suppression and hepatotoxicity, so CBC and LFTs are required.",
+    "clinicalPearl": "Monitor for agranulocytosis and liver injury during Carbamazepine (Tegretol) therapy."
   },
 
   {
     "id": "rn-q-197",
     "scope": ["RN"],
-    "medicationId": "rn-066",
-    "medication": "Carbamazepine",
+    "medicationId": "rn-069",
+    "medication": "Carbamazepine (Tegretol)",
     "questionType": "multiple-choice",
-    "stem": "Which symptom should a patient taking carbamazepine report immediately?",
+    "stem": "Which symptom should a patient taking Carbamazepine (Tegretol) report immediately?",
     "choices": [
       "Mild nausea",
       "Drowsiness",
@@ -3579,10 +3567,10 @@
   {
     "id": "rn-q-198",
     "scope": ["RN"],
-    "medicationId": "rn-066",
-    "medication": "Carbamazepine",
+    "medicationId": "rn-069",
+    "medication": "Carbamazepine (Tegretol)",
     "questionType": "multiple-choice",
-    "stem": "Which drug interaction is most important to teach about carbamazepine?",
+    "stem": "Which drug interaction is most important to teach about Carbamazepine (Tegretol)?",
     "choices": [
       "It decreases effectiveness of oral contraceptives",
       "It increases insulin levels",
@@ -3590,17 +3578,17 @@
       "It increases vitamin D absorption"
     ],
     "correctAnswer": "It decreases effectiveness of oral contraceptives",
-    "rationale": "Carbamazepine induces liver enzymes, reducing effectiveness of oral contraceptives and many other drugs.",
-    "clinicalPearl": "Patients should use alternative or additional contraception while taking carbamazepine."
+    "rationale": "Carbamazepine (Tegretol) induces liver enzymes, reducing effectiveness of oral contraceptives and many other drugs.",
+    "clinicalPearl": "Patients should use alternative or additional contraception while taking Carbamazepine (Tegretol)."
   },
 
   {
     "id": "rn-q-199",
     "scope": ["RN"],
-    "medicationId": "rn-067",
-    "medication": "Valproic acid",
+    "medicationId": "rn-070",
+    "medication": "Valproic acid (Depakote)",
     "questionType": "multiple-choice",
-    "stem": "A patient taking valproic acid should be monitored for which serious adverse effect?",
+    "stem": "A patient taking Valproic acid (Depakote) should be monitored for which serious adverse effect?",
     "choices": [
       "Liver toxicity and hepatotoxicity",
       "Pulmonary fibrosis",
@@ -3608,35 +3596,35 @@
       "Ototoxicity"
     ],
     "correctAnswer": "Liver toxicity and hepatotoxicity",
-    "rationale": "Valproic acid can cause hepatotoxicity, especially in children under 2 or those on multiple anticonvulsants.",
+    "rationale": "Valproic acid (Depakote) can cause hepatotoxicity, especially in children under 2 or those on multiple anticonvulsants.",
     "clinicalPearl": "Monitor liver function closely, particularly in high-risk patients."
   },
 
  {
     "id": "rn-q-200",
     "scope": ["RN"],
-    "medicationId": "rn-067",
-    "medication": "Valproic acid",
+    "medicationId": "rn-070",
+    "medication": "Valproic acid (Depakote)",
     "questionType": "multiple-choice",
-    "stem": "Which laboratory value should be monitored regularly for a patient on valproic acid?",
+    "stem": "Which laboratory value should be monitored regularly for a patient on Valproic acid (Depakote)?",
     "choices": [
       "Serum ammonia",
       "Liver function tests",
-      "Both A and B",
+      "Serum ammonia and Liver function tests",
       "Serum creatinine"
     ],
-    "correctAnswer": "Both A and B",
-    "rationale": "Valproic acid can cause hepatotoxicity and hyperammonemia, so both liver function tests and serum ammonia should be monitored.",
+    "correctAnswer": "Serum ammonia and Liver function tests",
+    "rationale": "Valproic acid (Depakote) can cause hepatotoxicity and hyperammonemia, so both liver function tests and serum ammonia should be monitored.",
     "clinicalPearl": "Regular labs help detect early toxicity before severe complications occur."
   },
 
  {
     "id": "rn-q-201",
     "scope": ["RN"],
-    "medicationId": "rn-067",
-    "medication": "Valproic acid",
+    "medicationId": "rn-070",
+    "medication": "Valproic acid (Depakote)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for valproic acid therapy?",
+    "stem": "Which patient teaching is most important for Valproic acid (Depakote) therapy?",
     "choices": [
       "Avoid abrupt discontinuation of the drug",
       "Avoid all dairy products",
@@ -3644,17 +3632,17 @@
       "Take only when seizures occur"
     ],
     "correctAnswer": "Avoid abrupt discontinuation of the drug",
-    "rationale": "Stopping valproic acid abruptly may precipitate seizures; tapering is required.",
+    "rationale": "Stopping Valproic acid (Depakote) abruptly may precipitate seizures; tapering is required.",
     "clinicalPearl": "Always educate patients to taper rather than abruptly stop therapy."
   },
  
  {
     "id": "rn-q-202",
     "scope": ["RN"],
-    "medicationId": "rn-068",
-    "medication": "Levetiracetam",
+    "medicationId": "rn-071",
+    "medication": "Levetiracetam (Keppra)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with levetiracetam therapy?",
+    "stem": "Which adverse effect is most common with Levetiracetam (Keppra) therapy?",
     "choices": [
       "Sedation and dizziness",
       "Neutropenia",
@@ -3662,17 +3650,17 @@
       "Weight gain"
     ],
     "correctAnswer": "Sedation and dizziness",
-    "rationale": "Levetiracetam commonly causes CNS effects such as dizziness, somnolence, and fatigue.",
+    "rationale": "Levetiracetam (Keppra) commonly causes CNS effects such as dizziness, somnolence, and fatigue.",
     "clinicalPearl": "Monitor CNS effects, especially at therapy initiation or dose changes."
   },
 
 {
     "id": "rn-q-203",
     "scope": ["RN"],
-    "medicationId": "rn-068",
-    "medication": "Levetiracetam",
+    "medicationId": "rn-071",
+    "medication": "Levetiracetam (Keppra)",
     "questionType": "multiple-choice",
-    "stem": "What is the most important teaching point regarding levetiracetam dosing?",
+    "stem": "What is the most important teaching point regarding Levetiracetam (Keppra) dosing?",
     "choices": [
       "Missed doses should be taken as soon as remembered but do not double up",
       "Stop medication once seizure-free for 1 week",
@@ -3687,10 +3675,10 @@
 {
     "id": "rn-q-204",
     "scope": ["RN"],
-    "medicationId": "rn-068",
-    "medication": "Levetiracetam",
+    "medicationId": "rn-071",
+    "medication": "Levetiracetam (Keppra)",
     "questionType": "multiple-choice",
-    "stem": "Which nursing assessment is important for a patient starting levetiracetam?",
+    "stem": "Which nursing assessment is important for a patient starting Levetiracetam (Keppra)?",
     "choices": [
       "Mood changes and suicidal ideation",
       "Serum sodium level",
@@ -3698,17 +3686,17 @@
       "Respiratory rate"
     ],
     "correctAnswer": "Mood changes and suicidal ideation",
-    "rationale": "Levetiracetam can increase risk of depression and suicidal ideation; mental status monitoring is important.",
+    "rationale": "Levetiracetam (Keppra) can increase risk of depression and suicidal ideation; mental status monitoring is important.",
     "clinicalPearl": "Monitor mental status closely, especially in patients with psychiatric history."
   },
 
 {
     "id": "rn-q-205",
     "scope": ["RN"],
-    "medicationId": "rn-069",
-    "medication": "Lamotrigine",
+    "medicationId": "rn-072",
+    "medication": "Lamotrigine (Lamictal)",
     "questionType": "multiple-choice",
-    "stem": "Which serious adverse effect requires immediate discontinuation of lamotrigine?",
+    "stem": "Which serious adverse effect requires immediate discontinuation of Lamotrigine (Lamictal)?",
     "choices": [
       "Mild dizziness",
       "Mild headache",
@@ -3716,17 +3704,17 @@
       "Nausea"
     ],
     "correctAnswer": "Rash or Stevens-Johnson syndrome",
-    "rationale": "Lamotrigine carries a risk of severe skin reactions, including Stevens-Johnson syndrome; rash requires immediate discontinuation.",
-    "clinicalPearl": "Any rash should prompt immediate evaluation and discontinuation of lamotrigine."
+    "rationale": "Lamotrigine (Lamictal) carries a risk of severe skin reactions, including Stevens-Johnson syndrome; rash requires immediate discontinuation.",
+    "clinicalPearl": "Any rash should prompt immediate evaluation and discontinuation of Lamotrigine (Lamictal)."
   },
 
 {
     "id": "rn-q-206",
     "scope": ["RN"],
-    "medicationId": "rn-069",
-    "medication": "Lamotrigine",
+    "medicationId": "rn-072",
+    "medication": "Lamotrigine (Lamictal)",
     "questionType": "multiple-choice",
-    "stem": "Which laboratory test is routinely required for lamotrigine therapy?",
+    "stem": "Which laboratory test is routinely required for Lamotrigine (Lamictal) therapy?",
     "choices": [
       "None routinely, but monitor for rash or hypersensitivity",
       "Complete blood count",
@@ -3734,17 +3722,17 @@
       "Serum potassium"
     ],
     "correctAnswer": "None routinely, but monitor for rash or hypersensitivity",
-    "rationale": "Lamotrigine does not require routine labs, but skin reactions must be monitored closely.",
+    "rationale": "Lamotrigine (Lamictal) does not require routine labs, but skin reactions must be monitored closely.",
     "clinicalPearl": "Focus on patient education and monitoring for rash rather than routine lab testing."
   },
 
 {
     "id": "rn-q-207",
     "scope": ["RN"],
-    "medicationId": "rn-069",
-    "medication": "Lamotrigine",
+    "medicationId": "rn-072",
+    "medication": "Lamotrigine (Lamictal)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for lamotrigine therapy?",
+    "stem": "Which patient teaching is most important for Lamotrigine (Lamictal) therapy?",
     "choices": [
       "Report any new rash immediately",
       "Stop medication once seizures are controlled",
@@ -3759,10 +3747,10 @@
   {
     "id": "rn-q-208",
     "scope": ["RN"],
-    "medicationId": "rn-070",
-    "medication": "Topiramate",
+    "medicationId": "rn-073",
+    "medication": "Topiramate (Topamax)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most commonly associated with topiramate therapy?",
+    "stem": "Which adverse effect is most commonly associated with Topiramate (Topamax) therapy?",
     "choices": [
       "Cognitive slowing and word-finding difficulties",
       "Bradycardia",
@@ -3770,17 +3758,17 @@
       "Hyperglycemia"
     ],
     "correctAnswer": "Cognitive slowing and word-finding difficulties",
-    "rationale": "Topiramate can cause CNS effects including cognitive impairment, word-finding difficulties, and confusion.",
+    "rationale": "Topiramate (Topamax) can cause CNS effects including cognitive impairment, word-finding difficulties, and confusion.",
     "clinicalPearl": "Monitor for CNS side effects; patients may have trouble concentrating or finding words."
   },
 
  {
     "id": "rn-q-209",
     "scope": ["RN"],
-    "medicationId": "rn-070",
-    "medication": "Topiramate",
+    "medicationId": "rn-073",
+    "medication": "Topiramate (Topamax)",
     "questionType": "multiple-choice",
-    "stem": "A patient taking topiramate should be monitored for which metabolic complication?",
+    "stem": "A patient taking Topiramate (Topamax) should be monitored for which metabolic complication?",
     "choices": [
       "Metabolic acidosis",
       "Hyperkalemia",
@@ -3788,17 +3776,17 @@
       "Hypoglycemia"
     ],
     "correctAnswer": "Metabolic acidosis",
-    "rationale": "Topiramate can cause metabolic acidosis by inhibiting carbonic anhydrase.",
+    "rationale": "Topiramate (Topamax) can cause metabolic acidosis by inhibiting carbonic anhydrase.",
     "clinicalPearl": "Check serum bicarbonate periodically and monitor for symptoms of acidosis."
   },
 
  {
     "id": "rn-q-210",
     "scope": ["RN"],
-    "medicationId": "rn-070",
-    "medication": "Topiramate",
+    "medicationId": "rn-073",
+    "medication": "Topiramate (Topamax)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is important for topiramate therapy?",
+    "stem": "Which patient teaching is important for Topiramate (Topamax) therapy?",
     "choices": [
       "Stay well hydrated and avoid abrupt discontinuation",
       "Avoid dairy products",
@@ -3813,10 +3801,10 @@
 {
     "id": "rn-q-211",
     "scope": ["RN"],
-    "medicationId": "rn-071",
-    "medication": "Lacosamide",
+    "medicationId": "rn-074",
+    "medication": "Lacosamide (Vimpat)",
     "questionType": "multiple-choice",
-    "stem": "Which assessment is most important when initiating lacosamide therapy?",
+    "stem": "Which assessment is most important when initiating Lacosamide (Vimpat) therapy?",
     "choices": [
       "ECG monitoring for PR interval prolongation",
       "Serum potassium level",
@@ -3824,17 +3812,17 @@
       "Complete blood count"
     ],
     "correctAnswer": "ECG monitoring for PR interval prolongation",
-    "rationale": "Lacosamide can prolong the PR interval; cardiac monitoring is important in patients with conduction abnormalities.",
+    "rationale": "Lacosamide (Vimpat) can prolong the PR interval; cardiac monitoring is important in patients with conduction abnormalities.",
     "clinicalPearl": "Obtain baseline ECG and monitor for signs of cardiac conduction issues."
   },
 
   {
     "id": "rn-q-212",
     "scope": ["RN"],
-    "medicationId": "rn-071",
-    "medication": "Lacosamide",
+    "medicationId": "rn-074",
+    "medication": "Lacosamide (Vimpat)",
     "questionType": "multiple-choice",
-    "stem": "A patient on lacosamide reports dizziness and ataxia. What is the best nursing action?",
+    "stem": "A patient on Lacosamide (Vimpat) reports dizziness and ataxia. What is the best nursing action?",
     "choices": [
       "Notify the provider and assess for fall risk",
       "Discontinue medication immediately",
@@ -3849,10 +3837,10 @@
   {
     "id": "rn-q-213",
     "scope": ["RN"],
-    "medicationId": "rn-071",
-    "medication": "Lacosamide",
+    "medicationId": "rn-074",
+    "medication": "Lacosamide (Vimpat)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is important for lacosamide therapy?",
+    "stem": "Which patient teaching is important for Lacosamide (Vimpat) therapy?",
     "choices": [
       "Avoid driving or operating machinery until the effects are known",
       "Stop the medication when seizures decrease",
@@ -3867,10 +3855,10 @@
   {
     "id": "rn-q-214",
     "scope": ["RN"],
-    "medicationId": "rn-072",
-    "medication": "Zonisamide",
+    "medicationId": "rn-075",
+    "medication": "Zonisamide (Zonegran)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect requires monitoring in a patient taking zonisamide?",
+    "stem": "Which adverse effect requires monitoring in a patient taking Zonisamide (Zonegran)?",
     "choices": [
       "Metabolic acidosis",
       "Peripheral edema",
@@ -3878,17 +3866,17 @@
       "Hepatotoxicity"
     ],
     "correctAnswer": "Metabolic acidosis",
-    "rationale": "Zonisamide can cause metabolic acidosis due to carbonic anhydrase inhibition.",
+    "rationale": "Zonisamide (Zonegran) can cause metabolic acidosis due to carbonic anhydrase inhibition.",
     "clinicalPearl": "Monitor serum bicarbonate and watch for symptoms of acidosis."
   },
 
  {
     "id": "rn-q-215",
     "scope": ["RN"],
-    "medicationId": "rn-072",
-    "medication": "Zonisamide",
+    "medicationId": "rn-075",
+    "medication": "Zonisamide (Zonegran)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for zonisamide therapy?",
+    "stem": "Which patient teaching is most important for Zonisamide (Zonegran) therapy?",
     "choices": [
       "Avoid dehydration and report signs of kidney stones",
       "Stop the drug once seizures improve",
@@ -3896,17 +3884,17 @@
       "Avoid all protein intake"
     ],
     "correctAnswer": "Avoid dehydration and report signs of kidney stones",
-    "rationale": "Dehydration increases risk of kidney stones, a known complication of zonisamide therapy.",
+    "rationale": "Dehydration increases risk of kidney stones, a known complication of Zonisamide (Zonegran) therapy.",
     "clinicalPearl": "Encourage fluid intake and educate about kidney stone symptoms."
   },
 
   {
     "id": "rn-q-216",
     "scope": ["RN"],
-    "medicationId": "rn-072",
-    "medication": "Zonisamide",
+    "medicationId": "rn-075",
+    "medication": "Zonisamide (Zonegran)",
     "questionType": "multiple-choice",
-    "stem": "Which laboratory monitoring is recommended for a patient on zonisamide?",
+    "stem": "Which laboratory monitoring is recommended for a patient on Zonisamide (Zonegran)?",
     "choices": [
       "Serum bicarbonate",
       "Serum calcium",
@@ -3921,10 +3909,10 @@
   {
     "id": "rn-q-217",
     "scope": ["RN"],
-    "medicationId": "rn-073",
-    "medication": "Eletriptan",
+    "medicationId": "rn-076",
+    "medication": "Eletriptan (Relpax)",
     "questionType": "multiple-choice",
-    "stem": "A patient prescribed eletriptan for migraine asks when to take the medication. What is the best instruction?",
+    "stem": "A patient prescribed Eletriptan (Relpax) for migraine asks when to take the medication. What is the best instruction?",
     "choices": [
       "At the onset of migraine symptoms",
       "Only daily in the morning",
@@ -3932,17 +3920,17 @@
       "After headache resolves"
     ],
     "correctAnswer": "At the onset of migraine symptoms",
-    "rationale": "Triptans like eletriptan should be taken at the onset of migraine for maximal effectiveness.",
+    "rationale": "Triptans like Eletriptan (Relpax) should be taken at the onset of migraine for maximal effectiveness.",
     "clinicalPearl": "Early administration increases efficacy and may reduce headache duration."
   },
 
  {
     "id": "rn-q-218",
     "scope": ["RN"],
-    "medicationId": "rn-073",
-    "medication": "Eletriptan",
+    "medicationId": "rn-076",
+    "medication": "Eletriptan (Relpax)",
     "questionType": "multiple-choice",
-    "stem": "Which patient should **not** receive eletriptan therapy?",
+    "stem": "Which patient should **not** receive Eletriptan (Relpax) therapy?",
     "choices": [
       "A patient with a history of coronary artery disease",
       "A patient with tension-type headaches",
@@ -3957,10 +3945,10 @@
   {
     "id": "rn-q-219",
     "scope": ["RN"],
-    "medicationId": "rn-073",
-    "medication": "Eletriptan",
+    "medicationId": "rn-076",
+    "medication": "Eletriptan (Relpax)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should a patient taking eletriptan be taught to expect?",
+    "stem": "Which adverse effect should a patient taking Eletriptan (Relpax) be taught to expect?",
     "choices": [
       "Chest tightness or pressure",
       "Diarrhea",
@@ -3975,10 +3963,10 @@
   {
     "id": "rn-q-220",
     "scope": ["RN"],
-    "medicationId": "rn-074",
-    "medication": "Rizatriptan",
+    "medicationId": "rn-077",
+    "medication": "Rizatriptan (Maxalt)",
     "questionType": "multiple-choice",
-    "stem": "Which instruction is most important when taking rizatriptan?",
+    "stem": "Which instruction is most important when taking Rizatriptan (Maxalt)?",
     "choices": [
       "Do not exceed 30 mg in 24 hours",
       "Take as soon as migraine symptoms begin",
@@ -3986,17 +3974,17 @@
       "Take only on an empty stomach"
     ],
     "correctAnswer": "Take as soon as migraine symptoms begin",
-    "rationale": "Rizatriptan should be taken at the onset of migraine; dosing limits vary by formulation.",
+    "rationale": "Rizatriptan (Maxalt) should be taken at the onset of migraine; dosing limits vary by formulation.",
     "clinicalPearl": "Prompt administration improves relief; educate on max daily dose."
   },
 
  {
     "id": "rn-q-221",
     "scope": ["RN"],
-    "medicationId": "rn-074",
-    "medication": "Rizatriptan",
+    "medicationId": "rn-077",
+    "medication": "Rizatriptan (Maxalt)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is common with rizatriptan therapy?",
+    "stem": "Which adverse effect is common with Rizatriptan (Maxalt) therapy?",
     "choices": [
       "Dizziness and fatigue",
       "Severe hypotension",
@@ -4011,10 +3999,10 @@
   {
     "id": "rn-q-222",
     "scope": ["RN"],
-    "medicationId": "rn-074",
-    "medication": "Rizatriptan",
+    "medicationId": "rn-077",
+    "medication": "Rizatriptan (Maxalt)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is critical before starting rizatriptan?",
+    "stem": "Which patient teaching is critical before starting Rizatriptan (Maxalt)?",
     "choices": [
       "Report any chest pain, tightness, or shortness of breath immediately",
       "Avoid fruits high in potassium",
@@ -4029,28 +4017,28 @@
   {
     "id": "rn-q-223",
     "scope": ["RN"],
-    "medicationId": "rn-075",
-    "medication": "Sumatriptan",
+    "medicationId": "rn-078",
+    "medication": "Sumatriptan (Imitrex)",
     "questionType": "multiple-choice",
-    "stem": "A patient with a history of uncontrolled hypertension asks if sumatriptan is safe. What is the best response?",
+    "stem": "A patient with a history of uncontrolled hypertension asks if Sumatriptan (Imitrex) is safe. What is the best response?",
     "choices": [
       "Sumatriptan is contraindicated due to vasoconstrictive effects",
       "It is safe, take as needed",
       "Only take with a diuretic",
       "It can be taken only with food"
     ],
-    "correctAnswer": "Sumatriptan is contraindicated due to vasoconstrictive effects",
-    "rationale": "Sumatriptan and other triptans are contraindicated in uncontrolled hypertension and cardiovascular disease.",
+    "correctAnswer": "Sumatriptan (Imitrex) is contraindicated due to vasoconstrictive effects",
+    "rationale": "Sumatriptan (Imitrex) and other triptans are contraindicated in uncontrolled hypertension and cardiovascular disease.",
     "clinicalPearl": "Always review cardiovascular status prior to prescribing triptans."
   },
 
   {
     "id": "rn-q-224",
     "scope": ["RN"],
-    "medicationId": "rn-075",
-    "medication": "Sumatriptan",
+    "medicationId": "rn-078",
+    "medication": "Sumatriptan (Imitrex)",
     "questionType": "multiple-choice",
-    "stem": "Which instruction is important for sumatriptan nasal spray administration?",
+    "stem": "Which instruction is important for Sumatriptan (Imitrex) nasal spray administration?",
     "choices": [
       "Blow your nose gently before use and do not sniff during administration",
       "Use multiple sprays for faster effect",
@@ -4058,17 +4046,17 @@
       "Exhale sharply after spraying"
     ],
     "correctAnswer": "Blow your nose gently before use and do not sniff during administration",
-    "rationale": "Proper administration technique improves absorption and effectiveness of nasal sumatriptan.",
+    "rationale": "Proper administration technique improves absorption and effectiveness of nasal Sumatriptan (Imitrex).",
     "clinicalPearl": "Educate patients on correct nasal spray technique for optimal drug delivery."
   },
 
  {
     "id": "rn-q-225",
     "scope": ["RN"],
-    "medicationId": "rn-075",
-    "medication": "Sumatriptan",
+    "medicationId": "rn-078",
+    "medication": "Sumatriptan (Imitrex)",
     "questionType": "multiple-choice",
-    "stem": "Which teaching point should be given regarding sumatriptan adverse effects?",
+    "stem": "Which teaching point should be given regarding Sumatriptan (Imitrex) adverse effects?",
     "choices": [
       "Transient tingling, flushing, or chest pressure may occur and usually resolves quickly",
       "Severe liver damage is expected with the first dose",
@@ -4083,10 +4071,10 @@
   {
     "id": "rn-q-226",
     "scope": ["RN"],
-    "medicationId": "rn-076",
-    "medication": "Zolmitriptan",
+    "medicationId": "rn-079",
+    "medication": "Zolmitriptan (Zomig)",
     "questionType": "multiple-choice",
-    "stem": "Which instruction should a patient receive when taking zolmitriptan for migraine?",
+    "stem": "Which instruction should a patient receive when taking Zolmitriptan (Zomig) for migraine?",
     "choices": [
       "Take at the onset of migraine symptoms",
       "Avoid taking with any food",
@@ -4094,17 +4082,17 @@
       "Use daily for prevention"
     ],
     "correctAnswer": "Take at the onset of migraine symptoms",
-    "rationale": "Zolmitriptan, like other triptans, is used at the onset of migraine, not for daily prevention.",
+    "rationale": "Zolmitriptan (Zomig), like other triptans, is used at the onset of migraine, not for daily prevention.",
     "clinicalPearl": "Triptans are abortive therapy, not preventive; educate patients on proper timing."
   },
 
   {
     "id": "rn-q-227",
     "scope": ["RN"],
-    "medicationId": "rn-076",
-    "medication": "Zolmitriptan",
+    "medicationId": "rn-079",
+    "medication": "Zolmitriptan (Zomig)",
     "questionType": "multiple-choice",
-    "stem": "Which patient should **not** receive zolmitriptan?",
+    "stem": "Which patient should **not** receive Zolmitriptan (Zomig)?",
     "choices": [
       "A patient with uncontrolled hypertension",
       "A patient with tension headaches",
@@ -4119,10 +4107,10 @@
 {
     "id": "rn-q-228",
     "scope": ["RN"],
-    "medicationId": "rn-076",
-    "medication": "Zolmitriptan",
+    "medicationId": "rn-079",
+    "medication": "Zolmitriptan (Zomig)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should a patient taking zolmitriptan be taught to expect?",
+    "stem": "Which adverse effect should a patient taking Zolmitriptan (Zomig) be taught to expect?",
     "choices": [
       "Chest tightness or pressure",
       "Dry cough",
@@ -4137,10 +4125,10 @@
  {
     "id": "rn-q-229",
     "scope": ["RN"],
-    "medicationId": "rn-077",
-    "medication": "Ergotamine tartrate",
+    "medicationId": "rn-080",
+    "medication": "Ergotamine tartrate (Cafergot)",
     "questionType": "multiple-choice",
-    "stem": "Which teaching is most important for a patient using ergotamine tartrate for migraine?",
+    "stem": "Which teaching is most important for a patient using Ergotamine tartrate (Cafergot) for migraine?",
     "choices": [
       "Use only at the onset of migraine and do not exceed recommended doses",
       "Avoid all fluids when taking",
@@ -4148,17 +4136,17 @@
       "Take with large meals"
     ],
     "correctAnswer": "Use only at the onset of migraine and do not exceed recommended doses",
-    "rationale": "Ergotamine is used acutely at migraine onset; excessive use can cause ergotism and vasospasm.",
+    "rationale": "Ergotamine tartrate (Cafergot) is used acutely at migraine onset; excessive use can cause ergotism and vasospasm.",
     "clinicalPearl": "Instruct patients on dosing limits to prevent serious vasoconstrictive complications."
   },
 
   {
     "id": "rn-q-230",
     "scope": ["RN"],
-    "medicationId": "rn-077",
-    "medication": "Ergotamine tartrate",
+    "medicationId": "rn-080",
+    "medication": "Ergotamine tartrate (Cafergot)",
     "questionType": "multiple-choice",
-    "stem": "Which patient should **not** receive ergotamine therapy?",
+    "stem": "Which patient should **not** receive Ergotamine tartrate (Cafergot) therapy?",
     "choices": [
       "A patient with coronary artery disease",
       "A patient with tension-type headaches",
@@ -4166,17 +4154,17 @@
       "A patient with seasonal allergies"
     ],
     "correctAnswer": "A patient with coronary artery disease",
-    "rationale": "Ergotamine is contraindicated in patients with cardiovascular disease due to vasoconstrictive effects.",
-    "clinicalPearl": "Always screen for cardiovascular risk before ergotamine use."
+    "rationale": "Ergotamine tartrate (Cafergot) is contraindicated in patients with cardiovascular disease due to vasoconstrictive effects.",
+    "clinicalPearl": "Always screen for cardiovascular risk before Ergotamine tartrate (Cafergot) use."
   },
 
  {
     "id": "rn-q-231",
     "scope": ["RN"],
-    "medicationId": "rn-077",
-    "medication": "Ergotamine tartrate",
+    "medicationId": "rn-080",
+    "medication": "Ergotamine tartrate (Cafergot)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is common with ergotamine tartrate?",
+    "stem": "Which adverse effect is common with Ergotamine tartrate (Cafergot)?",
     "choices": [
       "Nausea, vomiting, and peripheral vasospasm",
       "Peripheral edema",
@@ -4184,17 +4172,17 @@
       "Hearing loss"
     ],
     "correctAnswer": "Nausea, vomiting, and peripheral vasospasm",
-    "rationale": "Ergotamine commonly causes GI upset and vasospasm; patients should be monitored and educated about signs of toxicity.",
+    "rationale": "Ergotamine tartrate (Cafergot) commonly causes GI upset and vasospasm; patients should be monitored and educated about signs of toxicity.",
     "clinicalPearl": "Educate patients to report severe GI symptoms or signs of peripheral ischemia immediately."
   },
 
   {
     "id": "rn-q-232",
     "scope": ["RN"],
-    "medicationId": "rn-078",
-    "medication": "Lasmiditan",
+    "medicationId": "rn-081",
+    "medication": "Lasmiditan (Reyvow)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important when taking lasmiditan for migraine?",
+    "stem": "Which patient teaching is most important when taking Lasmiditan (Reyvow) for migraine?",
     "choices": [
       "Avoid driving or operating machinery for at least 8 hours after a dose",
       "Take with grapefruit juice",
@@ -4202,17 +4190,17 @@
       "Take only at bedtime"
     ],
     "correctAnswer": "Avoid driving or operating machinery for at least 8 hours after a dose",
-    "rationale": "Lasmiditan causes CNS depression and dizziness; patients should avoid driving or operating machinery for at least 8 hours after dosing.",
-    "clinicalPearl": "Ensure patients have safe transportation available after taking lasmiditan."
+    "rationale": "Lasmiditan (Reyvow) causes CNS depression and dizziness; patients should avoid driving or operating machinery for at least 8 hours after dosing.",
+    "clinicalPearl": "Ensure patients have safe transportation available after taking Lasmiditan (Reyvow)."
   },
 
 {
     "id": "rn-q-233",
     "scope": ["RN"],
-    "medicationId": "rn-078",
+    "medicationId": "rn-081",
     "medication": "Lasmiditan",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should the nurse monitor for in patients taking lasmiditan?",
+    "stem": "Which adverse effect should the nurse monitor for in patients taking Lasmiditan (Reyvow)?",
     "choices": [
       "Dizziness, somnolence, and paresthesia",
       "Nausea and hyperglycemia",
@@ -4220,17 +4208,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Dizziness, somnolence, and paresthesia",
-    "rationale": "Lasmiditan commonly causes CNS adverse effects such as dizziness, somnolence, and tingling sensations.",
+    "rationale": "Lasmiditan (Reyvow) commonly causes CNS adverse effects such as dizziness, somnolence, and tingling sensations.",
     "clinicalPearl": "Monitor patients for CNS side effects and advise caution with activities requiring alertness."
   },
 
   {
     "id": "rn-q-234",
     "scope": ["RN"],
-    "medicationId": "rn-078",
-    "medication": "Lasmiditan",
+    "medicationId": "rn-081",
+    "medication": "Lasmiditan (Reyvow)",
     "questionType": "multiple-choice",
-    "stem": "Which patient should **not** receive lasmiditan?",
+    "stem": "Which patient should **not** receive Lasmiditan (Reyvow)?",
     "choices": [
       "A patient with severe cardiovascular disease",
       "A patient with mild anxiety",
@@ -4238,17 +4226,17 @@
       "A patient with tension headaches"
     ],
     "correctAnswer": "A patient with severe cardiovascular disease",
-    "rationale": "Lasmiditan is contraindicated in patients with severe cardiovascular disease due to risk of CNS and hemodynamic effects.",
-    "clinicalPearl": "Assess cardiac status before prescribing lasmiditan and educate patients on warning signs."
+    "rationale": "Lasmiditan (Reyvow) is contraindicated in patients with severe cardiovascular disease due to risk of CNS and hemodynamic effects.",
+    "clinicalPearl": "Assess cardiac status before prescribing Lasmiditan (Reyvow) and educate patients on warning signs."
   },
   
   {
     "id": "rn-q-235",
     "scope": ["RN"],
-    "medicationId": "rn-079",
-    "medication": "Rimegepant",
+    "medicationId": "rn-082",
+    "medication": "Rimegepant (Nurtec)",
     "questionType": "multiple-choice",
-    "stem": "Which instruction should a patient receive when taking rimegepant for migraine?",
+    "stem": "Which instruction should a patient receive when taking Rimegepant (Nurtec) for migraine?",
     "choices": [
       "Use daily for migraine prevention",
       "Take at the onset of migraine symptoms",
@@ -4256,17 +4244,17 @@
       "Avoid all fluids"
     ],
     "correctAnswer": "Take at the onset of migraine symptoms",
-    "rationale": "Rimegepant is an acute therapy and should be taken at migraine onset.",
-    "clinicalPearl": "Educate patients that rimegepant is abortive, not preventive; timing matters for efficacy."
+    "rationale": "Rimegepant (Nurtec) is an acute therapy and should be taken at migraine onset.",
+    "clinicalPearl": "Educate patients that Rimegepant (Nurtec) is abortive, not preventive; timing matters for efficacy."
   },
  
  {
     "id": "rn-q-236",
     "scope": ["RN"],
-    "medicationId": "rn-079",
-    "medication": "Rimegepant",
+    "medicationId": "rn-082",
+    "medication": "Rimegepant (Nurtec)",
     "questionType": "multiple-choice",
-    "stem": "Which patient should **not** receive rimegepant?",
+    "stem": "Which patient should **not** receive Rimegepant (Nurtec)?",
     "choices": [
       "A patient with mild seasonal allergies",
       "A patient with tension headaches",
@@ -4274,17 +4262,17 @@
       "A patient with mild anxiety"
     ],
     "correctAnswer": "A patient with severe liver impairment",
-    "rationale": "Rimegepant is contraindicated in severe hepatic impairment due to metabolism and clearance concerns.",
+    "rationale": "Rimegepant (Nurtec) is contraindicated in severe hepatic impairment due to metabolism and clearance concerns.",
     "clinicalPearl": "Assess liver function before prescribing; dose adjustments may be required in mild/moderate impairment."
   },
   
 {
     "id": "rn-q-237",
     "scope": ["RN"],
-    "medicationId": "rn-079",
-    "medication": "Rimegepant",
+    "medicationId": "rn-082",
+    "medication": "Rimegepant (Nurtec)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should the nurse teach a patient to expect with rimegepant?",
+    "stem": "Which adverse effect should the nurse teach a patient to expect with Rimegepant (Nurtec)?",
     "choices": [
       "Hyperglycemia",
       "Peripheral edema",
@@ -4299,10 +4287,10 @@
  {
     "id": "rn-q-238",
     "scope": ["RN"],
-    "medicationId": "rn-080",
-    "medication": "Acetazolamide",
+    "medicationId": "rn-083",
+    "medication": "Acetazolamide (Diamox)",
     "questionType": "multiple-choice",
-    "stem": "Acetazolamide is commonly prescribed for which condition?",
+    "stem": "Acetazolamide (Diamox) is commonly prescribed for which condition?",
     "choices": [
       "Glaucoma and altitude sickness",
       "Parkinson disease",
@@ -4310,17 +4298,17 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "Glaucoma and altitude sickness",
-    "rationale": "Acetazolamide decreases aqueous humor production, useful for glaucoma, and reduces edema in altitude sickness.",
+    "rationale": "Acetazolamide (Diamox) decreases aqueous humor production, useful for glaucoma, and reduces edema in altitude sickness.",
     "clinicalPearl": "Monitor patients for therapeutic response and potential electrolyte disturbances."
   },
 
  {
     "id": "rn-q-239",
     "scope": ["RN"],
-    "medicationId": "rn-080",
-    "medication": "Acetazolamide",
+    "medicationId": "rn-083",
+    "medication": "Acetazolamide (Diamox)",
     "questionType": "multiple-choice",
-    "stem": "Which laboratory values should be monitored in a patient taking acetazolamide?",
+    "stem": "Which laboratory values should be monitored in a patient taking Acetazolamide (Diamox)?",
     "choices": [
       "Serum calcium",
       "Serum electrolytes, especially potassium and bicarbonate",
@@ -4328,17 +4316,17 @@
       "Liver function tests"
     ],
     "correctAnswer": "Serum electrolytes, especially potassium and bicarbonate",
-    "rationale": "Acetazolamide can cause metabolic acidosis and hypokalemia; electrolytes must be monitored.",
+    "rationale": "Acetazolamide (Diamox) can cause metabolic acidosis and hypokalemia; electrolytes must be monitored.",
     "clinicalPearl": "Regular labs help prevent complications like hypokalemia or metabolic acidosis."
   },
 
   {
     "id": "rn-q-240",
     "scope": ["RN"],
-    "medicationId": "rn-080",
-    "medication": "Acetazolamide",
+    "medicationId": "rn-083",
+    "medication": "Acetazolamide (Diamox)",
     "questionType": "multiple-choice",
-    "stem": "Which instruction is most important for a patient taking acetazolamide?",
+    "stem": "Which instruction is most important for a patient taking Acetazolamide (Diamox)?",
     "choices": [
       "Avoid dairy products",
       "Take only when headache occurs",
@@ -4353,10 +4341,10 @@
  {
     "id": "rn-q-241",
     "scope": ["RN"],
-    "medicationId": "rn-081",
-    "medication": "Mannitol",
+    "medicationId": "rn-084",
+    "medication": "Mannitol (Osmitrol)",
     "questionType": "multiple-choice",
-    "stem": "Which is the primary indication for intravenous mannitol therapy?",
+    "stem": "Which is the primary indication for intravenous Mannitol (Osmitrol) therapy?",
     "choices": [
       "Treatment of asthma",
       "Congestive heart failure",
@@ -4364,17 +4352,17 @@
       "Hypertension management"
     ],
     "correctAnswer": "Reduction of intracranial or intraocular pressure",
-    "rationale": "Mannitol is an osmotic diuretic used to reduce ICP or IOP.",
+    "rationale": "Mannitol (Osmitrol) is an osmotic diuretic used to reduce ICP or IOP.",
     "clinicalPearl": "Monitor ICP or IOP response and adjust therapy accordingly."
   },
  
  {
     "id": "rn-q-242",
     "scope": ["RN"],
-    "medicationId": "rn-081",
-    "medication": "Mannitol",
+    "medicationId": "rn-084",
+    "medication": "Mannitol (Osmitrol)",
     "questionType": "multiple-choice",
-    "stem": "Which nursing assessment is most important during IV mannitol administration?",
+    "stem": "Which nursing assessment is most important during IV Mannitol (Osmitrol) administration?",
     "choices": [
       "Assess for peripheral edema only",
       "Monitor fluid and electrolyte balance closely",
@@ -4382,17 +4370,17 @@
       "Assess for signs of hypoglycemia"
     ],
     "correctAnswer": "Monitor fluid and electrolyte balance closely",
-    "rationale": "Mannitol can cause fluid shifts, dehydration, and electrolyte imbalances; careful monitoring is essential.",
+    "rationale": "Mannitol (Osmitrol) can cause fluid shifts, dehydration, and electrolyte imbalances; careful monitoring is essential.",
     "clinicalPearl": "Check electrolytes and hydration status frequently during therapy."
   },
 
  {
     "id": "rn-q-243",
     "scope": ["RN"],
-    "medicationId": "rn-081",
-    "medication": "Mannitol",
+    "medicationId": "rn-084",
+    "medication": "Mannitol (Osmitrol)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should the nurse teach a patient about when receiving mannitol?",
+    "stem": "Which adverse effect should the nurse teach a patient about when receiving Mannitol (Osmitrol)?",
     "choices": [
       "Hearing loss",
       "Hypovolemia and dehydration",
@@ -4400,17 +4388,17 @@
       "Hepatotoxicity"
     ],
     "correctAnswer": "Hypovolemia and dehydration",
-    "rationale": "Mannitol can cause excessive diuresis, leading to hypovolemia, dehydration, and electrolyte disturbances.",
+    "rationale": "Mannitol (Osmitrol) can cause excessive diuresis, leading to hypovolemia, dehydration, and electrolyte disturbances.",
     "clinicalPearl": "Teach patients to report dizziness, excessive urination, or signs of dehydration immediately."
   },
   
   {
     "id": "rn-q-244",
     "scope": ["RN"],
-    "medicationId": "rn-082",
-    "medication": "Amitriptyline",
+    "medicationId": "rn-085",
+    "medication": "Amitriptyline (Elavil)",
     "questionType": "multiple-choice",
-    "stem": "A patient prescribed amitriptyline for depression should be monitored for which adverse effect?",
+    "stem": "A patient prescribed Amitriptyline (Elavil) for depression should be monitored for which adverse effect?",
     "choices": [
       "Photosensitivity",
       "Hypoglycemia",
@@ -4418,17 +4406,17 @@
       "Hypertension"
     ],
     "correctAnswer": "Anticholinergic effects such as dry mouth, constipation, and urinary retention",
-    "rationale": "TCAs like amitriptyline commonly cause anticholinergic effects.",
+    "rationale": "TCAs like Amitriptyline (Elavil) commonly cause anticholinergic effects.",
     "clinicalPearl": "Monitor for dry mouth, constipation, urinary retention, and provide patient education on management."
   },
   
   {
     "id": "rn-q-245",
     "scope": ["RN"],
-    "medicationId": "rn-082",
-    "medication": "Amitriptyline",
+    "medicationId": "rn-085",
+    "medication": "Amitriptyline (Elavil)",
     "questionType": "multiple-choice",
-    "stem": "Which teaching point is most important for a patient taking amitriptyline?",
+    "stem": "Which teaching point is most important for a patient taking Amitriptyline (Elavil)?",
     "choices": [
       "Take the medication at bedtime due to sedation",
       "Stop abruptly once mood improves",
@@ -4436,17 +4424,17 @@
       "Avoid all fluids"
     ],
     "correctAnswer": "Take the medication at bedtime due to sedation",
-    "rationale": "Amitriptyline causes sedation; taking at bedtime helps reduce daytime drowsiness.",
+    "rationale": "Amitriptyline (Elavil) causes sedation; taking at bedtime helps reduce daytime drowsiness.",
     "clinicalPearl": "Educate patients to avoid activities requiring alertness during initial dosing."
   },
   
 {
     "id": "rn-q-246",
     "scope": ["RN"],
-    "medicationId": "rn-082",
-    "medication": "Amitriptyline",
+    "medicationId": "rn-085",
+    "medication": "Amitriptyline (Elavil)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition is a contraindication for amitriptyline therapy?",
+    "stem": "Which patient condition is a contraindication for Amitriptyline (Elavil) therapy?",
     "choices": [
       "Mild anxiety",
       "Recent myocardial infarction",
@@ -4454,17 +4442,17 @@
       "Seasonal allergies"
     ],
     "correctAnswer": "Recent myocardial infarction",
-    "rationale": "Amitriptyline can exacerbate cardiac conduction abnormalities and is contraindicated after recent MI.",
+    "rationale": "Amitriptyline (Elavil) can exacerbate cardiac conduction abnormalities and is contraindicated after recent MI.",
     "clinicalPearl": "Assess cardiac history before prescribing TCAs."
   },
  
  {
     "id": "rn-q-247",
     "scope": ["RN"],
-    "medicationId": "rn-083",
-    "medication": "Citalopram",
+    "medicationId": "rn-086",
+    "medication": "Citalopram (Celexa)",
     "questionType": "multiple-choice",
-    "stem": "A patient taking citalopram should be monitored for which serious adverse effect?",
+    "stem": "A patient taking Citalopram (Celexa) should be monitored for which serious adverse effect?",
     "choices": [
       "Hypoglycemia",
       "Peripheral edema",
@@ -4472,17 +4460,17 @@
       "Prolonged QT interval and cardiac arrhythmias"
     ],
     "correctAnswer": "Prolonged QT interval and cardiac arrhythmias",
-    "rationale": "Citalopram can cause QT prolongation; baseline ECG and monitoring are important in high-risk patients.",
+    "rationale": "Citalopram (Celexa) can cause QT prolongation; baseline ECG and monitoring are important in high-risk patients.",
     "clinicalPearl": "Monitor ECG in patients with cardiac risk factors or concurrent QT-prolonging medications."
   },
  
  {
     "id": "rn-q-248",
     "scope": ["RN"],
-    "medicationId": "rn-083",
-    "medication": "Citalopram",
+    "medicationId": "rn-086",
+    "medication": "Citalopram (Celexa)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for citalopram therapy?",
+    "stem": "Which patient teaching is most important for Citalopram (Celexa) therapy?",
     "choices": [
       "Report any signs of serotonin syndrome, including agitation, tremor, or hyperreflexia",
       "Take only at bedtime",
@@ -4497,10 +4485,10 @@
 {
     "id": "rn-q-249",
     "scope": ["RN"],
-    "medicationId": "rn-083",
-    "medication": "Citalopram",
+    "medicationId": "rn-086",
+    "medication": "Citalopram (Celexa)",
     "questionType": "multiple-choice",
-    "stem": "Which instruction should a nurse give regarding missed doses of citalopram?",
+    "stem": "Which instruction should a nurse give regarding missed doses of Citalopram (Celexa)?",
     "choices": [
       "Take only at bedtime",
       "Skip the next scheduled dose and wait",
@@ -4515,8 +4503,8 @@
  {
     "id": "rn-q-250",
     "scope": ["RN"],
-    "medicationId": "rn-084",
-    "medication": "Escitalopram",
+    "medicationId": "rn-087",
+    "medication": "Escitalopram (Lexapro)",
     "questionType": "multiple-choice",
     "stem": "Which adverse effect should a patient starting escitalopram be taught to expect?",
     "choices": [
@@ -4533,10 +4521,10 @@
  {
     "id": "rn-q-251",
     "scope": ["RN"],
-    "medicationId": "rn-084",
-    "medication": "Escitalopram",
+    "medicationId": "rn-087",
+    "medication": "Escitalopram (Lexapro)",
     "questionType": "multiple-choice",
-    "stem": "Which instruction is most important for a patient on escitalopram?",
+    "stem": "Which instruction is most important for a patient on Escitalopram (Lexapro)?",
     "choices": [
       "Do not stop abruptly; tapering is required to prevent withdrawal symptoms",
       "Take only when feeling anxious",
@@ -4551,10 +4539,10 @@
 {
     "id": "rn-q-252",
     "scope": ["RN"],
-    "medicationId": "rn-084",
-    "medication": "Escitalopram",
+    "medicationId": "rn-087",
+    "medication": "Escitalopram (Lexapro)",
     "questionType": "multiple-choice",
-    "stem": "Which laboratory or monitoring is most important for escitalopram therapy?",
+    "stem": "Which laboratory or monitoring is most important for Escitalopram (Lexapro) therapy?",
     "choices": [
       "Monitor liver function tests only",
       "Check blood glucose",
@@ -4565,7 +4553,28 @@
     "rationale": "Mental status monitoring is essential, especially in young adults or during initiation; no routine labs are required unless other conditions exist.",
     "clinicalPearl": "Closely observe for behavioral changes and educate caregivers about warning signs."
   },
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
   {
     "id": "rn-q-253",
     "scope": ["RN"],
