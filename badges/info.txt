@@ -7,7 +7,7 @@
 7_ Pharmathon — Unlocked by completing 100 study cards in one day.
 8_ Night Shift — Unlocked by studying after 0000-0300.
 9_ Pharmacist - Unlocked by reaching Level 50
-10_Medicow - unknown unlock
+10_Medicow - tap RN 8 times
 11_Airway Aresenal - Complete all RSI and airway medications (lidocaine, atropine, fentanyl, etomidate, ketamine, propofol, midazolam, succinylcholine, rocuronium, vecuronium)
 12_Allergy Annihilator - master anaphylaxis medications (diphenhydramine, epinephrine, methylprednisolone, hydrocortisone, albuterol) 
 13_Code Blue Hero - gain strength in all major cardiac arrest drugs (epinephrine, amiodarone, lidocaine, magnesium sulfate, atropine, sodium bicarbonate)
@@ -18,7 +18,7 @@
 18_Study Streak - Study drug cards 30 days in a row
 19_Pain Control Specialist - gain strength in analgesics
 20_Disease Slayer - gain strength in Immunology
-21_Leet - unknown unlock
+21_Leet - tap current x3 and then tap new x3 in the update available window
 22_HomeGirlFlo - Take 10 question RN Quiz on May 12
 23_FirstOnScene - Take 10 question EMS Quiz on Feb 1
 24_MeanMedicsWearPink - do something on Wednesday 
