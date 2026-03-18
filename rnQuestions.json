@@ -5742,26 +5742,13 @@
     "clinicalPearl": "Track vitals and metabolic labs regularly to prevent long-term complications."
   },
 
-
-
-
-
-
-
-
-
-
-
-
-
-    
 {
     "id": "rn-q-319",
     "scope": ["RN"],
-    "medicationId": "rn-107",
-    "medication": "Risperidone",
+    "medicationId": "rn-110",
+    "medication": "Risperidone (Risperdal)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should a patient taking risperidone be monitored for?",
+    "stem": "Which adverse effect should a patient taking Risperidone (Risperdal) be monitored for?",
     "choices": [
       "EPS, hyperprolactinemia, and metabolic changes",
       "Hypoglycemia",
@@ -5769,17 +5756,17 @@
       "Hearing loss"
     ],
     "correctAnswer": "EPS, hyperprolactinemia, and metabolic changes",
-    "rationale": "Risperidone can cause EPS, increased prolactin, and metabolic disturbances.",
+    "rationale": "Risperidone (Risperdal) can cause EPS, increased prolactin, and metabolic disturbances.",
     "clinicalPearl": "Monitor prolactin-related effects like galactorrhea, in addition to EPS and metabolic parameters."
   },
 
   {
     "id": "rn-q-320",
     "scope": ["RN"],
-    "medicationId": "rn-107",
-    "medication": "Risperidone",
+    "medicationId": "rn-110",
+    "medication": "Risperidone (Risperdal)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for risperidone therapy?",
+    "stem": "Which patient teaching is most important for Risperidone (Risperdal) therapy?",
     "choices": [
       "Report involuntary movements, galactorrhea, and follow diet/weight monitoring",
       "Take only when psychotic symptoms appear",
@@ -5794,10 +5781,10 @@
   {
     "id": "rn-q-321",
     "scope": ["RN"],
-    "medicationId": "rn-107",
-    "medication": "Risperidone",
+    "medicationId": "rn-110",
+    "medication": "Risperidone (Risperdal)",
     "questionType": "multiple-choice",
-    "stem": "Which monitoring is most important for risperidone therapy?",
+    "stem": "Which monitoring is most important for Risperidone (Risperdal) therapy?",
     "choices": [
       "Blood glucose only",
       "Mental status, EPS signs, prolactin-related effects, and metabolic parameters",
@@ -5812,10 +5799,10 @@
  {
     "id": "rn-q-322",
     "scope": ["RN"],
-    "medicationId": "rn-108",
-    "medication": "Ziprasidone",
+    "medicationId": "rn-111",
+    "medication": "Ziprasidone (Geodon)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should a patient taking ziprasidone be monitored for?",
+    "stem": "Which adverse effect should a patient taking Ziprasidone (Geodon) be monitored for?",
     "choices": [
       "Hepatotoxicity",
       "QT prolongation, EPS, and sedation",
@@ -5823,17 +5810,17 @@
       "Hypoglycemia"
     ],
     "correctAnswer": "QT prolongation, EPS, and sedation",
-    "rationale": "Ziprasidone can prolong QT interval, cause EPS, and sedation.",
+    "rationale": "Ziprasidone (Geodon) can prolong QT interval, cause EPS, and sedation.",
     "clinicalPearl": "ECG monitoring is important at baseline and periodically during therapy."
   },
 
   {
     "id": "rn-q-323",
     "scope": ["RN"],
-    "medicationId": "rn-108",
-    "medication": "Ziprasidone",
+    "medicationId": "rn-111",
+    "medication": "Ziprasidone (Geodon)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for ziprasidone therapy?",
+    "stem": "Which patient teaching is most important for Ziprasidone (Geodon) therapy?",
     "choices": [
       "Report palpitations or dizziness, and avoid activities requiring alertness until effects are known",
       "Take only when hallucinations appear",
@@ -5848,10 +5835,10 @@
   {
     "id": "rn-q-324",
     "scope": ["RN"],
-    "medicationId": "rn-108",
-    "medication": "Ziprasidone",
+    "medicationId": "rn-111",
+    "medication": "Ziprasidone (Geodon)",
     "questionType": "multiple-choice",
-    "stem": "Which monitoring is essential for ziprasidone therapy?",
+    "stem": "Which monitoring is essential for Ziprasidone (Geodon) therapy?",
     "choices": [
       "ECG for QT interval, mental status, EPS signs, and metabolic parameters",
       "Blood glucose only",
@@ -5866,10 +5853,10 @@
   {
     "id": "rn-q-325",
     "scope": ["RN"],
-    "medicationId": "rn-109",
-    "medication": "Lithium",
+    "medicationId": "rn-112",
+    "medication": "Lithium (Eskalith)",
     "questionType": "multiple-choice",
-    "stem": "Which laboratory values should be monitored regularly for a patient taking lithium?",
+    "stem": "Which laboratory values should be monitored regularly for a patient taking Lithium (Eskalith)?",
     "choices": [
       "Serum lithium level, renal function (BUN/creatinine), and thyroid function tests",
       "Serum potassium only",
@@ -5877,17 +5864,17 @@
       "Liver function tests"
     ],
     "correctAnswer": "Serum lithium level, renal function (BUN/creatinine), and thyroid function tests",
-    "rationale": "Lithium has a narrow therapeutic window and can affect kidneys and thyroid; monitoring is essential.",
+    "rationale": "Lithium (Eskalith) has a narrow therapeutic window and can affect kidneys and thyroid; monitoring is essential.",
     "clinicalPearl": "Check lithium levels 12 hours after last dose for accurate trough measurement."
   },
 
 {
     "id": "rn-q-326",
     "scope": ["RN"],
-    "medicationId": "rn-109",
-    "medication": "Lithium",
+    "medicationId": "rn-112",
+    "medication": "Lithium (Eskalith)",
     "questionType": "multiple-choice",
-    "stem": "Which teaching point is most important for a patient taking lithium?",
+    "stem": "Which teaching point is most important for a patient taking Lithium (Eskalith)?",
     "choices": [
       "Avoid all fluids",
       "Maintain consistent sodium and fluid intake to prevent toxicity",
@@ -5902,10 +5889,10 @@
  {
     "id": "rn-q-327",
     "scope": ["RN"],
-    "medicationId": "rn-109",
-    "medication": "Lithium",
+    "medicationId": "rn-113",
+    "medication": "Lithium (Eskalith)",
     "questionType": "multiple-choice",
-    "stem": "Which patient symptom indicates lithium toxicity requiring immediate attention?",
+    "stem": "Which patient symptom indicates Lithium (Eskalith) toxicity requiring immediate attention?",
     "choices": [
       "Severe diarrhea, vomiting, tremors, confusion, or ataxia",
       "Mild nausea",
@@ -5913,17 +5900,17 @@
       "Dry mouth"
     ],
     "correctAnswer": "Severe diarrhea, vomiting, tremors, confusion, or ataxia",
-    "rationale": "These are signs of lithium toxicity and require urgent evaluation.",
+    "rationale": "These are signs of Lithium (Eskalith) toxicity and require urgent evaluation.",
     "clinicalPearl": "Early recognition of toxicity can prevent seizures, kidney injury, and arrhythmias."
   },
 
 {
     "id": "rn-q-328",
     "scope": ["RN"],
-    "medicationId": "rn-110",
-    "medication": "Alprazolam",
+    "medicationId": "rn-113",
+    "medication": "Alprazolam (Xanax)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with alprazolam therapy?",
+    "stem": "Which adverse effect is most common with Alprazolam (Xanax) therapy?",
     "choices": [
       "Drowsiness, dizziness, and impaired coordination",
       "Hypertension",
@@ -5931,17 +5918,17 @@
       "Hepatotoxicity"
     ],
     "correctAnswer": "Drowsiness, dizziness, and impaired coordination",
-    "rationale": "Alprazolam, a benzodiazepine, commonly causes CNS depression, including drowsiness and dizziness.",
+    "rationale": "Alprazolam (Xanax), a benzodiazepine, commonly causes CNS depression, including drowsiness and dizziness.",
     "clinicalPearl": "Monitor fall risk, especially in older adults."
   },
 
  {
     "id": "rn-q-329",
     "scope": ["RN"],
-    "medicationId": "rn-110",
-    "medication": "Alprazolam",
+    "medicationId": "rn-113",
+    "medication": "Alprazolam (Xanax)",
     "questionType": "multiple-choice",
-    "stem": "Which teaching point is most important for a patient taking alprazolam?",
+    "stem": "Which teaching point is most important for a patient taking Alprazolam (Xanax)?",
     "choices": [
       "Avoid alcohol and other CNS depressants and do not stop abruptly",
       "Take only when feeling anxious",
@@ -5956,10 +5943,10 @@
   {
     "id": "rn-q-330",
     "scope": ["RN"],
-    "medicationId": "rn-110",
-    "medication": "Alprazolam",
+    "medicationId": "rn-113",
+    "medication": "Alprazolam (Xanax)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition is a contraindication for alprazolam therapy?",
+    "stem": "Which patient condition is a contraindication for Alprazolam (Xanax) therapy?",
     "choices": [
       "Severe respiratory insufficiency or sleep apnea",
       "Mild seasonal allergies",
@@ -5974,10 +5961,10 @@
   {
     "id": "rn-q-331",
     "scope": ["RN"],
-    "medicationId": "rn-111",
-    "medication": "Temazepam",
+    "medicationId": "rn-114",
+    "medication": "Temazepam (Restoril)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should a patient taking temazepam be monitored for?",
+    "stem": "Which adverse effect should a patient taking Temazepam (Restoril) be monitored for?",
     "choices": [
       "Drowsiness, dizziness, and impaired coordination",
       "Hypertension",
@@ -5985,17 +5972,17 @@
       "Hepatotoxicity"
     ],
     "correctAnswer": "Drowsiness, dizziness, and impaired coordination",
-    "rationale": "Temazepam causes sedation and CNS depression; fall risk and coordination must be monitored.",
+    "rationale": "Temazepam (Restoril) causes sedation and CNS depression; fall risk and coordination must be monitored.",
     "clinicalPearl": "Assess for daytime sleepiness and impaired motor coordination."
   },
 
   {
     "id": "rn-q-332",
     "scope": ["RN"],
-    "medicationId": "rn-111",
-    "medication": "Temazepam",
+    "medicationId": "rn-114",
+    "medication": "Temazepam (Restoril)",
     "questionType": "multiple-choice",
-    "stem": "Which teaching point is most important for temazepam therapy?",
+    "stem": "Which teaching point is most important for Temazepam (Restoril) therapy?",
     "choices": [
       "Take 30 minutes before bedtime and avoid alcohol or other CNS depressants",
       "Take only when feeling anxious",
@@ -6003,17 +5990,17 @@
       "Take only with meals"
     ],
     "correctAnswer": "Take 30 minutes before bedtime and avoid alcohol or other CNS depressants",
-    "rationale": "Temazepam is used for insomnia; bedtime dosing and avoiding CNS depressants minimize risk.",
+    "rationale": "Temazepam (Restoril) is used for insomnia; bedtime dosing and avoiding CNS depressants minimize risk.",
     "clinicalPearl": "Educate on potential next-day drowsiness; avoid driving after use."
   },
 
   {
     "id": "rn-q-333",
     "scope": ["RN"],
-    "medicationId": "rn-111",
-    "medication": "Temazepam",
+    "medicationId": "rn-114",
+    "medication": "Temazepam (Restoril)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with temazepam?",
+    "stem": "Which patient condition requires caution with Temazepam (Restoril)?",
     "choices": [
       "History of substance use disorder or respiratory insufficiency",
       "Mild seasonal allergies",
@@ -6021,17 +6008,17 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "History of substance use disorder or respiratory insufficiency",
-    "rationale": "Temazepam can cause dependence and worsen respiratory depression; caution is needed in these populations.",
+    "rationale": "Temazepam (Restoril) can cause dependence and worsen respiratory depression; caution is needed in these populations.",
     "clinicalPearl": "Monitor for signs of misuse or respiratory compromise in at-risk patients."
   },
 
   {
     "id": "rn-q-334",
     "scope": ["RN"],
-    "medicationId": "rn-112",
-    "medication": "Eszopiclone",
+    "medicationId": "rn-115",
+    "medication": "Eszopiclone (Lunesta)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with eszopiclone therapy?",
+    "stem": "Which adverse effect is most common with Eszopiclone (Lunesta) therapy?",
     "choices": [
       "Hypertension",
       "Drowsiness, dizziness, and headache",
@@ -6039,17 +6026,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Drowsiness, dizziness, and headache",
-    "rationale": "Eszopiclone commonly causes CNS depression, including drowsiness and dizziness, as well as headache.",
+    "rationale": "Eszopiclone (Lunesta) commonly causes CNS depression, including drowsiness and dizziness, as well as headache.",
     "clinicalPearl": "Monitor patients for next-day sedation and fall risk."
   },
  
  {
     "id": "rn-q-335",
     "scope": ["RN"],
-    "medicationId": "rn-112",
-    "medication": "Eszopiclone",
+    "medicationId": "rn-115",
+    "medication": "Eszopiclone (Lunesta)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for eszopiclone therapy?",
+    "stem": "Which patient teaching is most important for Eszopiclone (Lunesta) therapy?",
     "choices": [
       "Take immediately before bedtime and ensure at least 7–8 hours available for sleep",
       "Avoid daytime naps",
@@ -6057,17 +6044,17 @@
       "Avoid all fluids"
     ],
     "correctAnswer": "Take immediately before bedtime and ensure at least 7–8 hours available for sleep",
-    "rationale": "Eszopiclone is short-acting; taking it at bedtime with enough time to sleep reduces risk of residual sedation.",
+    "rationale": "Eszopiclone (Lunesta) is short-acting; taking it at bedtime with enough time to sleep reduces risk of residual sedation.",
     "clinicalPearl": "Instruct patients to avoid getting up immediately after taking to prevent falls."
   },
 
  {
     "id": "rn-q-336",
     "scope": ["RN"],
-    "medicationId": "rn-112",
-    "medication": "Eszopiclone",
+    "medicationId": "rn-115",
+    "medication": "Eszopiclone (Lunesta)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with eszopiclone?",
+    "stem": "Which patient condition requires caution with Eszopiclone (Lunesta)?",
     "choices": [
       "Mild seasonal allergies",
       "Tension headaches",
@@ -6075,17 +6062,17 @@
       "History of substance use disorder or severe respiratory disease"
     ],
     "correctAnswer": "History of substance use disorder or severe respiratory disease",
-    "rationale": "Eszopiclone can cause dependence and worsen respiratory depression; caution is required.",
+    "rationale": "Eszopiclone (Lunesta) can cause dependence and worsen respiratory depression; caution is required.",
     "clinicalPearl": "Evaluate history of substance misuse and pulmonary status before prescribing."
   },
 
 {
     "id": "rn-q-337",
     "scope": ["RN"],
-    "medicationId": "rn-113",
-    "medication": "Zaleplon",
+    "medicationId": "rn-116",
+    "medication": "Zaleplon (Sonata)",
     "questionType": "multiple-choice",
-    "stem": "Which teaching point is most important for zaleplon therapy?",
+    "stem": "Which teaching point is most important for Zaleplon (Sonata) therapy?",
     "choices": [
       "Take right before bedtime; do not take if less than 4 hours of sleep is planned",
       "Avoid daytime naps",
@@ -6093,17 +6080,17 @@
       "Avoid all fluids"
     ],
     "correctAnswer": "Take right before bedtime; do not take if less than 4 hours of sleep is planned",
-    "rationale": "Zaleplon is ultrashort-acting; taking it with sufficient sleep time is essential to avoid next-day sedation.",
+    "rationale": "Zaleplon (Sonata) is ultrashort-acting; taking it with sufficient sleep time is essential to avoid next-day sedation.",
     "clinicalPearl": "Ensure patient understands minimal sleep requirement to prevent morning drowsiness."
   },
 
 {
     "id": "rn-q-338",
     "scope": ["RN"],
-    "medicationId": "rn-113",
-    "medication": "Zaleplon",
+    "medicationId": "rn-116",
+    "medication": "Zaleplon (Sonata)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with zaleplon?",
+    "stem": "Which adverse effect is most common with Zaleplon (Sonata)?",
     "choices": [
       "Dizziness, headache, and mild CNS depression",
       "Hyperglycemia",
@@ -6118,10 +6105,10 @@
  {
     "id": "rn-q-339",
     "scope": ["RN"],
-    "medicationId": "rn-113",
-    "medication": "Zaleplon",
+    "medicationId": "rn-116",
+    "medication": "Zaleplon (Sonata)",
     "questionType": "multiple-choice",
-    "stem": "Which patient requires caution when using zaleplon?",
+    "stem": "Which patient requires caution when using Zaleplon (Sonata)?",
     "choices": [
       "History of substance use disorder or severe respiratory impairment",
       "Mild seasonal allergies",
@@ -6136,10 +6123,10 @@
 {
     "id": "rn-q-340",
     "scope": ["RN"],
-    "medicationId": "rn-114",
-    "medication": "Zolpidem",
+    "medicationId": "rn-117",
+    "medication": "Zolpidem (Ambien)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for zolpidem therapy?",
+    "stem": "Which patient teaching is most important for Zolpidem (Ambien) therapy?",
     "choices": [
       "Take immediately before bedtime and allow at least 7–8 hours for sleep",
       "Avoid daytime naps",
@@ -6147,17 +6134,17 @@
       "Avoid all fluids"
     ],
     "correctAnswer": "Take immediately before bedtime and allow at least 7–8 hours for sleep",
-    "rationale": "Zolpidem requires sufficient sleep time to minimize residual next-day sedation and fall risk.",
+    "rationale": "Zolpidem (Ambien) requires sufficient sleep time to minimize residual next-day sedation and fall risk.",
     "clinicalPearl": "Warn about potential sleepwalking or unusual nighttime behaviors."
   },
 
  {
     "id": "rn-q-341",
     "scope": ["RN"],
-    "medicationId": "rn-114",
-    "medication": "Zolpidem",
+    "medicationId": "rn-117",
+    "medication": "Zolpidem (Ambien)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with zolpidem?",
+    "stem": "Which adverse effect is most common with Zolpidem (Ambien)?",
     "choices": [
       "Drowsiness, dizziness, and headache",
       "Hypertension",
@@ -6165,15 +6152,15 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Drowsiness, dizziness, and headache",
-    "rationale": "Zolpidem commonly causes CNS depression, including drowsiness and dizziness.",
+    "rationale": "Zolpidem (Ambien) commonly causes CNS depression, including drowsiness and dizziness.",
     "clinicalPearl": "Monitor for next-day sedation, especially in elderly patients."
   },
 
   {
     "id": "rn-q-342",
     "scope": ["RN"],
-    "medicationId": "rn-114",
-    "medication": "Zolpidem",
+    "medicationId": "rn-117",
+    "medication": "Zolpidem (Ambien)",
     "questionType": "multiple-choice",
     "stem": "Which patient condition requires caution with zolpidem?",
     "choices": [
@@ -6183,17 +6170,17 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "History of substance use disorder or severe respiratory disease",
-    "rationale": "Zolpidem can cause dependence and respiratory depression; caution is required.",
+    "rationale": "Zolpidem (Ambien) can cause dependence and respiratory depression; caution is required.",
     "clinicalPearl": "Assess risk for misuse and monitor respiratory function in at-risk patients."
   },
 
   {
     "id": "rn-q-343",
     "scope": ["RN"],
-    "medicationId": "rn-115",
-    "medication": "Ramelteon",
+    "medicationId": "rn-118",
+    "medication": "Ramelteon (Rozerem)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with ramelteon therapy?",
+    "stem": "Which adverse effect is most common with Ramelteon (Rozerem) therapy?",
     "choices": [
       "Hypertension",
       "Dizziness, fatigue, and somnolence",
@@ -6201,17 +6188,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Dizziness, fatigue, and somnolence",
-    "rationale": "Ramelteon commonly causes mild CNS effects like dizziness, fatigue, and drowsiness.",
+    "rationale": "Ramelteon (Rozerem) commonly causes mild CNS effects like dizziness, fatigue, and drowsiness.",
     "clinicalPearl": "Monitor for next-day sedation, especially in older adults."
   },
 
  {
     "id": "rn-q-344",
     "scope": ["RN"],
-    "medicationId": "rn-115",
-    "medication": "Ramelteon",
+    "medicationId": "rn-118",
+    "medication": "Ramelteon (Rozerem)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for ramelteon therapy?",
+    "stem": "Which patient teaching is most important for Ramelteon (Rozerem) therapy?",
     "choices": [
       "Take 30 minutes before bedtime and do not engage in activities requiring alertness afterward",
       "Take only when anxious",
@@ -6219,15 +6206,15 @@
       "Take with large meals"
     ],
     "correctAnswer": "Take 30 minutes before bedtime and do not engage in activities requiring alertness afterward",
-    "rationale": "Ramelteon works best when taken before bedtime; sedation risk requires avoiding activities like driving.",
+    "rationale": "Ramelteon (Rozerem) works best when taken before bedtime; sedation risk requires avoiding activities like driving.",
     "clinicalPearl": "Ensure patient understands not to drive or operate machinery immediately after dosing."
   },
  
  {
     "id": "rn-q-345",
     "scope": ["RN"],
-    "medicationId": "rn-115",
-    "medication": "Ramelteon",
+    "medicationId": "rn-118",
+    "medication": "Ramelteon (Rozerem)",
     "questionType": "multiple-choice",
     "stem": "Which patient condition requires caution with ramelteon?",
     "choices": [
@@ -6237,17 +6224,17 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "Severe hepatic impairment or depression",
-    "rationale": "Ramelteon is metabolized by the liver; hepatic impairment increases drug exposure. Depression may worsen sleep.",
+    "rationale": "Ramelteon (Rozerem) is metabolized by the liver; hepatic impairment increases drug exposure. Depression may worsen sleep.",
     "clinicalPearl": "Adjust dose or avoid use in severe liver disease; monitor mood."
   },
 
  {
     "id": "rn-q-346",
     "scope": ["RN"],
-    "medicationId": "rn-116",
-    "medication": "Suvorexant",
+    "medicationId": "rn-119",
+    "medication": "Suvorexant (Belsomra)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with suvorexant therapy?",
+    "stem": "Which adverse effect is most common with Suvorexant (Belsomra) therapy?",
     "choices": [
       "Hyperglycemia",
       "Peripheral edema",
@@ -6255,17 +6242,17 @@
       "Hypertension"
     ],
     "correctAnswer": "Drowsiness, headache, and abnormal dreams",
-    "rationale": "Suvorexant commonly causes CNS depression including drowsiness and vivid dreams.",
+    "rationale": "Suvorexant (Belsomra) commonly causes CNS depression including drowsiness and vivid dreams.",
     "clinicalPearl": "Advise patients about unusual dreams and next-day sedation."
   },
 
 {
     "id": "rn-q-347",
     "scope": ["RN"],
-    "medicationId": "rn-116",
-    "medication": "Suvorexant",
+    "medicationId": "rn-119",
+    "medication": "Suvorexant (Belsomra)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for suvorexant therapy?",
+    "stem": "Which patient teaching is most important for Suvorexant (Belsomra) therapy?",
     "choices": [
       "Take immediately before bedtime with at least 7 hours available for sleep",
       "Avoid daytime naps",
@@ -6273,15 +6260,15 @@
       "Avoid all fluids"
     ],
     "correctAnswer": "Take immediately before bedtime with at least 7 hours available for sleep",
-    "rationale": "Suvorexant requires sufficient sleep time to prevent residual next-day sedation.",
+    "rationale": "Suvorexant (Belsomra) requires sufficient sleep time to prevent residual next-day sedation.",
     "clinicalPearl": "Ensure patient understands minimum sleep duration to reduce fall risk."
   },
 
  {
     "id": "rn-q-348",
     "scope": ["RN"],
-    "medicationId": "rn-116",
-    "medication": "Suvorexant",
+    "medicationId": "rn-119",
+    "medication": "Suvorexant (Belsomra)",
     "questionType": "multiple-choice",
     "stem": "Which patient condition requires caution when using suvorexant?",
     "choices": [
@@ -6291,17 +6278,17 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "History of substance use disorder, severe respiratory disease, or hepatic impairment",
-    "rationale": "Suvorexant can cause dependence and worsen respiratory depression; caution is required in these patients.",
+    "rationale": "Suvorexant (Belsomra) can cause dependence and worsen respiratory depression; caution is required in these patients.",
     "clinicalPearl": "Assess history of substance misuse and respiratory status before prescribing."
   },
 
  {
     "id": "rn-q-349",
     "scope": ["RN"],
-    "medicationId": "rn-117",
-    "medication": "Lemborexant",
+    "medicationId": "rn-120",
+    "medication": "Lemborexant (Dayvigo)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should a patient taking lemborexant be monitored for?",
+    "stem": "Which adverse effect should a patient taking Lemborexant (Dayvigo) be monitored for?",
     "choices": [
       "Hypertension",
       "Drowsiness, headache, and abnormal dreams",
@@ -6309,17 +6296,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Drowsiness, headache, and abnormal dreams",
-    "rationale": "Lemborexant commonly causes CNS depression including sedation and vivid dreams.",
+    "rationale": "Lemborexant (Dayvigo) commonly causes CNS depression including sedation and vivid dreams.",
     "clinicalPearl": "Monitor for next-day sedation and unusual dreams."
   },
 
   {
     "id": "rn-q-350",
     "scope": ["RN"],
-    "medicationId": "rn-117",
-    "medication": "Lemborexant",
+    "medicationId": "rn-120",
+    "medication": "Lemborexant (Dayvigo)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for lemborexant therapy?",
+    "stem": "Which patient teaching is most important for Lemborexant (Dayvigo) therapy?",
     "choices": [
       "Take immediately before bedtime with at least 7 hours available for sleep",
       "Take only when anxious",
@@ -6334,10 +6321,10 @@
 {
     "id": "rn-q-351",
     "scope": ["RN"],
-    "medicationId": "rn-117",
-    "medication": "Lemborexant",
+    "medicationId": "rn-120",
+    "medication": "Lemborexant (Dayvigo)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with lemborexant?",
+    "stem": "Which patient condition requires caution with Lemborexant (Dayvigo)?",
     "choices": [
       "Mild seasonal allergies",
       "History of substance use disorder, severe respiratory disease, or hepatic impairment",
@@ -6345,15 +6332,15 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "History of substance use disorder, severe respiratory disease, or hepatic impairment",
-    "rationale": "Lemborexant can worsen respiratory depression and cause dependence; caution is needed in these patients.",
+    "rationale": "Lemborexant (Dayvigo) can worsen respiratory depression and cause dependence; caution is needed in these patients.",
     "clinicalPearl": "Assess risk for misuse and monitor respiratory function in at-risk populations."
   },
  
   {
     "id": "rn-q-352",
     "scope": ["RN"],
-    "medicationId": "rn-118",
-    "medication": "Daridorexant",
+    "medicationId": "rn-121",
+    "medication": "Daridorexant (Quviviq)",
     "questionType": "multiple-choice",
     "stem": "Which adverse effect is most common with daridorexant therapy?",
     "choices": [
@@ -6363,17 +6350,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Drowsiness, headache, and dizziness",
-    "rationale": "Daridorexant commonly causes mild CNS effects including sedation, dizziness, and headache.",
+    "rationale": "Daridorexant (Quviviq) commonly causes mild CNS effects including sedation, dizziness, and headache.",
     "clinicalPearl": "Monitor for next-day sedation, especially in older adults."
   },
  
  {
     "id": "rn-q-353",
     "scope": ["RN"],
-    "medicationId": "rn-118",
-    "medication": "Daridorexant",
+    "medicationId": "rn-121",
+    "medication": "Daridorexant (Quviviq)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for daridorexant therapy?",
+    "stem": "Which patient teaching is most important for Daridorexant (Quviviq) therapy?",
     "choices": [
       "Take only when anxious",
       "Take immediately before bedtime with at least 7 hours available for sleep",
@@ -6388,10 +6375,10 @@
  {
     "id": "rn-q-354",
     "scope": ["RN"],
-    "medicationId": "rn-118",
-    "medication": "Daridorexant",
+    "medicationId": "rn-121",
+    "medication": "Daridorexant (Quviviq)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution when using daridorexant?",
+    "stem": "Which patient condition requires caution when using Daridorexant (Quviviq)?",
     "choices": [
       "Mild seasonal allergies",
       "Tension headaches",
@@ -6399,15 +6386,15 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "History of substance use disorder, severe respiratory disease, or hepatic impairment",
-    "rationale": "Daridorexant may cause dependence and worsen respiratory depression; caution is required.",
+    "rationale": "Daridorexant (Quviviq) may cause dependence and worsen respiratory depression; caution is required.",
     "clinicalPearl": "Assess risk for misuse and monitor respiratory function in vulnerable populations."
   },
   
 {
     "id": "rn-q-355",
     "scope": ["RN"],
-    "medicationId": "rn-119",
-    "medication": "Methylphenidate",
+    "medicationId": "rn-122",
+    "medication": "Methylphenidate (Ritalin)",
     "questionType": "multiple-choice",
     "stem": "Which adverse effect is most common with methylphenidate therapy?",
     "choices": [
@@ -6424,10 +6411,10 @@
   {
     "id": "rn-q-356",
     "scope": ["RN"],
-    "medicationId": "rn-119",
-    "medication": "Methylphenidate",
+    "medicationId": "rn-122",
+    "medication": "Methylphenidate (Ritalin)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for methylphenidate therapy?",
+    "stem": "Which patient teaching is most important for Methylphenidate (Ritalin) therapy?",
     "choices": [
       "Take only when feeling sleepy",
       "Take only at bedtime",
@@ -6442,10 +6429,10 @@
  {
     "id": "rn-q-357",
     "scope": ["RN"],
-    "medicationId": "rn-119",
-    "medication": "Methylphenidate",
+    "medicationId": "rn-122",
+    "medication": "Methylphenidate (Ritalin)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with methylphenidate?",
+    "stem": "Which patient condition requires caution with Methylphenidate (Ritalin)?",
     "choices": [
       "Mild seasonal allergies",
       "Tension headaches",
@@ -6460,10 +6447,10 @@
   {
     "id": "rn-q-358",
     "scope": ["RN"],
-    "medicationId": "rn-120",
-    "medication": "Amphetamine and dextroamphetamine",
+    "medicationId": "rn-123",
+    "medication": "Amphetamine and dextroamphetamine (Adderall)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with amphetamine/dextroamphetamine therapy?",
+    "stem": "Which adverse effect is most common with Amphetamine and dextroamphetamine (Adderall) therapy?",
     "choices": [
       "Hypoglycemia",
       "Insomnia, decreased appetite, and nervousness",
@@ -6478,10 +6465,10 @@
   {
     "id": "rn-q-359",
     "scope": ["RN"],
-    "medicationId": "rn-120",
-    "medication": "Amphetamine and dextroamphetamine",
+    "medicationId": "rn-123",
+    "medication": "Amphetamine and dextroamphetamine (Adderall)",
     "questionType": "multiple-choice",
-    "stem": "Which teaching point is most important for amphetamine/dextroamphetamine therapy?",
+    "stem": "Which teaching point is most important for Amphetamine and dextroamphetamine (Adderall) therapy?",
     "choices": [
       "Take early in the day to avoid insomnia and monitor growth and weight in children",
       "Take only when sleepy",
@@ -6496,10 +6483,10 @@
   {
     "id": "rn-q-360",
     "scope": ["RN"],
-    "medicationId": "rn-120",
-    "medication": "Amphetamine and dextroamphetamine",
+    "medicationId": "rn-123",
+    "medication": "Amphetamine and dextroamphetamine (Adderall)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition is a contraindication for amphetamine/dextroamphetamine therapy?",
+    "stem": "Which patient condition is a contraindication for Amphetamine and dextroamphetamine (Adderall) therapy?",
     "choices": [
       "Mild seasonal allergies",
       "Tension headaches",
@@ -6514,10 +6501,10 @@
   {
     "id": "rn-q-361",
     "scope": ["RN"],
-    "medicationId": "rn-121",
-    "medication": "Dextroamphetamine",
+    "medicationId": "rn-124",
+    "medication": "Dextroamphetamine (Xelstrym)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with dextroamphetamine therapy?",
+    "stem": "Which adverse effect is most common with Dextroamphetamine (Xelstrym) therapy?",
     "choices": [
       "Hypoglycemia",
       "Peripheral edema",
@@ -6525,17 +6512,17 @@
       "Hepatotoxicity"
     ],
     "correctAnswer": "Insomnia, decreased appetite, and nervousness",
-    "rationale": "Dextroamphetamine stimulates the CNS, causing insomnia, appetite suppression, and nervousness.",
+    "rationale": "Dextroamphetamine (Xelstrym) stimulates the CNS, causing insomnia, appetite suppression, and nervousness.",
     "clinicalPearl": "Monitor pediatric growth, weight, and sleep during therapy."
   },
 
   {
     "id": "rn-q-362",
     "scope": ["RN"],
-    "medicationId": "rn-121",
-    "medication": "Dextroamphetamine",
+    "medicationId": "rn-124",
+    "medication": "Dextroamphetamine (Xelstrym)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for dextroamphetamine therapy?",
+    "stem": "Which patient teaching is most important for Dextroamphetamine (Xelstrym) therapy?",
     "choices": [
       "Take only when sleepy",
       "Avoid all fluids",
@@ -6550,10 +6537,10 @@
  {
     "id": "rn-q-363",
     "scope": ["RN"],
-    "medicationId": "rn-121",
-    "medication": "Dextroamphetamine",
+    "medicationId": "rn-124",
+    "medication": "Dextroamphetamine (Xelstrym)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with dextroamphetamine?",
+    "stem": "Which patient condition requires caution with Dextroamphetamine (Xelstrym)?",
     "choices": [
       "Mild seasonal allergies",
       "History of cardiovascular disease, hypertension, or anxiety",
@@ -6568,10 +6555,10 @@
  {
     "id": "rn-q-364",
     "scope": ["RN"],
-    "medicationId": "rn-122",
-    "medication": "Lisdexamfetamine",
+    "medicationId": "rn-125",
+    "medication": "Lisdexamfetamine (Vyvanse)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with lisdexamfetamine therapy?",
+    "stem": "Which adverse effect is most common with Lisdexamfetamine (Vyvanse) therapy?",
     "choices": [
       "Peripheral edema",
       "Hypoglycemia",
@@ -6579,17 +6566,17 @@
       "Hepatotoxicity"
     ],
     "correctAnswer": "Insomnia, decreased appetite, and nervousness",
-    "rationale": "Lisdexamfetamine can cause CNS stimulation, appetite suppression, and anxiety.",
+    "rationale": "Lisdexamfetamine (Vyvanse) can cause CNS stimulation, appetite suppression, and anxiety.",
     "clinicalPearl": "Monitor children for growth, weight, and sleep disturbances."
   },
 
   {
     "id": "rn-q-365",
     "scope": ["RN"],
-    "medicationId": "rn-122",
-    "medication": "Lisdexamfetamine",
+    "medicationId": "rn-125",
+    "medication": "Lisdexamfetamine (Vyvanse)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for lisdexamfetamine therapy?",
+    "stem": "Which patient teaching is most important for Lisdexamfetamine (Vyvanse) therapy?",
     "choices": [
       "Take in the morning and monitor growth, weight, and sleep in children",
       "Take only when sleepy",
@@ -6604,10 +6591,10 @@
   {
     "id": "rn-q-366",
     "scope": ["RN"],
-    "medicationId": "rn-122",
-    "medication": "Lisdexamfetamine",
+    "medicationId": "rn-125",
+    "medication": "Lisdexamfetamine (Vyvanse)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition is a contraindication for lisdexamfetamine therapy?",
+    "stem": "Which patient condition is a contraindication for Lisdexamfetamine (Vyvanse) therapy?",
     "choices": [
       "Mild seasonal allergies",
       "Severe cardiovascular disease or uncontrolled hypertension",
@@ -6622,10 +6609,10 @@
  {
     "id": "rn-q-367",
     "scope": ["RN"],
-    "medicationId": "rn-123",
-    "medication": "Methamphetamine",
+    "medicationId": "rn-126",
+    "medication": "Methamphetamine (Desoxyn)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with methamphetamine therapy?",
+    "stem": "Which adverse effect is most common with Methamphetamine (Desoxyn) therapy?",
     "choices": [
       "Hypoglycemia",
       "Insomnia, decreased appetite, and nervousness",
@@ -6633,17 +6620,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Insomnia, decreased appetite, and nervousness",
-    "rationale": "Methamphetamine stimulates the CNS causing insomnia, appetite suppression, and anxiety.",
+    "rationale": "Methamphetamine (Desoxyn) stimulates the CNS causing insomnia, appetite suppression, and anxiety.",
     "clinicalPearl": "Monitor children closely for growth and sleep issues."
   },
 
   {
     "id": "rn-q-368",
     "scope": ["RN"],
-    "medicationId": "rn-123",
-    "medication": "Methamphetamine",
+    "medicationId": "rn-126",
+    "medication": "Methamphetamine (Desoxyn)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for methamphetamine therapy?",
+    "stem": "Which patient teaching is most important for Methamphetamine (Desoxyn) therapy?",
     "choices": [
       "Take only when sleepy",
       "Avoid all fluids",
@@ -6658,10 +6645,10 @@
  {
     "id": "rn-q-369",
     "scope": ["RN"],
-    "medicationId": "rn-123",
-    "medication": "Methamphetamine",
+    "medicationId": "rn-126",
+    "medication": "Methamphetamine (Desoxyn)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with methamphetamine?",
+    "stem": "Which patient condition requires caution with Methamphetamine (Desoxyn)?",
     "choices": [
       "History of cardiovascular disease, hypertension, or anxiety",
       "Mild seasonal allergies",
@@ -6676,10 +6663,10 @@
   {
     "id": "rn-q-370",
     "scope": ["RN"],
-    "medicationId": "rn-124",
-    "medication": "Dexmethylphenidate",
+    "medicationId": "rn-127",
+    "medication": "Dexmethylphenidate (Focalin)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with dexmethylphenidate therapy?",
+    "stem": "Which adverse effect is most common with Dexmethylphenidate (Focalin) therapy?",
     "choices": [
       "Insomnia, decreased appetite, and nervousness",
       "Hypoglycemia",
@@ -6687,17 +6674,17 @@
       "Hepatotoxicity"
     ],
     "correctAnswer": "Insomnia, decreased appetite, and nervousness",
-    "rationale": "Dexmethylphenidate, like other CNS stimulants, commonly causes insomnia, appetite suppression, and nervousness.",
+    "rationale": "Dexmethylphenidate (Focalin), like other CNS stimulants, commonly causes insomnia, appetite suppression, and nervousness.",
     "clinicalPearl": "Monitor pediatric growth, weight, and sleep patterns."
   },
 
 {
     "id": "rn-q-371",
     "scope": ["RN"],
-    "medicationId": "rn-124",
-    "medication": "Dexmethylphenidate",
+    "medicationId": "rn-127",
+    "medication": "Dexmethylphenidate (Focalin)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for dexmethylphenidate therapy?",
+    "stem": "Which patient teaching is most important for Dexmethylphenidate (Focalin) therapy?",
     "choices": [
       "Take in the morning to avoid insomnia and monitor growth, weight, and blood pressure in children",
       "Take only at bedtime",
@@ -6712,10 +6699,10 @@
  {
     "id": "rn-q-372",
     "scope": ["RN"],
-    "medicationId": "rn-124",
-    "medication": "Dexmethylphenidate",
+    "medicationId": "rn-127",
+    "medication": "Dexmethylphenidate (Focalin)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with dexmethylphenidate?",
+    "stem": "Which patient condition requires caution with Dexmethylphenidate (Focalin)?",
     "choices": [
       "Mild seasonal allergies",
       "History of cardiovascular disease, hypertension, or anxiety",
@@ -6730,10 +6717,10 @@
  {
     "id": "rn-q-373",
     "scope": ["RN"],
-    "medicationId": "rn-125",
-    "medication": "Serdexmethylphenidate + Dexmethylphenidate",
+    "medicationId": "rn-128",
+    "medication": "Serdexmethylphenidate and Dexmethylphenidate (Azstarys)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should a patient be monitored for with this combination therapy?",
+    "stem": "Which adverse effect should a patient be monitored for with this combination therapy, Serdexmethylphenidate and Dexmethylphenidate (Azstarys)?",
     "choices": [
       "Insomnia, decreased appetite, and nervousness",
       "Hepatotoxicity",
@@ -6748,10 +6735,10 @@
 {
     "id": "rn-q-374",
     "scope": ["RN"],
-    "medicationId": "rn-125",
-    "medication": "Serdexmethylphenidate + Dexmethylphenidate",
+    "medicationId": "rn-128",
+    "medication": "Serdexmethylphenidate and Dexmethylphenidate (Azstarys)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for this combination therapy?",
+    "stem": "Which patient teaching is most important for this combination therapy, Serdexmethylphenidate and Dexmethylphenidate (Azstarys)?",
     "choices": [
       "Take only when sleepy",
       "Take early in the morning to prevent insomnia and monitor weight and growth in children",
@@ -6766,10 +6753,10 @@
  {
     "id": "rn-q-375",
     "scope": ["RN"],
-    "medicationId": "rn-125",
-    "medication": "Serdexmethylphenidate + Dexmethylphenidate",
+    "medicationId": "rn-128",
+    "medication": "Serdexmethylphenidate and Dexmethylphenidate (Azstarys)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition is a contraindication for this therapy?",
+    "stem": "Which patient condition is a contraindication for this therapy, Serdexmethylphenidate and Dexmethylphenidate (Azstarys)?",
     "choices": [
       "Severe cardiovascular disease or uncontrolled hypertension",
       "Mild seasonal allergies",
@@ -6784,10 +6771,10 @@
  {
     "id": "rn-q-376",
     "scope": ["RN"],
-    "medicationId": "rn-126",
-    "medication": "Modafinil",
+    "medicationId": "rn-129",
+    "medication": "Modafinil (Provigil)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with modafinil therapy?",
+    "stem": "Which adverse effect is most common with Modafinil (Provigil) therapy?",
     "choices": [
       "Peripheral edema",
       "Headache, nausea, and insomnia",
@@ -6795,17 +6782,17 @@
       "Hepatotoxicity"
     ],
     "correctAnswer": "Headache, nausea, and insomnia",
-    "rationale": "Modafinil commonly causes CNS stimulation, leading to headache, nausea, and insomnia.",
+    "rationale": "Modafinil (Provigil) commonly causes CNS stimulation, leading to headache, nausea, and insomnia.",
     "clinicalPearl": "Monitor sleep patterns and report severe CNS symptoms."
   },
 
  {
     "id": "rn-q-377",
     "scope": ["RN"],
-    "medicationId": "rn-126",
-    "medication": "Modafinil",
+    "medicationId": "rn-129",
+    "medication": "Modafinil (Provigil)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for modafinil therapy?",
+    "stem": "Which patient teaching is most important for Modafinil (Provigil) therapy?",
     "choices": [
       "Take only at bedtime",
       "Take early in the evening",
@@ -6820,10 +6807,10 @@
  {
     "id": "rn-q-378",
     "scope": ["RN"],
-    "medicationId": "rn-126",
-    "medication": "Modafinil",
+    "medicationId": "rn-129",
+    "medication": "Modafinil (Provigil)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with modafinil?",
+    "stem": "Which patient condition requires caution with Modafinil (Provigil)?",
     "choices": [
       "History of cardiovascular disease, hypertension, or arrhythmias",
       "Mild seasonal allergies",
@@ -6831,17 +6818,17 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "History of cardiovascular disease, hypertension, or arrhythmias",
-    "rationale": "Modafinil can increase heart rate and blood pressure; caution is required in CV disease and arrhythmias.",
+    "rationale": "Modafinil (Provigil) can increase heart rate and blood pressure; caution is required in CV disease and arrhythmias.",
     "clinicalPearl": "Assess vitals and cardiac history before starting therapy."
   },
 
   {
     "id": "rn-q-379",
     "scope": ["RN"],
-    "medicationId": "rn-127",
-    "medication": "Pitolisant",
+    "medicationId": "rn-130",
+    "medication": "Pitolisant (Wakix)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with pitolisant therapy?",
+    "stem": "Which adverse effect is most common with Pitolisant (Wakix) therapy?",
     "choices": [
       "Insomnia, headache, and nausea",
       "Hypoglycemia",
@@ -6849,17 +6836,17 @@
       "Hepatotoxicity"
     ],
     "correctAnswer": "Insomnia, headache, and nausea",
-    "rationale": "Pitolisant increases histamine activity in the CNS and commonly causes insomnia, headache, and nausea.",
+    "rationale": "Pitolisant (Wakix) increases histamine activity in the CNS and commonly causes insomnia, headache, and nausea.",
     "clinicalPearl": "Monitor CNS and cardiovascular effects; insomnia may be dose-dependent."
   },
 
   {
     "id": "rn-q-380",
     "scope": ["RN"],
-    "medicationId": "rn-127",
-    "medication": "Pitolisant",
+    "medicationId": "rn-130",
+    "medication": "Pitolisant (Wakix)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for pitolisant therapy?",
+    "stem": "Which patient teaching is most important for Pitolisant (Wakix) therapy?",
     "choices": [
       "Take in the morning to avoid insomnia and report any severe headache or palpitations",
       "Take only at bedtime",
@@ -6874,10 +6861,10 @@
   {
     "id": "rn-q-381",
     "scope": ["RN"],
-    "medicationId": "rn-127",
-    "medication": "Pitolisant",
+    "medicationId": "rn-130",
+    "medication": "Pitolisant (Wakix)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with pitolisant?",
+    "stem": "Which patient condition requires caution with Pitolisant (Wakix)?",
     "choices": [
       "History of cardiovascular disease, arrhythmias, or severe liver impairment",
       "Mild seasonal allergies",
@@ -6885,17 +6872,17 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "History of cardiovascular disease, arrhythmias, or severe liver impairment",
-    "rationale": "Pitolisant can increase heart rate and is metabolized by the liver; caution is required in these conditions.",
+    "rationale": "Pitolisant (Wakix) can increase heart rate and is metabolized by the liver; caution is required in these conditions.",
     "clinicalPearl": "Assess liver function and cardiac history prior to starting therapy."
   },
 
   {
     "id": "rn-q-382",
     "scope": ["RN"],
-    "medicationId": "rn-128",
-    "medication": "Atomoxetine",
+    "medicationId": "rn-131",
+    "medication": "Atomoxetine (Strattera)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with atomoxetine therapy?",
+    "stem": "Which adverse effect is most common with Atomoxetine (Strattera) therapy?",
     "choices": [
       "Appetite suppression, nausea, and insomnia",
       "Hypoglycemia",
@@ -6903,17 +6890,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Appetite suppression, nausea, and insomnia",
-    "rationale": "Atomoxetine commonly causes GI upset, decreased appetite, and mild CNS stimulation.",
+    "rationale": "Atomoxetine (Strattera) commonly causes GI upset, decreased appetite, and mild CNS stimulation.",
     "clinicalPearl": "Monitor pediatric growth, weight, and sleep patterns."
   },
 
  {
     "id": "rn-q-383",
     "scope": ["RN"],
-    "medicationId": "rn-128",
-    "medication": "Atomoxetine",
+    "medicationId": "rn-130",
+    "medication": "Atomoxetine (Strattera)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for atomoxetine therapy?",
+    "stem": "Which patient teaching is most important for Atomoxetine (Strattera) therapy?",
     "choices": [
       "Take in the morning to reduce insomnia and monitor growth and blood pressure in children",
       "Take only at bedtime",
@@ -6928,10 +6915,10 @@
  {
     "id": "rn-q-384",
     "scope": ["RN"],
-    "medicationId": "rn-128",
-    "medication": "Atomoxetine",
+    "medicationId": "rn-130",
+    "medication": "Atomoxetine (Strattera)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with atomoxetine?",
+    "stem": "Which patient condition requires caution with Atomoxetine (Strattera)?",
     "choices": [
       "History of cardiovascular disease, hypertension, or hepatic impairment",
       "Mild seasonal allergies",
@@ -6939,17 +6926,17 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "History of cardiovascular disease, hypertension, or hepatic impairment",
-    "rationale": "Atomoxetine can increase BP/HR and is hepatically metabolized; caution is required in CV or liver disease.",
+    "rationale": "Atomoxetine (Strattera) can increase BP/HR and is hepatically metabolized; caution is required in CV or liver disease.",
     "clinicalPearl": "Baseline cardiovascular and liver function assessment is recommended."
   },
 
   {
     "id": "rn-q-385",
     "scope": ["RN"],
-    "medicationId": "rn-129",
-    "medication": "Guanfacine",
+    "medicationId": "rn-131",
+    "medication": "Guanfacine (Intuniv)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect should a patient taking guanfacine be monitored for?",
+    "stem": "Which adverse effect should a patient taking Guanfacine (Intuniv) be monitored for?",
     "choices": [
       "Drowsiness, hypotension, and bradycardia",
       "Hyperglycemia",
@@ -6957,17 +6944,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Drowsiness, hypotension, and bradycardia",
-    "rationale": "Guanfacine commonly causes CNS depression, low blood pressure, and decreased heart rate.",
+    "rationale": "Guanfacine (Intuniv) commonly causes CNS depression, low blood pressure, and decreased heart rate.",
     "clinicalPearl": "Monitor BP and HR, especially with dose adjustments."
   },
 
   {
     "id": "rn-q-386",
     "scope": ["RN"],
-    "medicationId": "rn-129",
-    "medication": "Guanfacine",
+    "medicationId": "rn-131",
+    "medication": "Guanfacine (Intuniv)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for guanfacine therapy?",
+    "stem": "Which patient teaching is most important for Guanfacine (Intuniv) therapy?",
     "choices": [
       "Take at bedtime to minimize daytime drowsiness and rise slowly to prevent dizziness",
       "Take only when anxious",
@@ -6982,10 +6969,10 @@
   {
     "id": "rn-q-387",
     "scope": ["RN"],
-    "medicationId": "rn-129",
-    "medication": "Guanfacine",
+    "medicationId": "rn-131",
+    "medication": "Guanfacine (Intuniv)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with guanfacine?",
+    "stem": "Which patient condition requires caution with Guanfacine (Intuniv)?",
     "choices": [
       "History of hypotension, bradycardia, or severe cardiac disease",
       "Mild seasonal allergies",
@@ -6993,17 +6980,17 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "History of hypotension, bradycardia, or severe cardiac disease",
-    "rationale": "Guanfacine can exacerbate hypotension or bradycardia; caution is required in these patients.",
+    "rationale": "Guanfacine (Intuniv) can exacerbate hypotension or bradycardia; caution is required in these patients.",
     "clinicalPearl": "Monitor cardiovascular status and adjust dose carefully."
   },
   
   {
     "id": "rn-q-388",
     "scope": ["RN"],
-    "medicationId": "rn-130",
-    "medication": "Clonidine",
+    "medicationId": "rn-133",
+    "medication": "Clonidine (Kapvay)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with clonidine therapy?",
+    "stem": "Which adverse effect is most common with Clonidine (Kapvay) therapy?",
     "choices": [
       "Drowsiness, hypotension, and dry mouth",
       "Hyperglycemia",
@@ -7011,17 +6998,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Drowsiness, hypotension, and dry mouth",
-    "rationale": "Clonidine commonly causes sedation, low blood pressure, and anticholinergic effects like dry mouth.",
+    "rationale": "Clonidine (Kapvay) commonly causes sedation, low blood pressure, and anticholinergic effects like dry mouth.",
     "clinicalPearl": "Monitor BP and sedation; advise patients on dry mouth management."
   },
   
 {
     "id": "rn-q-389",
     "scope": ["RN"],
-    "medicationId": "rn-130",
-    "medication": "Clonidine",
+    "medicationId": "rn-133",
+    "medication": "Clonidine (Kapvay)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for clonidine therapy?",
+    "stem": "Which patient teaching is most important for Clonidine (Kapvay) therapy?",
     "choices": [
       "Take at bedtime to reduce daytime drowsiness and do not stop abruptly",
       "Take only when anxious",
@@ -7036,10 +7023,10 @@
  {
     "id": "rn-q-390",
     "scope": ["RN"],
-    "medicationId": "rn-130",
-    "medication": "Clonidine",
+    "medicationId": "rn-133",
+    "medication": "Clonidine (Kapvay)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with clonidine?",
+    "stem": "Which patient condition requires caution with Clonidine (Kapvay)?",
     "choices": [
       "History of hypotension, bradycardia, or severe cardiac disease",
       "Mild seasonal allergies",
@@ -7047,17 +7034,17 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "History of hypotension, bradycardia, or severe cardiac disease",
-    "rationale": "Clonidine can exacerbate hypotension or bradycardia; caution is required in these patients.",
+    "rationale": "Clonidine (Kapvay) can exacerbate hypotension or bradycardia; caution is required in these patients.",
     "clinicalPearl": "Monitor vitals closely during dose titration."
   },
 
   {
     "id": "rn-q-391",
     "scope": ["RN"],
-    "medicationId": "rn-131",
-    "medication": "Viloxazine",
+    "medicationId": "rn-134",
+    "medication": "Viloxazine (Qelbree)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with viloxazine therapy?",
+    "stem": "Which adverse effect is most common with Viloxazine (Qelbree) therapy?",
     "choices": [
       "Nausea, decreased appetite, and insomnia",
       "Hypoglycemia",
@@ -7065,17 +7052,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Nausea, decreased appetite, and insomnia",
-    "rationale": "Viloxazine commonly causes GI upset, decreased appetite, and mild CNS stimulation.",
+    "rationale": "Viloxazine (Qelbree) commonly causes GI upset, decreased appetite, and mild CNS stimulation.",
     "clinicalPearl": "Monitor pediatric growth and sleep patterns."
   },
 
   {
     "id": "rn-q-392",
     "scope": ["RN"],
-    "medicationId": "rn-131",
-    "medication": "Viloxazine",
+    "medicationId": "rn-134",
+    "medication": "Viloxazine (Qelbree)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for viloxazine therapy?",
+    "stem": "Which patient teaching is most important for Viloxazine (Qelbree) therapy?",
     "choices": [
       "Take in the morning to reduce insomnia and monitor weight and growth in children",
       "Take only when sleepy",
@@ -7090,10 +7077,10 @@
   {
     "id": "rn-q-393",
     "scope": ["RN"],
-    "medicationId": "rn-131",
-    "medication": "Viloxazine",
+    "medicationId": "rn-134",
+    "medication": "Viloxazine (Qelbree)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with viloxazine?",
+    "stem": "Which patient condition requires caution with Viloxazine (Qelbree)?",
     "choices": [
       "History of cardiovascular disease, hypertension, or hepatic impairment",
       "Mild seasonal allergies",
@@ -7101,17 +7088,17 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "History of cardiovascular disease, hypertension, or hepatic impairment",
-    "rationale": "Viloxazine can increase BP/HR and is hepatically metabolized; caution is required in these patients.",
+    "rationale": "Viloxazine (Qelbree) can increase BP/HR and is hepatically metabolized; caution is required in these patients.",
     "clinicalPearl": "Assess baseline cardiovascular and liver function before initiating therapy."
   },
 
  {
     "id": "rn-q-394",
     "scope": ["RN"],
-    "medicationId": "rn-132",
-    "medication": "Solriamfetol",
+    "medicationId": "rn-135",
+    "medication": "Solriamfetol (Sunosi)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with solriamfetol therapy?",
+    "stem": "Which adverse effect is most common with Solriamfetol (Sunosi) therapy?",
     "choices": [
       "Insomnia, headache, and nausea",
       "Hypoglycemia",
@@ -7119,17 +7106,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Insomnia, headache, and nausea",
-    "rationale": "Solriamfetol stimulates wakefulness; common adverse effects include insomnia, headache, and nausea.",
+    "rationale": "Solriamfetol (Sunosi) stimulates wakefulness; common adverse effects include insomnia, headache, and nausea.",
     "clinicalPearl": "Monitor CNS stimulation and signs of cardiovascular stress."
   },
 
  {
     "id": "rn-q-395",
     "scope": ["RN"],
-    "medicationId": "rn-132",
-    "medication": "Solriamfetol",
+    "medicationId": "rn-135",
+    "medication": "Solriamfetol (Sunosi)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for solriamfetol therapy?",
+    "stem": "Which patient teaching is most important for Solriamfetol (Sunosi) therapy?",
     "choices": [
       "Take in the morning to avoid insomnia and report any severe headache or palpitations",
       "Take only when sleepy",
@@ -7144,10 +7131,10 @@
 {
     "id": "rn-q-396",
     "scope": ["RN"],
-    "medicationId": "rn-132",
-    "medication": "Solriamfetol",
+    "medicationId": "rn-135",
+    "medication": "Solriamfetol (Sunosi)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with solriamfetol?",
+    "stem": "Which patient condition requires caution with Solriamfetol (Sunosi)?",
     "choices": [
       "History of cardiovascular disease, hypertension, or arrhythmias",
       "Mild seasonal allergies",
@@ -7155,17 +7142,17 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "History of cardiovascular disease, hypertension, or arrhythmias",
-    "rationale": "Solriamfetol can increase heart rate and BP; caution is required in these patients.",
+    "rationale": "Solriamfetol (Sunosi) can increase heart rate and BP; caution is required in these patients.",
     "clinicalPearl": "Monitor cardiovascular status closely, especially in patients with arrhythmias or HTN."
   },
 
   {
     "id": "rn-q-397",
     "scope": ["RN"],
-    "medicationId": "rn-140",
-    "medication": "Sodium oxalate",
+    "medicationId": "rn-136",
+    "medication": "Sodium oxalate (Lumryz)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most important to monitor for with sodium oxalate?",
+    "stem": "Which adverse effect is most important to monitor for with Sodium oxalate (Lumryz)?",
     "choices": [
       "Renal injury or oxalate nephropathy",
       "Hepatotoxicity",
@@ -7173,17 +7160,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Renal injury or oxalate nephropathy",
-    "rationale": "Sodium oxalate can form crystals in the kidney, leading to nephropathy; renal function monitoring is essential.",
+    "rationale": "Sodium oxalate (Lumryz) can form crystals in the kidney, leading to nephropathy; renal function monitoring is essential.",
     "clinicalPearl": "Ensure regular monitoring of serum creatinine and BUN."
   },
 
   {
     "id": "rn-q-398",
     "scope": ["RN"],
-    "medicationId": "rn-140",
-    "medication": "Sodium oxalate",
+    "medicationId": "rn-136",
+    "medication": "Sodium oxalate (Lumryz)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for sodium oxalate therapy?",
+    "stem": "Which patient teaching is most important for Sodium oxalate (Lumryz) therapy?",
     "choices": [
       "Maintain adequate hydration to reduce risk of kidney stones",
       "Take only with food",
@@ -7198,10 +7185,10 @@
  {
     "id": "rn-q-399",
     "scope": ["RN"],
-    "medicationId": "rn-140",
-    "medication": "Sodium oxalate",
+    "medicationId": "rn-136",
+    "medication": "Sodium oxalate (Lumryz)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with sodium oxalate?",
+    "stem": "Which patient condition requires caution with Sodium oxalate (Lumryz)?",
     "choices": [
       "History of renal impairment or kidney stones",
       "Mild seasonal allergies",
@@ -7216,10 +7203,10 @@
  {
     "id": "rn-q-400",
     "scope": ["RN"],
-    "medicationId": "rn-141",
-    "medication": "Acetaminophen",
+    "medicationId": "rn-137",
+    "medication": "Acetaminophen (Tylenol)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most concerning with acetaminophen overdose?",
+    "stem": "Which adverse effect is most concerning with Acetaminophen (Tylenol) overdose?",
     "choices": [
       "Hepatotoxicity and liver failure",
       "Renal injury",
@@ -7227,17 +7214,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Hepatotoxicity and liver failure",
-    "rationale": "High doses of acetaminophen can cause acute liver failure; monitoring liver function is critical.",
+    "rationale": "High doses of Acetaminophen (Tylenol) can cause acute liver failure; monitoring liver function is critical.",
     "clinicalPearl": "Monitor AST, ALT, and INR in patients at risk for toxicity."
   },
 
  {
     "id": "rn-q-401",
     "scope": ["RN"],
-    "medicationId": "rn-141",
-    "medication": "Acetaminophen",
+    "medicationId": "rn-137",
+    "medication": "Acetaminophen (Tylenol)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for acetaminophen therapy?",
+    "stem": "Which patient teaching is most important for Acetaminophen (Tylenol) therapy?",
     "choices": [
       "Do not exceed recommended daily dose and avoid concurrent alcohol use",
       "Take only when fever is present",
@@ -7252,10 +7239,10 @@
  {
     "id": "rn-q-402",
     "scope": ["RN"],
-    "medicationId": "rn-141",
-    "medication": "Acetaminophen",
+    "medicationId": "rn-137",
+    "medication": "Acetaminophen (Tylenol)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with acetaminophen?",
+    "stem": "Which patient condition requires caution with Acetaminophen (Tylenol)?",
     "choices": [
       "Chronic liver disease or heavy alcohol use",
       "Mild seasonal allergies",
@@ -7270,10 +7257,10 @@
   {
     "id": "rn-q-403",
     "scope": ["RN"],
-    "medicationId": "rn-142",
+    "medicationId": "rn-138",
     "medication": "Aspirin",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with aspirin therapy?",
+    "stem": "Which adverse effect is most common with Aspirin therapy?",
     "choices": [
       "Gastrointestinal irritation or bleeding",
       "Hepatotoxicity",
@@ -7288,10 +7275,10 @@
   {
     "id": "rn-q-404",
     "scope": ["RN"],
-    "medicationId": "rn-142",
+    "medicationId": "rn-138",
     "medication": "Aspirin",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for aspirin therapy?",
+    "stem": "Which patient teaching is most important for Aspirin therapy?",
     "choices": [
       "Take with food or water and report black stools, unusual bruising, or bleeding",
       "Take only when fever is present",
@@ -7299,17 +7286,17 @@
       "Take only at bedtime"
     ],
     "correctAnswer": "Take with food or water and report black stools, unusual bruising, or bleeding",
-    "rationale": "Taking aspirin with food reduces GI upset; reporting bleeding is critical.",
+    "rationale": "Taking Aspirin with food reduces GI upset; reporting bleeding is critical.",
     "clinicalPearl": "Patients on long-term therapy may need periodic CBCs."
   },
 
   {
     "id": "rn-q-405",
     "scope": ["RN"],
-    "medicationId": "rn-142",
+    "medicationId": "rn-138",
     "medication": "Aspirin",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition is a contraindication for aspirin?",
+    "stem": "Which patient condition is a contraindication for Aspirin?",
     "choices": [
       "History of peptic ulcer disease or bleeding disorders",
       "Mild seasonal allergies",
@@ -7324,10 +7311,10 @@
   {
     "id": "rn-q-406",
     "scope": ["RN"],
-    "medicationId": "rn-143",
-    "medication": "Ibuprofen",
+    "medicationId": "rn-139",
+    "medication": "Ibuprofen (Motrin)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with ibuprofen therapy?",
+    "stem": "Which adverse effect is most common with Ibuprofen (Motrin) therapy?",
     "choices": [
       "Gastrointestinal irritation, ulceration, or renal impairment",
       "Hepatotoxicity",
@@ -7335,17 +7322,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Gastrointestinal irritation, ulceration, or renal impairment",
-    "rationale": "Ibuprofen, an NSAID, can cause GI upset, ulcers, and nephrotoxicity with chronic use.",
+    "rationale": "Ibuprofen (Motrin), an NSAID, can cause GI upset, ulcers, and nephrotoxicity with chronic use.",
     "clinicalPearl": "Monitor for black stools, abdominal pain, and kidney function with prolonged therapy."
   },
 
  {
     "id": "rn-q-407",
     "scope": ["RN"],
-    "medicationId": "rn-143",
-    "medication": "Ibuprofen",
+    "medicationId": "rn-139",
+    "medication": "Ibuprofen (Motrin)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for ibuprofen therapy?",
+    "stem": "Which patient teaching is most important for Ibuprofen (Motrin) therapy?",
     "choices": [
       "Take with food or water and report black stools or unusual bruising",
       "Take only when fever is present",
@@ -7360,10 +7347,10 @@
  {
     "id": "rn-q-408",
     "scope": ["RN"],
-    "medicationId": "rn-143",
-    "medication": "Ibuprofen",
+    "medicationId": "rn-139",
+    "medication": "Ibuprofen (Motrin)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with ibuprofen?",
+    "stem": "Which patient condition requires caution with Ibuprofen (Motrin)?",
     "choices": [
       "History of peptic ulcer disease, renal impairment, or heart failure",
       "Mild seasonal allergies",
@@ -7378,10 +7365,10 @@
 {
     "id": "rn-q-409",
     "scope": ["RN"],
-    "medicationId": "rn-144",
-    "medication": "Naproxen sodium",
+    "medicationId": "rn-140",
+    "medication": "Naproxen sodium (Aleve)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with naproxen sodium therapy?",
+    "stem": "Which adverse effect is most common with Naproxen sodium (Aleve) therapy?",
     "choices": [
       "Gastrointestinal irritation, renal impairment, and fluid retention",
       "Hepatotoxicity",
@@ -7389,17 +7376,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Gastrointestinal irritation, renal impairment, and fluid retention",
-    "rationale": "Naproxen, like other NSAIDs, can cause GI upset, kidney problems, and edema.",
+    "rationale": "Naproxen sodium (Aleve), like other NSAIDs, can cause GI upset, kidney problems, and edema.",
     "clinicalPearl": "Monitor kidney function, fluid status, and GI symptoms with chronic use."
   },
 
   {
     "id": "rn-q-410",
     "scope": ["RN"],
-    "medicationId": "rn-144",
-    "medication": "Naproxen sodium",
+    "medicationId": "rn-140",
+    "medication": "Naproxen sodium (Aleve)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for naproxen sodium therapy?",
+    "stem": "Which patient teaching is most important for Naproxen sodium (Aleve) therapy?",
     "choices": [
       "Take with food or water, report black stools, and avoid exceeding recommended dose",
       "Take only when fever is present",
@@ -7414,10 +7401,10 @@
  {
     "id": "rn-q-411",
     "scope": ["RN"],
-    "medicationId": "rn-144",
-    "medication": "Naproxen sodium",
+    "medicationId": "rn-140",
+    "medication": "Naproxen sodium (Aleve)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with naproxen sodium?",
+    "stem": "Which patient condition requires caution with Naproxen sodium (Aleve)?",
     "choices": [
       "History of peptic ulcer disease, renal impairment, or heart failure",
       "Mild seasonal allergies",
@@ -7432,10 +7419,10 @@
  {
     "id": "rn-q-412",
     "scope": ["RN"],
-    "medicationId": "rn-145",
-    "medication": "Tramadol",
+    "medicationId": "rn-141",
+    "medication": "Tramadol (Ultram)",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with tramadol therapy?",
+    "stem": "Which adverse effect is most common with Tramadol (Ultram) therapy?",
     "choices": [
       "Nausea, constipation, dizziness, and risk of seizures",
       "Hypertension",
@@ -7443,17 +7430,17 @@
       "Peripheral edema"
     ],
     "correctAnswer": "Nausea, constipation, dizziness, and risk of seizures",
-    "rationale": "Tramadol, a weak opioid, can cause CNS and GI side effects, and lower seizure threshold.",
+    "rationale": "Tramadol (Ultram), a weak opioid, can cause CNS and GI side effects, and lower seizure threshold.",
     "clinicalPearl": "Monitor for seizure activity and CNS depression, especially with other CNS depressants."
   },
 
  {
     "id": "rn-q-413",
     "scope": ["RN"],
-    "medicationId": "rn-145",
-    "medication": "Tramadol",
+    "medicationId": "rn-141",
+    "medication": "Tramadol (Ultram)",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for tramadol therapy?",
+    "stem": "Which patient teaching is most important for Tramadol (Ultram) therapy?",
     "choices": [
       "Take as prescribed, avoid alcohol, and report severe dizziness or constipation",
       "Take only when fever is present",
@@ -7468,10 +7455,10 @@
 {
     "id": "rn-q-414",
     "scope": ["RN"],
-    "medicationId": "rn-145",
-    "medication": "Tramadol",
+    "medicationId": "rn-141",
+    "medication": "Tramadol (Ultram)",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with tramadol?",
+    "stem": "Which patient condition requires caution with Tramadol (Ultram)?",
     "choices": [
       "History of seizure disorder, liver disease, or concurrent CNS depressants",
       "Mild seasonal allergies",
@@ -7479,17 +7466,17 @@
       "Hypothyroidism"
     ],
     "correctAnswer": "History of seizure disorder, liver disease, or concurrent CNS depressants",
-    "rationale": "Tramadol can lower seizure threshold and interact with CNS depressants; caution is required.",
+    "rationale": "Tramadol (Ultram) can lower seizure threshold and interact with CNS depressants; caution is required.",
     "clinicalPearl": "Assess seizure history and current CNS medications before prescribing."
   },
  
   {
     "id": "rn-q-415",
     "scope": ["RN"],
-    "medicationId": "rn-146",
+    "medicationId": "rn-142",
     "medication": "Codeine",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with codeine therapy?",
+    "stem": "Which adverse effect is most common with Codeine therapy?",
     "choices": [
       "Constipation, nausea, sedation, and respiratory depression",
       "Hypertension",
@@ -7504,10 +7491,10 @@
 {
     "id": "rn-q-416",
     "scope": ["RN"],
-    "medicationId": "rn-146",
+    "medicationId": "rn-142",
     "medication": "Codeine",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for codeine therapy?",
+    "stem": "Which patient teaching is most important for Codeine therapy?",
     "choices": [
       "Take as prescribed, avoid alcohol, increase fluid and fiber intake, and report severe sedation or difficulty breathing",
       "Take only when fever is present",
@@ -7522,10 +7509,10 @@
  {
     "id": "rn-q-417",
     "scope": ["RN"],
-    "medicationId": "rn-146",
+    "medicationId": "rn-142",
     "medication": "Codeine",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with codeine?",
+    "stem": "Which patient condition requires caution with Codeine?",
     "choices": [
       "Respiratory disease, liver impairment, or history of substance use disorder",
       "Mild seasonal allergies",
@@ -7540,10 +7527,10 @@
  {
     "id": "rn-q-418",
     "scope": ["RN"],
-    "medicationId": "rn-147",
+    "medicationId": "rn-143",
     "medication": "Fentanyl",
     "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most concerning with fentanyl therapy?",
+    "stem": "Which adverse effect is most concerning with Fentanyl therapy?",
     "choices": [
       "Respiratory depression, sedation, and hypotension",
       "Hypertension",
@@ -7558,10 +7545,10 @@
 {
     "id": "rn-q-419",
     "scope": ["RN"],
-    "medicationId": "rn-147",
+    "medicationId": "rn-143",
     "medication": "Fentanyl",
     "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for fentanyl therapy?",
+    "stem": "Which patient teaching is most important for Fentanyl therapy?",
     "choices": [
       "Do not alter patch dosing, avoid alcohol or CNS depressants, and report signs of overdose",
       "Take only when fever is present",
@@ -7576,10 +7563,10 @@
  {
     "id": "rn-q-420",
     "scope": ["RN"],
-    "medicationId": "rn-147",
+    "medicationId": "rn-143",
     "medication": "Fentanyl",
     "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with fentanyl?",
+    "stem": "Which patient condition requires caution with Fentanyl?",
     "choices": [
       "Severe respiratory disease, opioid-naive patients, or liver impairment",
       "Mild seasonal allergies",
@@ -7590,7 +7577,25 @@
     "rationale": "Fentanyl can cause profound respiratory depression; caution is required in these populations.",
     "clinicalPearl": "Start low doses in opioid-naive patients; monitor closely for sedation and respiratory effects."
   },
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
  {
     "id": "rn-q-421",
     "scope": ["RN"],
