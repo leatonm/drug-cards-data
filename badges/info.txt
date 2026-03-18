@@ -21,4 +21,4 @@
 21_Leet - tap current x3 and then tap new x3 in the update available window
 22_HomeGirlFlo - Take 10 question RN Quiz on May 12
 23_FirstOnScene - Take 10 question EMS Quiz on Feb 1
-24_MeanMedicsWearPink - do something on Wednesday 
+24_MeanMedicsWearPink - take 5 quiz on Wednesday 
