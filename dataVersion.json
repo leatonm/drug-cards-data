@@ -1,5 +1,5 @@
 {
-  "dataVersion": 35,
+  "dataVersion": 36,
   "dailyMessages": [
     "Every great medic started exactly where you are now. Keep studying.",
     "One more chapter, one more protocol — you’re getting better every day.",
@@ -106,6 +106,7 @@
     "The path to mastery is built one lesson at a time.",
     "Study with intention and purpose.",
     "Every day is another chance to improve.",
-    "You’re closer to mastery than you were yesterday."
+    "You’re closer to mastery than you were yesterday.",
+    "Suck it."
   ]
 }
