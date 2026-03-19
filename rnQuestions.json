@@ -9521,14 +9521,1788 @@
     "rationale": "Hypokalemia from loop diuretics increases the risk of life-threatening arrhythmias.",
     "clinicalPearl": "Monitor electrolytes regularly and replace potassium as prescribed."
   },
+    
+{
+    "id": "rn-q-529",
+    "scope": ["RN"],
+    "medicationId": "rn-180",
+    "medication": "Furosemide (Lasix)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is associated with Furosemide (Lasix)?",
+    "choices": [
+      "Ototoxicity and hypokalemia",
+      "Hyperkalemia",
+      "Hypoglycemia",
+      "Hyponatremia only"
+    ],
+    "correctAnswer": "Ototoxicity and hypokalemia",
+    "rationale": "Furosemide (Lasix) can cause electrolyte loss, especially potassium, and high doses may cause ototoxicity.",
+    "clinicalPearl": "Monitor hearing changes and electrolyte levels during high-dose or IV therapy."
+  },
 
+ {
+    "id": "rn-q-530",
+    "scope": ["RN"],
+    "medicationId": "rn-180",
+    "medication": "Furosemide (Lasix)",
+    "questionType": "multiple-choice",
+    "stem": "Which teaching should be given to patients taking Furosemide (Lasix)?",
+    "choices": [
+      "Take in the morning to avoid nocturia",
+      "Take with potassium supplements always",
+      "Stop when swelling improves",
+      "Take only when short of breath"
+    ],
+    "correctAnswer": "Take in the morning to avoid nocturia",
+    "rationale": "Morning dosing helps prevent nighttime urination and sleep disruption.",
+    "clinicalPearl": "Consistent daily dosing improves symptom control and prevents fluid rebound."
+  },
 
+{
+    "id": "rn-q-531",
+    "scope": ["RN"],
+    "medicationId": "rn-180",
+    "medication": "Furosemide (Lasix)",
+    "questionType": "multiple-choice",
+    "stem": "Which symptom may indicate excessive diuresis in a patient taking Furosemide (Lasix)?",
+    "choices": [
+      "Dizziness and dry mouth",
+      "Increased appetite",
+      "Weight gain",
+      "Hyperglycemia"
+    ],
+    "correctAnswer": "Dizziness and dry mouth",
+    "rationale": "Symptoms of dehydration such as dizziness and dry mouth may indicate overdiuresis.",
+    "clinicalPearl": "Monitor daily weights and blood pressure to detect excessive fluid loss early."
+  },
+  
+  {
+    "id": "rn-q-532",
+    "scope": ["RN"],
+    "medicationId": "rn-181",
+    "medication": "Torsemide (Demadex)",
+    "questionType": "multiple-choice",
+    "stem": "Which electrolyte imbalance is most associated with Torsemide (Demadex)?",
+    "choices": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hypercalcemia",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Hypokalemia",
+    "rationale": "Torsemide (Demadex) is a loop diuretic that increases urinary potassium excretion, leading to hypokalemia.",
+    "clinicalPearl": "Monitor potassium levels closely to prevent cardiac dysrhythmias."
+  },
 
+ {
+    "id": "rn-q-533",
+    "scope": ["RN"],
+    "medicationId": "rn-181",
+    "medication": "Torsemide (Demadex)",
+    "questionType": "multiple-choice",
+    "stem": "Which condition is commonly treated with Torsemide (Demadex)?",
+    "choices": [
+      "Heart failure with fluid overload",
+      "Asthma",
+      "Migraine",
+      "Hypothyroidism"
+    ],
+    "correctAnswer": "Heart failure with fluid overload",
+    "rationale": "Torsemide (Demadex) is a loop diuretic used to treat edema associated with heart failure.",
+    "clinicalPearl": "Loop diuretics are first-line therapy for rapid fluid removal in volume overload."
+  },
 
+ {
+    "id": "rn-q-534",
+    "scope": ["RN"],
+    "medicationId": "rn-181",
+    "medication": "Torsemide (Demadex)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab value must be monitored closely in a patient taking Torsemide (Demadex)?",
+    "choices": [
+      "Potassium",
+      "INR",
+      "Calcium",
+      "Platelets"
+    ],
+    "correctAnswer": "Potassium",
+    "rationale": "Hypokalemia is a common adverse effect of loop diuretics and increases arrhythmia risk.",
+    "clinicalPearl": "Regular electrolyte monitoring is essential during loop diuretic therapy."
+  },
 
+ {
+    "id": "rn-q-535",
+    "scope": ["RN"],
+    "medicationId": "rn-182",
+    "medication": "Chlorothiazide (Diruil)",
+    "questionType": "multiple-choice",
+    "stem": "Which electrolyte abnormality is most likely with Chlorothiazide (Diruil)?",
+    "choices": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hypernatremia",
+      "Hypercalcemia"
+    ],
+    "correctAnswer": "Hypokalemia",
+    "rationale": "Chlorothiazide (Diruil) is a thiazide diuretic that increases potassium excretion.",
+    "clinicalPearl": "Encourage potassium-rich foods unless contraindicated."
+  },
 
+  {
+    "id": "rn-q-536",
+    "scope": ["RN"],
+    "medicationId": "rn-182",
+    "medication": "Chlorothiazide (Diruil)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is associated with Chlorothiazide (Diruil)?",
+    "choices": [
+      "Hyperuricemia",
+      "Hypoglycemia",
+      "Bradycardia",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Hyperuricemia",
+    "rationale": "Thiazide diuretics increase uric acid levels and may precipitate gout.",
+    "clinicalPearl": "Monitor uric acid levels in patients with a history of gout."
+  },
 
+  {
+    "id": "rn-q-537",
+    "scope": ["RN"],
+    "medicationId": "rn-182",
+    "medication": "Chlorothiazide (Diruil)",
+    "questionType": "multiple-choice",
+    "stem": "Which teaching is appropriate for a patient taking Chlorothiazide (Diruil)?",
+    "choices": [
+      "Eat potassium-rich foods",
+      "Take at bedtime",
+      "Avoid fluids",
+      "Double dose if missed"
+    ],
+    "correctAnswer": "Eat potassium-rich foods",
+    "rationale": "Potassium depletion is common with thiazide diuretics.",
+    "clinicalPearl": "Taking the medication in the morning can also help prevent nocturia."
+  },
 
+  {
+    "id": "rn-q-538",
+    "scope": ["RN"],
+    "medicationId": "rn-183",
+    "medication": "Indapamide (Lozol)",
+    "questionType": "multiple-choice",
+    "stem": "Which type of diuretic is Indapamide (Lozol)?",
+    "choices": [
+      "Thiazide-like diuretic",
+      "Loop diuretic",
+      "Potassium-sparing diuretic",
+      "Osmotic diuretic"
+    ],
+    "correctAnswer": "Thiazide-like diuretic",
+    "rationale": "Indapamide (Lozol) works similarly to thiazide diuretics to reduce sodium reabsorption.",
+    "clinicalPearl": "Thiazide-like diuretics are commonly used for hypertension management."
+  },
+
+  {
+    "id": "rn-q-539",
+    "scope": ["RN"],
+    "medicationId": "rn-183",
+    "medication": "Indapamide (Lozol)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect should be monitored in a patient taking Indapamide (Lozol)?",
+    "choices": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hypoglycemia",
+      "Hypercalcemia"
+    ],
+    "correctAnswer": "Hypokalemia",
+    "rationale": "Indapamide (Lozol) increases potassium excretion, which may lead to hypokalemia.",
+    "clinicalPearl": "Monitor electrolyte levels periodically during therapy."
+  },
+ 
+ {
+    "id": "rn-q-540",
+    "scope": ["RN"],
+    "medicationId": "rn-183",
+    "medication": "Indapamide (Lozol)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient benefit does Indapamide (Lozol) provide?",
+    "choices": [
+      "Reduces blood pressure in hypertension",
+      "Increases heart rate",
+      "Treats arrhythmias",
+      "Improves glucose control"
+    ],
+    "correctAnswer": "Reduces blood pressure in hypertension",
+    "rationale": "Indapamide (Lozol) is primarily used to lower blood pressure in patients with hypertension.",
+    "clinicalPearl": "Effective blood pressure control reduces the risk of stroke and cardiovascular events."
+  },
+  
+  {
+    "id": "rn-q-541",
+    "scope": ["RN"],
+    "medicationId": "rn-184",
+    "medication": "Metolazone (Zaroxolyn)",
+    "questionType": "multiple-choice",
+    "stem": "Why is Metolazone (Zaroxolyn) often given with loop diuretics?",
+    "choices": [
+      "It prevents dehydration",
+      "It enhances diuretic effect in resistant edema",
+      "It treats hypertension only",
+      "It prevents potassium loss"
+    ],
+    "correctAnswer": "It enhances diuretic effect in resistant edema",
+    "rationale": "Sequential nephron blockade with Metolazone (Zaroxolyn) and a loop diuretic increases sodium and fluid excretion in resistant edema.",
+    "clinicalPearl": "Metolazone (Zaroxolyn) is commonly combined with loop diuretics for synergistic diuresis in refractory heart failure."
+  },
+
+ {
+    "id": "rn-q-542",
+    "scope": ["RN"],
+    "medicationId": "rn-184",
+    "medication": "Metolazone (Zaroxolyn)",
+    "questionType": "multiple-choice",
+    "stem": "Which electrolyte imbalance is most likely with Metolazone (Zaroxolyn) therapy?",
+    "choices": [
+      "Hyperkalemia",
+      "Hypercalcemia",
+      "Hypokalemia",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Hypokalemia",
+    "rationale": "Metolazone (Zaroxolyn) increases potassium excretion, leading to hypokalemia.",
+    "clinicalPearl": "Monitor potassium closely when metolazone is combined with loop diuretics."
+  },
+ 
+ {
+    "id": "rn-q-543",
+    "scope": ["RN"],
+    "medicationId": "rn-184",
+    "medication": "Metolazone (Zaroxolyn)",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment finding is concerning in a patient taking Metolazone (Zaroxolyn)?",
+    "choices": [
+      "Constipation",
+      "Weight gain",
+      "Muscle weakness and arrhythmias",
+      "Nasal congestion"
+    ],
+    "correctAnswer": "Muscle weakness and arrhythmias",
+    "rationale": "Muscle weakness and arrhythmias are signs of hypokalemia, a potentially dangerous adverse effect.",
+    "clinicalPearl": "Electrolyte imbalances from aggressive diuresis can precipitate life-threatening dysrhythmias."
+  },
+
+ {
+    "id": "rn-q-544",
+    "scope": ["RN"],
+    "medicationId": "rn-185",
+    "medication": "Hydralazine and Isosorbide dinitrate (BiDil)",
+    "questionType": "multiple-choice",
+    "stem": "Which population benefits most from Hydralazine and Isosorbide dinitrate (BiDil) in heart failure?",
+    "choices": [
+      "Patients with hypertension only",
+      "Patients with reduced ejection fraction, especially African American patients",
+      "Patients with atrial fibrillation",
+      "Patients with bradycardia"
+    ],
+    "correctAnswer": "Patients with reduced ejection fraction, especially African American patients",
+    "rationale": "This combination improves survival in patients with HFrEF, particularly African American patients.",
+    "clinicalPearl": "Hydralazine plus nitrate therapy reduces mortality when added to standard therapy in select HFrEF patients."
+  },
+  
+  {
+    "id": "rn-q-545",
+    "scope": ["RN"],
+    "medicationId": "rn-185",
+    "medication": "Hydralazine and Isosorbide dinitrate (BiDil)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effects are expected with Hydralazine and Isosorbide dinitrate (BiDil)?",
+    "choices": [
+      "Hyperkalemia",
+      "Bradycardia",
+      "Headache and hypotension",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Headache and hypotension",
+    "rationale": "Vasodilation from nitrates and hydralazine commonly causes headache and low blood pressure.",
+    "clinicalPearl": "Headaches are common early in nitrate therapy and often improve with continued use."
+  },
+
+  {
+    "id": "rn-q-546",
+    "scope": ["RN"],
+    "medicationId": "rn-185",
+    "medication": "Hydralazine and Isosorbide dinitrate (BiDil)",
+    "questionType": "multiple-choice",
+    "stem": "Which drug interaction must be avoided with Hydralazine and Isosorbide dinitrate (BiDil)?",
+    "choices": [
+      "Beta blockers",
+      "Aspirin",
+      "PDE-5 inhibitors (sildenafil)",
+      "Diuretics"
+    ],
+    "correctAnswer": "PDE-5 inhibitors (sildenafil)",
+    "rationale": "Concurrent use of nitrates and PDE-5 inhibitors can cause severe, life-threatening hypotension.",
+    "clinicalPearl": "Never combine nitrates with sildenafil or similar medications due to profound vasodilation risk."
+  },
+
+ {
+    "id": "rn-q-547",
+    "scope": ["RN"],
+    "medicationId": "rn-186",
+    "medication": "Ivabradine (Corlanor)",
+    "questionType": "multiple-choice",
+    "stem": "How does Ivabradine (Corlanor) improve heart failure symptoms?",
+    "choices": [
+      "It increases preload",
+      "It lowers heart rate without affecting blood pressure",
+      "It dilates coronary arteries only",
+      "It increases contractility"
+    ],
+    "correctAnswer": "It lowers heart rate without affecting blood pressure",
+    "rationale": "Ivabradine (Corlanor) selectively inhibits the sinus node, reducing heart rate without lowering blood pressure.",
+    "clinicalPearl": "Ivabradine (Corlanor) is useful when beta blockers are maximized but heart rate remains elevated."
+  },
+
+  {
+    "id": "rn-q-548",
+    "scope": ["RN"],
+    "medicationId": "rn-186",
+    "medication": "Ivabradine (Corlanor)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient is appropriate for Ivabradine (Corlanor) therapy?",
+    "choices": [
+      "Patient with atrial fibrillation",
+      "Patient with resting HR ≥70 and sinus rhythm",
+      "Patient with hypotension",
+      "Patient with heart block"
+    ],
+    "correctAnswer": "Patient with resting HR ≥70 and sinus rhythm",
+    "rationale": "Ivabradine (Corlanor) is indicated for patients in sinus rhythm with a resting heart rate of 70 bpm or greater.",
+    "clinicalPearl": "Ivabradine (Corlanor) is ineffective in atrial fibrillation because it acts on the sinus node."
+  },
+
+  {
+    "id": "rn-q-549",
+    "scope": ["RN"],
+    "medicationId": "rn-186",
+    "medication": "Ivabradine (Corlanor)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect should be monitored in a patient taking Ivabradine (Corlanor)?",
+    "choices": [
+      "Hearing loss",
+      "Bradycardia and visual disturbances",
+      "Hypoglycemia",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Bradycardia and visual disturbances",
+    "rationale": "Ivabradine (Corlanor) can cause bradycardia and phosphenes (visual brightness).",
+    "clinicalPearl": "Monitor heart rate closely and educate patients about possible transient visual effects."
+  },
+ 
+  {
+    "id": "rn-q-550",
+    "scope": ["RN"],
+    "medicationId": "rn-187",
+    "medication": "Heparin",
+    "questionType": "multiple-choice",
+    "stem": "Which lab value monitors therapeutic IV Heparin?",
+    "choices": [
+      "INR",
+      "Platelet count",
+      "aPTT",
+      "Hemoglobin"
+    ],
+    "correctAnswer": "aPTT",
+    "rationale": "Activated partial thromboplastin time (aPTT) reflects the anticoagulant effect of IV heparin and guides dosing.",
+    "clinicalPearl": "Maintain aPTT within the therapeutic range to reduce clotting and bleeding risks."
+  },
+
+ {
+    "id": "rn-q-551",
+    "scope": ["RN"],
+    "medicationId": "rn-187",
+    "medication": "Heparin",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most serious with Heparin?",
+    "choices": [
+      "Hyperkalemia",
+      "Bleeding",
+      "Hypoglycemia",
+      "Hypertension"
+    ],
+    "correctAnswer": "Bleeding",
+    "rationale": "Excess anticoagulation significantly increases the risk of bleeding complications.",
+    "clinicalPearl": "Monitor for signs of internal bleeding such as hypotension, tachycardia, and decreased hemoglobin."
+  },
+
+ {
+    "id": "rn-q-552",
+    "scope": ["RN"],
+    "medicationId": "rn-187",
+    "medication": "Heparin",
+    "questionType": "multiple-choice",
+    "stem": "Which complication requires immediate discontinuation of Heparin?",
+    "choices": [
+      "Headache",
+      "Mild bruising",
+      "Heparin-induced thrombocytopenia (HIT)",
+      "Nausea"
+    ],
+    "correctAnswer": "Heparin-induced thrombocytopenia (HIT)",
+    "rationale": "HIT is a life-threatening immune-mediated reaction that requires immediate discontinuation of heparin.",
+    "clinicalPearl": "A sudden drop in platelet count of 50% or more suggests HIT."
+  },
+
+{
+    "id": "rn-q-553",
+    "scope": ["RN"],
+    "medicationId": "rn-188",
+    "medication": "Argatroban",
+    "questionType": "multiple-choice",
+    "stem": "Why is Argatroban used instead of Heparin?",
+    "choices": [
+      "Patient has hypertension",
+      "Patient has anemia",
+      "Patient has heparin-induced thrombocytopenia",
+      "Patient has renal failure"
+    ],
+    "correctAnswer": "Patient has heparin-induced thrombocytopenia",
+    "rationale": "Argatroban is a direct thrombin inhibitor used in patients with HIT.",
+    "clinicalPearl": "Argatroban does not cross-react with Heparin antibodies."
+  },
+
+ {
+    "id": "rn-q-554",
+    "scope": ["RN"],
+    "medicationId": "rn-188",
+    "medication": "Argatroban",
+    "questionType": "multiple-choice",
+    "stem": "Which lab is monitored during Argatroban therapy?",
+    "choices": [
+      "Platelets only",
+      "Hemoglobin",
+      "INR",
+      "aPTT"
+    ],
+    "correctAnswer": "aPTT",
+    "rationale": "aPTT is used to guide dosing of direct thrombin inhibitors like Argatroban.",
+    "clinicalPearl": "Frequent aPTT monitoring ensures safe and effective anticoagulation."
+  },
+
+ {
+    "id": "rn-q-555",
+    "scope": ["RN"],
+    "medicationId": "rn-188",
+    "medication": "Argatroban",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most concerning with Argatroban?",
+    "choices": [
+      "Hypoglycemia",
+      "Bleeding",
+      "Bradycardia",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Bleeding",
+    "rationale": "All anticoagulants increase the risk of bleeding.",
+    "clinicalPearl": "Assess for overt and occult bleeding during therapy."
+  },
+
+ {
+    "id": "rn-q-556",
+    "scope": ["RN"],
+    "medicationId": "rn-189",
+    "medication": "Bivalirudin (Angiomax)",
+    "questionType": "multiple-choice",
+    "stem": "In which setting is Bivalirudin (Angiomax) commonly used?",
+    "choices": [
+      "Chronic atrial fibrillation",
+      "During PCI or cardiac procedures",
+      "Hypertension treatment",
+      "DVT prophylaxis only"
+    ],
+    "correctAnswer": "During PCI or cardiac procedures",
+    "rationale": "Bivalirudin (Angiomax) is commonly used as an anticoagulant during invasive cardiac procedures such as PCI.",
+    "clinicalPearl": "Bivalirudin (Angiomax) is often preferred in patients at risk for HIT undergoing PCI."
+  },
+
+ {
+    "id": "rn-q-557",
+    "scope": ["RN"],
+    "medicationId": "rn-189",
+    "medication": "Bivalirudin (Angiomax)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect must be monitored with Bivalirudin (Angiomax)?",
+    "choices": [
+      "Hypertension",
+      "Bleeding",
+      "Hyperkalemia",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Bleeding",
+    "rationale": "Direct thrombin inhibitors increase bleeding risk.",
+    "clinicalPearl": "Monitor access sites closely following cardiac procedures."
+  },
+
+{
+    "id": "rn-q-558",
+    "scope": ["RN"],
+    "medicationId": "rn-189",
+    "medication": "Bivalirudin (Angiomax)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient benefit does Bivalirudin (Angiomax) provide?",
+    "choices": [
+      "Improves blood pressure",
+      "Treats arrhythmias",
+      "Lower risk of HIT compared to heparin",
+      "Increases platelet count"
+    ],
+    "correctAnswer": "Lower risk of HIT compared to heparin",
+    "rationale": "Bivalirudin (Angiomax) does not trigger immune-mediated HIT like heparin can.",
+    "clinicalPearl": "Consider bivalirudin in patients with a history of HIT."
+  },
+
+ {
+    "id": "rn-q-559",
+    "scope": ["RN"],
+    "medicationId": "rn-190",
+    "medication": "Enoxaparin (Lovenox)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab is most important to monitor with Enoxaparin (Lovenox)?",
+    "choices": [
+      "INR",
+      "Platelet count",
+      "Potassium",
+      "aPTT"
+    ],
+    "correctAnswer": "Platelet count",
+    "rationale": "Low molecular weight heparins can still cause HIT, so platelet counts must be monitored.",
+    "clinicalPearl": "A decreasing platelet count may indicate HIT even with LMWH."
+  },
+
+ {
+    "id": "rn-q-560",
+    "scope": ["RN"],
+    "medicationId": "rn-190",
+    "medication": "Enoxaparin (Lovenox)",
+    "questionType": "multiple-choice",
+    "stem": "Which route is used for Enoxaparin (Lovenox) administration?",
+    "choices": [
+      "Intramuscular",
+      "Oral",
+      "Subcutaneous",
+      "Intravenous bolus"
+    ],
+    "correctAnswer": "Subcutaneous",
+    "rationale": "Enoxaparin (Lovenox) is administered via subcutaneous injection.",
+    "clinicalPearl": "Inject into the abdomen at least 2 inches away from the umbilicus."
+  },
+
+  {
+    "id": "rn-q-561",
+    "scope": ["RN"],
+    "medicationId": "rn-190",
+    "medication": "Enoxaparin (Lovenox)",
+    "questionType": "multiple-choice",
+    "stem": "Which teaching is appropriate for Enoxaparin (Lovenox) injections?",
+    "choices": [
+      "Aspirate before injecting",
+      "Inject into muscle",
+      "Rotate between arms only",
+      "Do not rub injection site after administration"
+    ],
+    "correctAnswer": "Do not rub injection site after administration",
+    "rationale": "Rubbing the injection site increases bruising and hematoma risk.",
+    "clinicalPearl": "Apply gentle pressure only after injection to minimize bleeding."
+  },
+
+  {
+    "id": "rn-q-562",
+    "scope": ["RN"],
+    "medicationId": "rn-191",
+    "medication": "Dalteparin (Fragmin)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab value must be monitored with Dalteparin (Fragmin) therapy?",
+    "choices": [
+      "INR",
+      "Platelet count",
+      "Potassium",
+      "aPTT"
+    ],
+    "correctAnswer": "Platelet count",
+    "rationale": "Low molecular weight heparins can cause heparin-induced thrombocytopenia (HIT); platelet counts should be monitored.",
+    "clinicalPearl": "A sudden drop in platelets while on LMWH may indicate HIT and requires immediate evaluation."
+  },
+
+ {
+    "id": "rn-q-563",
+    "scope": ["RN"],
+    "medicationId": "rn-191",
+    "medication": "Dalteparin (Fragmin)",
+    "questionType": "multiple-choice",
+    "stem": "Which route is used for Dalteparin (Fragmin) administration?",
+    "choices": [
+      "Intramuscular",
+      "Subcutaneous",
+      "Oral",
+      "Intravenous"
+    ],
+    "correctAnswer": "Subcutaneous",
+    "rationale": "Dalteparin (Fragmin) is administered via subcutaneous injection.",
+    "clinicalPearl": "Do not aspirate or massage the injection site to reduce bruising risk."
+  },
+
+ {
+    "id": "rn-q-564",
+    "scope": ["RN"],
+    "medicationId": "rn-191",
+    "medication": "Dalteparin (Fragmin)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most concerning for a patient taking Dalteparin (Fragmin)?",
+    "choices": [
+      "Hypoglycemia",
+      "Hyperkalemia",
+      "Bleeding",
+      "Hypertension"
+    ],
+    "correctAnswer": "Bleeding",
+    "rationale": "All anticoagulants increase the risk of bleeding, which is the most serious complication.",
+    "clinicalPearl": "Monitor for signs of internal bleeding such as bruising, hematuria, or black tarry stools."
+  },
+
+{
+    "id": "rn-q-565",
+    "scope": ["RN"],
+    "medicationId": "rn-192",
+    "medication": "Warfarin (Coumadin)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab test monitors Warfarin (Coumadin) therapy?",
+    "choices": [
+      "Hemoglobin",
+      "Platelet count",
+      "INR",
+      "aPTT"
+    ],
+    "correctAnswer": "INR",
+    "rationale": "INR reflects the clotting time affected by warfarin and guides dosing adjustments.",
+    "clinicalPearl": "The typical therapeutic INR range for most indications is 2.0–3.0."
+  },
+
+ {
+    "id": "rn-q-566",
+    "scope": ["RN"],
+    "medicationId": "rn-192",
+    "medication": "Warfarin (Coumadin)",
+    "questionType": "multiple-choice",
+    "stem": "Which food should be consumed consistently while taking Warfarin (Coumadin)?",
+    "choices": [
+      "Citrus fruits",
+      "Red meat",
+      "Green leafy vegetables",
+      "Dairy products"
+    ],
+    "correctAnswer": "Green leafy vegetables",
+    "rationale": "Vitamin K intake must remain consistent to maintain stable INR levels.",
+    "clinicalPearl": "Sudden increases or decreases in vitamin K intake can significantly alter INR."
+  },
+
+{
+    "id": "rn-q-567",
+    "scope": ["RN"],
+    "medicationId": "rn-192",
+    "medication": "Warfarin (Coumadin)",
+    "questionType": "multiple-choice",
+    "stem": "Which medication reverses Warfarin (Coumadin) overdose?",
+    "choices": [
+      "Protamine",
+      "Vitamin K",
+      "Flumazenil",
+      "Naloxone"
+    ],
+    "correctAnswer": "Vitamin K",
+    "rationale": "Vitamin K restores clotting factor synthesis and reverses warfarin effects.",
+    "clinicalPearl": "Severe warfarin-associated bleeding may also require fresh frozen plasma or prothrombin complex concentrate."
+  },
+
+{
+    "id": "rn-q-568",
+    "scope": ["RN"],
+    "medicationId": "rn-193",
+    "medication": "Apixaban (Eliquis)",
+    "questionType": "multiple-choice",
+    "stem": "Which condition is Apixaban (Eliquis) commonly prescribed for?",
+    "choices": [
+      "Pain management",
+      "Prevention of stroke in atrial fibrillation",
+      "Treatment of hypertension",
+      "Infection prevention"
+    ],
+    "correctAnswer": "Prevention of stroke in atrial fibrillation",
+    "rationale": "Apixaban (Eliquis) is a direct oral anticoagulant used to prevent embolic stroke in atrial fibrillation.",
+    "clinicalPearl": "Apixaban (Eliquis) does not require routine INR monitoring."
+  },
+
+ {
+    "id": "rn-q-569",
+    "scope": ["RN"],
+    "medicationId": "rn-193",
+    "medication": "Apixaban (Eliquis)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab test is routinely required for Apixaban (Eliquis) monitoring?",
+    "choices": [
+      "Platelet count",
+      "None",
+      "INR",
+      "aPTT"
+    ],
+    "correctAnswer": "None",
+    "rationale": "Direct oral anticoagulants do not require routine laboratory monitoring.",
+    "clinicalPearl": "Although routine labs are not required, renal function should be assessed periodically."
+  },
+
+{
+    "id": "rn-q-570",
+    "scope": ["RN"],
+    "medicationId": "rn-193",
+    "medication": "Apixaban (Eliquis)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most important to teach the patient who is taking Apixaban (Eliquis)?",
+    "choices": [
+      "Hypertension",
+      "Hyperkalemia",
+      "Bleeding risk",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Bleeding risk",
+    "rationale": "All anticoagulants increase the risk of bleeding.",
+    "clinicalPearl": "Patients should report unusual bruising, prolonged bleeding, or blood in urine or stool."
+  },
+
+  {
+    "id": "rn-q-571",
+    "scope": ["RN"],
+    "medicationId": "rn-194",
+    "medication": "Rivaroxaban (Xarelto)",
+    "questionType": "multiple-choice",
+    "stem": "Which instruction is correct for Rivaroxaban (Xarelto) administration?",
+    "choices": [
+      "Split tablets",
+      "Take with food for higher doses",
+      "Avoid fluids",
+      "Take only at bedtime"
+    ],
+    "correctAnswer": "Take with food for higher doses",
+    "rationale": "Higher doses of Rivaroxaban (Xarelto) require food to increase absorption and ensure therapeutic effect.",
+    "clinicalPearl": "The 15 mg and 20 mg doses of Rivaroxaban (Xarelto) should be taken with meals."
+  },
+
+ {
+    "id": "rn-q-572",
+    "scope": ["RN"],
+    "medicationId": "rn-194",
+    "medication": "Rivaroxaban (Xarelto)",
+    "questionType": "multiple-choice",
+    "stem": "Which condition is treated with Rivaroxaban (Xarelto)?",
+    "choices": [
+      "Hypertension control",
+      "DVT and PE prevention",
+      "Migraine prophylaxis",
+      "Treatment of asthma"
+    ],
+    "correctAnswer": "DVT and PE prevention",
+    "rationale": "Rivaroxaban (Xarelto) is a direct Factor Xa inhibitor used to prevent and treat venous thromboembolism.",
+    "clinicalPearl": "Rivaroxaban (Xarelto) is commonly used for both treatment and secondary prevention of DVT and PE."
+  },
+
+ {
+    "id": "rn-q-573",
+    "scope": ["RN"],
+    "medicationId": "rn-194",
+    "medication": "Rivaroxaban (Xarelto)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect requires immediate attention for a patient taking Rivaroxaban (Xarelto)?",
+    "choices": [
+      "Mild headache",
+      "Signs of bleeding",
+      "Dry mouth",
+      "Nasal congestion"
+    ],
+    "correctAnswer": "Signs of bleeding",
+    "rationale": "Bleeding is the primary serious risk associated with rivaroxaban.",
+    "clinicalPearl": "Patients should report black stools, hematuria, or prolonged bleeding immediately."
+  },
+
+  {
+    "id": "rn-q-574",
+    "scope": ["RN"],
+    "medicationId": "rn-195",
+    "medication": "Edoxaban (Savysa)",
+    "questionType": "multiple-choice",
+    "stem": "Edoxaban (Savysa) works by inhibiting which clotting factor?",
+    "choices": [
+      "Factor IIa",
+      "Factor VII",
+      "Factor Xa",
+      "Platelet aggregation"
+    ],
+    "correctAnswer": "Factor Xa",
+    "rationale": "Edoxaban (Savysa) is a direct Factor Xa inhibitor that prevents thrombin generation.",
+    "clinicalPearl": "Factor Xa inhibitors block the conversion of prothrombin to thrombin."
+  },
+
+  {
+    "id": "rn-q-575",
+    "scope": ["RN"],
+    "medicationId": "rn-195",
+    "medication": "Edoxaban (Savysa)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient instruction is correct for a patient taking Edoxaban (Savysa)?",
+    "choices": [
+      "Double dose if missed",
+      "Stop if bruising occurs",
+      "Do not skip doses",
+      "Take with antacids"
+    ],
+    "correctAnswer": "Do not skip doses",
+    "rationale": "Skipping doses increases the risk of stroke or thromboembolism.",
+    "clinicalPearl": "Consistent daily dosing is critical for DOAC effectiveness."
+  },
+
+  {
+    "id": "rn-q-576",
+    "scope": ["RN"],
+    "medicationId": "rn-195",
+    "medication": "Edoxaban (Savysa)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab test is required routinely for a patient taking Edoxaban (Savysa)?",
+    "choices": [
+      "INR",
+      "None",
+      "Platelet function",
+      "aPTT"
+    ],
+    "correctAnswer": "None",
+    "rationale": "Routine coagulation monitoring is not required with Edoxaban (Savysa).",
+    "clinicalPearl": "Renal function should still be monitored periodically."
+  },
+
+ {
+    "id": "rn-q-577",
+    "scope": ["RN"],
+    "medicationId": "rn-196",
+    "medication": "Dabigatran (Pradaxa)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is common with Dabigatran (Pradaxa)?",
+    "choices": [
+      "Hypertension",
+      "GI upset and bleeding",
+      "Hyperkalemia",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "GI upset and bleeding",
+    "rationale": "Dyspepsia and bleeding are common adverse effects of Dabigatran (Pradaxa).",
+    "clinicalPearl": "Taking Dabigatran (Pradaxa) with a full glass of water may reduce GI discomfort."
+  },
+
+ {
+    "id": "rn-q-578",
+    "scope": ["RN"],
+    "medicationId": "rn-196",
+    "medication": "Dabigatran (Pradaxa)",
+    "questionType": "multiple-choice",
+    "stem": "Which antidote reverses Dabigatran (Pradaxa)?",
+    "choices": [
+      "Vitamin K",
+      "Naloxone",
+      "Idarucizumab",
+      "Protamine"
+    ],
+    "correctAnswer": "Idarucizumab (Praxbind)",
+    "rationale": "Idarucizumab (Praxbind) specifically binds to and reverses Dabigatran (Pradaxa).",
+    "clinicalPearl": "Idarucizumab (Praxbind) provides rapid reversal in cases of life-threatening bleeding."
+  },
+
+ {
+    "id": "rn-q-579",
+    "scope": ["RN"],
+    "medicationId": "rn-196",
+    "medication": "Dabigatran (Pradaxa)",
+    "questionType": "multiple-choice",
+    "stem": "How should Dabigatran (Pradaxa) capsules be taken?",
+    "choices": [
+      "Crush and mix with food",
+      "Swallow whole",
+      "Dissolve under tongue",
+      "Avoid water"
+    ],
+    "correctAnswer": "Swallow whole",
+    "rationale": "Crushing or opening capsules increases absorption and bleeding risk.",
+    "clinicalPearl": "Dabigatran (Pradaxa) capsules should be kept in their original container to protect from moisture."
+  },
+
+  {
+    "id": "rn-q-580",
+    "scope": ["RN"],
+    "medicationId": "rn-197",
+    "medication": "Protamine",
+    "questionType": "multiple-choice",
+    "stem": "Protamine is used to reverse which medication?",
+    "choices": [
+      "Aspirin",
+      "Heparin",
+      "Clopidogrel",
+      "Warfarin"
+    ],
+    "correctAnswer": "Heparin",
+    "rationale": "Protamine sulfate binds to and neutralizes heparin.",
+    "clinicalPearl": "Protamine only partially reverses low molecular weight heparins."
+  },
+
+{
+    "id": "rn-q-581",
+    "scope": ["RN"],
+    "medicationId": "rn-197",
+    "medication": "Protamine",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse reaction is possible with Protamine?",
+    "choices": [
+      "Hyperglycemia",
+      "Hypotension and allergic reactions",
+      "Hypertension",
+      "Bradycardia"
+    ],
+    "correctAnswer": "Hypotension and allergic reactions",
+    "rationale": "Protamine may cause severe hypotension and hypersensitivity reactions.",
+    "clinicalPearl": "Administer protamine slowly IV to reduce risk of hypotension."
+  },
+
+ {
+    "id": "rn-q-582",
+    "scope": ["RN"],
+    "medicationId": "rn-197",
+    "medication": "Protamine",
+    "questionType": "multiple-choice",
+    "stem": "Which patient history increases risk of Protamine reaction?",
+    "choices": [
+      "Asthma",
+      "Fish allergy",
+      "Hypertension",
+      "Diabetes"
+    ],
+    "correctAnswer": "Fish allergy",
+    "rationale": "Protamine is derived from fish sperm proteins and may cause allergic reactions in patients with fish allergy.",
+    "clinicalPearl": "Patients with prior vasectomy or exposure to protamine-containing insulin may also be at higher risk."
+  },
+
+ {
+    "id": "rn-q-583",
+    "scope": ["RN"],
+    "medicationId": "rn-198",
+    "medication": "Vitamin K (Phytonadione)",
+    "questionType": "multiple-choice",
+    "stem": "Vitamin K (Phytonadione) is administered for overdose of which drug?",
+    "choices": [
+      "Clopidogrel",
+      "Heparin",
+      "Warfarin",
+      "Aspirin"
+    ],
+    "correctAnswer": "Warfarin",
+    "rationale": "Vitamin K (Phytonadione) restores clotting factor production inhibited by warfarin.",
+    "clinicalPearl": "Vitamin K (Phytonadione) reversal may take several hours depending on route of administration."
+  },
+
+ {
+    "id": "rn-q-584",
+    "scope": ["RN"],
+    "medicationId": "rn-198",
+    "medication": "Vitamin K (Phytonadione)",
+    "questionType": "multiple-choice",
+    "stem": "Which route for adminstering Vitamin K (Phytonadione) can be used in emergency bleeding?",
+    "choices": [
+      "Topical",
+      "IV",
+      "Inhaled",
+      "Oral only"
+    ],
+    "correctAnswer": "IV",
+    "rationale": "Intravenous Vitamin K (Phytonadione) works fastest in emergency bleeding situations.",
+    "clinicalPearl": "IV Vitamin K (Phytonadione) should be administered slowly to prevent anaphylactoid reactions."
+  },
+
+  {
+    "id": "rn-q-585",
+    "scope": ["RN"],
+    "medicationId": "rn-198",
+    "medication": "Vitamin K (Phytonadione)",
+    "questionType": "multiple-choice",
+    "stem": "Which effect is expected after Vitamin K (Phytonadione) administration?",
+    "choices": [
+      "Increased bleeding",
+      "Lower platelet count",
+      "Decreased INR",
+      "Increased aPTT"
+    ],
+    "correctAnswer": "Decreased INR",
+    "rationale": "Vitamin K (Phytonadione) restores clotting factor synthesis, lowering the INR.",
+    "clinicalPearl": "Monitor INR closely after Vitamin K (Phytonadione) administration to guide further therapy."
+  },
+
+ {
+    "id": "rn-q-586",
+    "scope": ["RN"],
+    "medicationId": "rn-199",
+    "medication": "Aspirin",
+    "questionType": "multiple-choice",
+    "stem": "Which action best describes Aspirin?",
+    "choices": [
+      "Increases fibrin",
+      "Dissolves existing clots",
+      "Inhibits platelet aggregation",
+      "Increases clot formation"
+    ],
+    "correctAnswer": "Inhibits platelet aggregation",
+    "rationale": "Aspirin inhibits thromboxane A2, preventing platelet aggregation.",
+    "clinicalPearl": "Aspirin irreversibly affects platelets for their lifespan (7–10 days)."
+  },
+
+ {
+    "id": "rn-q-587",
+    "scope": ["RN"],
+    "medicationId": "rn-199",
+    "medication": "Aspirin",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most serious for a patient taking Aspirin?",
+    "choices": [
+      "GI bleeding",
+      "Hypertension",
+      "Hyperkalemia",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "GI bleeding",
+    "rationale": "Aspirin increases the risk of gastrointestinal bleeding.",
+    "clinicalPearl": "Use cautiously in patients with a history of ulcers or GI bleeding."
+  },
+ 
+ {
+    "id": "rn-q-588",
+    "scope": ["RN"],
+    "medicationId": "rn-199",
+    "medication": "Aspirin",
+    "questionType": "multiple-choice",
+    "stem": "Which patient should avoid Aspirin therapy?",
+    "choices": [
+      "Patient with diabetes",
+      "Patient with hyperlipidemia",
+      "Patient with peptic ulcer disease",
+      "Patient with hypertension"
+    ],
+    "correctAnswer": "Patient with peptic ulcer disease",
+    "rationale": "Aspirin increases the risk of GI bleeding, especially in patients with ulcers.",
+    "clinicalPearl": "Consider gastroprotective therapy if aspirin is required in high-risk patients."
+  },
+
+ {
+    "id": "rn-q-589",
+    "scope": ["RN"],
+    "medicationId": "rn-200",
+    "medication": "Clopidogrel (Plavix)",
+    "questionType": "multiple-choice",
+    "stem": "Which condition commonly requires Clopidogrel (Plavix) therapy?",
+    "choices": [
+      "Hypertension",
+      "After coronary stent placement",
+      "Asthma",
+      "DVT only"
+    ],
+    "correctAnswer": "After coronary stent placement",
+    "rationale": "Clopidogrel (Plavix) prevents platelet aggregation and reduces risk of stent thrombosis.",
+    "clinicalPearl": "Dual antiplatelet therapy is common after stent placement."
+  },
+
+ {
+    "id": "rn-q-590",
+    "scope": ["RN"],
+    "medicationId": "rn-200",
+    "medication": "Clopidogrel (Plavix)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect should be reported immediately after taking Clopidogrel (Plavix)?",
+    "choices": [
+      "Mild headache",
+      "Unusual bleeding or bruising",
+      "Fatigue",
+      "Nasal congestion"
+    ],
+    "correctAnswer": "Unusual bleeding or bruising",
+    "rationale": "Clopidogrel (Plavix) increases bleeding risk and unusual bleeding should be reported promptly.",
+    "clinicalPearl": "Monitor for signs of internal bleeding such as black stools or hematuria."
+  },
+
+{
+    "id": "rn-q-591",
+    "scope": ["RN"],
+    "medicationId": "rn-200",
+    "medication": "Clopidogrel (Plavix)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab value is most important to monitor for a patient taking Clopidogrel (Plavix)?",
+    "choices": [
+      "Blood glucose",
+      "Serum potassium",
+      "Signs of bleeding",
+      "INR"
+    ],
+    "correctAnswer": "Signs of bleeding",
+    "rationale": "Clopidogrel (Plavix) inhibits platelet function; monitoring for bleeding is most important.",
+    "clinicalPearl": "Routine INR monitoring is not required for antiplatelet agents."
+  },
+
+  {
+    "id": "rn-q-592",
+    "scope": ["RN"],
+    "medicationId": "rn-201",
+    "medication": "Prasugrel (Effient)",
+    "questionType": "multiple-choice",
+    "stem": "Which action best describes Prasugrel (Effient)?",
+    "choices": [
+      "Inhibits factor Xa",
+      "Dissolves clots",
+      "Inhibits platelet aggregation by blocking P2Y12",
+      "Inhibits thrombin"
+    ],
+    "correctAnswer": "Inhibits platelet aggregation by blocking P2Y12",
+    "rationale": "Prasugrel (Effient) is a P2Y12 receptor inhibitor that prevents platelet aggregation.",
+    "clinicalPearl": "Prasugrel (Effient) provides more potent platelet inhibition than clopidogrel."
+  },
+
+{
+    "id": "rn-q-593",
+    "scope": ["RN"],
+    "medicationId": "rn-201",
+    "medication": "Prasugrel (Effient)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient should NOT receive Prasugrel (Effient)?",
+    "choices": [
+      "Controlled hypertension",
+      "History of stroke or TIA",
+      "Hyperlipidemia",
+      "Stable angina"
+    ],
+    "correctAnswer": "History of stroke or TIA",
+    "rationale": "Prasugrel (Effient) significantly increases bleeding risk in patients with a history of stroke or TIA.",
+    "clinicalPearl": "Prasugrel (Effient) is contraindicated in patients with prior stroke or TIA."
+  },
+
+{
+    "id": "rn-q-594",
+    "scope": ["RN"],
+    "medicationId": "rn-201",
+    "medication": "Prasugrel (Effient)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most concerning for a patient taking Prasugrel (Effient)?",
+    "choices": [
+      "Constipation",
+      "Bleeding",
+      "Cough",
+      "Hyperglycemia"
+    ],
+    "correctAnswer": "Bleeding",
+    "rationale": "All antiplatelet agents increase the risk of bleeding.",
+    "clinicalPearl": "Monitor for signs of internal bleeding such as melena or hematuria."
+  },
+
+{
+    "id": "rn-q-595",
+    "scope": ["RN"],
+    "medicationId": "rn-202",
+    "medication": "Ticagrelor (Brilinta)",
+    "questionType": "multiple-choice",
+    "stem": "Ticagrelor (Brilinta) differs from Clopidogrel (Plavix) because it is:",
+    "choices": [
+      "Vitamin K antagonist",
+      "Reversible platelet inhibitor",
+      "IV only",
+      "Long-acting anticoagulant"
+    ],
+    "correctAnswer": "Reversible platelet inhibitor",
+    "rationale": "Ticagrelor (Brilinta) reversibly inhibits P2Y12 platelet receptors.",
+    "clinicalPearl": "Unlike Clopidogrel (Plavix), ticagrelor does not require metabolic activation."
+  },
+
+{
+    "id": "rn-q-596",
+    "scope": ["RN"],
+    "medicationId": "rn-202",
+    "medication": "Ticagrelor (Brilinta)",
+    "questionType": "multiple-choice",
+    "stem": "Which side effect is common with Ticagrelor (Brilinta)?",
+    "choices": [
+      "Hypoglycemia",
+      "Dyspnea",
+      "Bradycardia",
+      "Hypertension"
+    ],
+    "correctAnswer": "Dyspnea",
+    "rationale": "Dyspnea is a known adverse effect associated with Ticagrelor (Brilinta).",
+    "clinicalPearl": "Dyspnea with Ticagrelor (Brilinta) is often mild and transient but should still be assessed."
+  },
+
+{
+    "id": "rn-q-597",
+    "scope": ["RN"],
+    "medicationId": "rn-202",
+    "medication": "Ticagrelor (Brilinta)",
+    "questionType": "multiple-choice",
+    "stem": "Which instruction is appropriate for a patient taking Ticagrelor (Brilinta)?",
+    "choices": [
+      "Crush tablets",
+      "Avoid aspirin doses over 100 mg/day",
+      "Take with grapefruit juice",
+      "Skip doses if bruising occurs"
+    ],
+    "correctAnswer": "Avoid aspirin doses over 100 mg/day",
+    "rationale": "High-dose aspirin reduces the effectiveness of Ticagrelor (Brilinta).",
+    "clinicalPearl": "Ticagrelor (Brilinta) is typically given with low-dose aspirin (≤100 mg daily)."
+  },
+
+ {
+    "id": "rn-q-598",
+    "scope": ["RN"],
+    "medicationId": "rn-203",
+    "medication": "Cangrelor (Kengreal)",
+    "questionType": "multiple-choice",
+    "stem": "Cangrelor (Kengreal) is administered by which route?",
+    "choices": [
+      "Oral",
+      "Intramuscular",
+      "Intravenous",
+      "Subcutaneous"
+    ],
+    "correctAnswer": "Intravenous",
+    "rationale": "Cangrelor (Kengreal) is administered intravenously during procedures.",
+    "clinicalPearl": "Cangrelor (Kengreal) has a very short half-life and provides rapid platelet inhibition."
+  },
+
+ {
+    "id": "rn-q-599",
+    "scope": ["RN"],
+    "medicationId": "rn-203",
+    "medication": "Cangrelor (Kengreal)",
+    "questionType": "multiple-choice",
+    "stem": "When is Cangrelor (Kengreal) most commonly used?",
+    "choices": [
+      "Hypertension",
+      "During PCI procedures",
+      "DVT treatment",
+      "Chronic stroke prevention"
+    ],
+    "correctAnswer": "During PCI procedures",
+    "rationale": "Cangrelor (Kengreal) is used during percutaneous coronary intervention (PCI).",
+    "clinicalPearl": "It is useful when rapid, short-term platelet inhibition is needed."
+  },
+
+ {
+    "id": "rn-q-600",
+    "scope": ["RN"],
+    "medicationId": "rn-203",
+    "medication": "Cangrelor (Kengreal)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is highest risk for a patient taking Cangrelor (Kengreal)?",
+    "choices": [
+      "Hyperkalemia",
+      "Hypoglycemia",
+      "Bleeding",
+      "Nephrotoxicity"
+    ],
+    "correctAnswer": "Bleeding",
+    "rationale": "Potent platelet inhibition increases the risk of bleeding.",
+    "clinicalPearl": "Careful monitoring during and after infusion is essential."
+  },
+
+  {
+    "id": "rn-q-601",
+    "scope": ["RN"],
+    "medicationId": "rn-204",
+    "medication": "Eptifibatide (Integrelin)",
+    "questionType": "multiple-choice",
+    "stem": "Eptifibatide (Integrelin) blocks which receptor?",
+    "choices": [
+      "Factor Xa",
+      "GPIIb/IIIa",
+      "Thrombin",
+      "P2Y12"
+    ],
+    "correctAnswer": "GPIIb/IIIa",
+    "rationale": "Eptifibatide (Integrelin) is a GPIIb/IIIa inhibitor that prevents platelet aggregation.",
+    "clinicalPearl": "GPIIb/IIIa inhibitors provide potent, short-term platelet inhibition during ACS and PCI."
+  },
+
+ {
+    "id": "rn-q-602",
+    "scope": ["RN"],
+    "medicationId": "rn-204",
+    "medication": "Eptifibatide (Integrelin)",
+    "questionType": "multiple-choice",
+    "stem": "Which setting is Eptifibatide (Integrelin) typically used in?",
+    "choices": [
+      "Hypertension",
+      "Acute coronary syndrome",
+      "Asthma exacerbation",
+      "Infection control"
+    ],
+    "correctAnswer": "Acute coronary syndrome",
+    "rationale": "Eptifibatide (Integrelin) is used in acute coronary syndrome and during PCI.",
+    "clinicalPearl": "It reduces the risk of thrombotic complications during coronary interventions."
+  },
+
+ {
+    "id": "rn-q-603",
+    "scope": ["RN"],
+    "medicationId": "rn-204",
+    "medication": "Eptifibatide (Integrelin)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab should be monitored for a patient taking Eptifibatide (Integrelin)?",
+    "choices": [
+      "Glucose",
+      "Platelet count",
+      "INR",
+      "Potassium"
+    ],
+    "correctAnswer": "Platelet count",
+    "rationale": "Thrombocytopenia may occur with GPIIb/IIIa inhibitors.",
+    "clinicalPearl": "Monitor for sudden drops in platelets and signs of bleeding."
+  },
+
+{
+    "id": "rn-q-604",
+    "scope": ["RN"],
+    "medicationId": "rn-205",
+    "medication": "Alteplase",
+    "questionType": "multiple-choice",
+    "stem": "Alteplase is classified as which type of drug?",
+    "choices": [
+      "Anticoagulant",
+      "Beta blocker",
+      "Thrombolytic",
+      "Antiplatelet"
+    ],
+    "correctAnswer": "Thrombolytic",
+    "rationale": "Alteplase is a thrombolytic that dissolves existing clots.",
+    "clinicalPearl": "Thrombolytics convert plasminogen to plasmin to break down fibrin clots."
+  },
+
+{
+    "id": "rn-q-605",
+    "scope": ["RN"],
+    "medicationId": "rn-205",
+    "medication": "Alteplase",
+    "questionType": "multiple-choice",
+    "stem": "Which patient is eligible for Alteplase in ischemic stroke?",
+    "choices": [
+      "Uncontrolled hypertension",
+      "Recent surgery",
+      "Onset within treatment window",
+      "History of brain bleed"
+    ],
+    "correctAnswer": "Onset within treatment window",
+    "rationale": "Eligibility for Alteplase depends on symptom onset within the approved time window and absence of contraindications.",
+    "clinicalPearl": "Time is brain — earlier treatment improves neurologic outcomes."
+  },
+
+{
+    "id": "rn-q-606",
+    "scope": ["RN"],
+    "medicationId": "rn-205",
+    "medication": "Alteplase",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most serious for a patient taking Alteplase?",
+    "choices": [
+      "Nausea",
+      "Intracranial hemorrhage",
+      "Hypotension",
+      "Tachycardia"
+    ],
+    "correctAnswer": "Intracranial hemorrhage",
+    "rationale": "Major bleeding, especially intracranial hemorrhage, is the most life-threatening risk.",
+    "clinicalPearl": "Frequent neurologic assessments are critical after thrombolytic administration."
+  },
+
+ {
+    "id": "rn-q-607",
+    "scope": ["RN"],
+    "medicationId": "rn-206",
+    "medication": "Tenecteplase (TNKase)",
+    "questionType": "multiple-choice",
+    "stem": "Tenecteplase (TNKase) is most commonly used for:",
+    "choices": [
+      "Atrial fibrillation",
+      "Acute myocardial infarction",
+      "Hypertension",
+      "DVT prophylaxis"
+    ],
+    "correctAnswer": "Acute myocardial infarction",
+    "rationale": "Tenecteplase (TNKase) is used for thrombolysis in ST-elevation myocardial infarction (STEMI).",
+    "clinicalPearl": "Tenecteplase (TNKase) is a modified form of alteplase with greater fibrin specificity."
+  },
+
+  {
+    "id": "rn-q-608",
+    "scope": ["RN"],
+    "medicationId": "rn-206",
+    "medication": "Tenecteplase (TNKase)",
+    "questionType": "multiple-choice",
+    "stem": "Which advantage does Tenecteplase (TNKase) have over alteplase?",
+    "choices": [
+      "Oral formulation",
+      "Lower bleeding risk",
+      "Single IV bolus dosing",
+      "Longer half-life than warfarin"
+    ],
+    "correctAnswer": "Single IV bolus dosing",
+    "rationale": "Tenecteplase (TNKase) is administered as a single IV bolus, making it easier to deliver.",
+    "clinicalPearl": "Single bolus dosing improves speed and simplicity in emergency STEMI care."
+  },
+
+{
+    "id": "rn-q-609",
+    "scope": ["RN"],
+    "medicationId": "rn-206",
+    "medication": "Tenecteplase (TNKase)",
+    "questionType": "multiple-choice",
+    "stem": "Which assessment is priority after administration of Tenecteplase (TNKase)?",
+    "choices": [
+      "Urine output",
+      "Signs of bleeding",
+      "Pain level",
+      "Blood glucose"
+    ],
+    "correctAnswer": "Signs of bleeding",
+    "rationale": "Bleeding is the primary complication of thrombolytic therapy.",
+    "clinicalPearl": "Monitor IV sites, neurologic status, and vital signs closely after administration."
+  },
+
+  {
+    "id": "rn-q-610",
+    "scope": ["RN"],
+    "medicationId": "rn-207",
+    "medication": "Atorvastatin (Lipitor)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab value should be monitored with Atorvastatin (Lipitor)?",
+    "choices": [
+      "Platelets",
+      "Liver enzymes",
+      "INR",
+      "Potassium"
+    ],
+    "correctAnswer": "Liver enzymes",
+    "rationale": "Statins may elevate liver enzymes due to hepatic metabolism.",
+    "clinicalPearl": "Baseline and periodic liver function tests are recommended during statin therapy."
+  },
+
+ {
+    "id": "rn-q-611",
+    "scope": ["RN"],
+    "medicationId": "rn-207",
+    "medication": "Atorvastatin (Lipitor)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect must be reported immediately for a patient taking Atorvastatin (Lipitor)?",
+    "choices": [
+      "Constipation",
+      "Muscle pain and weakness",
+      "Dry mouth",
+      "Cough"
+    ],
+    "correctAnswer": "Muscle pain and weakness",
+    "rationale": "Muscle pain and weakness may indicate rhabdomyolysis, a serious complication.",
+    "clinicalPearl": "Check creatine kinase (CK) levels if myopathy is suspected."
+  },
+
+{
+    "id": "rn-q-612",
+    "scope": ["RN"],
+    "medicationId": "rn-207",
+    "medication": "Atorvastatin (Lipitor)",
+    "questionType": "multiple-choice",
+    "stem": "Which instruction is appropriate for a patient taking Atorvastatin (Lipitor)?",
+    "choices": [
+      "Take with high-fat meals",
+      "Stop once cholesterol improves",
+      "Avoid grapefruit juice",
+      "Double dose if missed"
+    ],
+    "correctAnswer": "Avoid grapefruit juice",
+    "rationale": "Grapefruit juice increases statin levels and risk of toxicity.",
+    "clinicalPearl": "Patients should not abruptly stop statins without provider guidance."
+  },
+
+{
+    "id": "rn-q-613",
+    "scope": ["RN"],
+    "medicationId": "rn-208",
+    "medication": "Fluvastatin (Lescol XL)",
+    "questionType": "multiple-choice",
+    "stem": "Fluvastatin (Lescol XL) reduces cholesterol by:",
+    "choices": [
+      "Blocking bile absorption",
+      "Inhibiting platelet aggregation",
+      "Inhibiting HMG-CoA reductase",
+      "Increasing insulin secretion"
+    ],
+    "correctAnswer": "Inhibiting HMG-CoA reductase",
+    "rationale": "Statins block HMG-CoA reductase, reducing hepatic cholesterol synthesis.",
+    "clinicalPearl": "Reduced cholesterol synthesis increases LDL receptor expression."
+  },
+
+{
+    "id": "rn-q-614",
+    "scope": ["RN"],
+    "medicationId": "rn-208",
+    "medication": "Fluvastatin (Lescol XL)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is correct for a patient taking Fluvastatin (Lescol XL)?",
+    "choices": [
+      "Take with antacids",
+      "Stop during colds",
+      "Report muscle tenderness",
+      "Avoid fluids"
+    ],
+    "correctAnswer": "Report muscle tenderness",
+    "rationale": "Muscle tenderness may signal statin-induced myopathy.",
+    "clinicalPearl": "Early recognition of muscle symptoms can prevent severe rhabdomyolysis."
+  },
+
+{
+    "id": "rn-q-615",
+    "scope": ["RN"],
+    "medicationId": "rn-208",
+    "medication": "Fluvastatin (Lescol XL)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab test is important periodically for a patient taking Fluvastatin (Lescol XL)?",
+    "choices": [
+      "Hemoglobin",
+      "Liver function tests",
+      "INR",
+      "Platelet count"
+    ],
+    "correctAnswer": "Liver function tests",
+    "rationale": "Statins affect hepatic metabolism and may elevate liver enzymes.",
+    "clinicalPearl": "Persistent elevation of liver enzymes may require dosage adjustment."
+  },
+
+  {
+    "id": "rn-q-616",
+    "scope": ["RN"],
+    "medicationId": "rn-209",
+    "medication": "Pitavastatin (Livalo)",
+    "questionType": "multiple-choice",
+    "stem": "Pitavastatin (Livalo) is primarily used to:",
+    "choices": [
+      "Treat infection",
+      "Lower LDL cholesterol",
+      "Treat hypertension",
+      "Prevent clot formation"
+    ],
+    "correctAnswer": "Lower LDL cholesterol",
+    "rationale": "Pitavastatin (Livalo) is used to treat dyslipidemia by lowering LDL cholesterol.",
+    "clinicalPearl": "Lifestyle changes should accompany statin therapy."
+  },
+
+{
+    "id": "rn-q-617",
+    "scope": ["RN"],
+    "medicationId": "rn-209",
+    "medication": "Pitavastatin (Livalo)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is shared by all statins?",
+    "choices": [
+      "Hyperkalemia",
+      "Myopathy",
+      "Hypoglycemia",
+      "Cough"
+    ],
+    "correctAnswer": "Myopathy",
+    "rationale": "Muscle injury risk, including myopathy and rhabdomyolysis, is a class-wide statin effect.",
+    "clinicalPearl": "Concurrent use with certain drugs increases myopathy risk."
+  },
+
+ {
+    "id": "rn-q-618",
+    "scope": ["RN"],
+    "medicationId": "rn-209",
+    "medication": "Pitavastatin (Livalo)",
+    "questionType": "multiple-choice",
+    "stem": "Which instruction should the nurse give a patient taking Pitavastatin (Livalo)?",
+    "choices": [
+      "Stop exercising",
+      "Avoid pregnancy",
+      "Increase potassium intake",
+      "Take with grapefruit"
+    ],
+    "correctAnswer": "Avoid pregnancy",
+    "rationale": "Statins are contraindicated in pregnancy due to risk of fetal harm.",
+    "clinicalPearl": "Women of childbearing age should use effective contraception while taking statins."
+  },
+
+{
+    "id": "rn-q-619",
+    "scope": ["RN"],
+    "medicationId": "rn-210",
+    "medication": "Pravastatin (Pravachol)",
+    "questionType": "multiple-choice",
+    "stem": "Which statin has fewer drug interactions?",
+    "choices": [
+      "Atorvastatin (Lipitor)",
+      "Pravastatin (Pravachol)",
+      "Rosuvastatin (Crestor)",
+      "Simvastatin (Zocor)"
+    ],
+    "correctAnswer": "Pravastatin (Pravachol)",
+    "rationale": "Pravastatin (Pravachol) is not heavily metabolized by CYP enzymes, reducing drug interactions.",
+    "clinicalPearl": "Pravastatin (Pravachol) is often preferred in patients taking multiple medications."
+  },
+
+ {
+    "id": "rn-q-620",
+    "scope": ["RN"],
+    "medicationId": "rn-210",
+    "medication": "Pravastatin (Pravachol)",
+    "questionType": "multiple-choice",
+    "stem": "When is Pravastatin (Pravachol) usually taken?",
+    "choices": [
+      "At noon",
+      "With antacids",
+      "In the evening",
+      "Before meals"
+    ],
+    "correctAnswer": "In the evening",
+    "rationale": "Cholesterol synthesis is highest at night, making evening dosing most effective.",
+    "clinicalPearl": "Shorter-acting statins are typically given in the evening."
+  },
+
+  {
+    "id": "rn-q-621",
+    "scope": ["RN"],
+    "medicationId": "rn-210",
+    "medication": "Pravastatin (Pravachol)",
+    "questionType": "multiple-choice",
+    "stem": "Which symptom suggests rhabdomyolysis?",
+    "choices": [
+      "Chest pain",
+      "Nausea",
+      "Dark urine and muscle pain",
+      "Dry cough"
+    ],
+    "correctAnswer": "Dark urine and muscle pain",
+    "rationale": "Dark urine and muscle pain indicate muscle breakdown and possible kidney injury.",
+    "clinicalPearl": "Rhabdomyolysis is rare but life-threatening and requires immediate intervention."
+  },
+
+  {
+    "id": "rn-q-622",
+    "scope": ["RN"],
+    "medicationId": "rn-211",
+    "medication": "Rosuvastatin (Crestor)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab should be monitored with Rosuvastatin (Crestor) therapy?",
+    "choices": [
+      "INR",
+      "Platelet count",
+      "Liver enzymes",
+      "Potassium"
+    ],
+    "correctAnswer": "Liver enzymes",
+    "rationale": "Statins may elevate liver enzymes and require periodic monitoring.",
+    "clinicalPearl": "Baseline and periodic liver function tests are recommended during statin therapy."
+  },
+ 
+ {
+    "id": "rn-q-623",
+    "scope": ["RN"],
+    "medicationId": "rn-211",
+    "medication": "Rosuvastatin (Crestor)",
+    "questionType": "multiple-choice",
+    "stem": "Which symptom should be reported immediately for a patient taking Rosuvastatin (Crestor)?",
+    "choices": [
+      "Dry cough",
+      "Muscle pain and weakness",
+      "Nasal congestion",
+      "Heartburn"
+    ],
+    "correctAnswer": "Muscle pain and weakness",
+    "rationale": "Muscle pain and weakness may indicate myopathy or rhabdomyolysis.",
+    "clinicalPearl": "Unexplained muscle symptoms warrant prompt evaluation and possible CK testing."
+  },
+
+{
+    "id": "rn-q-624",
+    "scope": ["RN"],
+    "medicationId": "rn-211",
+    "medication": "Rosuvastatin (Crestor)",
+    "questionType": "multiple-choice",
+    "stem": "Which instruction is appropriate for a patient taking Rosuvastatin (Crestor)?",
+    "choices": [
+      "Avoid pregnancy",
+      "Take with grapefruit juice daily",
+      "Double the dose if one is missed",
+      "Stop once cholesterol improves"
+    ],
+    "correctAnswer": "Avoid pregnancy",
+    "rationale": "Statins are contraindicated in pregnancy due to potential harm to the fetus.",
+    "clinicalPearl": "Women of childbearing age should use reliable contraception while on statins."
+  },
+
+ {
+    "id": "rn-q-625",
+    "scope": ["RN"],
+    "medicationId": "rn-212",
+    "medication": "Simvastatin (Zocor)",
+    "questionType": "multiple-choice",
+    "stem": "Simvastatin (Zocor) lowers cholesterol by which mechanism?",
+    "choices": [
+      "Blocking fat absorption",
+      "Inhibiting platelet aggregation",
+      "Activating insulin receptors",
+      "Inhibiting HMG-CoA reductase"
+    ],
+    "correctAnswer": "Inhibiting HMG-CoA reductase",
+    "rationale": "Statins reduce cholesterol synthesis in the liver by inhibiting HMG-CoA reductase.",
+    "clinicalPearl": "Decreased cholesterol synthesis leads to increased LDL receptor expression."
+  },
+
+{
+    "id": "rn-q-626",
+    "scope": ["RN"],
+    "medicationId": "rn-212",
+    "medication": "Simvastatin (Zocor)",
+    "questionType": "multiple-choice",
+    "stem": "Which drug interaction increases the risk of muscle toxicity with Simvastatin (Zocor)?",
+    "choices": [
+      "Aspirin",
+      "Strong CYP3A4 inhibitors",
+      "Acetaminophen",
+      "Antacids"
+    ],
+    "correctAnswer": "Strong CYP3A4 inhibitors",
+    "rationale": "Simvastatin (Zocor) is metabolized by CYP3A4; inhibitors increase statin levels and muscle toxicity risk.",
+    "clinicalPearl": "Examples include certain macrolides and azole antifungals."
+  },
+
+{
+    "id": "rn-q-627",
+    "scope": ["RN"],
+    "medicationId": "rn-212",
+    "medication": "Simvastatin (Zocor)",
+    "questionType": "multiple-choice",
+    "stem": "When should Simvastatin (Zocor) typically be taken?",
+    "choices": [
+      "Before exercise",
+      "With breakfast",
+      "In the evening",
+      "Only when cholesterol is elevated"
+    ],
+    "correctAnswer": "In the evening",
+    "rationale": "Cholesterol synthesis peaks at night, making evening dosing most effective.",
+    "clinicalPearl": "Shorter-acting statins are best administered in the evening."
+  },
 
 
 
@@ -9550,1788 +11324,6 @@
 
 
     
-{
-    "id": "rn-q-529",
-    "scope": ["RN"],
-    "medicationId": "rn-184",
-    "medication": "Furosemide",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is associated with furosemide?",
-    "choices": [
-      "Ototoxicity and hypokalemia",
-      "Hyperkalemia",
-      "Hypoglycemia",
-      "Hyponatremia only"
-    ],
-    "correctAnswer": "Ototoxicity and hypokalemia",
-    "rationale": "Furosemide can cause electrolyte loss, especially potassium, and high doses may cause ototoxicity.",
-    "clinicalPearl": "Monitor hearing changes and electrolyte levels during high-dose or IV therapy."
-  },
-
- {
-    "id": "rn-q-530",
-    "scope": ["RN"],
-    "medicationId": "rn-184",
-    "medication": "Furosemide",
-    "questionType": "multiple-choice",
-    "stem": "Which teaching should be given to patients taking furosemide?",
-    "choices": [
-      "Take in the morning to avoid nocturia",
-      "Take with potassium supplements always",
-      "Stop when swelling improves",
-      "Take only when short of breath"
-    ],
-    "correctAnswer": "Take in the morning to avoid nocturia",
-    "rationale": "Morning dosing helps prevent nighttime urination and sleep disruption.",
-    "clinicalPearl": "Consistent daily dosing improves symptom control and prevents fluid rebound."
-  },
-
-{
-    "id": "rn-q-531",
-    "scope": ["RN"],
-    "medicationId": "rn-184",
-    "medication": "Furosemide",
-    "questionType": "multiple-choice",
-    "stem": "Which symptom may indicate excessive diuresis?",
-    "choices": [
-      "Dizziness and dry mouth",
-      "Increased appetite",
-      "Weight gain",
-      "Hyperglycemia"
-    ],
-    "correctAnswer": "Dizziness and dry mouth",
-    "rationale": "Symptoms of dehydration such as dizziness and dry mouth may indicate overdiuresis.",
-    "clinicalPearl": "Monitor daily weights and blood pressure to detect excessive fluid loss early."
-  },
-  
-  {
-    "id": "rn-q-532",
-    "scope": ["RN"],
-    "medicationId": "rn-185",
-    "medication": "Torsemide",
-    "questionType": "multiple-choice",
-    "stem": "Which electrolyte imbalance is most associated with torsemide?",
-    "choices": [
-      "Hypokalemia",
-      "Hyperkalemia",
-      "Hypercalcemia",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "Hypokalemia",
-    "rationale": "Torsemide is a loop diuretic that increases urinary potassium excretion, leading to hypokalemia.",
-    "clinicalPearl": "Monitor potassium levels closely to prevent cardiac dysrhythmias."
-  },
-
- {
-    "id": "rn-q-533",
-    "scope": ["RN"],
-    "medicationId": "rn-185",
-    "medication": "Torsemide",
-    "questionType": "multiple-choice",
-    "stem": "Which condition is commonly treated with torsemide?",
-    "choices": [
-      "Heart failure with fluid overload",
-      "Asthma",
-      "Migraine",
-      "Hypothyroidism"
-    ],
-    "correctAnswer": "Heart failure with fluid overload",
-    "rationale": "Torsemide is a loop diuretic used to treat edema associated with heart failure.",
-    "clinicalPearl": "Loop diuretics are first-line therapy for rapid fluid removal in volume overload."
-  },
-
- {
-    "id": "rn-q-534",
-    "scope": ["RN"],
-    "medicationId": "rn-185",
-    "medication": "Torsemide",
-    "questionType": "multiple-choice",
-    "stem": "Which lab value must be monitored closely in a patient taking torsemide?",
-    "choices": [
-      "Potassium",
-      "INR",
-      "Calcium",
-      "Platelets"
-    ],
-    "correctAnswer": "Potassium",
-    "rationale": "Hypokalemia is a common adverse effect of loop diuretics and increases arrhythmia risk.",
-    "clinicalPearl": "Regular electrolyte monitoring is essential during loop diuretic therapy."
-  },
-
- {
-    "id": "rn-q-535",
-    "scope": ["RN"],
-    "medicationId": "rn-186",
-    "medication": "Chlorothiazide",
-    "questionType": "multiple-choice",
-    "stem": "Which electrolyte abnormality is most likely with chlorothiazide?",
-    "choices": [
-      "Hypokalemia",
-      "Hyperkalemia",
-      "Hypernatremia",
-      "Hypercalcemia"
-    ],
-    "correctAnswer": "Hypokalemia",
-    "rationale": "Chlorothiazide is a thiazide diuretic that increases potassium excretion.",
-    "clinicalPearl": "Encourage potassium-rich foods unless contraindicated."
-  },
-
-  {
-    "id": "rn-q-536",
-    "scope": ["RN"],
-    "medicationId": "rn-186",
-    "medication": "Chlorothiazide",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is associated with chlorothiazide?",
-    "choices": [
-      "Hyperuricemia",
-      "Hypoglycemia",
-      "Bradycardia",
-      "Hyperkalemia"
-    ],
-    "correctAnswer": "Hyperuricemia",
-    "rationale": "Thiazide diuretics increase uric acid levels and may precipitate gout.",
-    "clinicalPearl": "Monitor uric acid levels in patients with a history of gout."
-  },
-
-  {
-    "id": "rn-q-537",
-    "scope": ["RN"],
-    "medicationId": "rn-186",
-    "medication": "Chlorothiazide",
-    "questionType": "multiple-choice",
-    "stem": "Which teaching is appropriate for a patient taking chlorothiazide?",
-    "choices": [
-      "Eat potassium-rich foods",
-      "Take at bedtime",
-      "Avoid fluids",
-      "Double dose if missed"
-    ],
-    "correctAnswer": "Eat potassium-rich foods",
-    "rationale": "Potassium depletion is common with thiazide diuretics.",
-    "clinicalPearl": "Taking the medication in the morning can also help prevent nocturia."
-  },
-
-  {
-    "id": "rn-q-538",
-    "scope": ["RN"],
-    "medicationId": "rn-187",
-    "medication": "Indapamide",
-    "questionType": "multiple-choice",
-    "stem": "Which type of diuretic is indapamide?",
-    "choices": [
-      "Thiazide-like diuretic",
-      "Loop diuretic",
-      "Potassium-sparing diuretic",
-      "Osmotic diuretic"
-    ],
-    "correctAnswer": "Thiazide-like diuretic",
-    "rationale": "Indapamide works similarly to thiazide diuretics to reduce sodium reabsorption.",
-    "clinicalPearl": "Thiazide-like diuretics are commonly used for hypertension management."
-  },
-
-  {
-    "id": "rn-q-539",
-    "scope": ["RN"],
-    "medicationId": "rn-187",
-    "medication": "Indapamide",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect should be monitored in a patient taking indapamide?",
-    "choices": [
-      "Hypokalemia",
-      "Hyperkalemia",
-      "Hypoglycemia",
-      "Hypercalcemia"
-    ],
-    "correctAnswer": "Hypokalemia",
-    "rationale": "Indapamide increases potassium excretion, which may lead to hypokalemia.",
-    "clinicalPearl": "Monitor electrolyte levels periodically during therapy."
-  },
- 
- {
-    "id": "rn-q-540",
-    "scope": ["RN"],
-    "medicationId": "rn-187",
-    "medication": "Indapamide",
-    "questionType": "multiple-choice",
-    "stem": "Which patient benefit does indapamide provide?",
-    "choices": [
-      "Reduces blood pressure in hypertension",
-      "Increases heart rate",
-      "Treats arrhythmias",
-      "Improves glucose control"
-    ],
-    "correctAnswer": "Reduces blood pressure in hypertension",
-    "rationale": "Indapamide is primarily used to lower blood pressure in patients with hypertension.",
-    "clinicalPearl": "Effective blood pressure control reduces the risk of stroke and cardiovascular events."
-  },
-  
-  {
-    "id": "rn-q-541",
-    "scope": ["RN"],
-    "medicationId": "rn-188",
-    "medication": "Metolazone",
-    "questionType": "multiple-choice",
-    "stem": "Why is metolazone often given with loop diuretics?",
-    "choices": [
-      "It prevents dehydration",
-      "It enhances diuretic effect in resistant edema",
-      "It treats hypertension only",
-      "It prevents potassium loss"
-    ],
-    "correctAnswer": "It enhances diuretic effect in resistant edema",
-    "rationale": "Sequential nephron blockade with metolazone and a loop diuretic increases sodium and fluid excretion in resistant edema.",
-    "clinicalPearl": "Metolazone is commonly combined with loop diuretics for synergistic diuresis in refractory heart failure."
-  },
-
- {
-    "id": "rn-q-542",
-    "scope": ["RN"],
-    "medicationId": "rn-188",
-    "medication": "Metolazone",
-    "questionType": "multiple-choice",
-    "stem": "Which electrolyte imbalance is most likely with metolazone therapy?",
-    "choices": [
-      "Hyperkalemia",
-      "Hypercalcemia",
-      "Hypokalemia",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "Hypokalemia",
-    "rationale": "Metolazone increases potassium excretion, leading to hypokalemia.",
-    "clinicalPearl": "Monitor potassium closely when metolazone is combined with loop diuretics."
-  },
- 
- {
-    "id": "rn-q-543",
-    "scope": ["RN"],
-    "medicationId": "rn-188",
-    "medication": "Metolazone",
-    "questionType": "multiple-choice",
-    "stem": "Which assessment finding is concerning in a patient taking metolazone?",
-    "choices": [
-      "Constipation",
-      "Weight gain",
-      "Muscle weakness and arrhythmias",
-      "Nasal congestion"
-    ],
-    "correctAnswer": "Muscle weakness and arrhythmias",
-    "rationale": "Muscle weakness and arrhythmias are signs of hypokalemia, a potentially dangerous adverse effect.",
-    "clinicalPearl": "Electrolyte imbalances from aggressive diuresis can precipitate life-threatening dysrhythmias."
-  },
-
- {
-    "id": "rn-q-544",
-    "scope": ["RN"],
-    "medicationId": "rn-189",
-    "medication": "Hydralazine + Isosorbide dinitrate",
-    "questionType": "multiple-choice",
-    "stem": "Which population benefits most from hydralazine plus isosorbide dinitrate in heart failure?",
-    "choices": [
-      "Patients with hypertension only",
-      "Patients with reduced ejection fraction, especially African American patients",
-      "Patients with atrial fibrillation",
-      "Patients with bradycardia"
-    ],
-    "correctAnswer": "Patients with reduced ejection fraction, especially African American patients",
-    "rationale": "This combination improves survival in patients with HFrEF, particularly African American patients.",
-    "clinicalPearl": "Hydralazine plus nitrate therapy reduces mortality when added to standard therapy in select HFrEF patients."
-  },
-  
-  {
-    "id": "rn-q-545",
-    "scope": ["RN"],
-    "medicationId": "rn-189",
-    "medication": "Hydralazine + Isosorbide dinitrate",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effects are expected with hydralazine plus isosorbide dinitrate?",
-    "choices": [
-      "Hyperkalemia",
-      "Bradycardia",
-      "Headache and hypotension",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "Headache and hypotension",
-    "rationale": "Vasodilation from nitrates and hydralazine commonly causes headache and low blood pressure.",
-    "clinicalPearl": "Headaches are common early in nitrate therapy and often improve with continued use."
-  },
-
-  {
-    "id": "rn-q-546",
-    "scope": ["RN"],
-    "medicationId": "rn-189",
-    "medication": "Hydralazine + Isosorbide dinitrate",
-    "questionType": "multiple-choice",
-    "stem": "Which drug interaction must be avoided with hydralazine plus isosorbide dinitrate?",
-    "choices": [
-      "Beta blockers",
-      "Aspirin",
-      "PDE-5 inhibitors (sildenafil)",
-      "Diuretics"
-    ],
-    "correctAnswer": "PDE-5 inhibitors (sildenafil)",
-    "rationale": "Concurrent use of nitrates and PDE-5 inhibitors can cause severe, life-threatening hypotension.",
-    "clinicalPearl": "Never combine nitrates with sildenafil or similar medications due to profound vasodilation risk."
-  },
-
- {
-    "id": "rn-q-547",
-    "scope": ["RN"],
-    "medicationId": "rn-190",
-    "medication": "Ivabradine",
-    "questionType": "multiple-choice",
-    "stem": "How does ivabradine improve heart failure symptoms?",
-    "choices": [
-      "It increases preload",
-      "It lowers heart rate without affecting blood pressure",
-      "It dilates coronary arteries only",
-      "It increases contractility"
-    ],
-    "correctAnswer": "It lowers heart rate without affecting blood pressure",
-    "rationale": "Ivabradine selectively inhibits the sinus node, reducing heart rate without lowering blood pressure.",
-    "clinicalPearl": "Ivabradine is useful when beta blockers are maximized but heart rate remains elevated."
-  },
-
-  {
-    "id": "rn-q-548",
-    "scope": ["RN"],
-    "medicationId": "rn-190",
-    "medication": "Ivabradine",
-    "questionType": "multiple-choice",
-    "stem": "Which patient is appropriate for ivabradine therapy?",
-    "choices": [
-      "Patient with atrial fibrillation",
-      "Patient with resting HR ≥70 and sinus rhythm",
-      "Patient with hypotension",
-      "Patient with heart block"
-    ],
-    "correctAnswer": "Patient with resting HR ≥70 and sinus rhythm",
-    "rationale": "Ivabradine is indicated for patients in sinus rhythm with a resting heart rate of 70 bpm or greater.",
-    "clinicalPearl": "Ivabradine is ineffective in atrial fibrillation because it acts on the sinus node."
-  },
-
-  {
-    "id": "rn-q-549",
-    "scope": ["RN"],
-    "medicationId": "rn-190",
-    "medication": "Ivabradine",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect should be monitored in a patient taking ivabradine?",
-    "choices": [
-      "Hearing loss",
-      "Bradycardia and visual disturbances",
-      "Hypoglycemia",
-      "Hyperkalemia"
-    ],
-    "correctAnswer": "Bradycardia and visual disturbances",
-    "rationale": "Ivabradine can cause bradycardia and phosphenes (visual brightness).",
-    "clinicalPearl": "Monitor heart rate closely and educate patients about possible transient visual effects."
-  },
- 
-  {
-    "id": "rn-q-550",
-    "scope": ["RN"],
-    "medicationId": "rn-191",
-    "medication": "Heparin",
-    "questionType": "multiple-choice",
-    "stem": "Which lab value monitors therapeutic IV heparin?",
-    "choices": [
-      "INR",
-      "Platelet count",
-      "aPTT",
-      "Hemoglobin"
-    ],
-    "correctAnswer": "aPTT",
-    "rationale": "Activated partial thromboplastin time (aPTT) reflects the anticoagulant effect of IV heparin and guides dosing.",
-    "clinicalPearl": "Maintain aPTT within the therapeutic range to reduce clotting and bleeding risks."
-  },
-
- {
-    "id": "rn-q-551",
-    "scope": ["RN"],
-    "medicationId": "rn-191",
-    "medication": "Heparin",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most serious with heparin?",
-    "choices": [
-      "Hyperkalemia",
-      "Bleeding",
-      "Hypoglycemia",
-      "Hypertension"
-    ],
-    "correctAnswer": "Bleeding",
-    "rationale": "Excess anticoagulation significantly increases the risk of bleeding complications.",
-    "clinicalPearl": "Monitor for signs of internal bleeding such as hypotension, tachycardia, and decreased hemoglobin."
-  },
-
- {
-    "id": "rn-q-552",
-    "scope": ["RN"],
-    "medicationId": "rn-191",
-    "medication": "Heparin",
-    "questionType": "multiple-choice",
-    "stem": "Which complication requires immediate discontinuation of heparin?",
-    "choices": [
-      "Headache",
-      "Mild bruising",
-      "Heparin-induced thrombocytopenia (HIT)",
-      "Nausea"
-    ],
-    "correctAnswer": "Heparin-induced thrombocytopenia (HIT)",
-    "rationale": "HIT is a life-threatening immune-mediated reaction that requires immediate discontinuation of heparin.",
-    "clinicalPearl": "A sudden drop in platelet count of 50% or more suggests HIT."
-  },
-
-{
-    "id": "rn-q-553",
-    "scope": ["RN"],
-    "medicationId": "rn-192",
-    "medication": "Argatroban",
-    "questionType": "multiple-choice",
-    "stem": "Why is argatroban used instead of heparin?",
-    "choices": [
-      "Patient has hypertension",
-      "Patient has anemia",
-      "Patient has heparin-induced thrombocytopenia",
-      "Patient has renal failure"
-    ],
-    "correctAnswer": "Patient has heparin-induced thrombocytopenia",
-    "rationale": "Argatroban is a direct thrombin inhibitor used in patients with HIT.",
-    "clinicalPearl": "Argatroban does not cross-react with heparin antibodies."
-  },
-
- {
-    "id": "rn-q-554",
-    "scope": ["RN"],
-    "medicationId": "rn-192",
-    "medication": "Argatroban",
-    "questionType": "multiple-choice",
-    "stem": "Which lab is monitored during argatroban therapy?",
-    "choices": [
-      "Platelets only",
-      "Hemoglobin",
-      "INR",
-      "aPTT"
-    ],
-    "correctAnswer": "aPTT",
-    "rationale": "aPTT is used to guide dosing of direct thrombin inhibitors like argatroban.",
-    "clinicalPearl": "Frequent aPTT monitoring ensures safe and effective anticoagulation."
-  },
-
- {
-    "id": "rn-q-555",
-    "scope": ["RN"],
-    "medicationId": "rn-192",
-    "medication": "Argatroban",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most concerning with argatroban?",
-    "choices": [
-      "Hypoglycemia",
-      "Bleeding",
-      "Bradycardia",
-      "Hyperkalemia"
-    ],
-    "correctAnswer": "Bleeding",
-    "rationale": "All anticoagulants increase the risk of bleeding.",
-    "clinicalPearl": "Assess for overt and occult bleeding during therapy."
-  },
-
- {
-    "id": "rn-q-556",
-    "scope": ["RN"],
-    "medicationId": "rn-193",
-    "medication": "Bivalirudin",
-    "questionType": "multiple-choice",
-    "stem": "In which setting is bivalirudin commonly used?",
-    "choices": [
-      "Chronic atrial fibrillation",
-      "During PCI or cardiac procedures",
-      "Hypertension treatment",
-      "DVT prophylaxis only"
-    ],
-    "correctAnswer": "During PCI or cardiac procedures",
-    "rationale": "Bivalirudin is commonly used as an anticoagulant during invasive cardiac procedures such as PCI.",
-    "clinicalPearl": "Bivalirudin is often preferred in patients at risk for HIT undergoing PCI."
-  },
-
- {
-    "id": "rn-q-557",
-    "scope": ["RN"],
-    "medicationId": "rn-193",
-    "medication": "Bivalirudin",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect must be monitored with bivalirudin?",
-    "choices": [
-      "Hypertension",
-      "Bleeding",
-      "Hyperkalemia",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "Bleeding",
-    "rationale": "Direct thrombin inhibitors increase bleeding risk.",
-    "clinicalPearl": "Monitor access sites closely following cardiac procedures."
-  },
-
-{
-    "id": "rn-q-558",
-    "scope": ["RN"],
-    "medicationId": "rn-193",
-    "medication": "Bivalirudin",
-    "questionType": "multiple-choice",
-    "stem": "Which patient benefit does bivalirudin provide?",
-    "choices": [
-      "Improves blood pressure",
-      "Treats arrhythmias",
-      "Lower risk of HIT compared to heparin",
-      "Increases platelet count"
-    ],
-    "correctAnswer": "Lower risk of HIT compared to heparin",
-    "rationale": "Bivalirudin does not trigger immune-mediated HIT like heparin can.",
-    "clinicalPearl": "Consider bivalirudin in patients with a history of HIT."
-  },
-
- {
-    "id": "rn-q-559",
-    "scope": ["RN"],
-    "medicationId": "rn-194",
-    "medication": "Enoxaparin",
-    "questionType": "multiple-choice",
-    "stem": "Which lab is most important to monitor with enoxaparin?",
-    "choices": [
-      "INR",
-      "Platelet count",
-      "Potassium",
-      "aPTT"
-    ],
-    "correctAnswer": "Platelet count",
-    "rationale": "Low molecular weight heparins can still cause HIT, so platelet counts must be monitored.",
-    "clinicalPearl": "A decreasing platelet count may indicate HIT even with LMWH."
-  },
-
- {
-    "id": "rn-q-560",
-    "scope": ["RN"],
-    "medicationId": "rn-194",
-    "medication": "Enoxaparin",
-    "questionType": "multiple-choice",
-    "stem": "Which route is used for enoxaparin administration?",
-    "choices": [
-      "Intramuscular",
-      "Oral",
-      "Subcutaneous",
-      "Intravenous bolus"
-    ],
-    "correctAnswer": "Subcutaneous",
-    "rationale": "Enoxaparin is administered via subcutaneous injection.",
-    "clinicalPearl": "Inject into the abdomen at least 2 inches away from the umbilicus."
-  },
-
-  {
-    "id": "rn-q-561",
-    "scope": ["RN"],
-    "medicationId": "rn-194",
-    "medication": "Enoxaparin",
-    "questionType": "multiple-choice",
-    "stem": "Which teaching is appropriate for enoxaparin injections?",
-    "choices": [
-      "Aspirate before injecting",
-      "Inject into muscle",
-      "Rotate between arms only",
-      "Do not rub injection site after administration"
-    ],
-    "correctAnswer": "Do not rub injection site after administration",
-    "rationale": "Rubbing the injection site increases bruising and hematoma risk.",
-    "clinicalPearl": "Apply gentle pressure only after injection to minimize bleeding."
-  },
-
-  {
-    "id": "rn-q-562",
-    "scope": ["RN"],
-    "medicationId": "rn-195",
-    "medication": "Dalteparin",
-    "questionType": "multiple-choice",
-    "stem": "Which lab value must be monitored with dalteparin therapy?",
-    "choices": [
-      "INR",
-      "Platelet count",
-      "Potassium",
-      "aPTT"
-    ],
-    "correctAnswer": "Platelet count",
-    "rationale": "Low molecular weight heparins can cause heparin-induced thrombocytopenia (HIT); platelet counts should be monitored.",
-    "clinicalPearl": "A sudden drop in platelets while on LMWH may indicate HIT and requires immediate evaluation."
-  },
-
- {
-    "id": "rn-q-563",
-    "scope": ["RN"],
-    "medicationId": "rn-195",
-    "medication": "Dalteparin",
-    "questionType": "multiple-choice",
-    "stem": "Which route is used for dalteparin administration?",
-    "choices": [
-      "Intramuscular",
-      "Subcutaneous",
-      "Oral",
-      "Intravenous"
-    ],
-    "correctAnswer": "Subcutaneous",
-    "rationale": "Dalteparin is administered via subcutaneous injection.",
-    "clinicalPearl": "Do not aspirate or massage the injection site to reduce bruising risk."
-  },
-
- {
-    "id": "rn-q-564",
-    "scope": ["RN"],
-    "medicationId": "rn-195",
-    "medication": "Dalteparin",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most concerning?",
-    "choices": [
-      "Hypoglycemia",
-      "Hyperkalemia",
-      "Bleeding",
-      "Hypertension"
-    ],
-    "correctAnswer": "Bleeding",
-    "rationale": "All anticoagulants increase the risk of bleeding, which is the most serious complication.",
-    "clinicalPearl": "Monitor for signs of internal bleeding such as bruising, hematuria, or black tarry stools."
-  },
-
-{
-    "id": "rn-q-565",
-    "scope": ["RN"],
-    "medicationId": "rn-196",
-    "medication": "Warfarin",
-    "questionType": "multiple-choice",
-    "stem": "Which lab test monitors warfarin therapy?",
-    "choices": [
-      "Hemoglobin",
-      "Platelet count",
-      "INR",
-      "aPTT"
-    ],
-    "correctAnswer": "INR",
-    "rationale": "INR reflects the clotting time affected by warfarin and guides dosing adjustments.",
-    "clinicalPearl": "The typical therapeutic INR range for most indications is 2.0–3.0."
-  },
-
- {
-    "id": "rn-q-566",
-    "scope": ["RN"],
-    "medicationId": "rn-196",
-    "medication": "Warfarin",
-    "questionType": "multiple-choice",
-    "stem": "Which food should be consumed consistently while taking warfarin?",
-    "choices": [
-      "Citrus fruits",
-      "Red meat",
-      "Green leafy vegetables",
-      "Dairy products"
-    ],
-    "correctAnswer": "Green leafy vegetables",
-    "rationale": "Vitamin K intake must remain consistent to maintain stable INR levels.",
-    "clinicalPearl": "Sudden increases or decreases in vitamin K intake can significantly alter INR."
-  },
-
-{
-    "id": "rn-q-567",
-    "scope": ["RN"],
-    "medicationId": "rn-196",
-    "medication": "Warfarin",
-    "questionType": "multiple-choice",
-    "stem": "Which medication reverses warfarin overdose?",
-    "choices": [
-      "Protamine",
-      "Vitamin K",
-      "Flumazenil",
-      "Naloxone"
-    ],
-    "correctAnswer": "Vitamin K",
-    "rationale": "Vitamin K restores clotting factor synthesis and reverses warfarin effects.",
-    "clinicalPearl": "Severe warfarin-associated bleeding may also require fresh frozen plasma or prothrombin complex concentrate."
-  },
-
-{
-    "id": "rn-q-568",
-    "scope": ["RN"],
-    "medicationId": "rn-197",
-    "medication": "Apixaban",
-    "questionType": "multiple-choice",
-    "stem": "Which condition is apixaban commonly prescribed for?",
-    "choices": [
-      "Pain management",
-      "Prevention of stroke in atrial fibrillation",
-      "Treatment of hypertension",
-      "Infection prevention"
-    ],
-    "correctAnswer": "Prevention of stroke in atrial fibrillation",
-    "rationale": "Apixaban is a direct oral anticoagulant used to prevent embolic stroke in atrial fibrillation.",
-    "clinicalPearl": "Apixaban does not require routine INR monitoring."
-  },
-
- {
-    "id": "rn-q-569",
-    "scope": ["RN"],
-    "medicationId": "rn-197",
-    "medication": "Apixaban",
-    "questionType": "multiple-choice",
-    "stem": "Which lab test is routinely required for apixaban monitoring?",
-    "choices": [
-      "Platelet count",
-      "None",
-      "INR",
-      "aPTT"
-    ],
-    "correctAnswer": "None",
-    "rationale": "Direct oral anticoagulants do not require routine laboratory monitoring.",
-    "clinicalPearl": "Although routine labs are not required, renal function should be assessed periodically."
-  },
-
-{
-    "id": "rn-q-570",
-    "scope": ["RN"],
-    "medicationId": "rn-197",
-    "medication": "Apixaban",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most important to teach the patient?",
-    "choices": [
-      "Hypertension",
-      "Hyperkalemia",
-      "Bleeding risk",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "Bleeding risk",
-    "rationale": "All anticoagulants increase the risk of bleeding.",
-    "clinicalPearl": "Patients should report unusual bruising, prolonged bleeding, or blood in urine or stool."
-  },
-
-  {
-    "id": "rn-q-571",
-    "scope": ["RN"],
-    "medicationId": "rn-198",
-    "medication": "Rivaroxaban",
-    "questionType": "multiple-choice",
-    "stem": "Which instruction is correct for rivaroxaban administration?",
-    "choices": [
-      "Split tablets",
-      "Take with food for higher doses",
-      "Avoid fluids",
-      "Take only at bedtime"
-    ],
-    "correctAnswer": "Take with food for higher doses",
-    "rationale": "Higher doses of rivaroxaban require food to increase absorption and ensure therapeutic effect.",
-    "clinicalPearl": "The 15 mg and 20 mg doses of rivaroxaban should be taken with meals."
-  },
-
- {
-    "id": "rn-q-572",
-    "scope": ["RN"],
-    "medicationId": "rn-198",
-    "medication": "Rivaroxaban",
-    "questionType": "multiple-choice",
-    "stem": "Which condition is treated with rivaroxaban?",
-    "choices": [
-      "Hypertension control",
-      "DVT and PE prevention",
-      "Migraine prophylaxis",
-      "Treatment of asthma"
-    ],
-    "correctAnswer": "DVT and PE prevention",
-    "rationale": "Rivaroxaban is a direct Factor Xa inhibitor used to prevent and treat venous thromboembolism.",
-    "clinicalPearl": "Rivaroxaban is commonly used for both treatment and secondary prevention of DVT and PE."
-  },
-
- {
-    "id": "rn-q-573",
-    "scope": ["RN"],
-    "medicationId": "rn-198",
-    "medication": "Rivaroxaban",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect requires immediate attention?",
-    "choices": [
-      "Mild headache",
-      "Signs of bleeding",
-      "Dry mouth",
-      "Nasal congestion"
-    ],
-    "correctAnswer": "Signs of bleeding",
-    "rationale": "Bleeding is the primary serious risk associated with rivaroxaban.",
-    "clinicalPearl": "Patients should report black stools, hematuria, or prolonged bleeding immediately."
-  },
-
-  {
-    "id": "rn-q-574",
-    "scope": ["RN"],
-    "medicationId": "rn-199",
-    "medication": "Edoxaban",
-    "questionType": "multiple-choice",
-    "stem": "Edoxaban works by inhibiting which clotting factor?",
-    "choices": [
-      "Factor IIa",
-      "Factor VII",
-      "Factor Xa",
-      "Platelet aggregation"
-    ],
-    "correctAnswer": "Factor Xa",
-    "rationale": "Edoxaban is a direct Factor Xa inhibitor that prevents thrombin generation.",
-    "clinicalPearl": "Factor Xa inhibitors block the conversion of prothrombin to thrombin."
-  },
-
-  {
-    "id": "rn-q-575",
-    "scope": ["RN"],
-    "medicationId": "rn-199",
-    "medication": "Edoxaban",
-    "questionType": "multiple-choice",
-    "stem": "Which patient instruction is correct?",
-    "choices": [
-      "Double dose if missed",
-      "Stop if bruising occurs",
-      "Do not skip doses",
-      "Take with antacids"
-    ],
-    "correctAnswer": "Do not skip doses",
-    "rationale": "Skipping doses increases the risk of stroke or thromboembolism.",
-    "clinicalPearl": "Consistent daily dosing is critical for DOAC effectiveness."
-  },
-
-  {
-    "id": "rn-q-576",
-    "scope": ["RN"],
-    "medicationId": "rn-199",
-    "medication": "Edoxaban",
-    "questionType": "multiple-choice",
-    "stem": "Which lab test is required routinely?",
-    "choices": [
-      "INR",
-      "None",
-      "Platelet function",
-      "aPTT"
-    ],
-    "correctAnswer": "None",
-    "rationale": "Routine coagulation monitoring is not required with edoxaban.",
-    "clinicalPearl": "Renal function should still be monitored periodically."
-  },
-
- {
-    "id": "rn-q-577",
-    "scope": ["RN"],
-    "medicationId": "rn-200",
-    "medication": "Dabigatran",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is common with dabigatran?",
-    "choices": [
-      "Hypertension",
-      "GI upset and bleeding",
-      "Hyperkalemia",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "GI upset and bleeding",
-    "rationale": "Dyspepsia and bleeding are common adverse effects of dabigatran.",
-    "clinicalPearl": "Taking dabigatran with a full glass of water may reduce GI discomfort."
-  },
-
- {
-    "id": "rn-q-578",
-    "scope": ["RN"],
-    "medicationId": "rn-200",
-    "medication": "Dabigatran",
-    "questionType": "multiple-choice",
-    "stem": "Which antidote reverses dabigatran?",
-    "choices": [
-      "Vitamin K",
-      "Naloxone",
-      "Idarucizumab",
-      "Protamine"
-    ],
-    "correctAnswer": "Idarucizumab",
-    "rationale": "Idarucizumab specifically binds to and reverses dabigatran.",
-    "clinicalPearl": "Idarucizumab provides rapid reversal in cases of life-threatening bleeding."
-  },
-
- {
-    "id": "rn-q-579",
-    "scope": ["RN"],
-    "medicationId": "rn-200",
-    "medication": "Dabigatran",
-    "questionType": "multiple-choice",
-    "stem": "How should dabigatran capsules be taken?",
-    "choices": [
-      "Crush and mix with food",
-      "Swallow whole",
-      "Dissolve under tongue",
-      "Avoid water"
-    ],
-    "correctAnswer": "Swallow whole",
-    "rationale": "Crushing or opening capsules increases absorption and bleeding risk.",
-    "clinicalPearl": "Dabigatran capsules should be kept in their original container to protect from moisture."
-  },
-
-  {
-    "id": "rn-q-580",
-    "scope": ["RN"],
-    "medicationId": "rn-201",
-    "medication": "Protamine",
-    "questionType": "multiple-choice",
-    "stem": "Protamine is used to reverse which medication?",
-    "choices": [
-      "Aspirin",
-      "Heparin",
-      "Clopidogrel",
-      "Warfarin"
-    ],
-    "correctAnswer": "Heparin",
-    "rationale": "Protamine sulfate binds to and neutralizes heparin.",
-    "clinicalPearl": "Protamine only partially reverses low molecular weight heparins."
-  },
-
-{
-    "id": "rn-q-581",
-    "scope": ["RN"],
-    "medicationId": "rn-201",
-    "medication": "Protamine",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse reaction is possible with protamine?",
-    "choices": [
-      "Hyperglycemia",
-      "Hypotension and allergic reactions",
-      "Hypertension",
-      "Bradycardia"
-    ],
-    "correctAnswer": "Hypotension and allergic reactions",
-    "rationale": "Protamine may cause severe hypotension and hypersensitivity reactions.",
-    "clinicalPearl": "Administer protamine slowly IV to reduce risk of hypotension."
-  },
-
- {
-    "id": "rn-q-582",
-    "scope": ["RN"],
-    "medicationId": "rn-201",
-    "medication": "Protamine",
-    "questionType": "multiple-choice",
-    "stem": "Which patient history increases risk of protamine reaction?",
-    "choices": [
-      "Asthma",
-      "Fish allergy",
-      "Hypertension",
-      "Diabetes"
-    ],
-    "correctAnswer": "Fish allergy",
-    "rationale": "Protamine is derived from fish sperm proteins and may cause allergic reactions in patients with fish allergy.",
-    "clinicalPearl": "Patients with prior vasectomy or exposure to protamine-containing insulin may also be at higher risk."
-  },
-
- {
-    "id": "rn-q-583",
-    "scope": ["RN"],
-    "medicationId": "rn-202",
-    "medication": "Vitamin K",
-    "questionType": "multiple-choice",
-    "stem": "Vitamin K is administered for overdose of which drug?",
-    "choices": [
-      "Clopidogrel",
-      "Heparin",
-      "Warfarin",
-      "Aspirin"
-    ],
-    "correctAnswer": "Warfarin",
-    "rationale": "Vitamin K restores clotting factor production inhibited by warfarin.",
-    "clinicalPearl": "Vitamin K reversal may take several hours depending on route of administration."
-  },
-
- {
-    "id": "rn-q-584",
-    "scope": ["RN"],
-    "medicationId": "rn-202",
-    "medication": "Vitamin K",
-    "questionType": "multiple-choice",
-    "stem": "Which route can be used in emergency bleeding?",
-    "choices": [
-      "Topical",
-      "IV",
-      "Inhaled",
-      "Oral only"
-    ],
-    "correctAnswer": "IV",
-    "rationale": "Intravenous vitamin K works fastest in emergency bleeding situations.",
-    "clinicalPearl": "IV vitamin K should be administered slowly to prevent anaphylactoid reactions."
-  },
-
-  {
-    "id": "rn-q-585",
-    "scope": ["RN"],
-    "medicationId": "rn-202",
-    "medication": "Vitamin K",
-    "questionType": "multiple-choice",
-    "stem": "Which effect is expected after vitamin K administration?",
-    "choices": [
-      "Increased bleeding",
-      "Lower platelet count",
-      "Decreased INR",
-      "Increased aPTT"
-    ],
-    "correctAnswer": "Decreased INR",
-    "rationale": "Vitamin K restores clotting factor synthesis, lowering the INR.",
-    "clinicalPearl": "Monitor INR closely after vitamin K administration to guide further therapy."
-  },
-
- {
-    "id": "rn-q-586",
-    "scope": ["RN"],
-    "medicationId": "rn-203",
-    "medication": "Aspirin",
-    "questionType": "multiple-choice",
-    "stem": "Which action best describes aspirin?",
-    "choices": [
-      "Increases fibrin",
-      "Dissolves existing clots",
-      "Inhibits platelet aggregation",
-      "Increases clot formation"
-    ],
-    "correctAnswer": "Inhibits platelet aggregation",
-    "rationale": "Aspirin inhibits thromboxane A2, preventing platelet aggregation.",
-    "clinicalPearl": "Aspirin irreversibly affects platelets for their lifespan (7–10 days)."
-  },
-
- {
-    "id": "rn-q-587",
-    "scope": ["RN"],
-    "medicationId": "rn-203",
-    "medication": "Aspirin",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most serious?",
-    "choices": [
-      "GI bleeding",
-      "Hypertension",
-      "Hyperkalemia",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "GI bleeding",
-    "rationale": "Aspirin increases the risk of gastrointestinal bleeding.",
-    "clinicalPearl": "Use cautiously in patients with a history of ulcers or GI bleeding."
-  },
- 
- {
-    "id": "rn-q-588",
-    "scope": ["RN"],
-    "medicationId": "rn-203",
-    "medication": "Aspirin",
-    "questionType": "multiple-choice",
-    "stem": "Which patient should avoid aspirin therapy?",
-    "choices": [
-      "Patient with diabetes",
-      "Patient with hyperlipidemia",
-      "Patient with peptic ulcer disease",
-      "Patient with hypertension"
-    ],
-    "correctAnswer": "Patient with peptic ulcer disease",
-    "rationale": "Aspirin increases the risk of GI bleeding, especially in patients with ulcers.",
-    "clinicalPearl": "Consider gastroprotective therapy if aspirin is required in high-risk patients."
-  },
-
- {
-    "id": "rn-q-589",
-    "scope": ["RN"],
-    "medicationId": "rn-204",
-    "medication": "Clopidogrel",
-    "questionType": "multiple-choice",
-    "stem": "Which condition commonly requires clopidogrel therapy?",
-    "choices": [
-      "Hypertension",
-      "After coronary stent placement",
-      "Asthma",
-      "DVT only"
-    ],
-    "correctAnswer": "After coronary stent placement",
-    "rationale": "Clopidogrel prevents platelet aggregation and reduces risk of stent thrombosis.",
-    "clinicalPearl": "Dual antiplatelet therapy is common after stent placement."
-  },
-
- {
-    "id": "rn-q-590",
-    "scope": ["RN"],
-    "medicationId": "rn-204",
-    "medication": "Clopidogrel",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect should be reported immediately?",
-    "choices": [
-      "Mild headache",
-      "Unusual bleeding or bruising",
-      "Fatigue",
-      "Nasal congestion"
-    ],
-    "correctAnswer": "Unusual bleeding or bruising",
-    "rationale": "Clopidogrel increases bleeding risk and unusual bleeding should be reported promptly.",
-    "clinicalPearl": "Monitor for signs of internal bleeding such as black stools or hematuria."
-  },
-
-{
-    "id": "rn-q-591",
-    "scope": ["RN"],
-    "medicationId": "rn-204",
-    "medication": "Clopidogrel",
-    "questionType": "multiple-choice",
-    "stem": "Which lab value is most important to monitor?",
-    "choices": [
-      "Blood glucose",
-      "Serum potassium",
-      "Signs of bleeding",
-      "INR"
-    ],
-    "correctAnswer": "Signs of bleeding",
-    "rationale": "Clopidogrel inhibits platelet function; monitoring for bleeding is most important.",
-    "clinicalPearl": "Routine INR monitoring is not required for antiplatelet agents."
-  },
-
-  {
-    "id": "rn-q-592",
-    "scope": ["RN"],
-    "medicationId": "rn-205",
-    "medication": "Prasugrel",
-    "questionType": "multiple-choice",
-    "stem": "Which action best describes prasugrel?",
-    "choices": [
-      "Inhibits factor Xa",
-      "Dissolves clots",
-      "Inhibits platelet aggregation by blocking P2Y12",
-      "Inhibits thrombin"
-    ],
-    "correctAnswer": "Inhibits platelet aggregation by blocking P2Y12",
-    "rationale": "Prasugrel is a P2Y12 receptor inhibitor that prevents platelet aggregation.",
-    "clinicalPearl": "Prasugrel provides more potent platelet inhibition than clopidogrel."
-  },
-
-{
-    "id": "rn-q-593",
-    "scope": ["RN"],
-    "medicationId": "rn-205",
-    "medication": "Prasugrel",
-    "questionType": "multiple-choice",
-    "stem": "Which patient should NOT receive prasugrel?",
-    "choices": [
-      "Controlled hypertension",
-      "History of stroke or TIA",
-      "Hyperlipidemia",
-      "Stable angina"
-    ],
-    "correctAnswer": "History of stroke or TIA",
-    "rationale": "Prasugrel significantly increases bleeding risk in patients with a history of stroke or TIA.",
-    "clinicalPearl": "Prasugrel is contraindicated in patients with prior stroke or TIA."
-  },
-
-{
-    "id": "rn-q-594",
-    "scope": ["RN"],
-    "medicationId": "rn-205",
-    "medication": "Prasugrel",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most concerning?",
-    "choices": [
-      "Constipation",
-      "Bleeding",
-      "Cough",
-      "Hyperglycemia"
-    ],
-    "correctAnswer": "Bleeding",
-    "rationale": "All antiplatelet agents increase the risk of bleeding.",
-    "clinicalPearl": "Monitor for signs of internal bleeding such as melena or hematuria."
-  },
-
-{
-    "id": "rn-q-595",
-    "scope": ["RN"],
-    "medicationId": "rn-206",
-    "medication": "Ticagrelor",
-    "questionType": "multiple-choice",
-    "stem": "Ticagrelor differs from clopidogrel because it is:",
-    "choices": [
-      "Vitamin K antagonist",
-      "Reversible platelet inhibitor",
-      "IV only",
-      "Long-acting anticoagulant"
-    ],
-    "correctAnswer": "Reversible platelet inhibitor",
-    "rationale": "Ticagrelor reversibly inhibits P2Y12 platelet receptors.",
-    "clinicalPearl": "Unlike clopidogrel, ticagrelor does not require metabolic activation."
-  },
-
-{
-    "id": "rn-q-596",
-    "scope": ["RN"],
-    "medicationId": "rn-206",
-    "medication": "Ticagrelor",
-    "questionType": "multiple-choice",
-    "stem": "Which side effect is common with ticagrelor?",
-    "choices": [
-      "Hypoglycemia",
-      "Dyspnea",
-      "Bradycardia",
-      "Hypertension"
-    ],
-    "correctAnswer": "Dyspnea",
-    "rationale": "Dyspnea is a known adverse effect associated with ticagrelor.",
-    "clinicalPearl": "Dyspnea with ticagrelor is often mild and transient but should still be assessed."
-  },
-
-{
-    "id": "rn-q-597",
-    "scope": ["RN"],
-    "medicationId": "rn-206",
-    "medication": "Ticagrelor",
-    "questionType": "multiple-choice",
-    "stem": "Which instruction is appropriate?",
-    "choices": [
-      "Crush tablets",
-      "Avoid aspirin doses over 100 mg/day",
-      "Take with grapefruit juice",
-      "Skip doses if bruising occurs"
-    ],
-    "correctAnswer": "Avoid aspirin doses over 100 mg/day",
-    "rationale": "High-dose aspirin reduces the effectiveness of ticagrelor.",
-    "clinicalPearl": "Ticagrelor is typically given with low-dose aspirin (≤100 mg daily)."
-  },
-
- {
-    "id": "rn-q-598",
-    "scope": ["RN"],
-    "medicationId": "rn-207",
-    "medication": "Cangrelor",
-    "questionType": "multiple-choice",
-    "stem": "Cangrelor is administered by which route?",
-    "choices": [
-      "Oral",
-      "Intramuscular",
-      "Intravenous",
-      "Subcutaneous"
-    ],
-    "correctAnswer": "Intravenous",
-    "rationale": "Cangrelor is administered intravenously during procedures.",
-    "clinicalPearl": "Cangrelor has a very short half-life and provides rapid platelet inhibition."
-  },
-
- {
-    "id": "rn-q-599",
-    "scope": ["RN"],
-    "medicationId": "rn-207",
-    "medication": "Cangrelor",
-    "questionType": "multiple-choice",
-    "stem": "When is cangrelor most commonly used?",
-    "choices": [
-      "Hypertension",
-      "During PCI procedures",
-      "DVT treatment",
-      "Chronic stroke prevention"
-    ],
-    "correctAnswer": "During PCI procedures",
-    "rationale": "Cangrelor is used during percutaneous coronary intervention (PCI).",
-    "clinicalPearl": "It is useful when rapid, short-term platelet inhibition is needed."
-  },
-
- {
-    "id": "rn-q-600",
-    "scope": ["RN"],
-    "medicationId": "rn-207",
-    "medication": "Cangrelor",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is highest risk?",
-    "choices": [
-      "Hyperkalemia",
-      "Hypoglycemia",
-      "Bleeding",
-      "Nephrotoxicity"
-    ],
-    "correctAnswer": "Bleeding",
-    "rationale": "Potent platelet inhibition increases the risk of bleeding.",
-    "clinicalPearl": "Careful monitoring during and after infusion is essential."
-  },
-
-  {
-    "id": "rn-q-601",
-    "scope": ["RN"],
-    "medicationId": "rn-208",
-    "medication": "Eptifibatide",
-    "questionType": "multiple-choice",
-    "stem": "Eptifibatide blocks which receptor?",
-    "choices": [
-      "Factor Xa",
-      "GPIIb/IIIa",
-      "Thrombin",
-      "P2Y12"
-    ],
-    "correctAnswer": "GPIIb/IIIa",
-    "rationale": "Eptifibatide is a GPIIb/IIIa inhibitor that prevents platelet aggregation.",
-    "clinicalPearl": "GPIIb/IIIa inhibitors provide potent, short-term platelet inhibition during ACS and PCI."
-  },
-
- {
-    "id": "rn-q-602",
-    "scope": ["RN"],
-    "medicationId": "rn-208",
-    "medication": "Eptifibatide",
-    "questionType": "multiple-choice",
-    "stem": "Which setting is eptifibatide typically used in?",
-    "choices": [
-      "Hypertension",
-      "Acute coronary syndrome",
-      "Asthma exacerbation",
-      "Infection control"
-    ],
-    "correctAnswer": "Acute coronary syndrome",
-    "rationale": "Eptifibatide is used in acute coronary syndrome and during PCI.",
-    "clinicalPearl": "It reduces the risk of thrombotic complications during coronary interventions."
-  },
-
- {
-    "id": "rn-q-603",
-    "scope": ["RN"],
-    "medicationId": "rn-208",
-    "medication": "Eptifibatide",
-    "questionType": "multiple-choice",
-    "stem": "Which lab should be monitored?",
-    "choices": [
-      "Glucose",
-      "Platelet count",
-      "INR",
-      "Potassium"
-    ],
-    "correctAnswer": "Platelet count",
-    "rationale": "Thrombocytopenia may occur with GPIIb/IIIa inhibitors.",
-    "clinicalPearl": "Monitor for sudden drops in platelets and signs of bleeding."
-  },
-
-{
-    "id": "rn-q-604",
-    "scope": ["RN"],
-    "medicationId": "rn-209",
-    "medication": "Alteplase",
-    "questionType": "multiple-choice",
-    "stem": "Alteplase is classified as which type of drug?",
-    "choices": [
-      "Anticoagulant",
-      "Beta blocker",
-      "Thrombolytic",
-      "Antiplatelet"
-    ],
-    "correctAnswer": "Thrombolytic",
-    "rationale": "Alteplase is a thrombolytic that dissolves existing clots.",
-    "clinicalPearl": "Thrombolytics convert plasminogen to plasmin to break down fibrin clots."
-  },
-
-{
-    "id": "rn-q-605",
-    "scope": ["RN"],
-    "medicationId": "rn-209",
-    "medication": "Alteplase",
-    "questionType": "multiple-choice",
-    "stem": "Which patient is eligible for alteplase in ischemic stroke?",
-    "choices": [
-      "Uncontrolled hypertension",
-      "Recent surgery",
-      "Onset within treatment window",
-      "History of brain bleed"
-    ],
-    "correctAnswer": "Onset within treatment window",
-    "rationale": "Eligibility for alteplase depends on symptom onset within the approved time window and absence of contraindications.",
-    "clinicalPearl": "Time is brain — earlier treatment improves neurologic outcomes."
-  },
-
-{
-    "id": "rn-q-606",
-    "scope": ["RN"],
-    "medicationId": "rn-209",
-    "medication": "Alteplase",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most serious?",
-    "choices": [
-      "Nausea",
-      "Intracranial hemorrhage",
-      "Hypotension",
-      "Tachycardia"
-    ],
-    "correctAnswer": "Intracranial hemorrhage",
-    "rationale": "Major bleeding, especially intracranial hemorrhage, is the most life-threatening risk.",
-    "clinicalPearl": "Frequent neurologic assessments are critical after thrombolytic administration."
-  },
-
- {
-    "id": "rn-q-607",
-    "scope": ["RN"],
-    "medicationId": "rn-210",
-    "medication": "Tenecteplase",
-    "questionType": "multiple-choice",
-    "stem": "Tenecteplase is most commonly used for:",
-    "choices": [
-      "Atrial fibrillation",
-      "Acute myocardial infarction",
-      "Hypertension",
-      "DVT prophylaxis"
-    ],
-    "correctAnswer": "Acute myocardial infarction",
-    "rationale": "Tenecteplase is used for thrombolysis in ST-elevation myocardial infarction (STEMI).",
-    "clinicalPearl": "Tenecteplase is a modified form of alteplase with greater fibrin specificity."
-  },
-
-  {
-    "id": "rn-q-608",
-    "scope": ["RN"],
-    "medicationId": "rn-210",
-    "medication": "Tenecteplase",
-    "questionType": "multiple-choice",
-    "stem": "Which advantage does tenecteplase have over alteplase?",
-    "choices": [
-      "Oral formulation",
-      "Lower bleeding risk",
-      "Single IV bolus dosing",
-      "Longer half-life than warfarin"
-    ],
-    "correctAnswer": "Single IV bolus dosing",
-    "rationale": "Tenecteplase is administered as a single IV bolus, making it easier to deliver.",
-    "clinicalPearl": "Single bolus dosing improves speed and simplicity in emergency STEMI care."
-  },
-
-{
-    "id": "rn-q-609",
-    "scope": ["RN"],
-    "medicationId": "rn-210",
-    "medication": "Tenecteplase",
-    "questionType": "multiple-choice",
-    "stem": "Which assessment is priority after administration?",
-    "choices": [
-      "Urine output",
-      "Signs of bleeding",
-      "Pain level",
-      "Blood glucose"
-    ],
-    "correctAnswer": "Signs of bleeding",
-    "rationale": "Bleeding is the primary complication of thrombolytic therapy.",
-    "clinicalPearl": "Monitor IV sites, neurologic status, and vital signs closely after administration."
-  },
-
-  {
-    "id": "rn-q-610",
-    "scope": ["RN"],
-    "medicationId": "rn-211",
-    "medication": "Atorvastatin",
-    "questionType": "multiple-choice",
-    "stem": "Which lab value should be monitored with atorvastatin?",
-    "choices": [
-      "Platelets",
-      "Liver enzymes",
-      "INR",
-      "Potassium"
-    ],
-    "correctAnswer": "Liver enzymes",
-    "rationale": "Statins may elevate liver enzymes due to hepatic metabolism.",
-    "clinicalPearl": "Baseline and periodic liver function tests are recommended during statin therapy."
-  },
-
- {
-    "id": "rn-q-611",
-    "scope": ["RN"],
-    "medicationId": "rn-211",
-    "medication": "Atorvastatin",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect must be reported immediately?",
-    "choices": [
-      "Constipation",
-      "Muscle pain and weakness",
-      "Dry mouth",
-      "Cough"
-    ],
-    "correctAnswer": "Muscle pain and weakness",
-    "rationale": "Muscle pain and weakness may indicate rhabdomyolysis, a serious complication.",
-    "clinicalPearl": "Check creatine kinase (CK) levels if myopathy is suspected."
-  },
-
-{
-    "id": "rn-q-612",
-    "scope": ["RN"],
-    "medicationId": "rn-211",
-    "medication": "Atorvastatin",
-    "questionType": "multiple-choice",
-    "stem": "Which instruction is appropriate?",
-    "choices": [
-      "Take with high-fat meals",
-      "Stop once cholesterol improves",
-      "Avoid grapefruit juice",
-      "Double dose if missed"
-    ],
-    "correctAnswer": "Avoid grapefruit juice",
-    "rationale": "Grapefruit juice increases statin levels and risk of toxicity.",
-    "clinicalPearl": "Patients should not abruptly stop statins without provider guidance."
-  },
-
-{
-    "id": "rn-q-613",
-    "scope": ["RN"],
-    "medicationId": "rn-212",
-    "medication": "Fluvastatin",
-    "questionType": "multiple-choice",
-    "stem": "Fluvastatin reduces cholesterol by:",
-    "choices": [
-      "Blocking bile absorption",
-      "Inhibiting platelet aggregation",
-      "Inhibiting HMG-CoA reductase",
-      "Increasing insulin secretion"
-    ],
-    "correctAnswer": "Inhibiting HMG-CoA reductase",
-    "rationale": "Statins block HMG-CoA reductase, reducing hepatic cholesterol synthesis.",
-    "clinicalPearl": "Reduced cholesterol synthesis increases LDL receptor expression."
-  },
-
-{
-    "id": "rn-q-614",
-    "scope": ["RN"],
-    "medicationId": "rn-212",
-    "medication": "Fluvastatin",
-    "questionType": "multiple-choice",
-    "stem": "Which patient teaching is correct?",
-    "choices": [
-      "Take with antacids",
-      "Stop during colds",
-      "Report muscle tenderness",
-      "Avoid fluids"
-    ],
-    "correctAnswer": "Report muscle tenderness",
-    "rationale": "Muscle tenderness may signal statin-induced myopathy.",
-    "clinicalPearl": "Early recognition of muscle symptoms can prevent severe rhabdomyolysis."
-  },
-
-{
-    "id": "rn-q-615",
-    "scope": ["RN"],
-    "medicationId": "rn-212",
-    "medication": "Fluvastatin",
-    "questionType": "multiple-choice",
-    "stem": "Which lab test is important periodically?",
-    "choices": [
-      "Hemoglobin",
-      "Liver function tests",
-      "INR",
-      "Platelet count"
-    ],
-    "correctAnswer": "Liver function tests",
-    "rationale": "Statins affect hepatic metabolism and may elevate liver enzymes.",
-    "clinicalPearl": "Persistent elevation of liver enzymes may require dosage adjustment."
-  },
-
-  {
-    "id": "rn-q-616",
-    "scope": ["RN"],
-    "medicationId": "rn-213",
-    "medication": "Pitavastatin",
-    "questionType": "multiple-choice",
-    "stem": "Pitavastatin is primarily used to:",
-    "choices": [
-      "Treat infection",
-      "Lower LDL cholesterol",
-      "Treat hypertension",
-      "Prevent clot formation"
-    ],
-    "correctAnswer": "Lower LDL cholesterol",
-    "rationale": "Pitavastatin is used to treat dyslipidemia by lowering LDL cholesterol.",
-    "clinicalPearl": "Lifestyle changes should accompany statin therapy."
-  },
-
-{
-    "id": "rn-q-617",
-    "scope": ["RN"],
-    "medicationId": "rn-213",
-    "medication": "Pitavastatin",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is shared by all statins?",
-    "choices": [
-      "Hyperkalemia",
-      "Myopathy",
-      "Hypoglycemia",
-      "Cough"
-    ],
-    "correctAnswer": "Myopathy",
-    "rationale": "Muscle injury risk, including myopathy and rhabdomyolysis, is a class-wide statin effect.",
-    "clinicalPearl": "Concurrent use with certain drugs increases myopathy risk."
-  },
-
- {
-    "id": "rn-q-618",
-    "scope": ["RN"],
-    "medicationId": "rn-213",
-    "medication": "Pitavastatin",
-    "questionType": "multiple-choice",
-    "stem": "Which instruction should the nurse give?",
-    "choices": [
-      "Stop exercising",
-      "Avoid pregnancy",
-      "Increase potassium intake",
-      "Take with grapefruit"
-    ],
-    "correctAnswer": "Avoid pregnancy",
-    "rationale": "Statins are contraindicated in pregnancy due to risk of fetal harm.",
-    "clinicalPearl": "Women of childbearing age should use effective contraception while taking statins."
-  },
-
-{
-    "id": "rn-q-619",
-    "scope": ["RN"],
-    "medicationId": "rn-214",
-    "medication": "Pravastatin",
-    "questionType": "multiple-choice",
-    "stem": "Which statin has fewer drug interactions?",
-    "choices": [
-      "Atorvastatin",
-      "Pravastatin",
-      "Lovastatin",
-      "Simvastatin"
-    ],
-    "correctAnswer": "Pravastatin",
-    "rationale": "Pravastatin is not heavily metabolized by CYP enzymes, reducing drug interactions.",
-    "clinicalPearl": "Pravastatin is often preferred in patients taking multiple medications."
-  },
-
- {
-    "id": "rn-q-620",
-    "scope": ["RN"],
-    "medicationId": "rn-214",
-    "medication": "Pravastatin",
-    "questionType": "multiple-choice",
-    "stem": "When is pravastatin usually taken?",
-    "choices": [
-      "At noon",
-      "With antacids",
-      "In the evening",
-      "Before meals"
-    ],
-    "correctAnswer": "In the evening",
-    "rationale": "Cholesterol synthesis is highest at night, making evening dosing most effective.",
-    "clinicalPearl": "Shorter-acting statins are typically given in the evening."
-  },
-
-  {
-    "id": "rn-q-621",
-    "scope": ["RN"],
-    "medicationId": "rn-214",
-    "medication": "Pravastatin",
-    "questionType": "multiple-choice",
-    "stem": "Which symptom suggests rhabdomyolysis?",
-    "choices": [
-      "Chest pain",
-      "Nausea",
-      "Dark urine and muscle pain",
-      "Dry cough"
-    ],
-    "correctAnswer": "Dark urine and muscle pain",
-    "rationale": "Dark urine and muscle pain indicate muscle breakdown and possible kidney injury.",
-    "clinicalPearl": "Rhabdomyolysis is rare but life-threatening and requires immediate intervention."
-  },
-
-  {
-    "id": "rn-q-622",
-    "scope": ["RN"],
-    "medicationId": "rn-215",
-    "medication": "Rosuvastatin",
-    "questionType": "multiple-choice",
-    "stem": "Which lab should be monitored with rosuvastatin therapy?",
-    "choices": [
-      "INR",
-      "Platelet count",
-      "Liver enzymes",
-      "Potassium"
-    ],
-    "correctAnswer": "Liver enzymes",
-    "rationale": "Statins may elevate liver enzymes and require periodic monitoring.",
-    "clinicalPearl": "Baseline and periodic liver function tests are recommended during statin therapy."
-  },
- 
- {
-    "id": "rn-q-623",
-    "scope": ["RN"],
-    "medicationId": "rn-215",
-    "medication": "Rosuvastatin",
-    "questionType": "multiple-choice",
-    "stem": "Which symptom should be reported immediately?",
-    "choices": [
-      "Dry cough",
-      "Muscle pain and weakness",
-      "Nasal congestion",
-      "Heartburn"
-    ],
-    "correctAnswer": "Muscle pain and weakness",
-    "rationale": "Muscle pain and weakness may indicate myopathy or rhabdomyolysis.",
-    "clinicalPearl": "Unexplained muscle symptoms warrant prompt evaluation and possible CK testing."
-  },
-
-{
-    "id": "rn-q-624",
-    "scope": ["RN"],
-    "medicationId": "rn-215",
-    "medication": "Rosuvastatin",
-    "questionType": "multiple-choice",
-    "stem": "Which instruction is appropriate for a patient taking rosuvastatin?",
-    "choices": [
-      "Avoid pregnancy",
-      "Take with grapefruit juice daily",
-      "Double the dose if one is missed",
-      "Stop once cholesterol improves"
-    ],
-    "correctAnswer": "Avoid pregnancy",
-    "rationale": "Statins are contraindicated in pregnancy due to potential harm to the fetus.",
-    "clinicalPearl": "Women of childbearing age should use reliable contraception while on statins."
-  },
-
- {
-    "id": "rn-q-625",
-    "scope": ["RN"],
-    "medicationId": "rn-216",
-    "medication": "Simvastatin",
-    "questionType": "multiple-choice",
-    "stem": "Simvastatin lowers cholesterol by which mechanism?",
-    "choices": [
-      "Blocking fat absorption",
-      "Inhibiting platelet aggregation",
-      "Activating insulin receptors",
-      "Inhibiting HMG-CoA reductase"
-    ],
-    "correctAnswer": "Inhibiting HMG-CoA reductase",
-    "rationale": "Statins reduce cholesterol synthesis in the liver by inhibiting HMG-CoA reductase.",
-    "clinicalPearl": "Decreased cholesterol synthesis leads to increased LDL receptor expression."
-  },
-
-{
-    "id": "rn-q-626",
-    "scope": ["RN"],
-    "medicationId": "rn-216",
-    "medication": "Simvastatin",
-    "questionType": "multiple-choice",
-    "stem": "Which drug interaction increases the risk of muscle toxicity with simvastatin?",
-    "choices": [
-      "Aspirin",
-      "Strong CYP3A4 inhibitors",
-      "Acetaminophen",
-      "Antacids"
-    ],
-    "correctAnswer": "Strong CYP3A4 inhibitors",
-    "rationale": "Simvastatin is metabolized by CYP3A4; inhibitors increase statin levels and muscle toxicity risk.",
-    "clinicalPearl": "Examples include certain macrolides and azole antifungals."
-  },
-
-{
-    "id": "rn-q-627",
-    "scope": ["RN"],
-    "medicationId": "rn-216",
-    "medication": "Simvastatin",
-    "questionType": "multiple-choice",
-    "stem": "When should simvastatin typically be taken?",
-    "choices": [
-      "Before exercise",
-      "With breakfast",
-      "In the evening",
-      "Only when cholesterol is elevated"
-    ],
-    "correctAnswer": "In the evening",
-    "rationale": "Cholesterol synthesis peaks at night, making evening dosing most effective.",
-    "clinicalPearl": "Shorter-acting statins are best administered in the evening."
-  },
-
 {
     "id": "rn-q-628",
     "scope": ["RN"],
