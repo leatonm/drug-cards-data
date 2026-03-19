@@ -7578,6 +7578,1960 @@
     "clinicalPearl": "Start low doses in opioid-naive patients; monitor closely for sedation and respiratory effects."
   },
 
+ {
+    "id": "rn-q-421",
+    "scope": ["RN"],
+    "medicationId": "rn-144",
+    "medication": "Hydromorphone (Dilaudid)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most common with Hydromorphone (Dilaudid) therapy?",
+    "choices": [
+      "Constipation, sedation, nausea, and respiratory depression",
+      "Hypertension",
+      "Hypoglycemia",
+      "Peripheral edema"
+    ],
+    "correctAnswer": "Constipation, sedation, nausea, and respiratory depression",
+    "rationale": "Hydromorphone (Dilaudid), a potent opioid, commonly causes CNS and GI adverse effects.",
+    "clinicalPearl": "Prophylactic bowel regimen is often indicated."
+  },
+  
+{
+    "id": "rn-q-422",
+    "scope": ["RN"],
+    "medicationId": "rn-144",
+    "medication": "Hydromorphone (Dilaudid)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is most important for Hydromorphone (Dilaudid) therapy?",
+    "choices": [
+      "Take as prescribed, avoid alcohol, monitor for constipation, and report severe dizziness or difficulty breathing",
+      "Take only when fever is present",
+      "Avoid all fluids",
+      "Take only at bedtime"
+    ],
+    "correctAnswer": "Take as prescribed, avoid alcohol, monitor for constipation, and report severe dizziness or difficulty breathing",
+    "rationale": "Education focuses on preventing overdose, constipation, and respiratory depression.",
+    "clinicalPearl": "Avoid combining with other CNS depressants."
+  },
+ 
+ {
+    "id": "rn-q-423",
+    "scope": ["RN"],
+    "medicationId": "rn-144",
+    "medication": "Hydromorphone (Dilaudid)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient condition requires caution with Hydromorphone (Dilaudid)?",
+    "choices": [
+      "Respiratory disease, liver impairment, or history of substance use disorder",
+      "Mild seasonal allergies",
+      "Tension headaches",
+      "Hypothyroidism"
+    ],
+    "correctAnswer": "Respiratory disease, liver impairment, or history of substance use disorder",
+    "rationale": "Caution is needed due to risk of respiratory depression and hepatotoxicity.",
+    "clinicalPearl": "Monitor liver function in patients with hepatic impairment."
+  },
+  
+  {
+    "id": "rn-q-424",
+    "scope": ["RN"],
+    "medicationId": "rn-145",
+    "medication": "Meperidine (Demerol)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most common with Meperidine (Demerol) therapy?",
+    "choices": [
+      "Hypertension",
+      "Constipation, sedation, nausea, and risk of seizures with high doses",
+      "Peripheral edema",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Constipation, sedation, nausea, and risk of seizures with high doses",
+    "rationale": "Meperidine (Demerol) can cause CNS and GI depression; accumulation of normeperidine may lead to seizures.",
+    "clinicalPearl": "Avoid long-term use due to risk of neurotoxicity, especially in older adults."
+  },
+
+{
+    "id": "rn-q-425",
+    "scope": ["RN"],
+    "medicationId": "rn-145",
+    "medication": "Meperidine (Demerol)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is most important for Meperidine (Demerol) therapy?",
+    "choices": [
+      "Take only when fever is present",
+      "Avoid all fluids",
+      "Take as prescribed, avoid alcohol or CNS depressants, and report dizziness or confusion",
+      "Take only at bedtime"
+    ],
+    "correctAnswer": "Take as prescribed, avoid alcohol or CNS depressants, and report dizziness or confusion",
+    "rationale": "Patient education focuses on preventing overdose, CNS effects, and monitoring for neurotoxicity.",
+    "clinicalPearl": "Monitor for confusion or tremors, especially in renal impairment."
+  },
+
+  {
+    "id": "rn-q-426",
+    "scope": ["RN"],
+    "medicationId": "rn-145",
+    "medication": "Meperidine (Demerol)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient condition requires caution with Meperidine (Demerol)?",
+    "choices": [
+      "Mild seasonal allergies",
+      "Tension headaches",
+      "Renal impairment, hepatic disease, or seizure disorder",
+      "Hypothyroidism"
+    ],
+    "correctAnswer": "Renal impairment, hepatic disease, or seizure disorder",
+    "rationale": "Meperidine (Demerol) and its metabolite can accumulate in renal/hepatic impairment and lower seizure threshold.",
+    "clinicalPearl": "Avoid in patients with chronic kidney disease whenever possible."
+  },
+
+  {
+    "id": "rn-q-427",
+    "scope": ["RN"],
+    "medicationId": "rn-146",
+    "medication": "Methadone (Dolophine)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most concerning with Methadone (Dolophine) therapy?",
+    "choices": [
+      "Peripheral edema",
+      "Respiratory depression, QT prolongation, and sedation",
+      "Hypertension",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Respiratory depression, QT prolongation, and sedation",
+    "rationale": "Methadone (Dolophine) is a potent opioid with risk of respiratory depression and cardiac arrhythmias.",
+    "clinicalPearl": "Obtain baseline and periodic ECGs to monitor QT interval."
+  },
+
+ {
+    "id": "rn-q-428",
+    "scope": ["RN"],
+    "medicationId": "rn-146",
+    "medication": "Methadone (Dolophine)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is most important for Methadone (Dolophine) therapy?",
+    "choices": [
+      "Take only at bedtime",
+      "Take as prescribed, avoid alcohol or CNS depressants, and report palpitations or dizziness",
+      "Avoid all fluids",
+      "Take only when fever is present"
+    ],
+    "correctAnswer": "Take as prescribed, avoid alcohol or CNS depressants, and report palpitations or dizziness",
+    "rationale": "Education includes safe dosing and monitoring for CNS and cardiac effects.",
+    "clinicalPearl": "Do not abruptly stop therapy due to risk of withdrawal."
+  },
+
+ {
+    "id": "rn-q-429",
+    "scope": ["RN"],
+    "medicationId": "rn-146",
+    "medication": "Methadone (Dolophine)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient condition requires caution with Methadone (Dolophine)?",
+    "choices": [
+      "Hypothyroidism",
+      "Mild seasonal allergies",
+      "History of cardiac arrhythmias, liver impairment, or respiratory disease",
+      "Tension headaches"
+    ],
+    "correctAnswer": "History of cardiac arrhythmias, liver impairment, or respiratory disease",
+    "rationale": "Methadone (Dolophine) prolongs QT interval and is hepatically metabolized; caution is required in these patients.",
+    "clinicalPearl": "Use cautiously with other QT-prolonging medications."
+  },
+
+  {
+    "id": "rn-q-430",
+    "scope": ["RN"],
+    "medicationId": "rn-147",
+    "medication": "Morphine (MS Contin)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most common with Morphine (MS Contin) therapy?",
+    "choices": [
+      "Constipation, sedation, nausea, and respiratory depression",
+      "Peripheral edema",
+      "Hypoglycemia",
+      "Hypertension"
+    ],
+    "correctAnswer": "Constipation, sedation, nausea, and respiratory depression",
+    "rationale": "Morphine (MS Contin), a potent opioid, causes CNS and GI adverse effects.",
+    "clinicalPearl": "Initiate bowel regimen when starting chronic opioid therapy."
+  },
+
+  {
+    "id": "rn-q-431",
+    "scope": ["RN"],
+    "medicationId": "rn-147",
+    "medication": "Morphine (MS Contin)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is most important for Morphine (MS Contin) therapy?",
+    "choices": [
+      "Avoid all fluids",
+      "Take only when fever is present",
+      "Take as prescribed, avoid alcohol, monitor for constipation, and report severe dizziness or breathing difficulty",
+      "Take only at bedtime"
+    ],
+    "correctAnswer": "Take as prescribed, avoid alcohol, monitor for constipation, and report severe dizziness or breathing difficulty",
+    "rationale": "Prevention of overdose, constipation, and respiratory depression is key patient education.",
+    "clinicalPearl": "Store medication securely to prevent misuse."
+  },
+
+ {
+    "id": "rn-q-432",
+    "scope": ["RN"],
+    "medicationId": "rn-147",
+    "medication": "Morphine (MS Contin)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient condition requires caution with Morphine (MS Contin)?",
+    "choices": [
+      "Tension headaches",
+      "Respiratory disease, hepatic impairment, or history of substance use disorder",
+      "Mild seasonal allergies",
+      "Hypothyroidism"
+    ],
+    "correctAnswer": "Respiratory disease, hepatic impairment, or history of substance use disorder",
+    "rationale": "Morphine (MS Contin) can cause respiratory depression and is metabolized by the liver; caution is required.",
+    "clinicalPearl": "Monitor respiratory rate closely, especially after dose increases."
+  },
+
+  {
+    "id": "rn-q-433",
+    "scope": ["RN"],
+    "medicationId": "rn-148",
+    "medication": "Oxycodone (Roxicodone)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most common with Oxycodone (Roxicodone) therapy?",
+    "choices": [
+      "Hypertension",
+      "Constipation, sedation, nausea, and respiratory depression",
+      "Peripheral edema",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Constipation, sedation, nausea, and respiratory depression",
+    "rationale": "Oxycodone (Roxicodone), a strong opioid, commonly causes CNS depression, GI effects, and may depress respiration.",
+    "clinicalPearl": "Initiate a bowel regimen when starting long-term opioid therapy."
+  },
+
+  {
+    "id": "rn-q-434",
+    "scope": ["RN"],
+    "medicationId": "rn-148",
+    "medication": "Oxycodone (Roxicodone)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is most important for Oxycodone (Roxicodone) therapy?",
+    "choices": [
+      "Take only at bedtime",
+      "Avoid all fluids",
+      "Take as prescribed, avoid alcohol, monitor bowel function, and report severe dizziness or difficulty breathing",
+      "Take only when fever is present"
+    ],
+    "correctAnswer": "Take as prescribed, avoid alcohol, monitor bowel function, and report severe dizziness or difficulty breathing",
+    "rationale": "Patient education focuses on preventing overdose, constipation, and respiratory depression.",
+    "clinicalPearl": "Advise patients to avoid driving until they know how the medication affects them."
+  },
+
+  {
+    "id": "rn-q-435",
+    "scope": ["RN"],
+    "medicationId": "rn-148",
+    "medication": "Oxycodone (Roxicodone)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient condition requires caution with Oxycodone (Roxicodone)?",
+    "choices": [
+      "Tension headaches",
+      "Respiratory disease, hepatic impairment, or history of substance use disorder",
+      "Hypothyroidism",
+      "Mild seasonal allergies"
+    ],
+    "correctAnswer": "Respiratory disease, hepatic impairment, or history of substance use disorder",
+    "rationale": "Caution is needed due to risk of respiratory depression and hepatic metabolism considerations.",
+    "clinicalPearl": "Monitor respiratory rate closely, especially after dose increases."
+  },
+
+ {
+    "id": "rn-q-436",
+    "scope": ["RN"],
+    "medicationId": "rn-149",
+    "medication": "Naloxone hydrochloride (Narcan)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most important to monitor for with Naloxone hydrochloride (Narcan)?",
+    "choices": [
+      "Hypoglycemia",
+      "Peripheral edema",
+      "Acute opioid withdrawal, tachycardia, and hypertension",
+      "Hepatotoxicity"
+    ],
+    "correctAnswer": "Acute opioid withdrawal, tachycardia, and hypertension",
+    "rationale": "Naloxone hydrochloride (Narcan) reverses opioids and can precipitate withdrawal; cardiovascular effects may occur.",
+    "clinicalPearl": "Monitor airway, breathing, and circulation after administration."
+  },
+ 
+ {
+    "id": "rn-q-437",
+    "scope": ["RN"],
+    "medicationId": "rn-149",
+    "medication": "Naloxone hydrochloride (Narcan)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is most important for Naloxone hydrochloride (Narcan) therapy?",
+    "choices": [
+      "Take only when fever is present",
+      "Explain that it rapidly reverses opioid effects and may cause withdrawal symptoms",
+      "Take only at bedtime",
+      "Avoid all fluids"
+    ],
+    "correctAnswer": "Explain that it rapidly reverses opioid effects and may cause withdrawal symptoms",
+    "rationale": "Patients should understand Naloxone hydrochloride (Narcan) works quickly but may cause unpleasant withdrawal.",
+    "clinicalPearl": "Emergency services should still be contacted after naloxone administration."
+  },
+
+  {
+    "id": "rn-q-438",
+    "scope": ["RN"],
+    "medicationId": "rn-149",
+    "medication": "Naloxone hydrochloride (Narcan)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient condition requires caution with Naloxone hydrochloride (Narcan)?",
+    "choices": [
+      "Patients with cardiovascular disease or chronic opioid dependence",
+      "Hypothyroidism",
+      "Mild seasonal allergies",
+      "Tension headaches"
+    ],
+    "correctAnswer": "Patients with cardiovascular disease or chronic opioid dependence",
+    "rationale": "Precipitated withdrawal can stress the cardiovascular system; caution is needed.",
+    "clinicalPearl": "Monitor heart rate and blood pressure during reversal."
+  },
+
+ {
+    "id": "rn-q-439",
+    "scope": ["RN"],
+    "medicationId": "rn-150",
+    "medication": "Buprenorphine-naltrexone (Suboxone)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most common with Buprenorphine-naltrexone (Suboxone) therapy?",
+    "choices": [
+      "Peripheral edema",
+      "Hypertension",
+      "Headache, nausea, constipation, and withdrawal symptoms if opioids are used concurrently",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Headache, nausea, constipation, and withdrawal symptoms if opioids are used concurrently",
+    "rationale": "The combination can cause typical opioid-related adverse effects and precipitate withdrawal if opioids are used.",
+    "clinicalPearl": "Ensure patient is in mild withdrawal before initiation to avoid precipitated withdrawal."
+  },
+
+  {
+    "id": "rn-q-440",
+    "scope": ["RN"],
+    "medicationId": "rn-150",
+    "medication": "Buprenorphine-naltrexone (Suboxone)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is most important for Buprenorphine-naltrexone (Suboxone) therapy?",
+    "choices": [
+      "Take only at bedtime",
+      "Take exactly as prescribed and avoid using other opioids to prevent withdrawal",
+      "Avoid all fluids",
+      "Take only when fever is present"
+    ],
+    "correctAnswer": "Take exactly as prescribed and avoid using other opioids to prevent withdrawal",
+    "rationale": "Concurrent opioid use can precipitate severe withdrawal; strict adherence is critical.",
+    "clinicalPearl": "Advise patients to inform all providers they are taking this medication."
+  },
+  
+{
+    "id": "rn-q-441",
+    "scope": ["RN"],
+    "medicationId": "rn-150",
+    "medication": "Buprenorphine-naltrexone (Suboxone)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient condition requires caution with Buprenorphine-naltrexone (Suboxone)?",
+    "choices": [
+      "Tension headaches",
+      "Mild seasonal allergies",
+      "Liver impairment, recent opioid use, or severe respiratory disease",
+      "Hypothyroidism"
+    ],
+    "correctAnswer": "Liver impairment, recent opioid use, or severe respiratory disease",
+    "rationale": "Hepatic metabolism, opioid interaction, and respiratory depression risk require caution.",
+    "clinicalPearl": "Monitor liver function tests periodically during therapy."
+  },
+  
+  {
+    "id": "rn-q-442",
+    "scope": ["RN"],
+    "medicationId": "rn-151",
+    "medication": "Nicotine (Nicoderm/Nicorette)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most common with Nicotine replacement therapy?",
+    "choices": [
+      "Peripheral edema",
+      "Headache, nausea, insomnia, and local irritation",
+      "Hypoglycemia",
+      "Hepatotoxicity"
+    ],
+    "correctAnswer": "Headache, nausea, insomnia, and local irritation",
+    "rationale": "Nicotine replacement commonly causes CNS stimulation, GI upset, and site irritation.",
+    "clinicalPearl": "Rotate patch sites daily to reduce skin irritation."
+  },
+
+  {
+    "id": "rn-q-443",
+    "scope": ["RN"],
+    "medicationId": "rn-151",
+    "medication": "Nicotine (Nicoderm/Nicorette)",
+    "questionType": "multiple-choice",
+    "stem": "Which instruction should the nurse give to a patient using Nicotine (Nicoderm) patches?",
+    "choices": [
+      "Apply two patches for stronger effect",
+      "Cut the patch in half to reduce dose",
+      "Do not smoke while using the patch and remove it at night if insomnia occurs",
+      "Use only when cravings occur"
+    ],
+    "correctAnswer": "Do not smoke while using the patch and remove it at night if insomnia occurs",
+    "rationale": "Smoking while using patches increases nicotine toxicity; insomnia is common.",
+    "clinicalPearl": "Used patches should be folded in half before disposal."
+  },
+
+ {
+    "id": "rn-q-444",
+    "scope": ["RN"],
+    "medicationId": "rn-151",
+    "medication": "Nicotine (Nicoderm/Nicorette)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient requires caution when using Nicotine replacement therapy?",
+    "choices": [
+      "Patient with seasonal allergies",
+      "Patient with migraine headaches",
+      "Patient with recent myocardial infarction",
+      "Patient with hypothyroidism"
+    ],
+    "correctAnswer": "Patient with recent myocardial infarction",
+    "rationale": "Nicotine increases heart rate and blood pressure and may worsen cardiac conditions.",
+    "clinicalPearl": "Monitor blood pressure and heart rate during therapy."
+  },
+
+  {
+    "id": "rn-q-445",
+    "scope": ["RN"],
+    "medicationId": "rn-152",
+    "medication": "Bupropion (Zyban)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most concerning with Bupropion (Zyban) therapy?",
+    "choices": [
+      "Constipation",
+      "Bradycardia",
+      "Seizures",
+      "Peripheral edema"
+    ],
+    "correctAnswer": "Seizures",
+    "rationale": "Bupropion (Zyban) lowers the seizure threshold, especially at high doses.",
+    "clinicalPearl": "Avoid exceeding recommended doses to reduce seizure risk."
+  },
+
+ {
+    "id": "rn-q-446",
+    "scope": ["RN"],
+    "medicationId": "rn-152",
+    "medication": "Bupropion (Zyban)",
+    "questionType": "multiple-choice",
+    "stem": "Which teaching is most important for a patient taking Bupropion (Zyban) for smoking cessation?",
+    "choices": [
+      "Double the dose if a dose is missed",
+      "Take only when cravings occur",
+      "Take doses in the morning to reduce insomnia",
+      "Avoid all physical activity"
+    ],
+    "correctAnswer": "Take doses in the morning to reduce insomnia",
+    "rationale": "Morning dosing reduces insomnia and agitation.",
+    "clinicalPearl": "Set a target quit date within the first 1–2 weeks of therapy."
+  },
+
+  {
+    "id": "rn-q-447",
+    "scope": ["RN"],
+    "medicationId": "rn-152",
+    "medication": "Bupropion (Zyban)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient should NOT receive Bupropion (Zyban)?",
+    "choices": [
+      "Patient with osteoarthritis",
+      "Patient with hypertension",
+      "Patient with history of bulimia nervosa",
+      "Patient with asthma"
+    ],
+    "correctAnswer": "Patient with history of bulimia nervosa",
+    "rationale": "Eating disorders and seizure history are contraindications for Bupropion (Zyban).",
+    "clinicalPearl": "Screen for history of seizures or eating disorders before prescribing."
+  },
+
+ {
+    "id": "rn-q-448",
+    "scope": ["RN"],
+    "medicationId": "rn-153",
+    "medication": "Benazepril (Lotensin)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most common with Benazepril (Lotensin) therapy?",
+    "choices": [
+      "Hypoglycemia",
+      "Persistent dry cough",
+      "Hypernatremia",
+      "Tachycardia"
+    ],
+    "correctAnswer": "Persistent dry cough",
+    "rationale": "ACE inhibitors commonly cause cough due to bradykinin buildup.",
+    "clinicalPearl": "Report swelling of face or lips immediately due to risk of angioedema."
+  },
+
+ {
+    "id": "rn-q-449",
+    "scope": ["RN"],
+    "medicationId": "rn-153",
+    "medication": "Benazepril (Lotensin)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab value should the nurse monitor for a patient taking Benazepril (Lotensin)?",
+    "choices": [
+      "Calcium",
+      "Hemoglobin",
+      "Serum potassium",
+      "Platelet count"
+    ],
+    "correctAnswer": "Serum potassium",
+    "rationale": "ACE inhibitors can cause hyperkalemia.",
+    "clinicalPearl": "Monitor renal function and potassium levels periodically."
+  },
+
+ {
+    "id": "rn-q-450",
+    "scope": ["RN"],
+    "medicationId": "rn-153",
+    "medication": "Benazepril (Lotensin)",
+    "questionType": "multiple-choice",
+    "stem": "Which condition is a contraindication for Benazepril (Lotensin)?",
+    "choices": [
+      "Mild anemia",
+      "Pregnancy",
+      "Seasonal allergies",
+      "Hyperthyroidism"
+    ],
+    "correctAnswer": "Pregnancy",
+    "rationale": "ACE inhibitors are teratogenic and contraindicated in pregnancy.",
+    "clinicalPearl": "Discontinue immediately if pregnancy is detected."
+  },
+
+    {
+    "id": "rn-q-451",
+    "scope": ["RN"],
+    "medicationId": "rn-154",
+    "medication": "Captopril (Capto)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most associated with Captopril (Capto)?",
+    "choices": [
+      "Hyperglycemia",
+      "Photosensitivity",
+      "Hypotension and cough",
+      "Hearing loss"
+    ],
+    "correctAnswer": "Hypotension and cough",
+    "rationale": "Captopril (Capto) can cause hypotension and ACE-inhibitor cough.",
+    "clinicalPearl": "Monitor blood pressure closely, especially after the first dose."
+  },
+ 
+ {
+    "id": "rn-q-452",
+    "scope": ["RN"],
+    "medicationId": "rn-154",
+    "medication": "Captopril (Capto)",
+    "questionType": "multiple-choice",
+    "stem": "Why should Captopril (Capto) be taken 1 hour before meals?",
+    "choices": [
+      "Food increases toxicity",
+      "Food reduces absorption",
+      "It prevents nausea",
+      "It improves kidney function"
+    ],
+    "correctAnswer": "Food reduces absorption",
+    "rationale": "Food decreases captopril absorption, reducing its effectiveness.",
+    "clinicalPearl": "Administer on an empty stomach for optimal therapeutic effect."
+  },
+
+ {
+    "id": "rn-q-453",
+    "scope": ["RN"],
+    "medicationId": "rn-154",
+    "medication": "Captopril (Capto)",
+    "questionType": "multiple-choice",
+    "stem": "Which finding requires immediate provider notification in a patient taking Captopril (Capto)?",
+    "choices": [
+      "Mild dizziness",
+      "Fatigue",
+      "Dry cough",
+      "Swelling of lips and tongue"
+    ],
+    "correctAnswer": "Swelling of lips and tongue",
+    "rationale": "Angioedema is a life-threatening adverse effect of ACE inhibitors.",
+    "clinicalPearl": "Discontinue immediately and seek emergency care if angioedema occurs."
+  },
+
+ {
+    "id": "rn-q-454",
+    "scope": ["RN"],
+    "medicationId": "rn-155",
+    "medication": "Enalapril (Vasotec)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is expected with Enalapril (Vasotec) therapy?",
+    "choices": [
+      "Hypoglycemia",
+      "Weight gain",
+      "Hyperkalemia",
+      "Constipation"
+    ],
+    "correctAnswer": "Hyperkalemia",
+    "rationale": "ACE inhibitors reduce aldosterone, increasing potassium levels.",
+    "clinicalPearl": "Avoid potassium supplements and salt substitutes unless prescribed."
+  },
+
+{
+    "id": "rn-q-455",
+    "scope": ["RN"],
+    "medicationId": "rn-155",
+    "medication": "Enalapril (Vasotec)",
+    "questionType": "multiple-choice",
+    "stem": "Which teaching should be included for a patient starting Enalapril (Vasotec)?",
+    "choices": [
+      "Stop if blood pressure normalizes",
+      "Take only when symptomatic",
+      "Take with high-potassium foods",
+      "Rise slowly to prevent dizziness"
+    ],
+    "correctAnswer": "Rise slowly to prevent dizziness",
+    "rationale": "First-dose hypotension may occur; orthostatic precautions are needed.",
+    "clinicalPearl": "Monitor blood pressure regularly at home."
+  },
+
+ {
+    "id": "rn-q-456",
+    "scope": ["RN"],
+    "medicationId": "rn-155",
+    "medication": "Enalapril (Vasotec)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient is at greatest risk for kidney injury while on Enalapril (Vasotec)?",
+    "choices": [
+      "Patient with migraines",
+      "Patient with GERD",
+      "Patient with asthma",
+      "Patient with renal artery stenosis"
+    ],
+    "correctAnswer": "Patient with renal artery stenosis",
+    "rationale": "ACE inhibitors reduce glomerular filtration in renal artery stenosis.",
+    "clinicalPearl": "Monitor serum creatinine and BUN after initiation."
+  },
+
+ {
+    "id": "rn-q-457",
+    "scope": ["RN"],
+    "medicationId": "rn-156",
+    "medication": "Lisinopril (Zestril)",
+    "questionType": "multiple-choice",
+    "stem": "Which symptom suggests an adverse reaction to Lisinopril (Zestril)?",
+    "choices": [
+      "Blurred vision",
+      "Weight gain",
+      "Persistent dry cough",
+      "Increased appetite"
+    ],
+    "correctAnswer": "Persistent dry cough",
+    "rationale": "Dry cough is a common ACE inhibitor side effect.",
+    "clinicalPearl": "Cough typically resolves after discontinuation."
+  },
+
+  {
+    "id": "rn-q-458",
+    "scope": ["RN"],
+    "medicationId": "rn-156",
+    "medication": "Lisinopril (Zestril)",
+    "questionType": "multiple-choice",
+    "stem": "Which electrolyte imbalance is a risk with Lisinopril (Zestril)?",
+    "choices": [
+      "Hypocalcemia",
+      "Hypermagnesemia",
+      "Hyperkalemia",
+      "Hyponatremia"
+    ],
+    "correctAnswer": "Hyperkalemia",
+    "rationale": "Reduced aldosterone leads to potassium retention.",
+    "clinicalPearl": "Assess potassium levels before and during therapy."
+  },
+
+{
+    "id": "rn-q-459",
+    "scope": ["RN"],
+    "medicationId": "rn-156",
+    "medication": "Lisinopril (Zestril)",
+    "questionType": "multiple-choice",
+    "stem": "Why must Lisinopril (Zestril) be avoided during pregnancy?",
+    "choices": [
+      "It increases labor",
+      "It increases maternal bleeding",
+      "It causes fetal hypoglycemia",
+      "It can cause fetal kidney damage"
+    ],
+    "correctAnswer": "It can cause fetal kidney damage",
+    "rationale": "ACE inhibitors cause fetal renal failure and birth defects.",
+    "clinicalPearl": "Discontinue immediately if pregnancy is confirmed."
+  },
+
+  {
+    "id": "rn-q-460",
+    "scope": ["RN"],
+    "medicationId": "rn-157",
+    "medication": "Candesartan (Atacand)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most common with Candesartan (Atacand)?",
+    "choices": [
+      "Hypoglycemia",
+      "Bradycardia",
+      "Dizziness and hyperkalemia",
+      "Cough"
+    ],
+    "correctAnswer": "Dizziness and hyperkalemia",
+    "rationale": "ARBs cause hypotension and potassium retention but less cough.",
+    "clinicalPearl": "Monitor blood pressure and potassium levels regularly."
+  },
+
+  {
+    "id": "rn-q-461",
+    "scope": ["RN"],
+    "medicationId": "rn-157",
+    "medication": "Candesartan (Atacand)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab value should be monitored during Candesartan (Atacand) therapy?",
+    "choices": [
+      "INR",
+      "Platelet count",
+      "Serum potassium",
+      "Sodium"
+    ],
+    "correctAnswer": "Serum potassium",
+    "rationale": "ARBs may increase potassium levels.",
+    "clinicalPearl": "Avoid potassium-containing salt substitutes."
+  },
+
+ {
+    "id": "rn-q-462",
+    "scope": ["RN"],
+    "medicationId": "rn-157",
+    "medication": "Candesartan (Atacand)",
+    "questionType": "multiple-choice",
+    "stem": "Why might Candesartan (Atacand) be prescribed instead of an ACE inhibitor?",
+    "choices": [
+      "Greater diuretic effect",
+      "Improves heart rate",
+      "Lower risk of cough",
+      "Prevents arrhythmias"
+    ],
+    "correctAnswer": "Lower risk of cough",
+    "rationale": "ARBs do not increase bradykinin, so cough is less common.",
+    "clinicalPearl": "ARBs are alternatives for patients intolerant to ACE inhibitors."
+  },
+
+{
+    "id": "rn-q-463",
+    "scope": ["RN"],
+    "medicationId": "rn-158",
+    "medication": "Losartan (Cozaar)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is expected with Losartan (Cozaar) therapy?",
+    "choices": [
+      "Dry cough",
+      "Hypoglycemia",
+      "Hyperkalemia",
+      "Bradycardia"
+    ],
+    "correctAnswer": "Hyperkalemia",
+    "rationale": "ARBs increase potassium but rarely cause cough.",
+    "clinicalPearl": "Assess renal function before and during therapy."
+  },
+
+  {
+    "id": "rn-q-464",
+    "scope": ["RN"],
+    "medicationId": "rn-158",
+    "medication": "Losartan (Cozaar)",
+    "questionType": "multiple-choice",
+    "stem": "Which teaching is appropriate for Losartan (Cozaar)?",
+    "choices": [
+      "Take with high-salt meals",
+      "Stop when blood pressure improves",
+      "Avoid potassium supplements unless prescribed",
+      "Double dose if missed"
+    ],
+    "correctAnswer": "Avoid potassium supplements unless prescribed",
+    "rationale": "Potassium levels may rise with ARB therapy.",
+    "clinicalPearl": "Continue medication even if feeling well unless directed otherwise."
+  },
+ 
+ {
+    "id": "rn-q-465",
+    "scope": ["RN"],
+    "medicationId": "rn-158",
+    "medication": "Losartan (Cozaar)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient should not take Losartan (Cozaar)?",
+    "choices": [
+      "Patient with COPD",
+      "Patient with anemia",
+      "Pregnant patient",
+      "Patient with GERD"
+    ],
+    "correctAnswer": "Pregnant patient",
+    "rationale": "ARBs are contraindicated in pregnancy.",
+    "clinicalPearl": "Discontinue immediately if pregnancy occurs."
+  },
+
+  {
+    "id": "rn-q-466",
+    "scope": ["RN"],
+    "medicationId": "rn-159",
+    "medication": "Telmisartan (Micardis)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most associated with Telmisartan (Micardis)?",
+    "choices": [
+      "Photosensitivity",
+      "Cough",
+      "Hypotension and dizziness",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Hypotension and dizziness",
+    "rationale": "ARBs commonly cause low blood pressure and dizziness.",
+    "clinicalPearl": "Monitor for orthostatic hypotension when initiating therapy."
+  },
+
+ {
+    "id": "rn-q-467",
+    "scope": ["RN"],
+    "medicationId": "rn-159",
+    "medication": "Telmisartan (Micardis)",
+    "questionType": "multiple-choice",
+    "stem": "Which instruction should be given to prevent adverse effects for someone taking Telmisartan (Micardis)?",
+    "choices": [
+      "Take extra potassium",
+      "Avoid fluids",
+      "Change positions slowly",
+      "Exercise immediately after dosing"
+    ],
+    "correctAnswer": "Change positions slowly",
+    "rationale": "Orthostatic hypotension is common when starting therapy.",
+    "clinicalPearl": "Advise patients to sit or lie down if dizziness occurs."
+  },
+
+ {
+    "id": "rn-q-468",
+    "scope": ["RN"],
+    "medicationId": "rn-159",
+    "medication": "Telmisartan (Micardis)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab finding is concerning in a patient taking Telmisartan (Micardis)?",
+    "choices": [
+      "Sodium 138 mEq/L",
+      "Calcium 9.2 mg/dL",
+      "Hemoglobin 14 g/dL",
+      "Potassium 5.8 mEq/L"
+    ],
+    "correctAnswer": "Potassium 5.8 mEq/L",
+    "rationale": "Elevated potassium indicates hyperkalemia risk.",
+    "clinicalPearl": "Report muscle weakness or palpitations promptly."
+  },
+
+ {
+    "id": "rn-q-469",
+    "scope": ["RN"],
+    "medicationId": "rn-160",
+    "medication": "Valsartan (Diovan)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is expected with Valsartan (Diovan)?",
+    "choices": [
+      "Hypoglycemia",
+      "Cough",
+      "Dizziness and hyperkalemia",
+      "Tachycardia"
+    ],
+    "correctAnswer": "Dizziness and hyperkalemia",
+    "rationale": "ARBs cause hypotension and potassium retention.",
+    "clinicalPearl": "Monitor blood pressure and serum potassium levels."
+  },
+ 
+ {
+    "id": "rn-q-470",
+    "scope": ["RN"],
+    "medicationId": "rn-160",
+    "medication": "Valsartan (Diovan)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is essential for Valsartan (Diovan)?",
+    "choices": [
+      "Take with potassium supplements",
+      "Stop abruptly when BP improves",
+      "Take only at bedtime",
+      "Do not use during pregnancy"
+    ],
+    "correctAnswer": "Do not use during pregnancy",
+    "rationale": "ARBs are teratogenic and contraindicated in pregnancy.",
+    "clinicalPearl": "Notify provider immediately if pregnancy is suspected."
+  },
+
+ {
+    "id": "rn-q-471",
+    "scope": ["RN"],
+    "medicationId": "rn-160",
+    "medication": "Valsartan (Diovan)",
+    "questionType": "multiple-choice",
+    "stem": "Which condition requires caution when prescribing Valsartan (Diovan)?",
+    "choices": [
+      "Asthma",
+      "Osteoporosis",
+      "Renal impairment",
+      "Hypothyroidism"
+    ],
+    "correctAnswer": "Renal impairment",
+    "rationale": "Renal function may worsen due to altered renal perfusion.",
+    "clinicalPearl": "Monitor creatinine and potassium levels in at-risk patients."
+  },
+
+   {
+    "id": "rn-q-472",
+    "scope": ["RN"],
+    "medicationId": "rn-161",
+    "medication": "Carvedilol (Coreq)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most common with Carvedilol (Coreq) therapy?",
+    "choices": [
+      "Hyperglycemia",
+      "Insomnia",
+      "Bradycardia and hypotension",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Bradycardia and hypotension",
+    "rationale": "Carvedilol (Coreq) is a beta and alpha blocker that lowers heart rate and blood pressure.",
+    "clinicalPearl": "Monitor heart rate and blood pressure before administration."
+  },
+
+ {
+    "id": "rn-q-473",
+    "scope": ["RN"],
+    "medicationId": "rn-161",
+    "medication": "Carvedilol (Coreq)",
+    "questionType": "multiple-choice",
+    "stem": "Which instruction is most important for a patient taking Carvedilol (Coreq)?",
+    "choices": [
+      "Take with high-sodium foods",
+      "Double dose if missed",
+      "Check pulse and blood pressure before dosing",
+      "Stop abruptly if feeling better"
+    ],
+    "correctAnswer": "Check pulse and blood pressure before dosing",
+    "rationale": "Monitoring HR and BP helps prevent severe bradycardia and hypotension.",
+    "clinicalPearl": "Hold dose and notify provider if pulse is below prescribed threshold."
+  },
+
+ {
+    "id": "rn-q-474",
+    "scope": ["RN"],
+    "medicationId": "rn-161",
+    "medication": "Carvedilol (Coreq)",
+    "questionType": "multiple-choice",
+    "stem": "Why is Carvedilol (Coreq) useful in heart failure?",
+    "choices": [
+      "It increases cardiac contractility",
+      "It increases sodium excretion",
+      "It reduces heart rate and decreases cardiac workload",
+      "It dilates coronary arteries only"
+    ],
+    "correctAnswer": "It reduces heart rate and decreases cardiac workload",
+    "rationale": "Beta-blockade improves survival by reducing cardiac workload.",
+    "clinicalPearl": "Start at low doses and titrate slowly in heart failure."
+  },
+
+ {
+    "id": "rn-q-475",
+    "scope": ["RN"],
+    "medicationId": "rn-162",
+    "medication": "Nadolol (Corgard)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is expected with Nadolol (Corgard) therapy?",
+    "choices": [
+      "Constipation",
+      "Hyperglycemia",
+      "Bradycardia and fatigue",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Bradycardia and fatigue",
+    "rationale": "Nadolol (Corgard) is a nonselective beta-blocker causing slowed HR and fatigue.",
+    "clinicalPearl": "Assess for signs of excessive beta-blockade."
+  },
+
+ {
+    "id": "rn-q-476",
+    "scope": ["RN"],
+    "medicationId": "rn-162",
+    "medication": "Nadolol (Corgard)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient should use caution when taking Nadolol (Corgard)?",
+    "choices": [
+      "Patient with migraine",
+      "Patient with anemia",
+      "Patient with asthma",
+      "Patient with hypothyroidism"
+    ],
+    "correctAnswer": "Patient with asthma",
+    "rationale": "Nonselective beta-blockers can worsen bronchoconstriction.",
+    "clinicalPearl": "Monitor respiratory status in patients with reactive airway disease."
+  },
+
+  {
+    "id": "rn-q-477",
+    "scope": ["RN"],
+    "medicationId": "rn-162",
+    "medication": "Nadolol (Corgard)",
+    "questionType": "multiple-choice",
+    "stem": "Which teaching should be given for Nadolol (Corgard)?",
+    "choices": [
+      "Take only when symptoms occur",
+      "Increase caffeine intake",
+      "Skip doses if heart rate is low",
+      "Do not stop medication abruptly"
+    ],
+    "correctAnswer": "Do not stop medication abruptly",
+    "rationale": "Sudden withdrawal may cause rebound hypertension or angina.",
+    "clinicalPearl": "Taper dose gradually under provider supervision."
+  },
+
+  {
+    "id": "rn-q-478",
+    "scope": ["RN"],
+    "medicationId": "rn-163",
+    "medication": "Amlodipine (Norvasc)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most common with Amlodipine (Norvasc)?",
+    "choices": [
+      "Bradycardia",
+      "Peripheral edema",
+      "Hypoglycemia",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Peripheral edema",
+    "rationale": "Dihydropyridine CCBs commonly cause ankle and leg swelling.",
+    "clinicalPearl": "Elevate legs to reduce edema if mild."
+  },
+
+ {
+    "id": "rn-q-479",
+    "scope": ["RN"],
+    "medicationId": "rn-163",
+    "medication": "Amlodipine (Norvasc)",
+    "questionType": "multiple-choice",
+    "stem": "Which teaching is appropriate for Amlodipine (Norvasc) therapy?",
+    "choices": [
+      "Take potassium supplements",
+      "Monitor blood glucose daily",
+      "Change positions slowly to avoid dizziness",
+      "Avoid fluids"
+    ],
+    "correctAnswer": "Change positions slowly to avoid dizziness",
+    "rationale": "Amlodipine (Norvasc) may cause hypotension and dizziness.",
+    "clinicalPearl": "Report significant swelling or shortness of breath."
+  },
+
+ {
+    "id": "rn-q-480",
+    "scope": ["RN"],
+    "medicationId": "rn-163",
+    "medication": "Amlodipine (Norvasc)",
+    "questionType": "multiple-choice",
+    "stem": "Which benefit does Amlodipine (Norvasc) provide in angina?",
+    "choices": [
+      "It increases heart rate",
+      "It increases contractility",
+      "It dilates coronary and peripheral arteries",
+      "It decreases preload only"
+    ],
+    "correctAnswer": "It dilates coronary and peripheral arteries",
+    "rationale": "CCBs improve myocardial oxygen supply via vasodilation.",
+    "clinicalPearl": "Reduces afterload and myocardial oxygen demand."
+  },
+  
+  {
+    "id": "rn-q-481",
+    "scope": ["RN"],
+    "medicationId": "rn-164",
+    "medication": "Nicardipine (Cardene)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is expected with Nicardipine (Cardene) therapy?",
+    "choices": [
+      "Bradycardia",
+      "Hyperkalemia",
+      "Headache and flushing",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Headache and flushing",
+    "rationale": "Vasodilation causes headache, flushing, and hypotension.",
+    "clinicalPearl": "Monitor for dizziness due to blood pressure reduction."
+  },
+
+  {
+    "id": "rn-q-482",
+    "scope": ["RN"],
+    "medicationId": "rn-164",
+    "medication": "Nicardipine (Cardene)",
+    "questionType": "multiple-choice",
+    "stem": "Which vital sign should be monitored closely during IV Nicardipine (Cardene) infusion?",
+    "choices": [
+      "Respiratory rate",
+      "Temperature",
+      "Blood pressure",
+      "Oxygen saturation"
+    ],
+    "correctAnswer": "Blood pressure",
+    "rationale": "Nicardipine (Cardene) is often used for hypertensive emergencies requiring BP control.",
+    "clinicalPearl": "Continuous BP monitoring is recommended during IV administration."
+  },
+
+{
+    "id": "rn-q-483",
+    "scope": ["RN"],
+    "medicationId": "rn-164",
+    "medication": "Nicardipine (Cardene)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient condition benefits from Nicardipine (Cardene)?",
+    "choices": [
+      "Atrial fibrillation",
+      "Heart block",
+      "Hypertensive crisis",
+      "Bradycardia"
+    ],
+    "correctAnswer": "Hypertensive crisis",
+    "rationale": "Nicardipine (Cardene) is used for rapid BP control.",
+    "clinicalPearl": "Often administered IV in critical care settings."
+  },
+
+ {
+    "id": "rn-q-484",
+    "scope": ["RN"],
+    "medicationId": "rn-165",
+    "medication": "Nifedipine (Procardia)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is common with Nifedipine (Procardia)?",
+    "choices": [
+      "Bradycardia",
+      "Peripheral edema and headache",
+      "Hypoglycemia",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Peripheral edema and headache",
+    "rationale": "Dihydropyridine CCBs cause vasodilation-related effects.",
+    "clinicalPearl": "Edema is dose-related and may improve with dose adjustment."
+  },
+
+{
+    "id": "rn-q-485",
+    "scope": ["RN"],
+    "medicationId": "rn-165",
+    "medication": "Nifedipine (Procardia)",
+    "questionType": "multiple-choice",
+    "stem": "Why should immediate-release Nifedipine (Procardia) be avoided in hypertension?",
+    "choices": [
+      "It causes kidney failure",
+      "It increases clot risk",
+      "It can cause rapid hypotension and reflex tachycardia",
+      "It causes severe hypoglycemia"
+    ],
+    "correctAnswer": "It can cause rapid hypotension and reflex tachycardia",
+    "rationale": "Rapid BP drops can trigger dangerous reflex responses.",
+    "clinicalPearl": "Extended-release formulations are preferred for chronic hypertension."
+  },
+
+{
+    "id": "rn-q-486",
+    "scope": ["RN"],
+    "medicationId": "rn-165",
+    "medication": "Nifedipine (Procardia)",
+    "questionType": "multiple-choice",
+    "stem": "Which instruction is appropriate for Nifedipine (Procardia) therapy?",
+    "choices": [
+      "Take with high-fat meals",
+      "Monitor potassium daily",
+      "Avoid grapefruit juice",
+      "Stop if swelling occurs"
+    ],
+    "correctAnswer": "Avoid grapefruit juice",
+    "rationale": "Grapefruit increases CCB blood levels and toxicity.",
+    "clinicalPearl": "Report significant dizziness or palpitations."
+  },
+
+ {
+    "id": "rn-q-487",
+    "scope": ["RN"],
+    "medicationId": "rn-166",
+    "medication": "Chlorthalidone (Thalitone)",
+    "questionType": "multiple-choice",
+    "stem": "Which electrolyte imbalance is most likely with Chlorthalidone (Thalitone)?",
+    "choices": [
+      "Hyperkalemia",
+      "Hypernatremia",
+      "Hypokalemia",
+      "Hypercalcemia"
+    ],
+    "correctAnswer": "Hypokalemia",
+    "rationale": "Thiazide-like diuretics increase potassium loss.",
+    "clinicalPearl": "Monitor potassium levels regularly."
+  },
+
+  {
+    "id": "rn-q-488",
+    "scope": ["RN"],
+    "medicationId": "rn-166",
+    "medication": "Chlorthalidone (Thalitone)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect should be monitored in patients taking Chlorthalidone (Thalitone)?",
+    "choices": [
+      "Bradycardia",
+      "Hypoglycemia",
+      "Dehydration and hypotension",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Dehydration and hypotension",
+    "rationale": "Volume depletion may occur due to diuresis.",
+    "clinicalPearl": "Monitor blood pressure and daily weights."
+  },
+
+  {
+    "id": "rn-q-489",
+    "scope": ["RN"],
+    "medicationId": "rn-166",
+    "medication": "Chlorthalidone (Thalitone)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient teaching is appropriate for Chlorthalidone (Thalitone)?",
+    "choices": [
+      "Take at bedtime",
+      "Avoid all fluids",
+      "Eat potassium-rich foods",
+      "Double dose if missed"
+    ],
+    "correctAnswer": "Eat potassium-rich foods",
+    "rationale": "Potassium loss can occur and may require dietary replacement.",
+    "clinicalPearl": "Take medication in the morning to prevent nocturia."
+  },
+  
+  {
+    "id": "rn-q-490",
+    "scope": ["RN"],
+    "medicationId": "rn-167",
+    "medication": "Hydrochlorothiazide (Microzide)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab value is most important to monitor with Hydrochlorothiazide (Microzide) therapy?",
+    "choices": [
+      "INR",
+      "Calcium",
+      "Potassium",
+      "Magnesium"
+    ],
+    "correctAnswer": "Potassium",
+    "rationale": "Hydrochlorothiazide (Microzide) commonly causes hypokalemia.",
+    "clinicalPearl": "Monitor electrolytes periodically during therapy."
+  },
+
+ {
+    "id": "rn-q-491",
+    "scope": ["RN"],
+    "medicationId": "rn-167",
+    "medication": "Hydrochlorothiazide (Microzide)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is associated with Hydrochlorothiazide (Microzide)?",
+    "choices": [
+      "Hypoglycemia",
+      "Bradycardia",
+      "Hyperuricemia and gout",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Hyperuricemia and gout",
+    "rationale": "Thiazides increase uric acid levels.",
+    "clinicalPearl": "Use cautiously in patients with a history of gout."
+  },
+
+{
+    "id": "rn-q-492",
+    "scope": ["RN"],
+    "medicationId": "rn-167",
+    "medication": "Hydrochlorothiazide (Microzide)",
+    "questionType": "multiple-choice",
+    "stem": "Which instruction should the nurse give to the patient taking Hydrochlorothiazide (Microzide)?",
+    "choices": [
+      "Take at bedtime",
+      "Avoid sunlight entirely",
+      "Take medication in the morning",
+      "Double dose if missed"
+    ],
+    "correctAnswer": "Take medication in the morning",
+    "rationale": "Morning dosing prevents nocturia.",
+    "clinicalPearl": "Administer early in the day to reduce nighttime urination."
+  },
+
+ {
+    "id": "rn-q-493",
+    "scope": ["RN"],
+    "medicationId": "rn-168",
+    "medication": "Amiloride (Midamor)",
+    "questionType": "multiple-choice",
+    "stem": "Which electrolyte imbalance is a risk with Amiloride (Midamor)?",
+    "choices": [
+      "Hypokalemia",
+      "Hyponatremia",
+      "Hyperkalemia",
+      "Hypocalcemia"
+    ],
+    "correctAnswer": "Hyperkalemia",
+    "rationale": "Potassium-sparing diuretics increase potassium levels.",
+    "clinicalPearl": "Monitor potassium levels closely during therapy."
+  },
+
+ {
+    "id": "rn-q-494",
+    "scope": ["RN"],
+    "medicationId": "rn-168",
+    "medication": "Amiloride (Midamor)",
+    "questionType": "multiple-choice",
+    "stem": "Which medication should be avoided with Amiloride (Midamor)?",
+    "choices": [
+      "Iron supplements",
+      "Calcium carbonate",
+      "Potassium supplements",
+      "Vitamin C"
+    ],
+    "correctAnswer": "Potassium supplements",
+    "rationale": "Combining increases risk of dangerous hyperkalemia.",
+    "clinicalPearl": "Avoid salt substitutes containing potassium."
+  },
+
+ {
+    "id": "rn-q-495",
+    "scope": ["RN"],
+    "medicationId": "rn-168",
+    "medication": "Amiloride (Midamor)",
+    "questionType": "multiple-choice",
+    "stem": "Why is Amiloride (Midamor) often combined with thiazide diuretics?",
+    "choices": [
+      "To increase sodium loss",
+      "To prevent hypotension",
+      "To prevent potassium loss",
+      "To increase urine acidity"
+    ],
+    "correctAnswer": "To prevent potassium loss",
+    "rationale": "It offsets potassium-wasting effects of other diuretics.",
+    "clinicalPearl": "Combination therapy balances electrolyte effects."
+  },
+
+{
+    "id": "rn-q-496",
+    "scope": ["RN"],
+    "medicationId": "rn-169",
+    "medication": "Spironolactone (Aldactone)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is unique to Spironolactone (Aldactone)?",
+    "choices": [
+      "Hypoglycemia",
+      "Constipation",
+      "Gynecomastia",
+      "Hearing loss"
+    ],
+    "correctAnswer": "Gynecomastia",
+    "rationale": "Spironolactone (Aldactone) has antiandrogen effects.",
+    "clinicalPearl": "May also cause menstrual irregularities in females."
+  },
+
+ {
+    "id": "rn-q-497",
+    "scope": ["RN"],
+    "medicationId": "rn-169",
+    "medication": "Spironolactone (Aldactone)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab value must be monitored closely for a patient taking Spironolactone (Aldactone)?",
+    "choices": [
+      "INR",
+      "Calcium",
+      "Sodium",
+      "Potassium"
+    ],
+    "correctAnswer": "Potassium",
+    "rationale": "Risk of hyperkalemia is significant.",
+    "clinicalPearl": "Assess renal function along with potassium levels."
+  },
+
+ {
+    "id": "rn-q-498",
+    "scope": ["RN"],
+    "medicationId": "rn-169",
+    "medication": "Spironolactone (Aldactone)",
+    "questionType": "multiple-choice",
+    "stem": "Which condition benefits from Spironolactone (Aldactone) therapy?",
+    "choices": [
+      "Hypothyroidism",
+      "Asthma",
+      "Heart failure with reduced ejection fraction",
+      "Migraine"
+    ],
+    "correctAnswer": "Heart failure with reduced ejection fraction",
+    "rationale": "Aldosterone blockade improves survival in heart failure.",
+    "clinicalPearl": "Commonly added to ACE inhibitors and beta-blockers in HFrEF."
+  },
+
+{
+    "id": "rn-q-499",
+    "scope": ["RN"],
+    "medicationId": "rn-170",
+    "medication": "Triamterene (Dyrenium)",
+    "questionType": "multiple-choice",
+    "stem": "Which electrolyte abnormality is associated with Triamterene (Dyrenium)?",
+    "choices": [
+      "Hypokalemia",
+      "Hypercalcemia",
+      "Hyperkalemia",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Hyperkalemia",
+    "rationale": "Triamterene (Dyrenium) is potassium-sparing.",
+    "clinicalPearl": "Avoid concurrent potassium supplementation."
+  },
+
+{
+    "id": "rn-q-500",
+    "scope": ["RN"],
+    "medicationId": "rn-170",
+    "medication": "Triamterene (Dyrenium)",
+    "questionType": "multiple-choice",
+    "stem": "Which patient should use caution when taking Triamterene (Dyrenium)?",
+    "choices": [
+      "Patient with anemia",
+      "Patient with GERD",
+      "Patient with hyperlipidemia",
+      "Patient with renal impairment"
+    ],
+    "correctAnswer": "Patient with renal impairment",
+    "rationale": "Renal disease increases risk of potassium accumulation.",
+    "clinicalPearl": "Monitor renal function and potassium levels closely."
+  },
+
+ {
+    "id": "rn-q-501",
+    "scope": ["RN"],
+    "medicationId": "rn-170",
+    "medication": "Triamterene (Dyrenium)",
+    "questionType": "multiple-choice",
+    "stem": "Why is Triamterene (Dyrenium) combined with Hydrochlorothiazide (Microzide)?",
+    "choices": [
+      "To increase calcium loss",
+      "To prevent dehydration",
+      "To reduce glucose levels",
+      "To balance potassium levels"
+    ],
+    "correctAnswer": "To balance potassium levels",
+    "rationale": "Combination prevents potassium depletion.",
+    "clinicalPearl": "Common fixed-dose combinations improve adherence."
+  },
+
+  {
+    "id": "rn-q-502",
+    "scope": ["RN"],
+    "medicationId": "rn-171",
+    "medication": "Isosorbide dinitrate (Isordil)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is most common with Isosorbide dinitrate (Isordil)?",
+    "choices": [
+      "Bradycardia",
+      "Hyperglycemia",
+      "Headache and hypotension",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Headache and hypotension",
+    "rationale": "Nitrates cause vasodilation leading to headache and low blood pressure.",
+    "clinicalPearl": "Headaches often decrease with continued therapy."
+  },
+
+ {
+    "id": "rn-q-503",
+    "scope": ["RN"],
+    "medicationId": "rn-171",
+    "medication": "Isosorbide dinitrate (Isordil)",
+    "questionType": "multiple-choice",
+    "stem": "Which instruction is most important for patients taking Isosorbide dinitrate (Isordil)?",
+    "choices": [
+      "Take with high-fat meals",
+      "Use only when chest pain occurs",
+      "Allow a daily nitrate-free interval to prevent tolerance",
+      "Double dose if pain persists"
+    ],
+    "correctAnswer": "Allow a daily nitrate-free interval to prevent tolerance",
+    "rationale": "Nitrate tolerance develops without drug-free periods.",
+    "clinicalPearl": "Schedule doses to provide 10–12 hours nitrate-free each day."
+  },
+
+{
+    "id": "rn-q-504",
+    "scope": ["RN"],
+    "medicationId": "rn-171",
+    "medication": "Isosorbide dinitrate (Isordil)",
+    "questionType": "multiple-choice",
+    "stem": "Which drug interaction is most dangerous with Isosorbide dinitrate (Isordil)?",
+    "choices": [
+      "Hydrochlorothiazide",
+      "Aspirin",
+      "Sildenafil",
+      "Metformin"
+    ],
+    "correctAnswer": "Sildenafil",
+    "rationale": "Combining nitrates with PDE-5 inhibitors can cause severe hypotension.",
+    "clinicalPearl": "Avoid PDE-5 inhibitors within 24–48 hours of nitrate use."
+  },
+
+{
+    "id": "rn-q-505",
+    "scope": ["RN"],
+    "medicationId": "rn-172",
+    "medication": "Isosorbide mononitrate (Imdur)",
+    "questionType": "multiple-choice",
+    "stem": "Why is Isosorbide mononitrate (Imdur) used in chronic angina?",
+    "choices": [
+      "It treats acute chest pain",
+      "It increases heart rate",
+      "It raises blood pressure",
+      "It prevents anginal attacks"
+    ],
+    "correctAnswer": "It prevents anginal attacks",
+    "rationale": "It is used for prophylaxis, not acute relief.",
+    "clinicalPearl": "Not effective for immediate relief of active chest pain."
+  },
+
+ {
+    "id": "rn-q-506",
+    "scope": ["RN"],
+    "medicationId": "rn-172",
+    "medication": "Isosorbide mononitrate (Imdur)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect should the nurse expect for a patient taking Isosorbide mononitrate (Imdur)?",
+    "choices": [
+      "Constipation",
+      "Hyperkalemia",
+      "Headache",
+      "Bradycardia"
+    ],
+    "correctAnswer": "Headache",
+    "rationale": "Vasodilation commonly causes headache.",
+    "clinicalPearl": "Analgesics may be used for nitrate-induced headaches."
+  },
+
+ {
+    "id": "rn-q-507",
+    "scope": ["RN"],
+    "medicationId": "rn-172",
+    "medication": "Isosorbide mononitrate (Imdur)",
+    "questionType": "multiple-choice",
+    "stem": "Which teaching is appropriate for this medication?",
+    "choices": [
+      "Take only when pain occurs",
+      "Crush tablets for faster relief",
+      "Take at bedtime only",
+      "Take at the same time daily and do not stop abruptly"
+    ],
+    "correctAnswer": "Take at the same time daily and do not stop abruptly",
+    "rationale": "Consistent dosing maintains prophylactic effect.",
+    "clinicalPearl": "Extended-release tablets should not be crushed."
+  },
+
+ {
+    "id": "rn-q-508",
+    "scope": ["RN"],
+    "medicationId": "rn-173",
+    "medication": "Nitroglycerin",
+    "questionType": "multiple-choice",
+    "stem": "What is the priority action when a patient has chest pain and Nitroglycerin is ordered?",
+    "choices": [
+      "Give with food",
+      "Apply topical ointment immediately",
+      "Place one tablet under the tongue and reassess pain in 5 minutes",
+      "Give IV bolus"
+    ],
+    "correctAnswer": "Place one tablet under the tongue and reassess pain in 5 minutes",
+    "rationale": "Sublingual nitroglycerin is first-line for acute angina.",
+    "clinicalPearl": "May repeat every 5 minutes for up to three doses; call emergency services if pain persists."
+  },
+ 
+ {
+    "id": "rn-q-509",
+    "scope": ["RN"],
+    "medicationId": "rn-173",
+    "medication": "Nitroglycerin",
+    "questionType": "multiple-choice",
+    "stem": "Which side effect should the nurse warn the patient about when taking Nitroglycerin?",
+    "choices": [
+      "Hyperglycemia",
+      "Hearing loss",
+      "Headache and dizziness",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": "Headache and dizziness",
+    "rationale": "Vasodilation commonly causes headache and lightheadedness.",
+    "clinicalPearl": "Sit or lie down when taking to prevent falls."
+  },
+
+{
+    "id": "rn-q-510",
+    "scope": ["RN"],
+    "medicationId": "rn-173",
+    "medication": "Nitroglycerin",
+    "questionType": "multiple-choice",
+    "stem": "Which medication must be avoided while taking Nitroglycerin?",
+    "choices": [
+      "Acetaminophen",
+      "Metoprolol",
+      "Atorvastatin",
+      "Sildenafil"
+    ],
+    "correctAnswer": "Sildenafil",
+    "rationale": "Combined vasodilation can cause life-threatening hypotension.",
+    "clinicalPearl": "Always review medication list for PDE-5 inhibitors."
+  },
+
+{
+  "id": "rn-q-511",
+  "scope": ["RN"],
+  "medicationId": "rn-174",
+  "medication": "Nitroprusside (Nipride)",
+  "questionType": "multiple-choice",
+  "stem": "Which situation is appropriate for Nitroprusside (Nipride) use?",
+  "choices": [
+    "Stable angina",
+    "Chronic heart failure",
+    "Hypertensive emergency",
+    "Mild hypertension"
+  ],
+  "correctAnswer": "Hypertensive emergency",
+  "rationale": "Nitroprusside (Nipride) is used for rapid blood pressure control in hypertensive emergencies.",
+  "clinicalPearl": "Nitroprusside (Nipride) requires ICU-level care and continuous blood pressure monitoring."
+},
+
+{
+  "id": "rn-q-512",
+  "scope": ["RN"],
+  "medicationId": "rn-174",
+  "medication": "Nitroprusside (Nipride)",
+  "questionType": "multiple-choice",
+  "stem": "Which monitoring is essential during Nitroprusside (Nipride) infusion?",
+  "choices": [
+    "Daily potassium levels",
+    "Continuous blood pressure monitoring",
+    "Neurological checks only",
+    "Pulse oximetry only"
+  ],
+  "correctAnswer": "Continuous blood pressure monitoring",
+  "rationale": "Nitroprusside (Nipride) causes rapid blood pressure changes and requires continuous monitoring.",
+  "clinicalPearl": "Arterial line monitoring is commonly used during nitroprusside infusion."
+},
+
+{
+  "id": "rn-q-513",
+  "scope": ["RN"],
+  "medicationId": "rn-174",
+  "medication": "Nitroprusside (Nipride)",
+  "questionType": "multiple-choice",
+  "stem": "Which toxicity can occur with prolonged Nitroprusside (Nipride) infusion?",
+  "choices": [
+    "Hyperkalemia",
+    "Cyanide toxicity",
+    "Hepatotoxicity",
+    "Hypoglycemia"
+  ],
+  "correctAnswer": "Cyanide toxicity",
+  "rationale": "Nitroprusside (Nipride) metabolizes into cyanide, which can accumulate with prolonged or high-dose infusions.",
+  "clinicalPearl": "Unexplained metabolic acidosis during infusion may indicate cyanide toxicity."
+},
+
+{
+  "id": "rn-q-514",
+  "scope": ["RN"],
+  "medicationId": "rn-175",
+  "medication": "Sacubitril and valsartan (Entresto)",
+  "questionType": "multiple-choice",
+  "stem": "Which benefit does Sacubitril and valsartan (Entresto) provide in heart failure?",
+  "choices": [
+    "Treats acute angina",
+    "Reduces mortality and hospitalizations",
+    "Replaces diuretics",
+    "Increases heart rate"
+  ],
+  "correctAnswer": "Reduces mortality and hospitalizations",
+  "rationale": "Sacubitril and valsartan (Entresto) (ARNI) improves survival and reduces hospitalizations in heart failure with reduced ejection fraction.",
+  "clinicalPearl": "ARNI therapy is preferred over ACE inhibitors in eligible HFrEF patients."
+},
+
+{
+  "id": "rn-q-515",
+  "scope": ["RN"],
+  "medicationId": "rn-175",
+  "medication": "Sacubitril and valsartan (Entresto)",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is most concerning for a patient taking Sacubitril and valsartan (Entresto)?",
+  "choices": [
+    "Hearing loss",
+    "Hypoglycemia",
+    "Angioedema and hyperkalemia",
+    "Bradycardia"
+  ],
+  "correctAnswer": "Angioedema and hyperkalemia",
+  "rationale": "Sacubitril and valsartan (Entresto) affects the RAAS system and increases the risk of angioedema and hyperkalemia.",
+  "clinicalPearl": "A 36-hour washout period is required when switching from an ACE inhibitor to Sacubitril and valsartan (Entresto)."
+},
+
+{
+  "id": "rn-q-516",
+  "scope": ["RN"],
+  "medicationId": "rn-175",
+  "medication": "Sacubitril and valsartan (Entresto)",
+  "questionType": "multiple-choice",
+  "stem": "Which medication must be stopped before starting Sacubitril and valsartan (Entresto)?",
+  "choices": [
+    "Loop diuretics",
+    "ACE inhibitors",
+    "Aspirin",
+    "Beta blockers"
+  ],
+  "correctAnswer": "ACE inhibitors",
+  "rationale": "ACE inhibitors must be stopped 36 hours prior due to increased risk of angioedema.",
+  "clinicalPearl": "Never combine ACE inhibitors with ARNIs."
+},
+
+{
+  "id": "rn-q-517",
+  "scope": ["RN"],
+  "medicationId": "rn-176",
+  "medication": "Eplerenone (Inspra)",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect is associated with Eplerenone (Inspra)?",
+  "choices": [
+    "Hypoglycemia",
+    "Hypernatremia",
+    "Hyperkalemia",
+    "Hypokalemia"
+  ],
+  "correctAnswer": "Hyperkalemia",
+  "rationale": "Eplerenone (Inspra) blocks aldosterone, leading to potassium retention.",
+  "clinicalPearl": "Monitor potassium and renal function closely during therapy."
+},
+
+{
+  "id": "rn-q-518",
+  "scope": ["RN"],
+  "medicationId": "rn-176",
+  "medication": "Eplerenone (Inspra)",
+  "questionType": "multiple-choice",
+  "stem": "Which patient benefit does Eplerenone (Inspra) provide in heart failure?",
+  "choices": [
+    "Reduces preload only",
+    "Treats arrhythmias",
+    "Improves survival and reduces remodeling",
+    "Increases contractility"
+  ],
+  "correctAnswer": "Improves survival and reduces remodeling",
+  "rationale": "Aldosterone antagonists reduce cardiac remodeling and improve survival in heart failure.",
+  "clinicalPearl": "Eplerenone (Inspra) has fewer endocrine side effects than spironolactone."
+},
+
+{
+  "id": "rn-q-519",
+  "scope": ["RN"],
+  "medicationId": "rn-176",
+  "medication": "Eplerenone (Inspra)",
+  "questionType": "multiple-choice",
+  "stem": "Which lab must be monitored closely for a patient taking Eplerenone (Inspra)?",
+  "choices": [
+    "INR",
+    "Platelets",
+    "Sodium",
+    "Potassium"
+  ],
+  "correctAnswer": "Potassium",
+  "rationale": "Eplerenone (Inspra) increases potassium levels and may cause hyperkalemia.",
+  "clinicalPearl": "Avoid potassium supplements unless directed by the provider."
+},
+
+{
+  "id": "rn-q-520",
+  "scope": ["RN"],
+  "medicationId": "rn-177",
+  "medication": "Dapagliflozin (Farxiga)",
+  "questionType": "multiple-choice",
+  "stem": "Why is Dapagliflozin (Farxiga) beneficial in heart failure patients?",
+  "choices": [
+    "Raises blood pressure",
+    "Reduces hospitalization and mortality",
+    "Treats arrhythmias",
+    "Increases insulin secretion"
+  ],
+  "correctAnswer": "Reduces hospitalization and mortality",
+  "rationale": "SGLT2 inhibitors reduce heart failure hospitalizations and mortality regardless of diabetes status.",
+  "clinicalPearl": "Dapagliflozin (Farxiga) provides cardiovascular and renal protection."
+},
+
+{
+  "id": "rn-q-521",
+  "scope": ["RN"],
+  "medicationId": "rn-177",
+  "medication": "Dapagliflozin (Farxiga)",
+  "questionType": "multiple-choice",
+  "stem": "Which adverse effect should be monitored for a patient taking Dapagliflozin (Farxiga)?",
+  "choices": [
+    "Bradycardia",
+    "Genital yeast infections",
+    "Hyperkalemia",
+    "Hearing loss"
+  ],
+  "correctAnswer": "Genital yeast infections",
+  "rationale": "Glucosuria increases the risk of genital fungal infections.",
+  "clinicalPearl": "Encourage proper hygiene and hydration during therapy."
+},
+
+{
+  "id": "rn-q-522",
+  "scope": ["RN"],
+  "medicationId": "rn-177",
+  "medication": "Dapagliflozin (Farxiga)",
+  "questionType": "multiple-choice",
+  "stem": "Which patient should use caution with Dapagliflozin (Farxiga)?",
+  "choices": [
+    "Patient with asthma",
+    "Patient with frequent urinary tract infections",
+    "Patient with anemia",
+    "Patient with migraines"
+  ],
+  "correctAnswer": "Patient with frequent urinary tract infections",
+  "rationale": "Dapagliflozin (Farxiga) increases glucose in the urine, raising the risk of UTIs and genital infections.",
+  "clinicalPearl": "Monitor for signs of infection such as dysuria or unusual discharge."
+},
+  
+  {
+    "id": "rn-q-523",
+    "scope": ["RN"],
+    "medicationId": "rn-178",
+    "medication": "Empagliflozin (Jardiance)",
+    "questionType": "multiple-choice",
+    "stem": "Which effect does Empagliflozin (Jardiance) have in heart failure?",
+    "choices": [
+      "Improves cardiovascular outcomes",
+      "Increases sodium retention",
+      "Causes hypoglycemia frequently",
+      "Treats hypertension directly"
+    ],
+    "correctAnswer": "Improves cardiovascular outcomes",
+    "rationale": "SGLT2 inhibitors such as empagliflozin improve cardiovascular outcomes and reduce hospitalization for heart failure.",
+    "clinicalPearl": "Empagliflozin (Jardiance) provides cardiovascular and renal protection beyond glucose lowering."
+  },
+
+  {
+    "id": "rn-q-524",
+    "scope": ["RN"],
+    "medicationId": "rn-178",
+    "medication": "Empagliflozin (Jardiance)",
+    "questionType": "multiple-choice",
+    "stem": "Which adverse effect is expected with Empagliflozin (Jardiance) therapy?",
+    "choices": [
+      "Dehydration and hypotension",
+      "Hyperkalemia",
+      "Hyperglycemia",
+      "Hearing loss"
+    ],
+    "correctAnswer": "Dehydration and hypotension",
+    "rationale": "Empagliflozin (Jardiance) causes osmotic diuresis, which may lead to volume depletion and hypotension.",
+    "clinicalPearl": "Monitor blood pressure and volume status, especially in older adults or those on diuretics."
+  },
+
+  {
+    "id": "rn-q-525",
+    "scope": ["RN"],
+    "medicationId": "rn-178",
+    "medication": "Empagliflozin (Jardiance)",
+    "questionType": "multiple-choice",
+    "stem": "Which teaching is appropriate for a patient taking Empagliflozin (Jardiance)?",
+    "choices": [
+      "Maintain adequate hydration",
+      "Avoid all exercise",
+      "Increase potassium intake",
+      "Take only at bedtime"
+    ],
+    "correctAnswer": "Maintain adequate hydration",
+    "rationale": "Adequate hydration helps prevent dehydration and acute kidney injury due to osmotic diuresis.",
+    "clinicalPearl": "Encourage patients to report dizziness, weakness, or signs of dehydration promptly."
+  },
+
+ {
+    "id": "rn-q-526",
+    "scope": ["RN"],
+    "medicationId": "rn-179",
+    "medication": "Bumetanide (Bumex)",
+    "questionType": "multiple-choice",
+    "stem": "Which electrolyte imbalance is most associated with Bumetanide (Bumex)?",
+    "choices": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hypercalcemia",
+      "Hypoglycemia"
+    ],
+    "correctAnswer": "Hypokalemia",
+    "rationale": "Bumetanide (Bumex) is a loop diuretic that increases potassium excretion, leading to hypokalemia.",
+    "clinicalPearl": "Low potassium levels increase the risk of cardiac dysrhythmias."
+  },
+
+ {
+    "id": "rn-q-527",
+    "scope": ["RN"],
+    "medicationId": "rn-179",
+    "medication": "Bumetanide (Bumex)",
+    "questionType": "multiple-choice",
+    "stem": "Which condition is commonly treated with Bumetanide (Bumex)?",
+    "choices": [
+      "Acute pulmonary edema",
+      "Migraine",
+      "Hypothyroidism",
+      "Anemia"
+    ],
+    "correctAnswer": "Acute pulmonary edema",
+    "rationale": "Loop diuretics such as Bumetanide (Bumex) rapidly remove excess fluid and are used in acute pulmonary edema.",
+    "clinicalPearl": "IV loop diuretics are first-line for rapid fluid removal in acute heart failure exacerbations."
+  },
+
+{
+    "id": "rn-q-528",
+    "scope": ["RN"],
+    "medicationId": "rn-179",
+    "medication": "Bumetanide (Bumex)",
+    "questionType": "multiple-choice",
+    "stem": "Which lab value must be monitored closely in a patient receiving Bumetanide (Bumex)?",
+    "choices": [
+      "Potassium",
+      "INR",
+      "Glucose",
+      "Calcium"
+    ],
+    "correctAnswer": "Potassium",
+    "rationale": "Hypokalemia from loop diuretics increases the risk of life-threatening arrhythmias.",
+    "clinicalPearl": "Monitor electrolytes regularly and replace potassium as prescribed."
+  },
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7596,1950 +9550,6 @@
 
 
     
- {
-    "id": "rn-q-421",
-    "scope": ["RN"],
-    "medicationId": "rn-148",
-    "medication": "Hydromorphone",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with hydromorphone therapy?",
-    "choices": [
-      "Constipation, sedation, nausea, and respiratory depression",
-      "Hypertension",
-      "Hypoglycemia",
-      "Peripheral edema"
-    ],
-    "correctAnswer": "Constipation, sedation, nausea, and respiratory depression",
-    "rationale": "Hydromorphone, a potent opioid, commonly causes CNS and GI adverse effects.",
-    "clinicalPearl": "Prophylactic bowel regimen is often indicated."
-  },
-  
-{
-    "id": "rn-q-422",
-    "scope": ["RN"],
-    "medicationId": "rn-148",
-    "medication": "Hydromorphone",
-    "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for hydromorphone therapy?",
-    "choices": [
-      "Take as prescribed, avoid alcohol, monitor for constipation, and report severe dizziness or difficulty breathing",
-      "Take only when fever is present",
-      "Avoid all fluids",
-      "Take only at bedtime"
-    ],
-    "correctAnswer": "Take as prescribed, avoid alcohol, monitor for constipation, and report severe dizziness or difficulty breathing",
-    "rationale": "Education focuses on preventing overdose, constipation, and respiratory depression.",
-    "clinicalPearl": "Avoid combining with other CNS depressants."
-  },
- 
- {
-    "id": "rn-q-423",
-    "scope": ["RN"],
-    "medicationId": "rn-148",
-    "medication": "Hydromorphone",
-    "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with hydromorphone?",
-    "choices": [
-      "Respiratory disease, liver impairment, or history of substance use disorder",
-      "Mild seasonal allergies",
-      "Tension headaches",
-      "Hypothyroidism"
-    ],
-    "correctAnswer": "Respiratory disease, liver impairment, or history of substance use disorder",
-    "rationale": "Caution is needed due to risk of respiratory depression and hepatotoxicity.",
-    "clinicalPearl": "Monitor liver function in patients with hepatic impairment."
-  },
-  
-  {
-    "id": "rn-q-424",
-    "scope": ["RN"],
-    "medicationId": "rn-149",
-    "medication": "Meperidine",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with meperidine therapy?",
-    "choices": [
-      "Hypertension",
-      "Constipation, sedation, nausea, and risk of seizures with high doses",
-      "Peripheral edema",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "Constipation, sedation, nausea, and risk of seizures with high doses",
-    "rationale": "Meperidine can cause CNS and GI depression; accumulation of normeperidine may lead to seizures.",
-    "clinicalPearl": "Avoid long-term use due to risk of neurotoxicity, especially in older adults."
-  },
-
-{
-    "id": "rn-q-425",
-    "scope": ["RN"],
-    "medicationId": "rn-149",
-    "medication": "Meperidine",
-    "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for meperidine therapy?",
-    "choices": [
-      "Take only when fever is present",
-      "Avoid all fluids",
-      "Take as prescribed, avoid alcohol or CNS depressants, and report dizziness or confusion",
-      "Take only at bedtime"
-    ],
-    "correctAnswer": "Take as prescribed, avoid alcohol or CNS depressants, and report dizziness or confusion",
-    "rationale": "Patient education focuses on preventing overdose, CNS effects, and monitoring for neurotoxicity.",
-    "clinicalPearl": "Monitor for confusion or tremors, especially in renal impairment."
-  },
-
-  {
-    "id": "rn-q-426",
-    "scope": ["RN"],
-    "medicationId": "rn-149",
-    "medication": "Meperidine",
-    "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with meperidine?",
-    "choices": [
-      "Mild seasonal allergies",
-      "Tension headaches",
-      "Renal impairment, hepatic disease, or seizure disorder",
-      "Hypothyroidism"
-    ],
-    "correctAnswer": "Renal impairment, hepatic disease, or seizure disorder",
-    "rationale": "Meperidine and its metabolite can accumulate in renal/hepatic impairment and lower seizure threshold.",
-    "clinicalPearl": "Avoid in patients with chronic kidney disease whenever possible."
-  },
-
-  {
-    "id": "rn-q-427",
-    "scope": ["RN"],
-    "medicationId": "rn-150",
-    "medication": "Methadone",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most concerning with methadone therapy?",
-    "choices": [
-      "Peripheral edema",
-      "Respiratory depression, QT prolongation, and sedation",
-      "Hypertension",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "Respiratory depression, QT prolongation, and sedation",
-    "rationale": "Methadone is a potent opioid with risk of respiratory depression and cardiac arrhythmias.",
-    "clinicalPearl": "Obtain baseline and periodic ECGs to monitor QT interval."
-  },
-
- {
-    "id": "rn-q-428",
-    "scope": ["RN"],
-    "medicationId": "rn-150",
-    "medication": "Methadone",
-    "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for methadone therapy?",
-    "choices": [
-      "Take only at bedtime",
-      "Take as prescribed, avoid alcohol or CNS depressants, and report palpitations or dizziness",
-      "Avoid all fluids",
-      "Take only when fever is present"
-    ],
-    "correctAnswer": "Take as prescribed, avoid alcohol or CNS depressants, and report palpitations or dizziness",
-    "rationale": "Education includes safe dosing and monitoring for CNS and cardiac effects.",
-    "clinicalPearl": "Do not abruptly stop therapy due to risk of withdrawal."
-  },
-
- {
-    "id": "rn-q-429",
-    "scope": ["RN"],
-    "medicationId": "rn-150",
-    "medication": "Methadone",
-    "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with methadone?",
-    "choices": [
-      "Hypothyroidism",
-      "Mild seasonal allergies",
-      "History of cardiac arrhythmias, liver impairment, or respiratory disease",
-      "Tension headaches"
-    ],
-    "correctAnswer": "History of cardiac arrhythmias, liver impairment, or respiratory disease",
-    "rationale": "Methadone prolongs QT interval and is hepatically metabolized; caution is required in these patients.",
-    "clinicalPearl": "Use cautiously with other QT-prolonging medications."
-  },
-
-  {
-    "id": "rn-q-430",
-    "scope": ["RN"],
-    "medicationId": "rn-151",
-    "medication": "Morphine",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with morphine therapy?",
-    "choices": [
-      "Constipation, sedation, nausea, and respiratory depression",
-      "Peripheral edema",
-      "Hypoglycemia",
-      "Hypertension"
-    ],
-    "correctAnswer": "Constipation, sedation, nausea, and respiratory depression",
-    "rationale": "Morphine, a potent opioid, causes CNS and GI adverse effects.",
-    "clinicalPearl": "Initiate bowel regimen when starting chronic opioid therapy."
-  },
-
-  {
-    "id": "rn-q-431",
-    "scope": ["RN"],
-    "medicationId": "rn-151",
-    "medication": "Morphine",
-    "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for morphine therapy?",
-    "choices": [
-      "Avoid all fluids",
-      "Take only when fever is present",
-      "Take as prescribed, avoid alcohol, monitor for constipation, and report severe dizziness or breathing difficulty",
-      "Take only at bedtime"
-    ],
-    "correctAnswer": "Take as prescribed, avoid alcohol, monitor for constipation, and report severe dizziness or breathing difficulty",
-    "rationale": "Prevention of overdose, constipation, and respiratory depression is key patient education.",
-    "clinicalPearl": "Store medication securely to prevent misuse."
-  },
-
- {
-    "id": "rn-q-432",
-    "scope": ["RN"],
-    "medicationId": "rn-151",
-    "medication": "Morphine",
-    "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with morphine?",
-    "choices": [
-      "Tension headaches",
-      "Respiratory disease, hepatic impairment, or history of substance use disorder",
-      "Mild seasonal allergies",
-      "Hypothyroidism"
-    ],
-    "correctAnswer": "Respiratory disease, hepatic impairment, or history of substance use disorder",
-    "rationale": "Morphine can cause respiratory depression and is metabolized by the liver; caution is required.",
-    "clinicalPearl": "Monitor respiratory rate closely, especially after dose increases."
-  },
-
-  {
-    "id": "rn-q-433",
-    "scope": ["RN"],
-    "medicationId": "rn-152",
-    "medication": "Oxycodone",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with oxycodone therapy?",
-    "choices": [
-      "Hypertension",
-      "Constipation, sedation, nausea, and respiratory depression",
-      "Peripheral edema",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "Constipation, sedation, nausea, and respiratory depression",
-    "rationale": "Oxycodone, a strong opioid, commonly causes CNS depression, GI effects, and may depress respiration.",
-    "clinicalPearl": "Initiate a bowel regimen when starting long-term opioid therapy."
-  },
-
-  {
-    "id": "rn-q-434",
-    "scope": ["RN"],
-    "medicationId": "rn-152",
-    "medication": "Oxycodone",
-    "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for oxycodone therapy?",
-    "choices": [
-      "Take only at bedtime",
-      "Avoid all fluids",
-      "Take as prescribed, avoid alcohol, monitor bowel function, and report severe dizziness or difficulty breathing",
-      "Take only when fever is present"
-    ],
-    "correctAnswer": "Take as prescribed, avoid alcohol, monitor bowel function, and report severe dizziness or difficulty breathing",
-    "rationale": "Patient education focuses on preventing overdose, constipation, and respiratory depression.",
-    "clinicalPearl": "Advise patients to avoid driving until they know how the medication affects them."
-  },
-
-  {
-    "id": "rn-q-435",
-    "scope": ["RN"],
-    "medicationId": "rn-152",
-    "medication": "Oxycodone",
-    "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with oxycodone?",
-    "choices": [
-      "Tension headaches",
-      "Respiratory disease, hepatic impairment, or history of substance use disorder",
-      "Hypothyroidism",
-      "Mild seasonal allergies"
-    ],
-    "correctAnswer": "Respiratory disease, hepatic impairment, or history of substance use disorder",
-    "rationale": "Caution is needed due to risk of respiratory depression and hepatic metabolism considerations.",
-    "clinicalPearl": "Monitor respiratory rate closely, especially after dose increases."
-  },
-
- {
-    "id": "rn-q-436",
-    "scope": ["RN"],
-    "medicationId": "rn-153",
-    "medication": "Naloxone hydrochloride",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most important to monitor for with naloxone?",
-    "choices": [
-      "Hypoglycemia",
-      "Peripheral edema",
-      "Acute opioid withdrawal, tachycardia, and hypertension",
-      "Hepatotoxicity"
-    ],
-    "correctAnswer": "Acute opioid withdrawal, tachycardia, and hypertension",
-    "rationale": "Naloxone reverses opioids and can precipitate withdrawal; cardiovascular effects may occur.",
-    "clinicalPearl": "Monitor airway, breathing, and circulation after administration."
-  },
- 
- {
-    "id": "rn-q-437",
-    "scope": ["RN"],
-    "medicationId": "rn-153",
-    "medication": "Naloxone hydrochloride",
-    "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for naloxone therapy?",
-    "choices": [
-      "Take only when fever is present",
-      "Explain that it rapidly reverses opioid effects and may cause withdrawal symptoms",
-      "Take only at bedtime",
-      "Avoid all fluids"
-    ],
-    "correctAnswer": "Explain that it rapidly reverses opioid effects and may cause withdrawal symptoms",
-    "rationale": "Patients should understand naloxone works quickly but may cause unpleasant withdrawal.",
-    "clinicalPearl": "Emergency services should still be contacted after naloxone administration."
-  },
-
-  {
-    "id": "rn-q-438",
-    "scope": ["RN"],
-    "medicationId": "rn-153",
-    "medication": "Naloxone hydrochloride",
-    "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with naloxone?",
-    "choices": [
-      "Patients with cardiovascular disease or chronic opioid dependence",
-      "Hypothyroidism",
-      "Mild seasonal allergies",
-      "Tension headaches"
-    ],
-    "correctAnswer": "Patients with cardiovascular disease or chronic opioid dependence",
-    "rationale": "Precipitated withdrawal can stress the cardiovascular system; caution is needed.",
-    "clinicalPearl": "Monitor heart rate and blood pressure during reversal."
-  },
-
- {
-    "id": "rn-q-439",
-    "scope": ["RN"],
-    "medicationId": "rn-154",
-    "medication": "Buprenorphine-naltrexone",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with buprenorphine-naltrexone therapy?",
-    "choices": [
-      "Peripheral edema",
-      "Hypertension",
-      "Headache, nausea, constipation, and withdrawal symptoms if opioids are used concurrently",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "Headache, nausea, constipation, and withdrawal symptoms if opioids are used concurrently",
-    "rationale": "The combination can cause typical opioid-related adverse effects and precipitate withdrawal if opioids are used.",
-    "clinicalPearl": "Ensure patient is in mild withdrawal before initiation to avoid precipitated withdrawal."
-  },
-
-  {
-    "id": "rn-q-440",
-    "scope": ["RN"],
-    "medicationId": "rn-154",
-    "medication": "Buprenorphine-naltrexone",
-    "questionType": "multiple-choice",
-    "stem": "Which patient teaching is most important for buprenorphine-naltrexone therapy?",
-    "choices": [
-      "Take only at bedtime",
-      "Take exactly as prescribed and avoid using other opioids to prevent withdrawal",
-      "Avoid all fluids",
-      "Take only when fever is present"
-    ],
-    "correctAnswer": "Take exactly as prescribed and avoid using other opioids to prevent withdrawal",
-    "rationale": "Concurrent opioid use can precipitate severe withdrawal; strict adherence is critical.",
-    "clinicalPearl": "Advise patients to inform all providers they are taking this medication."
-  },
-  
-{
-    "id": "rn-q-441",
-    "scope": ["RN"],
-    "medicationId": "rn-154",
-    "medication": "Buprenorphine-naltrexone",
-    "questionType": "multiple-choice",
-    "stem": "Which patient condition requires caution with buprenorphine-naltrexone?",
-    "choices": [
-      "Tension headaches",
-      "Mild seasonal allergies",
-      "Liver impairment, recent opioid use, or severe respiratory disease",
-      "Hypothyroidism"
-    ],
-    "correctAnswer": "Liver impairment, recent opioid use, or severe respiratory disease",
-    "rationale": "Hepatic metabolism, opioid interaction, and respiratory depression risk require caution.",
-    "clinicalPearl": "Monitor liver function tests periodically during therapy."
-  },
-  
-  {
-    "id": "rn-q-442",
-    "scope": ["RN"],
-    "medicationId": "rn-155",
-    "medication": "Nicotine",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with nicotine replacement therapy?",
-    "choices": [
-      "Peripheral edema",
-      "Headache, nausea, insomnia, and local irritation",
-      "Hypoglycemia",
-      "Hepatotoxicity"
-    ],
-    "correctAnswer": "Headache, nausea, insomnia, and local irritation",
-    "rationale": "Nicotine replacement commonly causes CNS stimulation, GI upset, and site irritation.",
-    "clinicalPearl": "Rotate patch sites daily to reduce skin irritation."
-  },
-
-  {
-    "id": "rn-q-443",
-    "scope": ["RN"],
-    "medicationId": "rn-155",
-    "medication": "Nicotine",
-    "questionType": "multiple-choice",
-    "stem": "Which instruction should the nurse give to a patient using nicotine patches?",
-    "choices": [
-      "Apply two patches for stronger effect",
-      "Cut the patch in half to reduce dose",
-      "Do not smoke while using the patch and remove it at night if insomnia occurs",
-      "Use only when cravings occur"
-    ],
-    "correctAnswer": "Do not smoke while using the patch and remove it at night if insomnia occurs",
-    "rationale": "Smoking while using patches increases nicotine toxicity; insomnia is common.",
-    "clinicalPearl": "Used patches should be folded in half before disposal."
-  },
-
- {
-    "id": "rn-q-444",
-    "scope": ["RN"],
-    "medicationId": "rn-155",
-    "medication": "Nicotine",
-    "questionType": "multiple-choice",
-    "stem": "Which patient requires caution when using nicotine replacement therapy?",
-    "choices": [
-      "Patient with seasonal allergies",
-      "Patient with migraine headaches",
-      "Patient with recent myocardial infarction",
-      "Patient with hypothyroidism"
-    ],
-    "correctAnswer": "Patient with recent myocardial infarction",
-    "rationale": "Nicotine increases heart rate and blood pressure and may worsen cardiac conditions.",
-    "clinicalPearl": "Monitor blood pressure and heart rate during therapy."
-  },
-
-  {
-    "id": "rn-q-445",
-    "scope": ["RN"],
-    "medicationId": "rn-156",
-    "medication": "Bupropion",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most concerning with bupropion therapy?",
-    "choices": [
-      "Constipation",
-      "Bradycardia",
-      "Seizures",
-      "Peripheral edema"
-    ],
-    "correctAnswer": "Seizures",
-    "rationale": "Bupropion lowers the seizure threshold, especially at high doses.",
-    "clinicalPearl": "Avoid exceeding recommended doses to reduce seizure risk."
-  },
-
- {
-    "id": "rn-q-446",
-    "scope": ["RN"],
-    "medicationId": "rn-156",
-    "medication": "Bupropion",
-    "questionType": "multiple-choice",
-    "stem": "Which teaching is most important for a patient taking bupropion for smoking cessation?",
-    "choices": [
-      "Double the dose if a dose is missed",
-      "Take only when cravings occur",
-      "Take doses in the morning to reduce insomnia",
-      "Avoid all physical activity"
-    ],
-    "correctAnswer": "Take doses in the morning to reduce insomnia",
-    "rationale": "Morning dosing reduces insomnia and agitation.",
-    "clinicalPearl": "Set a target quit date within the first 1–2 weeks of therapy."
-  },
-
-  {
-    "id": "rn-q-447",
-    "scope": ["RN"],
-    "medicationId": "rn-156",
-    "medication": "Bupropion",
-    "questionType": "multiple-choice",
-    "stem": "Which patient should NOT receive bupropion?",
-    "choices": [
-      "Patient with osteoarthritis",
-      "Patient with hypertension",
-      "Patient with history of bulimia nervosa",
-      "Patient with asthma"
-    ],
-    "correctAnswer": "Patient with history of bulimia nervosa",
-    "rationale": "Eating disorders and seizure history are contraindications for bupropion.",
-    "clinicalPearl": "Screen for history of seizures or eating disorders before prescribing."
-  },
-
- {
-    "id": "rn-q-448",
-    "scope": ["RN"],
-    "medicationId": "rn-157",
-    "medication": "Benazepril",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with benazepril therapy?",
-    "choices": [
-      "Hypoglycemia",
-      "Persistent dry cough",
-      "Hypernatremia",
-      "Tachycardia"
-    ],
-    "correctAnswer": "Persistent dry cough",
-    "rationale": "ACE inhibitors commonly cause cough due to bradykinin buildup.",
-    "clinicalPearl": "Report swelling of face or lips immediately due to risk of angioedema."
-  },
-
- {
-    "id": "rn-q-449",
-    "scope": ["RN"],
-    "medicationId": "rn-157",
-    "medication": "Benazepril",
-    "questionType": "multiple-choice",
-    "stem": "Which lab value should the nurse monitor for a patient taking benazepril?",
-    "choices": [
-      "Calcium",
-      "Hemoglobin",
-      "Serum potassium",
-      "Platelet count"
-    ],
-    "correctAnswer": "Serum potassium",
-    "rationale": "ACE inhibitors can cause hyperkalemia.",
-    "clinicalPearl": "Monitor renal function and potassium levels periodically."
-  },
-
- {
-    "id": "rn-q-450",
-    "scope": ["RN"],
-    "medicationId": "rn-157",
-    "medication": "Benazepril",
-    "questionType": "multiple-choice",
-    "stem": "Which condition is a contraindication for benazepril?",
-    "choices": [
-      "Mild anemia",
-      "Pregnancy",
-      "Seasonal allergies",
-      "Hyperthyroidism"
-    ],
-    "correctAnswer": "Pregnancy",
-    "rationale": "ACE inhibitors are teratogenic and contraindicated in pregnancy.",
-    "clinicalPearl": "Discontinue immediately if pregnancy is detected."
-  },
-
-    {
-    "id": "rn-q-451",
-    "scope": ["RN"],
-    "medicationId": "rn-158",
-    "medication": "Captopril",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most associated with captopril?",
-    "choices": [
-      "Hyperglycemia",
-      "Photosensitivity",
-      "Hypotension and cough",
-      "Hearing loss"
-    ],
-    "correctAnswer": "Hypotension and cough",
-    "rationale": "Captopril can cause hypotension and ACE-inhibitor cough.",
-    "clinicalPearl": "Monitor blood pressure closely, especially after the first dose."
-  },
- 
- {
-    "id": "rn-q-452",
-    "scope": ["RN"],
-    "medicationId": "rn-158",
-    "medication": "Captopril",
-    "questionType": "multiple-choice",
-    "stem": "Why should captopril be taken 1 hour before meals?",
-    "choices": [
-      "Food increases toxicity",
-      "Food reduces absorption",
-      "It prevents nausea",
-      "It improves kidney function"
-    ],
-    "correctAnswer": "Food reduces absorption",
-    "rationale": "Food decreases captopril absorption, reducing its effectiveness.",
-    "clinicalPearl": "Administer on an empty stomach for optimal therapeutic effect."
-  },
-
- {
-    "id": "rn-q-453",
-    "scope": ["RN"],
-    "medicationId": "rn-158",
-    "medication": "Captopril",
-    "questionType": "multiple-choice",
-    "stem": "Which finding requires immediate provider notification in a patient taking captopril?",
-    "choices": [
-      "Mild dizziness",
-      "Fatigue",
-      "Dry cough",
-      "Swelling of lips and tongue"
-    ],
-    "correctAnswer": "Swelling of lips and tongue",
-    "rationale": "Angioedema is a life-threatening adverse effect of ACE inhibitors.",
-    "clinicalPearl": "Discontinue immediately and seek emergency care if angioedema occurs."
-  },
-
- {
-    "id": "rn-q-454",
-    "scope": ["RN"],
-    "medicationId": "rn-159",
-    "medication": "Enalapril",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is expected with enalapril therapy?",
-    "choices": [
-      "Hypoglycemia",
-      "Weight gain",
-      "Hyperkalemia",
-      "Constipation"
-    ],
-    "correctAnswer": "Hyperkalemia",
-    "rationale": "ACE inhibitors reduce aldosterone, increasing potassium levels.",
-    "clinicalPearl": "Avoid potassium supplements and salt substitutes unless prescribed."
-  },
-
-{
-    "id": "rn-q-455",
-    "scope": ["RN"],
-    "medicationId": "rn-159",
-    "medication": "Enalapril",
-    "questionType": "multiple-choice",
-    "stem": "Which teaching should be included for a patient starting enalapril?",
-    "choices": [
-      "Stop if blood pressure normalizes",
-      "Take only when symptomatic",
-      "Take with high-potassium foods",
-      "Rise slowly to prevent dizziness"
-    ],
-    "correctAnswer": "Rise slowly to prevent dizziness",
-    "rationale": "First-dose hypotension may occur; orthostatic precautions are needed.",
-    "clinicalPearl": "Monitor blood pressure regularly at home."
-  },
-
- {
-    "id": "rn-q-456",
-    "scope": ["RN"],
-    "medicationId": "rn-159",
-    "medication": "Enalapril",
-    "questionType": "multiple-choice",
-    "stem": "Which patient is at greatest risk for kidney injury while on enalapril?",
-    "choices": [
-      "Patient with migraines",
-      "Patient with GERD",
-      "Patient with asthma",
-      "Patient with renal artery stenosis"
-    ],
-    "correctAnswer": "Patient with renal artery stenosis",
-    "rationale": "ACE inhibitors reduce glomerular filtration in renal artery stenosis.",
-    "clinicalPearl": "Monitor serum creatinine and BUN after initiation."
-  },
-
- {
-    "id": "rn-q-457",
-    "scope": ["RN"],
-    "medicationId": "rn-160",
-    "medication": "Lisinopril",
-    "questionType": "multiple-choice",
-    "stem": "Which symptom suggests an adverse reaction to lisinopril?",
-    "choices": [
-      "Blurred vision",
-      "Weight gain",
-      "Persistent dry cough",
-      "Increased appetite"
-    ],
-    "correctAnswer": "Persistent dry cough",
-    "rationale": "Dry cough is a common ACE inhibitor side effect.",
-    "clinicalPearl": "Cough typically resolves after discontinuation."
-  },
-
-  {
-    "id": "rn-q-458",
-    "scope": ["RN"],
-    "medicationId": "rn-160",
-    "medication": "Lisinopril",
-    "questionType": "multiple-choice",
-    "stem": "Which electrolyte imbalance is a risk with lisinopril?",
-    "choices": [
-      "Hypocalcemia",
-      "Hypermagnesemia",
-      "Hyperkalemia",
-      "Hyponatremia"
-    ],
-    "correctAnswer": "Hyperkalemia",
-    "rationale": "Reduced aldosterone leads to potassium retention.",
-    "clinicalPearl": "Assess potassium levels before and during therapy."
-  },
-
-{
-    "id": "rn-q-459",
-    "scope": ["RN"],
-    "medicationId": "rn-160",
-    "medication": "Lisinopril",
-    "questionType": "multiple-choice",
-    "stem": "Why must lisinopril be avoided during pregnancy?",
-    "choices": [
-      "It increases labor",
-      "It increases maternal bleeding",
-      "It causes fetal hypoglycemia",
-      "It can cause fetal kidney damage"
-    ],
-    "correctAnswer": "It can cause fetal kidney damage",
-    "rationale": "ACE inhibitors cause fetal renal failure and birth defects.",
-    "clinicalPearl": "Discontinue immediately if pregnancy is confirmed."
-  },
-
-  {
-    "id": "rn-q-460",
-    "scope": ["RN"],
-    "medicationId": "rn-161",
-    "medication": "Candesartan",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with candesartan?",
-    "choices": [
-      "Hypoglycemia",
-      "Bradycardia",
-      "Dizziness and hyperkalemia",
-      "Cough"
-    ],
-    "correctAnswer": "Dizziness and hyperkalemia",
-    "rationale": "ARBs cause hypotension and potassium retention but less cough.",
-    "clinicalPearl": "Monitor blood pressure and potassium levels regularly."
-  },
-
-  {
-    "id": "rn-q-461",
-    "scope": ["RN"],
-    "medicationId": "rn-161",
-    "medication": "Candesartan",
-    "questionType": "multiple-choice",
-    "stem": "Which lab value should be monitored during candesartan therapy?",
-    "choices": [
-      "INR",
-      "Platelet count",
-      "Serum potassium",
-      "Sodium"
-    ],
-    "correctAnswer": "Serum potassium",
-    "rationale": "ARBs may increase potassium levels.",
-    "clinicalPearl": "Avoid potassium-containing salt substitutes."
-  },
-
- {
-    "id": "rn-q-462",
-    "scope": ["RN"],
-    "medicationId": "rn-161",
-    "medication": "Candesartan",
-    "questionType": "multiple-choice",
-    "stem": "Why might candesartan be prescribed instead of an ACE inhibitor?",
-    "choices": [
-      "Greater diuretic effect",
-      "Improves heart rate",
-      "Lower risk of cough",
-      "Prevents arrhythmias"
-    ],
-    "correctAnswer": "Lower risk of cough",
-    "rationale": "ARBs do not increase bradykinin, so cough is less common.",
-    "clinicalPearl": "ARBs are alternatives for patients intolerant to ACE inhibitors."
-  },
-
-{
-    "id": "rn-q-463",
-    "scope": ["RN"],
-    "medicationId": "rn-162",
-    "medication": "Losartan",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is expected with losartan therapy?",
-    "choices": [
-      "Dry cough",
-      "Hypoglycemia",
-      "Hyperkalemia",
-      "Bradycardia"
-    ],
-    "correctAnswer": "Hyperkalemia",
-    "rationale": "ARBs increase potassium but rarely cause cough.",
-    "clinicalPearl": "Assess renal function before and during therapy."
-  },
-
-  {
-    "id": "rn-q-464",
-    "scope": ["RN"],
-    "medicationId": "rn-162",
-    "medication": "Losartan",
-    "questionType": "multiple-choice",
-    "stem": "Which teaching is appropriate for losartan?",
-    "choices": [
-      "Take with high-salt meals",
-      "Stop when blood pressure improves",
-      "Avoid potassium supplements unless prescribed",
-      "Double dose if missed"
-    ],
-    "correctAnswer": "Avoid potassium supplements unless prescribed",
-    "rationale": "Potassium levels may rise with ARB therapy.",
-    "clinicalPearl": "Continue medication even if feeling well unless directed otherwise."
-  },
- 
- {
-    "id": "rn-q-465",
-    "scope": ["RN"],
-    "medicationId": "rn-162",
-    "medication": "Losartan",
-    "questionType": "multiple-choice",
-    "stem": "Which patient should not take losartan?",
-    "choices": [
-      "Patient with COPD",
-      "Patient with anemia",
-      "Pregnant patient",
-      "Patient with GERD"
-    ],
-    "correctAnswer": "Pregnant patient",
-    "rationale": "ARBs are contraindicated in pregnancy.",
-    "clinicalPearl": "Discontinue immediately if pregnancy occurs."
-  },
-
-  {
-    "id": "rn-q-466",
-    "scope": ["RN"],
-    "medicationId": "rn-163",
-    "medication": "Telmisartan",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most associated with telmisartan?",
-    "choices": [
-      "Photosensitivity",
-      "Cough",
-      "Hypotension and dizziness",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "Hypotension and dizziness",
-    "rationale": "ARBs commonly cause low blood pressure and dizziness.",
-    "clinicalPearl": "Monitor for orthostatic hypotension when initiating therapy."
-  },
-
- {
-    "id": "rn-q-467",
-    "scope": ["RN"],
-    "medicationId": "rn-163",
-    "medication": "Telmisartan",
-    "questionType": "multiple-choice",
-    "stem": "Which instruction should be given to prevent adverse effects?",
-    "choices": [
-      "Take extra potassium",
-      "Avoid fluids",
-      "Change positions slowly",
-      "Exercise immediately after dosing"
-    ],
-    "correctAnswer": "Change positions slowly",
-    "rationale": "Orthostatic hypotension is common when starting therapy.",
-    "clinicalPearl": "Advise patients to sit or lie down if dizziness occurs."
-  },
-
- {
-    "id": "rn-q-468",
-    "scope": ["RN"],
-    "medicationId": "rn-163",
-    "medication": "Telmisartan",
-    "questionType": "multiple-choice",
-    "stem": "Which lab finding is concerning in a patient taking telmisartan?",
-    "choices": [
-      "Sodium 138 mEq/L",
-      "Calcium 9.2 mg/dL",
-      "Hemoglobin 14 g/dL",
-      "Potassium 5.8 mEq/L"
-    ],
-    "correctAnswer": "Potassium 5.8 mEq/L",
-    "rationale": "Elevated potassium indicates hyperkalemia risk.",
-    "clinicalPearl": "Report muscle weakness or palpitations promptly."
-  },
-
- {
-    "id": "rn-q-469",
-    "scope": ["RN"],
-    "medicationId": "rn-164",
-    "medication": "Valsartan",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is expected with valsartan?",
-    "choices": [
-      "Hypoglycemia",
-      "Cough",
-      "Dizziness and hyperkalemia",
-      "Tachycardia"
-    ],
-    "correctAnswer": "Dizziness and hyperkalemia",
-    "rationale": "ARBs cause hypotension and potassium retention.",
-    "clinicalPearl": "Monitor blood pressure and serum potassium levels."
-  },
- 
- {
-    "id": "rn-q-470",
-    "scope": ["RN"],
-    "medicationId": "rn-164",
-    "medication": "Valsartan",
-    "questionType": "multiple-choice",
-    "stem": "Which patient teaching is essential for valsartan?",
-    "choices": [
-      "Take with potassium supplements",
-      "Stop abruptly when BP improves",
-      "Take only at bedtime",
-      "Do not use during pregnancy"
-    ],
-    "correctAnswer": "Do not use during pregnancy",
-    "rationale": "ARBs are teratogenic and contraindicated in pregnancy.",
-    "clinicalPearl": "Notify provider immediately if pregnancy is suspected."
-  },
-
- {
-    "id": "rn-q-471",
-    "scope": ["RN"],
-    "medicationId": "rn-164",
-    "medication": "Valsartan",
-    "questionType": "multiple-choice",
-    "stem": "Which condition requires caution when prescribing valsartan?",
-    "choices": [
-      "Asthma",
-      "Osteoporosis",
-      "Renal impairment",
-      "Hypothyroidism"
-    ],
-    "correctAnswer": "Renal impairment",
-    "rationale": "Renal function may worsen due to altered renal perfusion.",
-    "clinicalPearl": "Monitor creatinine and potassium levels in at-risk patients."
-  },
-
-   {
-    "id": "rn-q-472",
-    "scope": ["RN"],
-    "medicationId": "rn-165",
-    "medication": "Carvedilol",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with carvedilol therapy?",
-    "choices": [
-      "Hyperglycemia",
-      "Insomnia",
-      "Bradycardia and hypotension",
-      "Hyperkalemia"
-    ],
-    "correctAnswer": "Bradycardia and hypotension",
-    "rationale": "Carvedilol is a beta and alpha blocker that lowers heart rate and blood pressure.",
-    "clinicalPearl": "Monitor heart rate and blood pressure before administration."
-  },
-
- {
-    "id": "rn-q-473",
-    "scope": ["RN"],
-    "medicationId": "rn-165",
-    "medication": "Carvedilol",
-    "questionType": "multiple-choice",
-    "stem": "Which instruction is most important for a patient taking carvedilol?",
-    "choices": [
-      "Take with high-sodium foods",
-      "Double dose if missed",
-      "Check pulse and blood pressure before dosing",
-      "Stop abruptly if feeling better"
-    ],
-    "correctAnswer": "Check pulse and blood pressure before dosing",
-    "rationale": "Monitoring HR and BP helps prevent severe bradycardia and hypotension.",
-    "clinicalPearl": "Hold dose and notify provider if pulse is below prescribed threshold."
-  },
-
- {
-    "id": "rn-q-474",
-    "scope": ["RN"],
-    "medicationId": "rn-165",
-    "medication": "Carvedilol",
-    "questionType": "multiple-choice",
-    "stem": "Why is carvedilol useful in heart failure?",
-    "choices": [
-      "It increases cardiac contractility",
-      "It increases sodium excretion",
-      "It reduces heart rate and decreases cardiac workload",
-      "It dilates coronary arteries only"
-    ],
-    "correctAnswer": "It reduces heart rate and decreases cardiac workload",
-    "rationale": "Beta-blockade improves survival by reducing cardiac workload.",
-    "clinicalPearl": "Start at low doses and titrate slowly in heart failure."
-  },
-
- {
-    "id": "rn-q-475",
-    "scope": ["RN"],
-    "medicationId": "rn-166",
-    "medication": "Nadolol",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is expected with nadolol therapy?",
-    "choices": [
-      "Constipation",
-      "Hyperglycemia",
-      "Bradycardia and fatigue",
-      "Hyperkalemia"
-    ],
-    "correctAnswer": "Bradycardia and fatigue",
-    "rationale": "Nadolol is a nonselective beta-blocker causing slowed HR and fatigue.",
-    "clinicalPearl": "Assess for signs of excessive beta-blockade."
-  },
-
- {
-    "id": "rn-q-476",
-    "scope": ["RN"],
-    "medicationId": "rn-166",
-    "medication": "Nadolol",
-    "questionType": "multiple-choice",
-    "stem": "Which patient should use caution when taking nadolol?",
-    "choices": [
-      "Patient with migraine",
-      "Patient with anemia",
-      "Patient with asthma",
-      "Patient with hypothyroidism"
-    ],
-    "correctAnswer": "Patient with asthma",
-    "rationale": "Nonselective beta-blockers can worsen bronchoconstriction.",
-    "clinicalPearl": "Monitor respiratory status in patients with reactive airway disease."
-  },
-
-  {
-    "id": "rn-q-477",
-    "scope": ["RN"],
-    "medicationId": "rn-166",
-    "medication": "Nadolol",
-    "questionType": "multiple-choice",
-    "stem": "Which teaching should be given for nadolol?",
-    "choices": [
-      "Take only when symptoms occur",
-      "Increase caffeine intake",
-      "Skip doses if heart rate is low",
-      "Do not stop medication abruptly"
-    ],
-    "correctAnswer": "Do not stop medication abruptly",
-    "rationale": "Sudden withdrawal may cause rebound hypertension or angina.",
-    "clinicalPearl": "Taper dose gradually under provider supervision."
-  },
-
-  {
-    "id": "rn-q-478",
-    "scope": ["RN"],
-    "medicationId": "rn-167",
-    "medication": "Amlodipine",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with amlodipine?",
-    "choices": [
-      "Bradycardia",
-      "Peripheral edema",
-      "Hypoglycemia",
-      "Hyperkalemia"
-    ],
-    "correctAnswer": "Peripheral edema",
-    "rationale": "Dihydropyridine CCBs commonly cause ankle and leg swelling.",
-    "clinicalPearl": "Elevate legs to reduce edema if mild."
-  },
-
- {
-    "id": "rn-q-479",
-    "scope": ["RN"],
-    "medicationId": "rn-167",
-    "medication": "Amlodipine",
-    "questionType": "multiple-choice",
-    "stem": "Which teaching is appropriate for amlodipine therapy?",
-    "choices": [
-      "Take potassium supplements",
-      "Monitor blood glucose daily",
-      "Change positions slowly to avoid dizziness",
-      "Avoid fluids"
-    ],
-    "correctAnswer": "Change positions slowly to avoid dizziness",
-    "rationale": "Amlodipine may cause hypotension and dizziness.",
-    "clinicalPearl": "Report significant swelling or shortness of breath."
-  },
-
- {
-    "id": "rn-q-480",
-    "scope": ["RN"],
-    "medicationId": "rn-167",
-    "medication": "Amlodipine",
-    "questionType": "multiple-choice",
-    "stem": "Which benefit does amlodipine provide in angina?",
-    "choices": [
-      "It increases heart rate",
-      "It increases contractility",
-      "It dilates coronary and peripheral arteries",
-      "It decreases preload only"
-    ],
-    "correctAnswer": "It dilates coronary and peripheral arteries",
-    "rationale": "CCBs improve myocardial oxygen supply via vasodilation.",
-    "clinicalPearl": "Reduces afterload and myocardial oxygen demand."
-  },
-  
-  {
-    "id": "rn-q-481",
-    "scope": ["RN"],
-    "medicationId": "rn-168",
-    "medication": "Nicardipine",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is expected with nicardipine therapy?",
-    "choices": [
-      "Bradycardia",
-      "Hyperkalemia",
-      "Headache and flushing",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "Headache and flushing",
-    "rationale": "Vasodilation causes headache, flushing, and hypotension.",
-    "clinicalPearl": "Monitor for dizziness due to blood pressure reduction."
-  },
-
-  {
-    "id": "rn-q-482",
-    "scope": ["RN"],
-    "medicationId": "rn-168",
-    "medication": "Nicardipine",
-    "questionType": "multiple-choice",
-    "stem": "Which vital sign should be monitored closely during IV nicardipine infusion?",
-    "choices": [
-      "Respiratory rate",
-      "Temperature",
-      "Blood pressure",
-      "Oxygen saturation"
-    ],
-    "correctAnswer": "Blood pressure",
-    "rationale": "Nicardipine is often used for hypertensive emergencies requiring BP control.",
-    "clinicalPearl": "Continuous BP monitoring is recommended during IV administration."
-  },
-
-{
-    "id": "rn-q-483",
-    "scope": ["RN"],
-    "medicationId": "rn-168",
-    "medication": "Nicardipine",
-    "questionType": "multiple-choice",
-    "stem": "Which patient condition benefits from nicardipine?",
-    "choices": [
-      "Atrial fibrillation",
-      "Heart block",
-      "Hypertensive crisis",
-      "Bradycardia"
-    ],
-    "correctAnswer": "Hypertensive crisis",
-    "rationale": "Nicardipine is used for rapid BP control.",
-    "clinicalPearl": "Often administered IV in critical care settings."
-  },
-
- {
-    "id": "rn-q-484",
-    "scope": ["RN"],
-    "medicationId": "rn-169",
-    "medication": "Nifedipine",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is common with nifedipine?",
-    "choices": [
-      "Bradycardia",
-      "Peripheral edema and headache",
-      "Hypoglycemia",
-      "Hyperkalemia"
-    ],
-    "correctAnswer": "Peripheral edema and headache",
-    "rationale": "Dihydropyridine CCBs cause vasodilation-related effects.",
-    "clinicalPearl": "Edema is dose-related and may improve with dose adjustment."
-  },
-
-{
-    "id": "rn-q-485",
-    "scope": ["RN"],
-    "medicationId": "rn-169",
-    "medication": "Nifedipine",
-    "questionType": "multiple-choice",
-    "stem": "Why should immediate-release nifedipine be avoided in hypertension?",
-    "choices": [
-      "It causes kidney failure",
-      "It increases clot risk",
-      "It can cause rapid hypotension and reflex tachycardia",
-      "It causes severe hypoglycemia"
-    ],
-    "correctAnswer": "It can cause rapid hypotension and reflex tachycardia",
-    "rationale": "Rapid BP drops can trigger dangerous reflex responses.",
-    "clinicalPearl": "Extended-release formulations are preferred for chronic hypertension."
-  },
-
-{
-    "id": "rn-q-486",
-    "scope": ["RN"],
-    "medicationId": "rn-169",
-    "medication": "Nifedipine",
-    "questionType": "multiple-choice",
-    "stem": "Which instruction is appropriate for nifedipine therapy?",
-    "choices": [
-      "Take with high-fat meals",
-      "Monitor potassium daily",
-      "Avoid grapefruit juice",
-      "Stop if swelling occurs"
-    ],
-    "correctAnswer": "Avoid grapefruit juice",
-    "rationale": "Grapefruit increases CCB blood levels and toxicity.",
-    "clinicalPearl": "Report significant dizziness or palpitations."
-  },
-
- {
-    "id": "rn-q-487",
-    "scope": ["RN"],
-    "medicationId": "rn-170",
-    "medication": "Chlorthalidone",
-    "questionType": "multiple-choice",
-    "stem": "Which electrolyte imbalance is most likely with chlorthalidone?",
-    "choices": [
-      "Hyperkalemia",
-      "Hypernatremia",
-      "Hypokalemia",
-      "Hypercalcemia"
-    ],
-    "correctAnswer": "Hypokalemia",
-    "rationale": "Thiazide-like diuretics increase potassium loss.",
-    "clinicalPearl": "Monitor potassium levels regularly."
-  },
-
-  {
-    "id": "rn-q-488",
-    "scope": ["RN"],
-    "medicationId": "rn-170",
-    "medication": "Chlorthalidone",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect should be monitored in patients taking chlorthalidone?",
-    "choices": [
-      "Bradycardia",
-      "Hypoglycemia",
-      "Dehydration and hypotension",
-      "Hyperkalemia"
-    ],
-    "correctAnswer": "Dehydration and hypotension",
-    "rationale": "Volume depletion may occur due to diuresis.",
-    "clinicalPearl": "Monitor blood pressure and daily weights."
-  },
-
-  {
-    "id": "rn-q-489",
-    "scope": ["RN"],
-    "medicationId": "rn-170",
-    "medication": "Chlorthalidone",
-    "questionType": "multiple-choice",
-    "stem": "Which patient teaching is appropriate for chlorthalidone?",
-    "choices": [
-      "Take at bedtime",
-      "Avoid all fluids",
-      "Eat potassium-rich foods",
-      "Double dose if missed"
-    ],
-    "correctAnswer": "Eat potassium-rich foods",
-    "rationale": "Potassium loss can occur and may require dietary replacement.",
-    "clinicalPearl": "Take medication in the morning to prevent nocturia."
-  },
-  
-  {
-    "id": "rn-q-490",
-    "scope": ["RN"],
-    "medicationId": "rn-171",
-    "medication": "Hydrochlorothiazide",
-    "questionType": "multiple-choice",
-    "stem": "Which lab value is most important to monitor with HCTZ therapy?",
-    "choices": [
-      "INR",
-      "Calcium",
-      "Potassium",
-      "Magnesium"
-    ],
-    "correctAnswer": "Potassium",
-    "rationale": "HCTZ commonly causes hypokalemia.",
-    "clinicalPearl": "Monitor electrolytes periodically during therapy."
-  },
-
- {
-    "id": "rn-q-491",
-    "scope": ["RN"],
-    "medicationId": "rn-171",
-    "medication": "Hydrochlorothiazide",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is associated with hydrochlorothiazide?",
-    "choices": [
-      "Hypoglycemia",
-      "Bradycardia",
-      "Hyperuricemia and gout",
-      "Hyperkalemia"
-    ],
-    "correctAnswer": "Hyperuricemia and gout",
-    "rationale": "Thiazides increase uric acid levels.",
-    "clinicalPearl": "Use cautiously in patients with a history of gout."
-  },
-
-{
-    "id": "rn-q-492",
-    "scope": ["RN"],
-    "medicationId": "rn-171",
-    "medication": "Hydrochlorothiazide",
-    "questionType": "multiple-choice",
-    "stem": "Which instruction should the nurse give?",
-    "choices": [
-      "Take at bedtime",
-      "Avoid sunlight entirely",
-      "Take medication in the morning",
-      "Double dose if missed"
-    ],
-    "correctAnswer": "Take medication in the morning",
-    "rationale": "Morning dosing prevents nocturia.",
-    "clinicalPearl": "Administer early in the day to reduce nighttime urination."
-  },
-
- {
-    "id": "rn-q-493",
-    "scope": ["RN"],
-    "medicationId": "rn-172",
-    "medication": "Amiloride",
-    "questionType": "multiple-choice",
-    "stem": "Which electrolyte imbalance is a risk with amiloride?",
-    "choices": [
-      "Hypokalemia",
-      "Hyponatremia",
-      "Hyperkalemia",
-      "Hypocalcemia"
-    ],
-    "correctAnswer": "Hyperkalemia",
-    "rationale": "Potassium-sparing diuretics increase potassium levels.",
-    "clinicalPearl": "Monitor potassium levels closely during therapy."
-  },
-
- {
-    "id": "rn-q-494",
-    "scope": ["RN"],
-    "medicationId": "rn-172",
-    "medication": "Amiloride",
-    "questionType": "multiple-choice",
-    "stem": "Which medication should be avoided with amiloride?",
-    "choices": [
-      "Iron supplements",
-      "Calcium carbonate",
-      "Potassium supplements",
-      "Vitamin C"
-    ],
-    "correctAnswer": "Potassium supplements",
-    "rationale": "Combining increases risk of dangerous hyperkalemia.",
-    "clinicalPearl": "Avoid salt substitutes containing potassium."
-  },
-
- {
-    "id": "rn-q-495",
-    "scope": ["RN"],
-    "medicationId": "rn-172",
-    "medication": "Amiloride",
-    "questionType": "multiple-choice",
-    "stem": "Why is amiloride often combined with thiazide diuretics?",
-    "choices": [
-      "To increase sodium loss",
-      "To prevent hypotension",
-      "To prevent potassium loss",
-      "To increase urine acidity"
-    ],
-    "correctAnswer": "To prevent potassium loss",
-    "rationale": "It offsets potassium-wasting effects of other diuretics.",
-    "clinicalPearl": "Combination therapy balances electrolyte effects."
-  },
-
-{
-    "id": "rn-q-496",
-    "scope": ["RN"],
-    "medicationId": "rn-173",
-    "medication": "Spironolactone",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is unique to spironolactone?",
-    "choices": [
-      "Hypoglycemia",
-      "Constipation",
-      "Gynecomastia",
-      "Hearing loss"
-    ],
-    "correctAnswer": "Gynecomastia",
-    "rationale": "Spironolactone has antiandrogen effects.",
-    "clinicalPearl": "May also cause menstrual irregularities in females."
-  },
-
- {
-    "id": "rn-q-497",
-    "scope": ["RN"],
-    "medicationId": "rn-173",
-    "medication": "Spironolactone",
-    "questionType": "multiple-choice",
-    "stem": "Which lab value must be monitored closely?",
-    "choices": [
-      "INR",
-      "Calcium",
-      "Sodium",
-      "Potassium"
-    ],
-    "correctAnswer": "Potassium",
-    "rationale": "Risk of hyperkalemia is significant.",
-    "clinicalPearl": "Assess renal function along with potassium levels."
-  },
-
- {
-    "id": "rn-q-498",
-    "scope": ["RN"],
-    "medicationId": "rn-173",
-    "medication": "Spironolactone",
-    "questionType": "multiple-choice",
-    "stem": "Which condition benefits from spironolactone therapy?",
-    "choices": [
-      "Hypothyroidism",
-      "Asthma",
-      "Heart failure with reduced ejection fraction",
-      "Migraine"
-    ],
-    "correctAnswer": "Heart failure with reduced ejection fraction",
-    "rationale": "Aldosterone blockade improves survival in heart failure.",
-    "clinicalPearl": "Commonly added to ACE inhibitors and beta-blockers in HFrEF."
-  },
-
-{
-    "id": "rn-q-499",
-    "scope": ["RN"],
-    "medicationId": "rn-174",
-    "medication": "Triamterene",
-    "questionType": "multiple-choice",
-    "stem": "Which electrolyte abnormality is associated with triamterene?",
-    "choices": [
-      "Hypokalemia",
-      "Hypercalcemia",
-      "Hyperkalemia",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "Hyperkalemia",
-    "rationale": "Triamterene is potassium-sparing.",
-    "clinicalPearl": "Avoid concurrent potassium supplementation."
-  },
-
-{
-    "id": "rn-q-500",
-    "scope": ["RN"],
-    "medicationId": "rn-174",
-    "medication": "Triamterene",
-    "questionType": "multiple-choice",
-    "stem": "Which patient should use caution when taking triamterene?",
-    "choices": [
-      "Patient with anemia",
-      "Patient with GERD",
-      "Patient with hyperlipidemia",
-      "Patient with renal impairment"
-    ],
-    "correctAnswer": "Patient with renal impairment",
-    "rationale": "Renal disease increases risk of potassium accumulation.",
-    "clinicalPearl": "Monitor renal function and potassium levels closely."
-  },
-
- {
-    "id": "rn-q-501",
-    "scope": ["RN"],
-    "medicationId": "rn-174",
-    "medication": "Triamterene",
-    "questionType": "multiple-choice",
-    "stem": "Why is triamterene combined with hydrochlorothiazide?",
-    "choices": [
-      "To increase calcium loss",
-      "To prevent dehydration",
-      "To reduce glucose levels",
-      "To balance potassium levels"
-    ],
-    "correctAnswer": "To balance potassium levels",
-    "rationale": "Combination prevents potassium depletion.",
-    "clinicalPearl": "Common fixed-dose combinations improve adherence."
-  },
-
-  {
-    "id": "rn-q-502",
-    "scope": ["RN"],
-    "medicationId": "rn-175",
-    "medication": "Isosorbide dinitrate",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is most common with isosorbide dinitrate?",
-    "choices": [
-      "Bradycardia",
-      "Hyperglycemia",
-      "Headache and hypotension",
-      "Hyperkalemia"
-    ],
-    "correctAnswer": "Headache and hypotension",
-    "rationale": "Nitrates cause vasodilation leading to headache and low blood pressure.",
-    "clinicalPearl": "Headaches often decrease with continued therapy."
-  },
-
- {
-    "id": "rn-q-503",
-    "scope": ["RN"],
-    "medicationId": "rn-175",
-    "medication": "Isosorbide dinitrate",
-    "questionType": "multiple-choice",
-    "stem": "Which instruction is most important for patients taking isosorbide dinitrate?",
-    "choices": [
-      "Take with high-fat meals",
-      "Use only when chest pain occurs",
-      "Allow a daily nitrate-free interval to prevent tolerance",
-      "Double dose if pain persists"
-    ],
-    "correctAnswer": "Allow a daily nitrate-free interval to prevent tolerance",
-    "rationale": "Nitrate tolerance develops without drug-free periods.",
-    "clinicalPearl": "Schedule doses to provide 10–12 hours nitrate-free each day."
-  },
-
-{
-    "id": "rn-q-504",
-    "scope": ["RN"],
-    "medicationId": "rn-175",
-    "medication": "Isosorbide dinitrate",
-    "questionType": "multiple-choice",
-    "stem": "Which drug interaction is most dangerous with isosorbide dinitrate?",
-    "choices": [
-      "Hydrochlorothiazide",
-      "Aspirin",
-      "Sildenafil",
-      "Metformin"
-    ],
-    "correctAnswer": "Sildenafil",
-    "rationale": "Combining nitrates with PDE-5 inhibitors can cause severe hypotension.",
-    "clinicalPearl": "Avoid PDE-5 inhibitors within 24–48 hours of nitrate use."
-  },
-
-{
-    "id": "rn-q-505",
-    "scope": ["RN"],
-    "medicationId": "rn-176",
-    "medication": "Isosorbide mononitrate",
-    "questionType": "multiple-choice",
-    "stem": "Why is isosorbide mononitrate used in chronic angina?",
-    "choices": [
-      "It treats acute chest pain",
-      "It increases heart rate",
-      "It raises blood pressure",
-      "It prevents anginal attacks"
-    ],
-    "correctAnswer": "It prevents anginal attacks",
-    "rationale": "It is used for prophylaxis, not acute relief.",
-    "clinicalPearl": "Not effective for immediate relief of active chest pain."
-  },
-
- {
-    "id": "rn-q-506",
-    "scope": ["RN"],
-    "medicationId": "rn-176",
-    "medication": "Isosorbide mononitrate",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect should the nurse expect?",
-    "choices": [
-      "Constipation",
-      "Hyperkalemia",
-      "Headache",
-      "Bradycardia"
-    ],
-    "correctAnswer": "Headache",
-    "rationale": "Vasodilation commonly causes headache.",
-    "clinicalPearl": "Analgesics may be used for nitrate-induced headaches."
-  },
-
- {
-    "id": "rn-q-507",
-    "scope": ["RN"],
-    "medicationId": "rn-176",
-    "medication": "Isosorbide mononitrate",
-    "questionType": "multiple-choice",
-    "stem": "Which teaching is appropriate for this medication?",
-    "choices": [
-      "Take only when pain occurs",
-      "Crush tablets for faster relief",
-      "Take at bedtime only",
-      "Take at the same time daily and do not stop abruptly"
-    ],
-    "correctAnswer": "Take at the same time daily and do not stop abruptly",
-    "rationale": "Consistent dosing maintains prophylactic effect.",
-    "clinicalPearl": "Extended-release tablets should not be crushed."
-  },
-
- {
-    "id": "rn-q-508",
-    "scope": ["RN"],
-    "medicationId": "rn-177",
-    "medication": "Nitroglycerin",
-    "questionType": "multiple-choice",
-    "stem": "What is the priority action when a patient has chest pain and nitroglycerin is ordered?",
-    "choices": [
-      "Give with food",
-      "Apply topical ointment immediately",
-      "Place one tablet under the tongue and reassess pain in 5 minutes",
-      "Give IV bolus"
-    ],
-    "correctAnswer": "Place one tablet under the tongue and reassess pain in 5 minutes",
-    "rationale": "Sublingual nitroglycerin is first-line for acute angina.",
-    "clinicalPearl": "May repeat every 5 minutes for up to three doses; call emergency services if pain persists."
-  },
- 
- {
-    "id": "rn-q-509",
-    "scope": ["RN"],
-    "medicationId": "rn-177",
-    "medication": "Nitroglycerin",
-    "questionType": "multiple-choice",
-    "stem": "Which side effect should the nurse warn the patient about?",
-    "choices": [
-      "Hyperglycemia",
-      "Hearing loss",
-      "Headache and dizziness",
-      "Hyperkalemia"
-    ],
-    "correctAnswer": "Headache and dizziness",
-    "rationale": "Vasodilation commonly causes headache and lightheadedness.",
-    "clinicalPearl": "Sit or lie down when taking to prevent falls."
-  },
-
-{
-    "id": "rn-q-510",
-    "scope": ["RN"],
-    "medicationId": "rn-177",
-    "medication": "Nitroglycerin",
-    "questionType": "multiple-choice",
-    "stem": "Which medication must be avoided while taking nitroglycerin?",
-    "choices": [
-      "Acetaminophen",
-      "Metoprolol",
-      "Atorvastatin",
-      "Sildenafil"
-    ],
-    "correctAnswer": "Sildenafil",
-    "rationale": "Combined vasodilation can cause life-threatening hypotension.",
-    "clinicalPearl": "Always review medication list for PDE-5 inhibitors."
-  },
-
-{
-  "id": "rn-q-511",
-  "scope": ["RN"],
-  "medicationId": "rn-178",
-  "medication": "Nitroprusside",
-  "questionType": "multiple-choice",
-  "stem": "Which situation is appropriate for nitroprusside use?",
-  "choices": [
-    "Stable angina",
-    "Chronic heart failure",
-    "Hypertensive emergency",
-    "Mild hypertension"
-  ],
-  "correctAnswer": "Hypertensive emergency",
-  "rationale": "Nitroprusside is used for rapid blood pressure control in hypertensive emergencies.",
-  "clinicalPearl": "Nitroprusside requires ICU-level care and continuous blood pressure monitoring."
-},
-
-{
-  "id": "rn-q-512",
-  "scope": ["RN"],
-  "medicationId": "rn-178",
-  "medication": "Nitroprusside",
-  "questionType": "multiple-choice",
-  "stem": "Which monitoring is essential during nitroprusside infusion?",
-  "choices": [
-    "Daily potassium levels",
-    "Continuous blood pressure monitoring",
-    "Neurological checks only",
-    "Pulse oximetry only"
-  ],
-  "correctAnswer": "Continuous blood pressure monitoring",
-  "rationale": "Nitroprusside causes rapid blood pressure changes and requires continuous monitoring.",
-  "clinicalPearl": "Arterial line monitoring is commonly used during nitroprusside infusion."
-},
-
-{
-  "id": "rn-q-513",
-  "scope": ["RN"],
-  "medicationId": "rn-178",
-  "medication": "Nitroprusside",
-  "questionType": "multiple-choice",
-  "stem": "Which toxicity can occur with prolonged nitroprusside infusion?",
-  "choices": [
-    "Hyperkalemia",
-    "Cyanide toxicity",
-    "Hepatotoxicity",
-    "Hypoglycemia"
-  ],
-  "correctAnswer": "Cyanide toxicity",
-  "rationale": "Nitroprusside metabolizes into cyanide, which can accumulate with prolonged or high-dose infusions.",
-  "clinicalPearl": "Unexplained metabolic acidosis during infusion may indicate cyanide toxicity."
-},
-
-{
-  "id": "rn-q-514",
-  "scope": ["RN"],
-  "medicationId": "rn-179",
-  "medication": "Sacubitril/valsartan",
-  "questionType": "multiple-choice",
-  "stem": "Which benefit does sacubitril/valsartan provide in heart failure?",
-  "choices": [
-    "Treats acute angina",
-    "Reduces mortality and hospitalizations",
-    "Replaces diuretics",
-    "Increases heart rate"
-  ],
-  "correctAnswer": "Reduces mortality and hospitalizations",
-  "rationale": "Sacubitril/valsartan (ARNI) improves survival and reduces hospitalizations in heart failure with reduced ejection fraction.",
-  "clinicalPearl": "ARNI therapy is preferred over ACE inhibitors in eligible HFrEF patients."
-},
-
-{
-  "id": "rn-q-515",
-  "scope": ["RN"],
-  "medicationId": "rn-179",
-  "medication": "Sacubitril/valsartan",
-  "questionType": "multiple-choice",
-  "stem": "Which adverse effect is most concerning?",
-  "choices": [
-    "Hearing loss",
-    "Hypoglycemia",
-    "Angioedema and hyperkalemia",
-    "Bradycardia"
-  ],
-  "correctAnswer": "Angioedema and hyperkalemia",
-  "rationale": "Sacubitril/valsartan affects the RAAS system and increases the risk of angioedema and hyperkalemia.",
-  "clinicalPearl": "A 36-hour washout period is required when switching from an ACE inhibitor to sacubitril/valsartan."
-},
-
-{
-  "id": "rn-q-516",
-  "scope": ["RN"],
-  "medicationId": "rn-179",
-  "medication": "Sacubitril/valsartan",
-  "questionType": "multiple-choice",
-  "stem": "Which medication must be stopped before starting sacubitril/valsartan?",
-  "choices": [
-    "Loop diuretics",
-    "ACE inhibitors",
-    "Aspirin",
-    "Beta blockers"
-  ],
-  "correctAnswer": "ACE inhibitors",
-  "rationale": "ACE inhibitors must be stopped 36 hours prior due to increased risk of angioedema.",
-  "clinicalPearl": "Never combine ACE inhibitors with ARNIs."
-},
-
-{
-  "id": "rn-q-517",
-  "scope": ["RN"],
-  "medicationId": "rn-180",
-  "medication": "Eplerenone",
-  "questionType": "multiple-choice",
-  "stem": "Which adverse effect is associated with eplerenone?",
-  "choices": [
-    "Hypoglycemia",
-    "Hypernatremia",
-    "Hyperkalemia",
-    "Hypokalemia"
-  ],
-  "correctAnswer": "Hyperkalemia",
-  "rationale": "Eplerenone blocks aldosterone, leading to potassium retention.",
-  "clinicalPearl": "Monitor potassium and renal function closely during therapy."
-},
-
-{
-  "id": "rn-q-518",
-  "scope": ["RN"],
-  "medicationId": "rn-180",
-  "medication": "Eplerenone",
-  "questionType": "multiple-choice",
-  "stem": "Which patient benefit does eplerenone provide in heart failure?",
-  "choices": [
-    "Reduces preload only",
-    "Treats arrhythmias",
-    "Improves survival and reduces remodeling",
-    "Increases contractility"
-  ],
-  "correctAnswer": "Improves survival and reduces remodeling",
-  "rationale": "Aldosterone antagonists reduce cardiac remodeling and improve survival in heart failure.",
-  "clinicalPearl": "Eplerenone has fewer endocrine side effects than spironolactone."
-},
-
-{
-  "id": "rn-q-519",
-  "scope": ["RN"],
-  "medicationId": "rn-180",
-  "medication": "Eplerenone",
-  "questionType": "multiple-choice",
-  "stem": "Which lab must be monitored closely?",
-  "choices": [
-    "INR",
-    "Platelets",
-    "Sodium",
-    "Potassium"
-  ],
-  "correctAnswer": "Potassium",
-  "rationale": "Eplerenone increases potassium levels and may cause hyperkalemia.",
-  "clinicalPearl": "Avoid potassium supplements unless directed by the provider."
-},
-
-{
-  "id": "rn-q-520",
-  "scope": ["RN"],
-  "medicationId": "rn-181",
-  "medication": "Dapagliflozin",
-  "questionType": "multiple-choice",
-  "stem": "Why is dapagliflozin beneficial in heart failure patients?",
-  "choices": [
-    "Raises blood pressure",
-    "Reduces hospitalization and mortality",
-    "Treats arrhythmias",
-    "Increases insulin secretion"
-  ],
-  "correctAnswer": "Reduces hospitalization and mortality",
-  "rationale": "SGLT2 inhibitors reduce heart failure hospitalizations and mortality regardless of diabetes status.",
-  "clinicalPearl": "Dapagliflozin provides cardiovascular and renal protection."
-},
-
-{
-  "id": "rn-q-521",
-  "scope": ["RN"],
-  "medicationId": "rn-181",
-  "medication": "Dapagliflozin",
-  "questionType": "multiple-choice",
-  "stem": "Which adverse effect should be monitored?",
-  "choices": [
-    "Bradycardia",
-    "Genital yeast infections",
-    "Hyperkalemia",
-    "Hearing loss"
-  ],
-  "correctAnswer": "Genital yeast infections",
-  "rationale": "Glucosuria increases the risk of genital fungal infections.",
-  "clinicalPearl": "Encourage proper hygiene and hydration during therapy."
-},
-
-{
-  "id": "rn-q-522",
-  "scope": ["RN"],
-  "medicationId": "rn-181",
-  "medication": "Dapagliflozin",
-  "questionType": "multiple-choice",
-  "stem": "Which patient should use caution with dapagliflozin?",
-  "choices": [
-    "Patient with asthma",
-    "Patient with frequent urinary tract infections",
-    "Patient with anemia",
-    "Patient with migraines"
-  ],
-  "correctAnswer": "Patient with frequent urinary tract infections",
-  "rationale": "Dapagliflozin increases glucose in the urine, raising the risk of UTIs and genital infections.",
-  "clinicalPearl": "Monitor for signs of infection such as dysuria or unusual discharge."
-},
-  
-  {
-    "id": "rn-q-523",
-    "scope": ["RN"],
-    "medicationId": "rn-182",
-    "medication": "Empagliflozin",
-    "questionType": "multiple-choice",
-    "stem": "Which effect does empagliflozin have in heart failure?",
-    "choices": [
-      "Improves cardiovascular outcomes",
-      "Increases sodium retention",
-      "Causes hypoglycemia frequently",
-      "Treats hypertension directly"
-    ],
-    "correctAnswer": "Improves cardiovascular outcomes",
-    "rationale": "SGLT2 inhibitors such as empagliflozin improve cardiovascular outcomes and reduce hospitalization for heart failure.",
-    "clinicalPearl": "Empagliflozin provides cardiovascular and renal protection beyond glucose lowering."
-  },
-
-  {
-    "id": "rn-q-524",
-    "scope": ["RN"],
-    "medicationId": "rn-182",
-    "medication": "Empagliflozin",
-    "questionType": "multiple-choice",
-    "stem": "Which adverse effect is expected with empagliflozin therapy?",
-    "choices": [
-      "Dehydration and hypotension",
-      "Hyperkalemia",
-      "Hyperglycemia",
-      "Hearing loss"
-    ],
-    "correctAnswer": "Dehydration and hypotension",
-    "rationale": "Empagliflozin causes osmotic diuresis, which may lead to volume depletion and hypotension.",
-    "clinicalPearl": "Monitor blood pressure and volume status, especially in older adults or those on diuretics."
-  },
-
-  {
-    "id": "rn-q-525",
-    "scope": ["RN"],
-    "medicationId": "rn-182",
-    "medication": "Empagliflozin",
-    "questionType": "multiple-choice",
-    "stem": "Which teaching is appropriate for a patient taking empagliflozin?",
-    "choices": [
-      "Maintain adequate hydration",
-      "Avoid all exercise",
-      "Increase potassium intake",
-      "Take only at bedtime"
-    ],
-    "correctAnswer": "Maintain adequate hydration",
-    "rationale": "Adequate hydration helps prevent dehydration and acute kidney injury due to osmotic diuresis.",
-    "clinicalPearl": "Encourage patients to report dizziness, weakness, or signs of dehydration promptly."
-  },
-
- {
-    "id": "rn-q-526",
-    "scope": ["RN"],
-    "medicationId": "rn-183",
-    "medication": "Bumetanide",
-    "questionType": "multiple-choice",
-    "stem": "Which electrolyte imbalance is most associated with bumetanide?",
-    "choices": [
-      "Hypokalemia",
-      "Hyperkalemia",
-      "Hypercalcemia",
-      "Hypoglycemia"
-    ],
-    "correctAnswer": "Hypokalemia",
-    "rationale": "Bumetanide is a loop diuretic that increases potassium excretion, leading to hypokalemia.",
-    "clinicalPearl": "Low potassium levels increase the risk of cardiac dysrhythmias."
-  },
-
- {
-    "id": "rn-q-527",
-    "scope": ["RN"],
-    "medicationId": "rn-183",
-    "medication": "Bumetanide",
-    "questionType": "multiple-choice",
-    "stem": "Which condition is commonly treated with bumetanide?",
-    "choices": [
-      "Acute pulmonary edema",
-      "Migraine",
-      "Hypothyroidism",
-      "Anemia"
-    ],
-    "correctAnswer": "Acute pulmonary edema",
-    "rationale": "Loop diuretics such as bumetanide rapidly remove excess fluid and are used in acute pulmonary edema.",
-    "clinicalPearl": "IV loop diuretics are first-line for rapid fluid removal in acute heart failure exacerbations."
-  },
-
-{
-    "id": "rn-q-528",
-    "scope": ["RN"],
-    "medicationId": "rn-183",
-    "medication": "Bumetanide",
-    "questionType": "multiple-choice",
-    "stem": "Which lab value must be monitored closely in a patient receiving bumetanide?",
-    "choices": [
-      "Potassium",
-      "INR",
-      "Glucose",
-      "Calcium"
-    ],
-    "correctAnswer": "Potassium",
-    "rationale": "Hypokalemia from loop diuretics increases the risk of life-threatening arrhythmias.",
-    "clinicalPearl": "Monitor electrolytes regularly and replace potassium as prescribed."
-  },
-
 {
     "id": "rn-q-529",
     "scope": ["RN"],
