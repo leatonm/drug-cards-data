@@ -22037,9 +22037,9 @@
     "id": "rn-q-1211",
     "scope": ["RN"],
     "medicationId": "rn-411",
-    "medication": ""Dexamethasone sodium phosphate (Maxidex)",
+    "medication": "Dexamethasone sodium phosphate (Maxidex)",
     "questionType": "multiple-choice",
-    "stem": "What is the mechanism of "Dexamethasone sodium phosphate (Maxidex)?",
+    "stem": "What is the mechanism of Dexamethasone sodium phosphate (Maxidex)?",
     "choices": [
       "Histamine receptor blockade",
       "Bacterial protein synthesis inhibition",
@@ -22055,7 +22055,7 @@
     "id": "rn-q-1212",
     "scope": ["RN"],
     "medicationId": "rn-411",
-    "medication": ""Dexamethasone sodium phosphate (Maxidex)",
+    "medication": "Dexamethasone sodium phosphate (Maxidex)",
     "questionType": "multiple-choice",
     "stem": "Which complication may occur with prolonged corticosteroid eye use?",
     "choices": [
