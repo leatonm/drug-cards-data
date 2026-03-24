@@ -22021,7 +22021,7 @@
     "medicationId": "rn-411",
     "medication": "Dexamethasone sodium phosphate (Maxidex)",
     "questionType": "multiple-choice",
-    "stem": ""Dexamethasone sodium phosphate (Maxidex) belongs to which class of drugs?",
+    "stem": "Dexamethasone sodium phosphate (Maxidex) belongs to which class of drugs?",
     "choices": [
       "Antibiotics",
       "NSAIDs",
