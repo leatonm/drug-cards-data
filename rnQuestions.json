@@ -23154,7 +23154,7 @@
     "medicationId": "rn-432",
     "medication": "Neomycin and polymyxin B sulfates and hydrocortisone otic solution (Cortisporin)",
     "questionType": "multiple-choice",
-    "stem": ""Neomycin and polymyxin B sulfates and hydrocortisone otic solution (Cortisporin) ear drop is primarily used to treat:",
+    "stem": "Neomycin and polymyxin B sulfates and hydrocortisone otic solution (Cortisporin) ear drop is primarily used to treat:",
     "choices": [
       "Viral eye infection",
       "Glaucoma",
@@ -24592,7 +24592,7 @@
     "id": "rn-q-1353",
     "scope": ["RN"],
     "medicationId": "rn-457",
-    "medication": "Benzathine penicillin G (Bicillin L-A)”,
+    "medication": "Benzathine penicillin G (Bicillin L-A)",
     "questionType": "multiple-choice",
     "stem": "What reaction may occur after Benzathine penicillin G (Bicillin L-A) treatment for syphilis?",
     "choices": [
