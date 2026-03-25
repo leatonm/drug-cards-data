@@ -213,7 +213,8 @@
     "Antifungal - Azole",
     "Antifungal - Antimetabolite",
     "Integrase Strand Transfer Inhibitor",
-    "Antitubercular Agent"
+    "Antitubercular Agent",
+    "Non-absorbable antibiotic"
   ],
 
   "Gastrointestinal": [
@@ -335,7 +336,7 @@
     "Immune Checkpoint Inhibitor - PD-L1",
     "Monoclonal Antibody - CD20",
     "Tyrosine Kinase Inhibitor - EGFR",
-    "Bruton Tyrosine Kinase Inhibitor",
-    "Non-absorbable antibiotic"
+    "Bruton Tyrosine Kinase Inhibitor"
+    
   ]
 }
