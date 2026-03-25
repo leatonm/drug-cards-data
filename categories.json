@@ -1,5 +1,27 @@
-{
+  {
   "Cardiovascular": [
+    “ACE Inhibitor”,
+    “Class V Antidysrhythmic”,
+    “Class III Antidysrhythmic”,
+    “Class Ib Antidysrhythmic”,
+    “Class Ia Antiarrhythmic”,
+    “Beta-Blocker (Class II Antiarrhythmic)”,
+    “Calcium Channel Blocker (Class IV Antidysrhythmic)”,
+    “Inotropic Vasopressor”,
+    “Alpha/Beta Agonist, Vasopressor”,
+    “Adrenergic Inotropic Agent”,
+    “Alpha-Agonist Vasopressor”,
+    “Vasopressor”,
+    “Vasoconstrictor”,
+    “Cardiac Glycoside”,
+    “Anticoagulant”,
+    “Loop diuretic”,
+    “Alpha/Beta Blocker”,
+    “Beta-1 Blocker”,
+    “Vasodilator”,
+    “Pulmonary Vasodilator”,
+    “Sympathomimetic”,
+  
     "Sodium Channel Blocker - Class IA Antidysrhythmic",
     "Class Ia Antiarrhythmic",
     "Sodium Channel Blocker - Class IB Antidysrhythmic",
@@ -45,6 +67,11 @@
   ],
 
   "Anticoagulation": [
+    “Hemostatic Agent”,
+    “Antifibrinolytic”,
+    “Antiplatelet”,
+    “Thrombolytic”,
+
     "Injectable Anticoagulant",
     "Anticoagulant",
     "Oral Anticoagulant",
@@ -59,6 +86,14 @@
   ],
 
   "Respiratory": [
+    “Beta-2 Agonist”,
+    “Sympathomimetic”,
+    “Medical Gas Mixture”,
+    “Sympathomimetic (Nebulized)”,
+    “SABA Bronchodilator”,
+    “Bronchodilator Combination”,
+    “Nasal Decongestant”,
+
     "Antihistamine - First Generation",
     "Antihistamine - Second Generation",
     "Antihistamine - Third Generation",
@@ -84,6 +119,17 @@
   ],
 
   "Pain": [
+    “Opioid Analgesic”,
+    “Partial Opioid Agonist”,
+    “Dissociative Analgesic”,
+    “Opioid Antagonist”,
+    “Analgesic / Antipyretic”,
+    “NSAID”,
+    “NSAID Analgesic”,
+    “NSAID / Antiplatelet”,
+    “Inhaled Analgesic”,
+    “Atmospheric Gas”,
+
     "Nonsteroidal Anti-Inflammatory Drug (NSAID)",
     "NSAID",
     "NSAID Analgesic",
@@ -101,6 +147,20 @@
   ],
 
   "Neurology": [
+     “Sedative / Hypnotic”,
+    “Non-depolarizing Neuromuscular Blocker”,
+    “Depolarizing Neuromuscular Blocker”,
+    “Benzodiazepine”,
+    “Barbiturate Anticonvulsant”,
+    “Anticonvulsant”,
+    “Neuromuscular Blockade Reversal”,
+    “Alpha-2 Agonist Sedative”,
+    “Dissociative Analgesic”,
+    “Gaseous Analgesic / Anesthetic”,
+    “Dissociative Anesthetic”,
+    “Sedative Hypnotic”,
+
+    
     "Acetylcholinesterase Inhibitor",
     "NMDA Receptor Antagonist",
     "Anticholinergic",
@@ -157,6 +217,16 @@
   ],
 
   "Endocrine": [
+    “Anti-hypoglycemic Hormone”,
+    “Antidiabetic Hormone”,
+    “Pituitary Hormone”,
+    “Somatostatin Analog”,
+    “Hyperglycemic Agent”,
+    “Carbohydrate”,
+    “Prostaglandin”,
+    “Uterotonic”,
+    “Hormone”,
+
     "Growth Hormone",
     "Growth Hormone Suppressant - Dopamine Receptor Agonist",
     "Growth Hormone Suppressant - Somatostatin Analog",
@@ -188,6 +258,14 @@
   ],
 
   "Infectious": [
+    “Antibiotic (Cephalosporin)”,
+    “Antibiotic (Penicillin)”,
+    “Macrolide Antibiotic”,
+    “Glycopeptide Antibiotic”,
+    “Broad-Spectrum Antibiotic”,
+    “Topical Antimicrobial”,
+    “Antivenom”,
+
     "Anti-Infective",
     "Antidote",
     "Antibiotic - Penicillin",
@@ -218,6 +296,13 @@
   ],
 
   "Gastrointestinal": [
+    “Antiemetic / Antipsychotic”,
+    “Antiemetic / Prokinetic”,
+    “Antiemetic (5-HT3 Antagonist)”,
+    “Antiemetic”,
+    “H2 Receptor Antagonist”,
+    “Antihistamine / Antiemetic”,
+
     "Phenothiazine",
     "Antihistamine",
     "Serotonin Receptor Antagonist",
@@ -248,6 +333,15 @@
   ],
 
   "Renal": [
+    “Electrolyte”,
+    “Hypertonic Glucose Solution”,
+    “Isotonic Crystalloid”,
+    “Isotonic Solution”,
+    “Hypertonic Crystalloid”,
+    “Osmotic Diuretic”,
+    “Carbonic Anhydrase Inhibitor”,
+    “Electrolyte / Antacid”,
+    
     "Crystalloid - Isotonic",
     "Isotonic Crystalloid",
     "Isotonic Solution",
@@ -267,7 +361,9 @@
     "Phosphate Binder"
   ],
 
-  "Reproductive": [
+  "Genitourinary / Reproductive": [
+    “Uterotonic”,
+    
     "Estrogen",
     "Progestin",
     "Infertility Drug",
@@ -291,6 +387,9 @@
   ],
 
   "Dermatology": [
+    “Topical Burn Treatment”,
+    “Topical Hemostat”,
+
     "Ocular Nonsteroidal Anti-Inflammatory",
     "Ocular Immunosuppressant",
     "Ocular Corticosteroid",
@@ -316,6 +415,15 @@
   ],
 
   "Immunology": [
+    “Corticosteroid”,
+    “Antihistamine”,
+    “Antihistamine / Antiemetic”,
+    “Anticholinergic”,
+    “Antimuscarinic”,
+    “Second-Generation Antihistamine”,
+    “Chemical Neutralizer”,
+    “Adsorbent”,
+    
     "Immunosuppressive",
     "Immunomodulator",
     "Interferons",
