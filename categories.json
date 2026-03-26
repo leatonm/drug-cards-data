@@ -101,7 +101,6 @@
   ],
   "Pain": [
     "Nonsteroidal Anti-Inflammatory Drug (NSAID)",
-    "Opioid",
     "Opioid Analgesic",
     "Opioid Antagonist",
     "Partial Opioid Agonist",
@@ -319,9 +318,7 @@
     "Laxative - Miscellaneous",
     "Stool Softener",
     "Antacid",
-    "H2-Receptor Antagonist/Blocker",
     "H2 Receptor Antagonist",
-    "H2 Receptor Blocker",
     "Proton Pump Inhibitor (PPI)",
     "Mucosal Protectant",
     "Prostaglandin Analogue",
