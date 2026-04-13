@@ -24,3 +24,8 @@
 24_MeanMedicsWearPink - take 5 quiz on Wednesday 
 25_PharmaDexComplate - Review All notecards (EMT, AEMT, Paramedic, RN) 
 26_BlameClaim - Click the disclaimer
+27_2train - Answer the daily question correctly 2 consecutively times
+28_3train - Answer the daily question correctly 3 consecutively times
+29_7train - Answer the daily question correctly 7 consecutively times
+30_11train - Answer the daily question correctly 11 consecutively times
+30_13train - Answer the daily question correctly 13 consecutively times
