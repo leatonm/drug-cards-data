@@ -26,6 +26,7 @@
 26_BlameClaim - Click the disclaimer
 27_2train - Answer the daily question correctly 2 consecutively times
 28_3train - Answer the daily question correctly 3 consecutively times
-29_7train - Answer the daily question correctly 7 consecutively times
-30_11train - Answer the daily question correctly 11 consecutively times
-30_13train - Answer the daily question correctly 13 consecutively times
+29_5train - Answer the daily question correctly 5 consecutively times
+30_7train - Answer the daily question correctly 7 consecutively times
+31_11train - Answer the daily question correctly 11 consecutively times
+32_13train - Answer the daily question correctly 13 consecutively times
