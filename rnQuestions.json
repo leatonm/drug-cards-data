@@ -20966,8 +20966,8 @@
       "Oxytocin",
       "Carboprost"
     ],
-    "correctAnswer": "Mifepristone (Mifeprex)",
-    "rationale": "Mifepristone (Mifeprex), a prostaglandin analog, causes uterine contractions after mifepristone sensitizes the uterus.",
+    "correctAnswer": "Misoprostol",
+    "rationale": "Misoprostol, a prostaglandin analog, causes uterine contractions after Mifepristone sensitizes the uterus.",
     "clinicalPearl": "Combination therapy improves efficacy compared with either drug alone."
   },
  
